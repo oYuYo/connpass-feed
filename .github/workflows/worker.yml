@@ -1,0 +1,30 @@
+name: connpass-feed
+on:
+  push:
+    branches:
+      - main 
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  connpass-feed:
+    name: "create feed"
+    runs-on: ubuntu-20.04
+    steps:
+      - name: checkout
+      - uses: actions/checkout@v2
+      - name: Set up Ruby 2.7
+        uses: ruby/setup-ruby@473e4d8fe5dd94ee328fdfca9f8c9c7afc9dae5e
+        with:
+          ruby-version: 2.7.1
+      - name: install
+        run: |
+          gem install connpass -v 0.0.1
+          gem install rexml -v 3.2.5
+      - name: generate feed
+        run: ruby gen.rb
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./feed

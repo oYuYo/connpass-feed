@@ -32,7 +32,7 @@ res.events.each do |e|
     entry_desc.add_text(e.description)
     entry.add_element(entry_desc)
     entry_url = REXML::Element.new("link")
-    entry_url.add_text(e.entry_url)
+    entry_url.add_text(e.event_url)
     entry.add_element(entry_url)
     entry_start = REXML::Element.new("startDate")
     entry_start.add_text(e.startDate)
