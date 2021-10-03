@@ -1,4 +1,4 @@
-# **conpass-feed**  
+# **connpass-feed**  
 自分用にフィード作成を作成することが目的で、公式ではありません.  
 [connpass](https://connpass.com/) から`Ruby`関連のイベントを検索し, Atom 1.0 仕様のフィードを作成する.  
 Github Actionsで1日1回フィードを定期更新する.  

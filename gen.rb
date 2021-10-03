@@ -50,6 +50,6 @@ res.events.each do |e|
     entry.add_element(entry_updated)
 end
 
-File.open("feed/feed.xml", "w") do |file|
+File.open("./public/feed/atom.xml", "w") do |file|
     doc.write(file, indent=2)
 end
