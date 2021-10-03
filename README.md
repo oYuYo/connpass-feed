@@ -9,4 +9,8 @@ This is unofficial.
 
 # **usage**  
 フィードリーダへ登録する.  
+[フィード](https://oyuyo.github.io/connpass-feed/feed/feed.xml)はこちら.  
+
 Subscribe to your feed reader.  
+[feed](https://oyuyo.github.io/connpass-feed/feed/feed.xml) is here.  
+
