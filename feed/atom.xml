@@ -9,8 +9,59 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2021-10-07T00:21:01+00:00
+    2021-10-08T00:21:41+00:00
   </updated>
+  <entry>
+    <id>
+      https://rakus.connpass.com/event/225128/
+    </id>
+    <title>
+      【ラクス】キャリア座談会 #3 急成長SaaSプロダクトを支える開発・デザイン組織の今
+    </title>
+    <summary>
+      開発プロセス、組織体制、文化などを一挙にご紹介！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;【ラクス】キャリア座談会について&lt;/h2&gt;
+      &lt;p&gt;エンジニア・デザイナーの方向けに、当社ラクスの開発体制やスタック、
+      制度やカルチャー、キャリアなどをご紹介するカジュアルなイベントです。&lt;/p&gt;
+      &lt;p&gt;・プロダクトやビジネスの将来性を知りたい&lt;br&gt; ・使用している技術やツールについて知りたい&lt;br&gt;
+      ・会社の雰囲気やチーム体制について知りたい&lt;br&gt; ・自分のキャリアプラン、志向性に合うかどうか確かめたい &lt;/p&gt;
+      &lt;p&gt;など、ラクスについてちょっとでもご興味をお持ちでしたら是非ご参加ください！&lt;/p&gt; &lt;p&gt;※
+      備考&lt;br&gt; 先日9/9開催『キャリア座談会 #2 急成長SaaS開発企業のエンジニア&amp;amp;デザイン組織を公開！』と
+      基本的には同じとなります。ご留意ください。 &lt;a
+      href=&quot;https://rakus.connpass.com/event/222362/&quot;
+      rel=&quot;nofollow&quot;&gt;https://rakus.connpass.com/event/222362/&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;申込方法&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;お申込期日：2021/10/8(金) 18:00迄 &lt;/li&gt; &lt;li&gt;&lt;span style=&quot;font-size: 120%;&quot;&gt;connpass画面 &lt;span style=&quot;color: red;&quot;&gt;&lt;strong&gt;「このイベントに申し込む」&lt;/strong&gt;&lt;/span&gt; よりご登録ください&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;開催概要&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;日時: 2021/10/8(金) 19:00-20:00&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Zoomへの入室は10分前からとなります。 &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;会場: オンライン（Zoom）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;応募フォームでご登録いただいたメールアドレスへ開催前にZoomURLを通知いたします。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;参加費: 無料&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※イベント参加人数が少ない場合など、中止とする場合がございますのでご了承ください。&lt;/p&gt; &lt;h2&gt;おすすめの方&lt;/h2&gt; &lt;p&gt;下記に当てはまるエンジニア・デザイナーの方 &lt;/p&gt; &lt;ul&gt; &lt;li&gt;ラクスの開発環境や技術スタック、カルチャーや制度について情報収集したい &lt;/li&gt; &lt;li&gt;ラクスという会社に興味がある &lt;/li&gt; &lt;li&gt;こんな技術を使ったSaaS開発に興味がある&lt;br&gt; 　 - 言語：Java, PHP, Ruby, Python&lt;br&gt; 　 - フレームワーク: Spring Boot, Laravel &lt;br&gt; 　 - フロントエンド： TypeScript, React/Redux, Vue.js&lt;br&gt; 　 - インフラ：AWS, Docker &lt;/li&gt; &lt;li&gt;ウォーターフォールの経験はあるが、アジャイル開発にも興味がある&lt;/li&gt; &lt;li&gt;BtoB SaaSプロダクトのUI/UXデザイン、情報設計に興味がある &lt;/li&gt; &lt;li&gt;Webデザインの経験を活かして、成長サービスにかかわりたい&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;タイムスケジュール&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;strong&gt;時間&lt;/strong&gt;&lt;/th&gt; &lt;th&gt;&lt;strong&gt;内容&lt;/strong&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00 ～ 19:05&lt;/td&gt; &lt;td&gt;スタート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05 ～ 19:10&lt;/td&gt; &lt;td&gt;自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10 ～ 19:40&lt;/td&gt; &lt;td&gt;開発環境・体制/事業・プロダクト/文化/制度（随時ご質問、雑談歓迎！）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40 〜 20:00&lt;/td&gt; &lt;td&gt;Ｑ&amp;amp;A クロストーク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:00&lt;/td&gt; &lt;td&gt;終了予定&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;当社参加メンバー&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;米田慎太郎 / 技術・採用広報&lt;br&gt; 2020年ラクス入社&lt;br&gt; IT出版や人材企業で 新規事業開発、マーケティング、経営企画・内部統制やセールス組織のマネジメントを経験。&lt;br&gt; 現在は技術・採用広報として、イベントやテックブログの企画運営を担当。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;菊池伸匡 / 採用広報&lt;br&gt; 2021年ラクス入社&lt;br&gt; HR Techプロダクトのオフショア開発PLやIT企業の人事等を経験。&lt;br&gt; 開発本部の採用広報として、エンジニア・デザイナー向けのイベント企画運営を担当。&lt;br&gt; 社会人大学で情報学を学んでいます。 &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;こちらもご覧ください&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/rakus_career/rakus-engineer-introduction&quot; rel=&quot;nofollow&quot;&gt;【5分でわかる】開発本部紹介資料&lt;/a&gt; &lt;br&gt; &lt;a href=&quot;https://rakus.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;主催の技術イベント一覧&lt;/a&gt;&lt;br&gt; &lt;a href=&quot;https://tech-blog.rakus.co.jp/&quot; rel=&quot;nofollow&quot;&gt;テックブログ&lt;/a&gt; &lt;/p&gt; &lt;h2&gt;個別に話を聞きたいという方向けに・・・&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://career-recruit.rakus.co.jp/career_engineer/&quot; rel=&quot;nofollow&quot;&gt;エンジニア中途サイト&lt;/a&gt;&lt;br&gt; 当社サイトよりカジュアル面談も常時受け付けております！&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/li&gt; &lt;li&gt;他の参加者の方の妨げになるような行為は禁止、運営側の判断でご退出をお願いする場合があります。&lt;/li&gt; &lt;li&gt;ブログやSNSなどで当イベントに関する発信を行う際には、公序良俗に反する内容のないよう、ご協力をお願いします。&lt;/li&gt; &lt;li&gt;当イベントはオンライン開催のため、通信状況によって音声や映像の乱れがある場合がございます。&lt;/li&gt; &lt;li&gt;配信トラブル時のアナウンスは&lt;a href=&quot;https://twitter.com/DevRakus&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;より行います。&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/225128/'/>
+    <published>
+      2021-10-08T05:09:50+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://fusic.connpass.com/event/227279/
+    </id>
+    <title>
+      Fusic Tech Live Vol.5：PHPerの集い
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;Fusic Tech Live Vol.5：PHPerの集い&lt;/h1&gt;
+      &lt;p&gt;FusicではPHPとRubyを使った開発が行われております。
+      今回はFusicでPHPを使った開発を行っているPHPerに各自の状況や視点からお話してもらいます！
+      Fusic自体に興味のある方も是非ご参加ください！&lt;/p&gt; &lt;p&gt;※オンライン開催です。&lt;/p&gt;
+      &lt;h1&gt;発表者&lt;/h1&gt; &lt;h2&gt;Takematsu Shotaro (Fusic CO.,
+      LTD.)&lt;/h2&gt; &lt;h3&gt;「別言語からきたPHPer 半年で学んだことまとめ」&lt;/h3&gt;
+      &lt;p&gt;&lt;img alt=&quot;Takematsu&quot;
+      src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--646ab93858d703ba47ca82d5520cc5ee4fe5dd98/%E3%81%9F%E3%81%91%E3%81%BE%E3%81%A4%E3%81%95%E3%82%93%EF%BC%96.gif&quot;&gt;&lt;/p&gt; &lt;h2&gt;Kondo Ayano (Fusic CO., LTD.)&lt;/h2&gt; &lt;h3&gt;「Laravel で仕様変更に耐える API をつくるために(仮)」&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;Kondo&quot; src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3dLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--357be20db22b937d7d79e7af314f86f5a96a03e8/kondo.png&quot;&gt;&lt;/p&gt; &lt;h2&gt;Hagiwara Satoru (Fusic CO., LTD.)&lt;/h2&gt; &lt;h3&gt;「なぜ帳票用のプラグインを自作したか」&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;Hagiwara&quot; src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblFLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--53916aa3481a95a1084a6ffebc4f2e0659424f33/hagiwara.png&quot;&gt;&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;タイムテーブル&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;発表者&lt;/th&gt; &lt;th align=&quot;right&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00 〜 19:05&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 清家&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;諸注意等&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:05 〜 19:25&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 武末&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;別言語からきたPHPer 半年で学んだことまとめ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:25 〜 19:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Zoomコメント質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30 〜 19:50&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 近藤&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Laravel で仕様変更に耐える API をつくるために(仮)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:50 〜 19:55&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Zoomコメント質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:55 〜 20:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:00 〜 20:20&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 萩原&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;なぜ帳票用のプラグインを自作したか&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:20 〜 20:25&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Zoomコメント質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:25 〜 20:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 佐藤&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:30 〜 21:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;各自&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Zoom開放&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;オンラインにて実施いたします。&lt;/li&gt; &lt;li&gt;お申込み完了後、当社より開催URLをご案内いたします。（当日12時頃と直前、計2回送付予定です。）&lt;/li&gt; &lt;li&gt;Zoomを使用しますので、事前にインストールをお願いします。&lt;/li&gt; &lt;li&gt;カメラはOFFでOKです。&lt;/li&gt; &lt;li&gt;質疑に関してはZoomのチャット機能を利用します。お気軽にコメントください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;本イベントの内容は、後日、株式会社Fusicのコーポレートサイト、Twitter等の媒体にて紹介する可能性があります。&lt;br&gt; その際、ご参加者名が写った画像（キャプチャなど）も紹介される可能性があります。予めご了承ください。 &lt;/li&gt; &lt;li&gt;当社におけるその他取り扱いは以下プライバシーポリシーに従います。ご同意の上、ご参加ください。 &lt;br&gt; &lt;a href=&quot;https://fusic.co.jp/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://fusic.co.jp/privacy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;運営スタッフは、このイベントに関わるみなさまに気持ちよくご参加いただけるよう考えています。 &lt;br&gt; 参加者の皆様も、他の方が不愉快に思われるような発言にはご配慮いただきますようお願いいたします。 &lt;br&gt; またそのような行動を目にした方は、connpassの「イベントへのお問い合わせ」フォームからお知らせください。&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://fusic.connpass.com/event/227279/'/>
+    <published>
+      2021-10-07T20:24:24+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://mrubyworkshop.connpass.com/event/226590/
@@ -85,33 +136,6 @@
     <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/223691/'/>
     <published>
       2021-10-07T08:47:26+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://rakus.connpass.com/event/225128/
-    </id>
-    <title>
-      【ラクス】キャリア座談会 #3 急成長SaaSプロダクトを支える開発・デザイン組織の今
-    </title>
-    <summary>
-      開発プロセス、組織体制、文化などを一挙にご紹介！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;【ラクス】キャリア座談会について&lt;/h2&gt;
-      &lt;p&gt;エンジニア・デザイナーの方向けに、当社ラクスの開発体制やスタック、
-      制度やカルチャー、キャリアなどをご紹介するカジュアルなイベントです。&lt;/p&gt;
-      &lt;p&gt;・プロダクトやビジネスの将来性を知りたい&lt;br&gt; ・使用している技術やツールについて知りたい&lt;br&gt;
-      ・会社の雰囲気やチーム体制について知りたい&lt;br&gt; ・自分のキャリアプラン、志向性に合うかどうか確かめたい &lt;/p&gt;
-      &lt;p&gt;など、ラクスについてちょっとでもご興味をお持ちでしたら是非ご参加ください！&lt;/p&gt; &lt;p&gt;※
-      備考&lt;br&gt; 先日9/9開催『キャリア座談会 #2 急成長SaaS開発企業のエンジニア&amp;amp;デザイン組織を公開！』と
-      基本的には同じとなります。ご留意ください。 &lt;a
-      href=&quot;https://rakus.connpass.com/event/222362/&quot;
-      rel=&quot;nofollow&quot;&gt;https://rakus.connpass.com/event/222362/&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;申込方法&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;お申込期日：2021/10/8(金) 18:00迄 &lt;/li&gt; &lt;li&gt;&lt;span style=&quot;font-size: 120%;&quot;&gt;connpass画面 &lt;span style=&quot;color: red;&quot;&gt;&lt;strong&gt;「このイベントに申し込む」&lt;/strong&gt;&lt;/span&gt; よりご登録ください&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;開催概要&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;日時: 2021/10/8(金) 19:00-20:00&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Zoomへの入室は10分前からとなります。 &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;会場: オンライン（Zoom）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;応募フォームでご登録いただいたメールアドレスへ開催前にZoomURLを通知いたします。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;参加費: 無料&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※イベント参加人数が少ない場合など、中止とする場合がございますのでご了承ください。&lt;/p&gt; &lt;h2&gt;おすすめの方&lt;/h2&gt; &lt;p&gt;下記に当てはまるエンジニア・デザイナーの方 &lt;/p&gt; &lt;ul&gt; &lt;li&gt;ラクスの開発環境や技術スタック、カルチャーや制度について情報収集したい &lt;/li&gt; &lt;li&gt;ラクスという会社に興味がある &lt;/li&gt; &lt;li&gt;こんな技術を使ったSaaS開発に興味がある&lt;br&gt; 　 - 言語：Java, PHP, Ruby, Python&lt;br&gt; 　 - フレームワーク: Spring Boot, Laravel &lt;br&gt; 　 - フロントエンド： TypeScript, React/Redux, Vue.js&lt;br&gt; 　 - インフラ：AWS, Docker &lt;/li&gt; &lt;li&gt;ウォーターフォールの経験はあるが、アジャイル開発にも興味がある&lt;/li&gt; &lt;li&gt;BtoB SaaSプロダクトのUI/UXデザイン、情報設計に興味がある &lt;/li&gt; &lt;li&gt;Webデザインの経験を活かして、成長サービスにかかわりたい&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;タイムスケジュール&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;strong&gt;時間&lt;/strong&gt;&lt;/th&gt; &lt;th&gt;&lt;strong&gt;内容&lt;/strong&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00 ～ 19:05&lt;/td&gt; &lt;td&gt;スタート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05 ～ 19:10&lt;/td&gt; &lt;td&gt;自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10 ～ 19:40&lt;/td&gt; &lt;td&gt;開発環境・体制/事業・プロダクト/文化/制度（随時ご質問、雑談歓迎！）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40 〜 20:00&lt;/td&gt; &lt;td&gt;Ｑ&amp;amp;A クロストーク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:00&lt;/td&gt; &lt;td&gt;終了予定&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;当社参加メンバー&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;米田慎太郎 / 技術・採用広報&lt;br&gt; 2020年ラクス入社&lt;br&gt; IT出版や人材企業で 新規事業開発、マーケティング、経営企画・内部統制やセールス組織のマネジメントを経験。&lt;br&gt; 現在は技術・採用広報として、イベントやテックブログの企画運営を担当。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;菊池伸匡 / 採用広報&lt;br&gt; 2021年ラクス入社&lt;br&gt; HR Techプロダクトのオフショア開発PLやIT企業の人事等を経験。&lt;br&gt; 開発本部の採用広報として、エンジニア・デザイナー向けのイベント企画運営を担当。&lt;br&gt; 社会人大学で情報学を学んでいます。 &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;こちらもご覧ください&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/rakus_career/rakus-engineer-introduction&quot; rel=&quot;nofollow&quot;&gt;【5分でわかる】開発本部紹介資料&lt;/a&gt; &lt;br&gt; &lt;a href=&quot;https://rakus.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;主催の技術イベント一覧&lt;/a&gt;&lt;br&gt; &lt;a href=&quot;https://tech-blog.rakus.co.jp/&quot; rel=&quot;nofollow&quot;&gt;テックブログ&lt;/a&gt; &lt;/p&gt; &lt;h2&gt;個別に話を聞きたいという方向けに・・・&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://career-recruit.rakus.co.jp/career_engineer/&quot; rel=&quot;nofollow&quot;&gt;エンジニア中途サイト&lt;/a&gt;&lt;br&gt; 当社サイトよりカジュアル面談も常時受け付けております！&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/li&gt; &lt;li&gt;他の参加者の方の妨げになるような行為は禁止、運営側の判断でご退出をお願いする場合があります。&lt;/li&gt; &lt;li&gt;ブログやSNSなどで当イベントに関する発信を行う際には、公序良俗に反する内容のないよう、ご協力をお願いします。&lt;/li&gt; &lt;li&gt;当イベントはオンライン開催のため、通信状況によって音声や映像の乱れがある場合がございます。&lt;/li&gt; &lt;li&gt;配信トラブル時のアナウンスは&lt;a href=&quot;https://twitter.com/DevRakus&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;より行います。&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/225128/'/>
-    <published>
-      2021-10-07T07:40:54+09:00
     </published>
   </entry>
   <entry>
@@ -313,60 +337,6 @@
     <link rel='alternate' type='text/html' href='https://smarthr.connpass.com/event/227159/'/>
     <published>
       2021-10-06T09:49:25+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://smarthr.connpass.com/event/227158/
-    </id>
-    <title>
-      SmartHR Engineer Online Meetup【Frontend】
-    </title>
-    <summary>
-      小一時間ほどさくっとお話ししませんか？
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;SmartHR Engineer Online Meetup を開催します！&lt;/h2&gt;
-      &lt;p&gt;今後Onlineでのイベント実施を模索したく、 さくっと実施してみたいなと思っています！&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;ちょっとSmartHR気になってた&lt;/li&gt;
-      &lt;li&gt;オンラインだし、ちょっと聞いてみてもいいよ&lt;/li&gt;
-      &lt;li&gt;開発環境や体制を知りたい！&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;という&lt;/p&gt;
-      &lt;ul&gt; &lt;li&gt;バックエンドエンジニア（Rails）&lt;/li&gt;
-      &lt;li&gt;フロントエンドエンジニア（React / TypeScript）&lt;/li&gt;
-      &lt;li&gt;QAエンジニア&lt;/li&gt; &lt;li&gt;テストエンジニア / SET&lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;のみなさま！&lt;/p&gt;
-      &lt;p&gt;一度エンジニアとzoomでお話してみませんか？&lt;/p&gt; &lt;p&gt;※当イベントは複数媒体で募集しています。
-      &lt;br&gt; ※connpassに登録されている方以外のご参加もありますのでご了承ください。&lt;/p&gt;
-      &lt;h2&gt;開催概要&lt;/h2&gt; &lt;h3&gt;日時&lt;/h3&gt; &lt;ul&gt;
-      &lt;li&gt;10/15（金）12:00〜 ※万が一ですが、応募者多数になった場合は抽選します！&lt;br&gt;
-      ※参加登録時のアンケートで日程をお選びください。&lt;br&gt;
-      ※早退・遅刻等全く問題ありません！お気軽にご参加ください！&lt;/li&gt; &lt;/ul&gt;
-      &lt;h3&gt;タイムスケジュール例&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
-      &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:00 -
-      12:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自己紹介&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:15 -
-      12:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;事業/福利厚生/制度&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:30 -
-      12:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開発環境/開発体制&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:45 -
-      13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Q&amp;amp;A&lt;/td&gt;
-      &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;Meetup担当者&lt;/h3&gt;
-      &lt;p&gt;『SmartHR』 Engineer&lt;/p&gt; &lt;p&gt;フロントエンドエンジニア by @diescake
-      &lt;/p&gt; &lt;h3&gt;資料&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a
-      href=&quot;https://speakerdeck.com/miyasho88/we-are-hiring&quot;
-      rel=&quot;nofollow&quot;&gt;会社紹介資料&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://hello-world.smarthr.co.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;Engineer Recruit Page&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://tech.smarthr.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;Tech Blog&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://tech.smarthr.jp/entry/2020/03/13/123745&quot;
-      rel=&quot;nofollow&quot;&gt;SmartHRでのメタプログラミングRuby読書会と、その成果物&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://tech.smarthr.jp/entry/2019/08/01/151100&quot; rel=&quot;nofollow&quot;&gt;プロダクト間共通の React コンポーネントライブラリを運用する話&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;開催方法&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;オンライン&lt;/li&gt; &lt;li&gt;zoomで開催する予定です！&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;アクセス方法&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;お申し込みいただいた方にメッセージします！&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;今回は参加できない😔という方へ&lt;/h2&gt; &lt;p&gt;随時開催する予定です！&lt;br&gt; 下記に登録いただくか、connpassのフォローをよろしくお願いいたします！&lt;br&gt; &lt;a href=&quot;https://open.talentio.com/1/c/smarthr/requisitions/detail/13762&quot; rel=&quot;nofollow&quot;&gt;SmartHR Online Casual Visit&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;行動規範&lt;/h2&gt; &lt;p&gt;本MeetupはSmartHRやその他開発トピックスに関する情報交換や交流を行うための場所です。 そのため、参加者に対して以下のようなハラスメント行為は許容しません。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;言葉による性別、性的指向、障害の有無、外見、身体の大きさ、人種、宗教に関する攻撃的なコメント&lt;/li&gt; &lt;li&gt;公的空間での性的な映像表現&lt;/li&gt; &lt;li&gt;意図的な威力行為、ストーキング、つきまとい&lt;/li&gt; &lt;li&gt;写真撮影や録音によるいやがらせ&lt;/li&gt; &lt;li&gt;トークやその他の会議イベントに対して繰り返して中断しようとする行為&lt;/li&gt; &lt;li&gt;望まれない性的な注意を引きつける行為&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;ハラスメント行為に遭った、目撃した場合には、スタッフの誰かに連絡していただくようお願いします。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://smarthr.connpass.com/event/227158/'/>
-    <published>
-      2021-10-06T09:47:31+09:00
     </published>
   </entry>
 </feed>
