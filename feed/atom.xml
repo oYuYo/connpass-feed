@@ -9,8 +9,69 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2021-10-17T00:21:35+00:00
+    2021-10-18T00:21:32+00:00
   </updated>
+  <entry>
+    <id>
+      https://mame-coffee-programing.connpass.com/event/228191/
+    </id>
+    <title>
+      オンラインもくもく会【コーヒー飲みながら参加しませんか？】47回目
+    </title>
+    <summary>
+      オンラインでもくもく勉強しませんか？入退室自由、ビデオオフでもOK※コーヒーは必須ではありません
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;オンラインで一緒にもくもく勉強しませんか？&lt;/h1&gt;
+      &lt;p&gt;〜毎週日曜日のお昼からは一緒にもくもく会をしませんか？〜&lt;/p&gt;
+      &lt;p&gt;1人でやるよりもみんなでやった方が集中できるはず！
+      12月から始めたこのオンラインもくもく会も第47回目となりました。&lt;/p&gt;
+      &lt;p&gt;1人だとだらけてしまう・・。でも大人数は少し気が引けるし・・。 そんな方でも安心してご参加いただけるかと思います。
+      強制的に勉強する環境を作っちゃいましょう！&lt;/p&gt;
+      &lt;p&gt;もちろん、ビデオオフでも問題ありませんし、ゆるゆるのもくもく会なのでお気軽にご参加いただけます！
+      コーヒーも自由です笑&lt;/p&gt; &lt;p&gt;参加する方も本当に様々で幅広い領域や経験の方がいらっしゃいます！&lt;/p&gt;
+      &lt;p&gt;質問も自由にしていただいて構いません。&lt;/p&gt; &lt;p&gt;完全無料かつ勧誘などもありませんのでご安心ください。
+      大学の課題をするでもよし、家計簿つけるという溜まった作業をするのもよし！ バリバリのハッカーの方も
+      Progateでつまづいている初心者の方もお気軽にご参加ください。&lt;/p&gt;
+      &lt;p&gt;入退室自由です。ご都合の良いタイミングでご参加いただければと思います。&lt;/p&gt;
+      &lt;p&gt;参加申込後、各種リンクをお知らせいたします。&lt;/p&gt;
+      &lt;p&gt;当日はGoogleMeetを利用しますのでGoogleアカウントをご用意ください。&lt;/p&gt;
+      &lt;p&gt;ではレッツもくもく〜♪&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt;
+      &lt;p&gt;１．「このイベントに申し込む」ボタンから参加申込&lt;br&gt; ２．このイベントページに戻る&lt;br&gt;
+      ３．「参加者への情報」欄からGoogle MeetとSlackのリンクをクリック&lt;/p&gt;
+      &lt;p&gt;※ご注意※&lt;br&gt; Google・Slackのアカウント名を事前にご確認ください。&lt;br&gt;
+      特に本名を公開したくない方は、名前変更、もしくは新規アカウントを作成いただくことをお勧めいたします。&lt;/p&gt;
+      &lt;h2&gt;当日の大まかなスケジュール&lt;/h2&gt; &lt;p&gt;13:00
+      自己紹介・今日やることの共有(Slackにて)&lt;br&gt; 13:10 開始挨拶〜もくもくタイム前半戦&lt;br&gt; 15:30
+      雑談タイム&lt;br&gt; 16:00 もくもくタイム後半戦&lt;br&gt; 17:30 報告会・雑談&lt;br&gt; 18:00
+      自由退出・おしゃべりタイム（オンライン飲み会に近い？？）&lt;/p&gt; &lt;h2&gt;もくもく会参考キーワード&lt;/h2&gt;
+      &lt;p&gt;JavaScript(React.js, Vue.js) html, css, scss, Bootstrap
+      Java(Spring), Kotlin Swift, C#, Unity, C++ Ruby(Ruby on Rails) PHP
+      (Laravel)WordPress Python(Django) もくもく会 オンライン まったり 初心者歓迎&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mame-coffee-programing.connpass.com/event/228191/'/>
+    <published>
+      2021-10-17T13:22:12+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://engineering-floor.connpass.com/event/228036/
+    </id>
+    <title>
+      AIと組織のパフォーマンスと 2021
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;AIと組織のパフォーマンスと 2021&lt;/h2&gt;
+      &lt;p&gt;個人、チーム、部署、組織のパフォーマンスをあげていければという思いをもっている人が一定数いるなかで、様々なツール、システム、手法、技術が生み出されてきました。それらは様々な問題に対処しており、時には想像もしない転換をむかえるようなものもあります。今回は組織のパフォーマンスをあげる技術に興味を持ちつづけ、リードしている森正弥さんと、アジャイル開発やその周辺技術をつかうことでパフォーマンス向上をねらってきたkyon_mmが雑談します。&lt;/p&gt; &lt;h3&gt;&lt;a href=&quot;https://note.com/masayamori/n/n451fd575481c&quot; rel=&quot;nofollow&quot;&gt;森正弥&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;&lt;img height=&quot;200&quot; src=&quot;https://assets.st-note.com/production/uploads/images/10625743/profile_702d66df7cc8c072a062781ba8e88ba8.jpg?width=600&amp;amp;crop=1:1,smart&quot;&gt;&lt;/p&gt; &lt;p&gt;デロイトトーマツコンサルティング合同会社 / デロイトデジタル 執行役員&lt;/p&gt; &lt;p&gt;東北大学 特任教授&lt;/p&gt; &lt;p&gt;株式会社メルカリ R4D アドバイザリーボード&lt;/p&gt; &lt;p&gt;日本ディープラーニング協会 顧問&lt;/p&gt; &lt;p&gt;MIT Technology Review &quot;Innovators Under 35&quot; 日本審査員&lt;/p&gt; &lt;p&gt;元 楽天株式会社 執行役員 兼 楽天技術研究所 代表&lt;/p&gt; &lt;p&gt;元 楽天生命技術ラボ 所長&lt;/p&gt; &lt;p&gt;1998年、アクセンチュア株式会社入社。アクセンチュアでは製造業や官公庁を中心に SIプロジェクト、法人営業戦略プロジェクト、R&amp;amp;D事業コンサルティング等を手がけ、先端技術リードも担当。&lt;/p&gt; &lt;p&gt;2006年、楽天株式会社入社。楽天では、執行役員 兼 楽天技術研究所代表として世界5カ国の各研究拠点のマネジメントおよびAI・データサイエンティスト戦略に従事。&lt;/p&gt; &lt;p&gt;APEC （アジア太平洋経済協力）プロジェクトアドバイザ。日経ITイノベーターズ エグゼクティブメンバー。企業情報化協会 常任幹事およびAI&amp;amp;ロボティクス 研究会委員長。一般社団法人G1「ディープラーニング研究会」ボードメンバー。Ruby Association 評議員。&lt;/p&gt; &lt;p&gt;過去に、イグニション・ポイント エグゼクティブフェロー。日本データベース学会 理事。 情報処理学会アドバイザリーボード、経済産業省技術開発プロジェクト評価委員、次世代高度IT人材モデルキャリア検討委員、CIO育成委員会委員等を歴任。&lt;/p&gt; &lt;p&gt;様々な組織・団体の顧問実績も多数。2013年日経BP社 IT Pro にて、「世界を元気にする100人」に、日経産業新聞にて「40人の異才」に選出。&lt;/p&gt; &lt;p&gt;2018年 NY国連本部にて日本企業の代表として技術研究によるSDGs（持続可能な開発目標）への取組みに関する報告をする等、技術による社会貢献にも関心を持つ。著作に「クラウド大全」（日経BP社, 共著）、「ウェブ大変化 パワーシフトの始まり」（近代セールス社）がある。&lt;/p&gt; &lt;h3&gt;kyon_mm &lt;a href=&quot;https://www.kikan47.org/&quot; rel=&quot;nofollow&quot;&gt;47機関&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;&lt;img height=&quot;200&quot; src=&quot;https://kyon-mm.com/assets/images/kyonmm.webp&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;筑波大学非常勤講師、各社新卒エンジニア研修講師&lt;/li&gt; &lt;li&gt;アジャイルコーチ&lt;/li&gt; &lt;li&gt;システムアーキテクト&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;トピックになるかもしれない妄想のカケラ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;AI&lt;/li&gt; &lt;li&gt;XP&lt;/li&gt; &lt;li&gt;プラットフォーム&lt;/li&gt; &lt;li&gt;AutoML&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;Discordというチャットサーバーでイベントを開催します。&lt;/p&gt; &lt;ol&gt; &lt;li&gt;本イベントに申し込む&lt;/li&gt; &lt;li&gt;参加者への情報に表示される Discordサーバー招待リンクをひらく&lt;/li&gt; &lt;li&gt;当日Discordサーバーにはいりスピーカーが聞こえるようにしておく&lt;/li&gt; &lt;/ol&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時刻&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:50 - 18:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;18:00 - 19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;本編トーク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00 - 19:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:05 - 19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;おかわり&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;&lt;img alt=&quot;logo&quot; src=&quot;https://cdn-ak.f.st-hatena.com/images/fotolife/k/kyon_mm/20210711/20210711225345.gif&quot;&gt;&lt;/p&gt; &lt;h2&gt;本イベント内の情報のあつかい&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Discordのスクリーンショットなどがアカウントを伏せた状態で公開されることがあります。&lt;/li&gt; &lt;li&gt;本編トークはPodcastで放送されます&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://engineering-floor.connpass.com/event/228036/'/>
+    <published>
+      2021-10-17T12:42:47+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://gotanda-valley.connpass.com/event/225195/
@@ -199,69 +260,6 @@
     <link rel='alternate' type='text/html' href='https://sendairb.connpass.com/event/225813/'/>
     <published>
       2021-10-15T20:03:26+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://love-kotlin.connpass.com/event/227953/
-    </id>
-    <title>
-      集まれKotlin好き！Kotlin愛好会 vol.32 @オンライン
-    </title>
-    <summary>
-      10月もみんなで楽しくオンラインでワイワイ！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
-      Live)で開催いたします。 よい機会ですので、普段参加出来ない地方の方々など幅広い参加を募集いたします！&lt;/p&gt;
-      &lt;h2&gt;イベント概要&lt;/h2&gt;
-      &lt;p&gt;Kotlin好きで集まって、飲み物片手にKotlinについて語り合い、愛でましょう！！！&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;Kotlinからプログラミングを始めた方&lt;/li&gt;
-      &lt;li&gt;Java時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（JaveScript, Ruby,
-      etc...）をやりながらKotlinを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;Kotlin全般に関するお話や、AndroidやサーバーサイドにおいてKotlinを活用するお話をする
-      &quot;Kotlin談義&quot;（絶賛登壇者募集中！資料ナシでもOK）、そしてKotlin仲間をつくる懇親会で楽しみましょう〜
-      ^^/&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt;
-      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■主催プロフィール&lt;/h2&gt; &lt;p&gt;七島 偉之 (@jollyjoester)&lt;/p&gt; &lt;p&gt;みんなでもっとKotlinを楽しめるようなネタを探してます！ かんぱいやー（勉強会で乾杯をする人）として、乾杯の力でKotlin好きの輪を広めています。&lt;/p&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live URL: TBA &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://love-kotlin.connpass.com/event/227953/'/>
-    <published>
-      2021-10-15T15:09:28+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://web-design.connpass.com/event/225691/
-    </id>
-    <title>
-      WebサイトをFigmaで デザインする「Figmaの基本と応用」編
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;デザインから考えるWordPress vol.2&lt;/h1&gt; &lt;h2&gt;WebサイトをFigmaで
-      デザインする「Figmaの基本と応用」編&lt;/h2&gt;
-      &lt;p&gt;こんにちは！「デザインから考えるWordPress」です✨&lt;/p&gt; &lt;p&gt;WordPress と
-      Figma の回を2回ほどしてきましたが、一度Figmaの触り方がっつりの回をしたいと思います。&lt;/p&gt;
-      &lt;p&gt;なんと、ゲストスピーカーとしてあの &lt;a
-      href=&quot;https://kiteretz.studio.site/&quot;
-      rel=&quot;nofollow&quot;&gt;KITERETZ inc.&lt;/a&gt;
-      さんからお三方をお招きして、Figmaの基本と応用について話をしていただくことになりました 🎉&lt;/p&gt;
-      &lt;h3&gt;ゲストスピーカーのご紹介&lt;/h3&gt; &lt;h4&gt;虎野とも さん&lt;/h4&gt;
-      &lt;p&gt;WordCamp Osaka 2019で初めてスタッフを経験してから、WordPressコミュニティにかかわるように。
-      普段は株式会社キテレツでフロントエンドエンジニアとして働きつつ、日々好きなイラストを描いてたまにデザイナーとしてお仕事してます。
-      ロードバイクと日本酒と抹茶が好きです。どんなことも「楽しむ」をモットーに生きてます。
-      Figmaはコーダー目線でなにかお伝えできればと思っています(｀･ω･´)ゞ&lt;/p&gt; &lt;p&gt;&lt;a
-      href=&quot;https://twitter.com/torano_manji&quot;
-      rel=&quot;nofollow&quot;&gt;Twitter @torano_manji&lt;/a&gt; / &lt;a
-      href=&quot;https://note.com/t_moarnaj_nio/&quot;
-      rel=&quot;nofollow&quot;&gt;note&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;Arisa
-      さん&lt;/h4&gt; &lt;p&gt;株式会社キテレツ
-      デザイナー＆フロントエンドエンジニア。前職は求人広告の営業をしており、デザインやウェブについての知識はゼロでした。約半年間デジタルハリウッド大阪校にてウェブデザインを学び、ご縁あって2020年3月にキテレツへ入社し現在に至ります。全てにおいてまだまだ修行中。Figmaの手軽さにどっぷりハマり、PsとAiの勉強が疎かでちょっぴり焦っています。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/arisaaaada&quot; rel=&quot;nofollow&quot;&gt;Twitter @arisaaaada&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;カイト (Kite) さん&lt;/h4&gt; &lt;p&gt;&lt;a href=&quot;https://kiteretz.com/&quot; rel=&quot;nofollow&quot;&gt;株式会社キテレツ (KITERETZ inc.)&lt;/a&gt;　代表。&lt;/p&gt; &lt;p&gt;ウェブ・グラフィックデザイナー、フルスタック開発者。横浜生まれ。高校時代はシアトルで過ごす。早稲田大学商学部卒業。ファッションデザイナー、クリエイティブディレクター、世界三大広告賞受賞制作会社デザイナー兼プログラマを経て、株式会社キテレツを設立。&lt;/p&gt; &lt;p&gt;WordPress、Ruby on Rails、React コントリビューター。オープンソース開発者。開発オープンソース：&lt;a href=&quot;https://wckr.github.io/&quot; rel=&quot;nofollow&quot;&gt;Wocker&lt;/a&gt;、&lt;a href=&quot;https://ixkaito.github.io/bathe/&quot; rel=&quot;nofollow&quot;&gt;Bathe&lt;/a&gt;、&lt;a href=&quot;https://ixkaito.github.io/frasco/&quot; rel=&quot;nofollow&quot;&gt;Frasco&lt;/a&gt;、&lt;a href=&quot;https://ixkaito.github.io/ktrz-font/&quot; rel=&quot;nofollow&quot;&gt;KTRZ Font&lt;/a&gt;、&lt;a href=&quot;https://www.figma.com/community/plugin/884977600755027488/Japanese-Dummy-Text&quot; rel=&quot;nofollow&quot;&gt;Japanese Dummy Text&lt;/a&gt;、&lt;a href=&quot;https://ixkaito.github.io/ktrz-monokai/&quot; rel=&quot;nofollow&quot;&gt;KTRZ Monokai&lt;/a&gt; など。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://profiles.wordpress.org/ixkaito&quot; rel=&quot;nofollow&quot;&gt;WordPress.org プロフィール&lt;/a&gt; / &lt;a href=&quot;https://twitter.com/ixkaito&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt; / &lt;a href=&quot;https://www.instagram.com/ixkaito&quot; rel=&quot;nofollow&quot;&gt;Instagram&lt;/a&gt; / &lt;a href=&quot;https://www.facebook.com/kite.koga&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;👤 こんな方におすすめ！&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;WordPress を使ってのサイト構築でのデザインに興味がある&lt;/li&gt; &lt;li&gt;Figmaを使ってのサイトデザイン制作に興味がある&lt;/li&gt; &lt;li&gt;WordPress の進化とともに変わりゆく（かもしれない）サイト制作に興味がある&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;🗓 日時&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;2021年10月21日 (木) 20:00～22:00（開場： 19:55）&lt;/p&gt; &lt;h3&gt;🕰 スケジュール&lt;/h3&gt; &lt;p&gt;20:00〜20:15　会の説明&lt;/p&gt; &lt;p&gt;20:15〜21:55　（詳細は後ほど）　&lt;/p&gt; &lt;p&gt;21:55〜22:00　締め、次回について&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;🌍 会場・申し込み方法&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;オンライン（Zoom）&lt;/p&gt; &lt;p&gt;このconnpassイベントに参加申し込みをすると「参加者への情報 (※参加者と発表者のみに公開されます)」欄にてお知らせします。&lt;/p&gt; &lt;p&gt;※当日はYouTubeでのオンライン配信も予定しています。&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;🖋「デザインから考える WordPress」について&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;WordPress は、日々進化しています。特にブロックエディター（Gutenbergプロジェクト）により革新的に変化しました。そして今後FSE（Full Site Editing / フルサイト編集）という方向に向かって進んでいます。&lt;/p&gt; &lt;p&gt;そういった中でどんな設計思想でWordPressでのサイト構築をしたらより良いのか、ともに紐解き学びながら進んでいけたらと考え、この会を立ち上げました。&lt;/p&gt; &lt;p&gt;それぞれの回によって、デザイン寄りになったりWordPress寄りになったり、もしくは全然違う寄り道もあるかもしれません。&lt;/p&gt; &lt;p&gt;一緒にわいわい話しながら学ぶ人、大歓迎です！&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;🌟 こんな人が運営してます&lt;/strong&gt;&lt;/h3&gt; &lt;h4&gt;mimi&lt;/h4&gt; &lt;p&gt;Webデザインを主に、フロントエンド側のアレコレをイジったり、 イラスト描いたり、あらゆる創作が好きです。2003年初めてMTに触れて以来CSSに振り回されっぱなし。基本的に企画・デザイン〜デプロイまでやるタイプの昔ながらのWeb屋です。制作会社勤務を歴て現在は夫と二人で受託開発をしています。 &lt;a href=&quot;https://profiles.wordpress.org/mimitips/&quot; rel=&quot;nofollow&quot;&gt;WordPress.org プロフィール&lt;/a&gt; &lt;a href=&quot;https://twitter.com/miminari&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;https://blog.photosynthesic.jp/&quot; rel=&quot;nofollow&quot;&gt;Photosynthesic&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;額賀順子&lt;/h4&gt; &lt;p&gt;瀬戸内にある人口約160人の島、男木島に住んでいます。フリーランスのWebデザイナー、NPO法人男木島図書館理事長。グローバルコミュニティチームにてDeputyを務める。オンラインWordPress勉強会WP ZoomUP運営中。著書に『WordPressのやさしい教科書。』、雑誌「せとうちスタイル」「みんなの図書館」にて男木島の生活や文化について連載中。 フィルムで写真を撮ってます。 &lt;a href=&quot;https://profiles.wordpress.org/nukaga/&quot; rel=&quot;nofollow&quot;&gt;WordPress.org プロフィール&lt;/a&gt; &lt;a href=&quot;https://twitter.com/nukaga&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;https://nukagajunko.com/&quot; rel=&quot;nofollow&quot;&gt;技術的なことは全く関係ないブログ&lt;/a&gt; [Coweb](&lt;a href=&quot;https://coweb.cc/&quot; rel=&quot;nofollow&quot;&gt;https://coweb.cc/&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://web-design.connpass.com/event/225691/'/>
-    <published>
-      2021-10-15T12:42:47+09:00
     </published>
   </entry>
 </feed>
