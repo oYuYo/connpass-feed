@@ -9,8 +9,153 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2021-10-29T00:19:54+00:00
+    2021-10-30T00:20:42+00:00
   </updated>
+  <entry>
+    <id>
+      https://rakus.connpass.com/event/227257/
+    </id>
+    <title>
+      【ラクス】キャリア座談会 #9 BtoB SaaSの利便性を高める開発戦略とプロセス
+    </title>
+    <summary>
+      テスト・コードレビュー・API設計・新技術導入・オフショアなどから最近のテーマをご紹介
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;【ラクス】キャリア座談会について&lt;/h2&gt;
+      &lt;p&gt;エンジニア・デザイナーの方向けに、当社ラクスの開発体制やスタック、
+      制度やカルチャー、キャリアなどをご紹介するカジュアルなイベントです。&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;今回のテーマは「BtoB
+      SaaSの利便性を高める開発戦略とプロセス」&lt;/strong&gt;。&lt;br&gt;
+      ラクスのプロダクト開発では、自社サービスの利便性を高めるための様々な改善が日々行われています。&lt;br&gt;
+      今回は開発戦略と開発プロセスの二つのテーマから、最近のいくつかのホットなトピックを選んでお届けします。 &lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;【トピック例】&lt;/strong&gt; &lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;利便性を高める設計 &lt;ul&gt; &lt;li&gt;API設計 &lt;/li&gt; &lt;/ul&gt;
+      &lt;/li&gt; &lt;li&gt;開発プロセス（品質の担保） &lt;ul&gt; &lt;li&gt;テスト &lt;/li&gt;
+      &lt;li&gt;コードレビュー &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;開発戦略
+      &lt;ul&gt; &lt;li&gt;プロダクト未使用技術の検証と導入&lt;/li&gt;
+      &lt;li&gt;オフショア活用&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;※ お時間の関係ですべてを取り上げられない可能性もございます。予めご了承ください。&lt;/p&gt;
+      &lt;p&gt;もちろん、会社全体のご説明やキャリアパスもご紹介します。&lt;/p&gt;
+      &lt;p&gt;・プロダクトやビジネスの将来性を知りたい&lt;br&gt; ・使用している技術やツールについて知りたい&lt;br&gt;
+      ・会社の雰囲気やチーム体制について知りたい&lt;br&gt; ・自分のキャリアプラン、志向性に合うかどうか確かめたい &lt;/p&gt;
+      &lt;p&gt;など、ラクスについてちょっとでもご興味をお持ちでしたら是非ご参加ください！&lt;/p&gt;
+      &lt;h2&gt;※ご参考：ラクスの技術スタック、開発プロセス等&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;言語：Java,
+      PHP, Ruby, Python, Node.js &lt;/li&gt; &lt;li&gt;フレームワーク: Spring Boot,
+      SAStruts, Laravel 等 &lt;/li&gt; &lt;li&gt;フロントエンド： TypeScript,
+      React/Redux, Vue.js &lt;/li&gt; &lt;li&gt;インフラ：オンプレミス, AWS, Docker
+      &lt;/li&gt; &lt;li&gt;開発プロセス：アジャイル（大規模スクラム LeSS等） &lt;/li&gt;
+      &lt;li&gt;コードレビュー：Pull Request ベース（GitLabのMergeRequest）&lt;/li&gt;
+      &lt;li&gt;CI,テスト：GitLab CI, Jenkins, gradle, Selenium/Selenide&lt;/li&gt;
+      &lt;/ul&gt; &lt;h2&gt;申込方法&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;お申込期日：2021/11/8(月) 18:00迄 &lt;/li&gt; &lt;li&gt;&lt;span
+      style=&quot;font-size: 120%;&quot;&gt;connpass画面 &lt;span
+      style=&quot;color:
+      red;&quot;&gt;&lt;strong&gt;「このイベントに申し込む」&lt;/strong&gt;&lt;/span&gt;
+      よりご登録ください&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;開催概要&lt;/h2&gt;
+      &lt;ul&gt; &lt;li&gt; &lt;p&gt;日時: 2021/11/8(月) 19:00-20:00&lt;/p&gt;
+      &lt;/li&gt; &lt;li&gt; &lt;p&gt;会場: オンライン（Zoom）&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;メッセージにてZoomURLを通知いたします。&lt;/li&gt;
+      &lt;li&gt;Zoomへの入室は10分前からとなります。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;
+      &lt;li&gt;参加費: 無料&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;※イベント参加人数が少ない場合など、中止とする場合がございますのでご了承ください。&lt;/p&gt;
+      &lt;h3&gt;タイムスケジュール&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;時間&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;内容&lt;/strong&gt;&lt;/th&gt; &lt;/tr&gt;
+      &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00 ～ 19:05&lt;/td&gt;
+      &lt;td&gt;スタート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05 ～
+      19:10&lt;/td&gt; &lt;td&gt;自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:10 ～ 19:40&lt;/td&gt;
+      &lt;td&gt;開発環境・体制/事業・プロダクト/技術スタックなど&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:40 〜 20:00&lt;/td&gt; &lt;td&gt;Ｑ&amp;amp;A クロストーク&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:00&lt;/td&gt;
+      &lt;td&gt;終了予定&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
+      &lt;h2&gt;当社参加メンバー&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;池田 智裕 /
+      開発管理チーム リーダー（※登壇決定！）&lt;br&gt; SIer、自社サービスを経験し、2015年ラクス入社。&lt;br&gt;
+      2015年~2017年 メールディーラーの開発リーダーに従事。&lt;br&gt; 2017年～2020年 ラクスベトナム代表。&lt;br&gt;
+      2020年～開発管理チーム リーダー &lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;米田慎太郎 /
+      技術・採用広報&lt;br&gt; 2020年ラクス入社&lt;br&gt; IT出版や人材企業で
+      新規事業開発、マーケティング、経営企画・内部統制やセールス組織のマネジメントを経験。&lt;br&gt;
+      現在は技術・採用広報として、イベントやテックブログの企画運営を担当。&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
+      &lt;p&gt;菊池伸匡 / 採用広報&lt;br&gt; 2021年ラクス入社&lt;br&gt; HR
+      Techプロダクトのオフショア開発PLやIT企業の人事等を経験。&lt;br&gt;
+      開発本部の採用広報として、エンジニア・デザイナー向けのイベント企画運営を担当。&lt;br&gt; 社会人大学で情報学を学んでいます。
+      &lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;こちらもご覧ください&lt;/h2&gt;
+      &lt;p&gt;&lt;a
+      href=&quot;https://speakerdeck.com/rakus_career/rakus-engineer-introduction&quot; rel=&quot;nofollow&quot;&gt;【5分でわかる】開発本部紹介資料&lt;/a&gt; &lt;br&gt; &lt;a href=&quot;https://rakus.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;主催の技術イベント一覧&lt;/a&gt;&lt;br&gt; &lt;a href=&quot;https://tech-blog.rakus.co.jp/&quot; rel=&quot;nofollow&quot;&gt;テックブログ&lt;/a&gt; &lt;/p&gt; &lt;h2&gt;個別に話を聞きたいという方向けに・・・&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://career-recruit.rakus.co.jp/career_engineer/&quot; rel=&quot;nofollow&quot;&gt;エンジニア中途サイト&lt;/a&gt;&lt;br&gt; 当社サイトよりカジュアル面談も常時受け付けております！&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/li&gt; &lt;li&gt;他の参加者の方の妨げになるような行為は禁止、運営側の判断でご退出をお願いする場合があります。&lt;/li&gt; &lt;li&gt;ブログやSNSなどで当イベントに関する発信を行う際には、公序良俗に反する内容のないよう、ご協力をお願いします。&lt;/li&gt; &lt;li&gt;当イベントはオンライン開催のため、通信状況によって音声や映像の乱れがある場合がございます。&lt;/li&gt; &lt;li&gt;配信トラブル時のアナウンスは&lt;a href=&quot;https://twitter.com/DevRakus&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;より行います。&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/227257/'/>
+    <published>
+      2021-10-29T19:44:31+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://camphor.connpass.com/event/223581/
+    </id>
+    <title>
+      【pixiv】Webフロントエンドを学ぼう ~ CSSアニメーション・画像変換・配信エンジン ~
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;今回はピクシブ株式会社のエンジニアの方をお呼びして&lt;/p&gt; &lt;ul&gt; &lt;li&gt;トーク:
+      ImageFluxのしくみ&lt;/li&gt; &lt;li&gt;ハンズオン: これから始めるCSSアニメーション&lt;/li&gt;
+      &lt;/ul&gt; &lt;p&gt;の2本立てでお話しいただきます！&lt;/p&gt;
+      &lt;h3&gt;参加枠に関して&lt;/h3&gt; &lt;h4&gt;YouTube配信枠&lt;/h4&gt;
+      &lt;p&gt;&lt;strong&gt;学生に限らず&lt;/strong&gt;参加していただくことができます！
+      YouTubeでの配信を予定しており、アーカイブに関しては未定です。&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;配信URLは「参加者への情報」の欄からご確認ください&lt;/strong&gt;&lt;/p&gt;
+      &lt;h4&gt;Zoom枠&lt;/h4&gt;
+      &lt;p&gt;&lt;strong&gt;学生限定&lt;/strong&gt;の枠になっています。講師に直接質問をすることができるため、学生の方はZoom枠での参加をお勧めします！また、Zoom枠で抽選にもれてしまった場合も配信URLをお送りします！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;ZoomのURLはイベント前日にメールでお知らせします&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;ImageFluxのしくみ&lt;/h2&gt; &lt;p&gt;画像変換・配信エンジンImageFluxについて、何がうれしいのか、どうやって使うのか、どういう仕組みで動いているのか、を紹介します。&lt;/p&gt; &lt;h4&gt;対象&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;HTMLがそれなりにわかって、自分でいちおう書ける&lt;/li&gt; &lt;li&gt;Webで利用される画像形式についてざっくりと知識がある&lt;/li&gt; &lt;li&gt;画像をコンテンツに含むWebサービスの開発に興味がある&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;事前準備&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;特になし&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;講師/アシスタント&lt;/h4&gt; &lt;p&gt;usa (&lt;a href=&quot;https://twitter.com/unak&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/unak&lt;/a&gt;)&lt;/p&gt; &lt;p&gt;ピクシブ株式会社 技術開発本部 配信技術部のマネージャーという肩書のプログラマ。 業務では主に画像処理周りのサーバサイド側の開発を行っている。 業務外ではRubyというプログラミング言語処理系のコミッタをしてたり。&lt;/p&gt; &lt;h2&gt;これから始めるCSSアニメーション&lt;/h2&gt; &lt;p&gt;リッチなWebページを作るための、CSSアニメーションを使ったページ演出についてお話します。&lt;/p&gt; &lt;h4&gt;対象&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;モダンなCSSコーディングが問題なくできる&lt;/li&gt; &lt;li&gt;何かしらのデザインツールを使ったことがある&lt;/li&gt; &lt;li&gt;CSSアニメーションを使ったページの演出に興味がある&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;事前準備&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;最低限、HTML/CSSのコーディングが出来る環境（ローカル環境だけでなく、codepenなどのweb上でコーディングが出来る環境も可）&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;講師/アシスタント&lt;/h4&gt; &lt;p&gt;yui540(&lt;a href=&quot;https://twitter.com/yui540&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/yui540&lt;/a&gt;)&lt;/p&gt; &lt;p&gt;マーケティング＆ユーザーグロース事業部 プレミアムサービス部所属のフロントエンドエンジニア。 サービス開発以外にも、部署を問わず社内でCSSアニメーションを活かしたリッチなLP制作にも多数関わっている。&lt;/p&gt; &lt;h2&gt;イベント参加の注意事項&lt;/h2&gt; &lt;p&gt;こちらのイベントのZoom枠に関しては&lt;strong&gt;30歳以下の学生のみ&lt;/strong&gt;を対象にしております。&lt;/p&gt; &lt;p&gt;Zoom枠の方はZoomリンクをイベント前日にお送りいたしますのでそちらよりご参加ください。YouTubeの配信リンクはメールでのお知らせの他、connpass内の「参加者への情報」の欄にも記載をします。&lt;/p&gt; &lt;p&gt;Zoom枠の方は当日は下記スケジュールの14:45までにZoomにお入りください。&lt;/p&gt; &lt;h2&gt;スケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;スケジュール内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;14:30～14:45&lt;/td&gt; &lt;td&gt;接続開始&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:45～15:00&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:00～15:30&lt;/td&gt; &lt;td&gt;ImageFluxのしくみ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:30～15:40&lt;/td&gt; &lt;td&gt;休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:40～17:10&lt;/td&gt; &lt;td&gt;これから始めるCSSアニメーション&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:10～17:40&lt;/td&gt; &lt;td&gt;質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;CAMPHOR- Code of Conduct&lt;/h2&gt; &lt;p&gt;CAMPHOR-が主催するイベントに参加する際は、CAMPHOR- Code of Conductに同意していただく必要があります。以下のリンクよりご確認ください。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/camphor-/code-of-conduct&quot; rel=&quot;nofollow&quot;&gt;https://github.com/camphor-/code-of-conduct&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;ピクシブ株式会社について&lt;/h2&gt; &lt;p&gt;「pixiv」は「創作活動がもっと楽しくなる場所を創る」という理念のもと、作品（イラスト・マンガ・小説）を介したコミュニケーションにフォーカスした、クリエイターのためのSNS（ソーシャルネットワーキングサービス）です。 2007年9月に開始され、現在7100万人を超えるユーザーが登録し、総作品数は1億作品以上にのぼり、世界中のユーザーに利用されてるプロダクトとして運営されています。&lt;/p&gt; &lt;h2&gt;CAMPHOR-について&lt;/h2&gt; &lt;p&gt;CAMPHOR-は京都の町家を拠点に活動する、京都のエンジニアやデザイナーを目指す学生向けコミュニティです。 CAMPHOR- HOUSEというコミュニティスペースを運営しており、個人の作業や技術的な雑談などのコミュニケーションを気軽に取ることができるスペースになっています。また、学生主体の勉強会や企業の方をお呼びしたトークイベントなどを開催しています。&lt;/p&gt; &lt;h2&gt;関連リンク&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://www.pixiv.co.jp/&quot; rel=&quot;nofollow&quot;&gt;ピクシブ株式会社&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://camph.net/&quot; rel=&quot;nofollow&quot;&gt;CAMPHOR-&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://camphor.connpass.com/event/223581/'/>
+    <published>
+      2021-10-29T19:05:16+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://appbrew.connpass.com/event/229089/
+    </id>
+    <title>
+      2CMeetup 〜C向けスタートアップのエンジニアが語る！サービス開発秘話〜
+    </title>
+    <summary>
+      AppBrew,YOUTRUST,ミラティブの3社のメンバーによるトークセッション
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;「2CMeetup」とは？&lt;/h1&gt; &lt;ul&gt;
+      &lt;li&gt;toCサービスのスタートアップのメンバーが集い、日々の業務を通して感じる課題やそれを解決する知見や事例をシェアするオンラインイベントです。&lt;/li&gt; &lt;li&gt;初開催の今回は開発編。「C向けスタートアップのエンジニアが語る！サービス開発秘話」をサブタイトルに、LIPS、ミラティブ、YOUTRUSTのtoCサービスならではの開発秘話を3社のCTO、PM、エンジニアによるトークセッション形式で話します。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;視聴方法&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;当イベントは、Zoom にて配信予定です&lt;/li&gt; &lt;li&gt;ご案内の際にお送りするメールに視聴URLを記載しています&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;C向けサービス開発が好きなエンジニア・PMの方&lt;/li&gt; &lt;li&gt;他社の開発体制に興味のある方&lt;/li&gt; &lt;li&gt;AppBrew、ミラティブ 、YOUTRUSTで働くことに興味のある方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;タイムスケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20&lt;/td&gt; &lt;td&gt;配信開始&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30 - 19:35&lt;/td&gt; &lt;td&gt;ご挨拶・はじめに&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35 - 20:05&lt;/td&gt; &lt;td&gt;トークセッション「スタートアップのフェーズ別！プロダクト組織と体制について」&lt;/td&gt; &lt;td&gt;株式会社ミラティブ 横手 良太 CTO &lt;br&gt;株式会社YOUTRUST 佐々木 紀和 PdM &lt;br&gt;株式会社AppBrew 堀江慧 CTO&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:05 - 20:35&lt;/td&gt; &lt;td&gt;トークセッション「CGM・コミュニティサービスにおけるユーザーへのおすすめコンテンツ配信について」&lt;/td&gt; &lt;td&gt;株式会社YOUTRUST 水野 廉也 エンジニア&lt;br&gt;株式会社ミラティブ 立野 雅紘 サーバエンジニア&lt;br&gt;株式会社AppBrew 堀江慧 CTO&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:35 ~&lt;/td&gt; &lt;td&gt;パネルディスカッション・Q&amp;amp;A&lt;/td&gt; &lt;td&gt;登壇者5名&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;登壇者紹介&lt;/h1&gt; &lt;p&gt;（企業名50音順）&lt;/p&gt; &lt;h2&gt;株式会社AppBrew&lt;/h2&gt; &lt;h3&gt;堀江慧(pin) CTO &lt;a href=&quot;https://twitter.com/spinute&quot; rel=&quot;nofollow&quot;&gt;@spinute&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;東京大学総合文化研究科修了後、Murakumo社に入社。分散RDBMS・分散ジョブ処理系のフルスクラッチ開発プロジェクトに従事。プライベートではOpen Date Structuresの翻訳や、Ruby処理系の改善（GSoC 2016)等に取り組んだ。 2019年6月にAppBrewに入社。検索機能やレコメンド機能等の改善を行いつつ、2C向け開発チームのリードを務める。&lt;/p&gt; &lt;h2&gt;株式会社ミラティブ&lt;/h2&gt; &lt;h3&gt;横手 良太 CTO &lt;a href=&quot;https://twitter.com/n0mimono&quot; rel=&quot;nofollow&quot;&gt;@n0mimono&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;早稲田大学大学院修了。機械学習の分野で博士号取得後、助手として研究活動、論文執筆を行う。2014年に株式会社DONUTSに入社し、スマートフォンゲーム開発に従事。2017年より技術部部長。2018年7月ミラティブ参画し、ミラティブのアバター機能「エモモ」の開発をリード。2021年4月にCTOに就任。&lt;/p&gt; &lt;h3&gt;立野 雅紘 サーバエンジニア&lt;a href=&quot;https://twitter.com/hirota982&quot; rel=&quot;nofollow&quot;&gt;@hirota982&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;慶応大学理工学部情報工学科卒業後、技術系スタートアップ、DeNA、BCGにてエンジニアとして事業開発、プロダクト開発に従事。2019年1月、ミラティブにジョイン。現在は新規プロジェクトのサーバサイドの開発を務める。&lt;/p&gt; &lt;h2&gt;株式会社YOUTRUST&lt;/h2&gt; &lt;h3&gt;佐々木 紀和(zoo) PdM/プロダクト採用責任者 &lt;a href=&quot;https://twitter.com/petenshi1986&quot; rel=&quot;nofollow&quot;&gt;@petenshi1986&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;東京大学大学院修了。2013年に株式会社ディー・エヌ・エーに入社。EC事業本部において新規事業の開発に携わる。2016年より子会社である株式会社ペロリに出向。2018年より株式会社MERYの開発部部長。2021年7月にYOUTRUSTにジョインし、プロダクト組織開発に従事。&lt;/p&gt; &lt;h3&gt;水野 廉也 エンジニア &lt;a href=&quot;https://twitter.com/renyamizuno_&quot; rel=&quot;nofollow&quot;&gt;@renyamizuno_&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;名古屋という辺境の地の専門学校卒。2014年に某SIerに入社し半年で退職。その後、Misoca(現在は弥生株式会社)に転職。Misocaの開発やその他サブのプロダクトの開発・運用等々。2019年に株式会社キャスターにてbosyuの開発・運用等々。2021年9月にYOUTRUSTにジョインし、開発しつつ「やっとるか？」というのをやってる。&lt;/p&gt; &lt;h1&gt;登壇企業の会社情報&lt;/h1&gt; &lt;h2&gt;株式会社AppBrew&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://appbrew.io/&quot; rel=&quot;nofollow&quot;&gt;コーポレートサイト&lt;/a&gt; &lt;br&gt; &lt;a href=&quot;https://herp.careers/v1/appbrew&quot; rel=&quot;nofollow&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;株式会社ミラティブ&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.mirrativ.co.jp/&quot; rel=&quot;nofollow&quot;&gt;コーポレートサイト&lt;/a&gt;&lt;br&gt; &lt;a href=&quot;https://www.mirrativ.co.jp/recruit/&quot; rel=&quot;nofollow&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;株式会社YOUTRUST&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://youtrust.co.jp/&quot; rel=&quot;nofollow&quot;&gt;コーポレートサイト&lt;/a&gt;&lt;br&gt; &lt;a href=&quot;https://career.youtrust.co.jp/&quot; rel=&quot;nofollow&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;各社プライバシーポリシー&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://lipscosme.com/privacy_policy&quot; rel=&quot;nofollow&quot;&gt;AppBrewプライバシーポリシー&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://mirrativtmbr.tumblr.com/post/172409545523/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC&quot; rel=&quot;nofollow&quot;&gt;ミラティブプライバシーポリシー&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://youtrust.jp/privacy_policy&quot; rel=&quot;nofollow&quot;&gt;YOUTRUSTプライバシーポリシー&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://appbrew.connpass.com/event/229089/'/>
+    <published>
+      2021-10-29T18:25:45+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://oss-x-users-meeting.connpass.com/event/218793/
+    </id>
+    <title>
+      &lt;OSS X Users Meeting&gt; #31 ～オープンソースプロジェクトを支える言語たち～
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;※こちらのサイトでの参加申込は終了いたしました。 以降、ご参加を希望される場合は、「OSSユーザーのための勉強会
+      運営コミュニティ事務局」までお問い合わせください。&lt;/p&gt;
+      &lt;p&gt;E-Mail：oss-seminar@ml.scsk.jp&lt;/p&gt; &lt;hr&gt;
+      &lt;p&gt;&lt;strong&gt;＜OSS X Users Meeting＞&lt;/strong&gt; は
+      &lt;strong&gt;「旬な、注目の OSS」&lt;/strong&gt; をテーマに、 開発コミュニティの当事者と、これからOSS
+      を学びたい人との交流・相互理解を通じて、 共に見識を高めるための勉強会＆セミナーイベントです。&lt;/p&gt;
+      &lt;p&gt;第31回の開催となる今回は”オープンソースプロジェクトを支える言語たち”をテーマに据え、&lt;strong&gt;”プログラミング言語 Rubyの生みの親”である まつもとゆきひろ氏&lt;/strong&gt; や、 &lt;strong&gt;日本最大のJavaユーザーグループ代表 谷本心氏&lt;/strong&gt; 、 &lt;strong&gt;日本最大規模のPythonカンファレンスPyCon JP主催 鈴木たかのり氏&lt;/strong&gt; といった第一人者の方々をお招きして開催いたします。&lt;/p&gt; &lt;h1&gt;アジェンダ &lt;font size=&quot;1&quot;&gt;※1セッション45分(講演40分、質疑応答5分)となります。またセッションごとに5分間の休憩を挟みます。&lt;/font&gt;&lt;br&gt;&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;■　13:00-13:15&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;開会・ご挨拶&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;吉岡 信和氏 / 早稲田大学 理工学術院総合研究所 研究院教授&lt;/strong&gt;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;■　13:15-14:00&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://technomado.jp/wp-content/uploads/20210720102512/matsumoto.jpg&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;基調講演『改めて学ぶオープンソースの秘密』&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;まつもと ゆきひろ氏 / 一般財団法人Rubyアソシエーション代表理事&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;オープンソースという言葉が誕生して２３年、オープンソースは一般化し、社会はOSSなくして継続できない状態にまでなりました。しかし、オープンソースがどうやって成立しているのか、できること、できないことなど、きちんと知る機会は意外にありません。 今回の講演では、フリーソフトウェアからオープンソースに渡る長い経験から学んでオープンソースの秘密を解説します。&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;■　14:05-14:50&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://technomado.jp/wp-content/uploads/20210720102516/takahashi.jpg&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;講演『オープン化が進むC++の現状と展望』&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;高橋 晶氏 / cpprefjp(C++)コミュニティ コアメンバ&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;ISOで標準化されるC++言語は、その策定のための議論が徐々にオープン化してきており、それによって言語の進化が加速しています。言語の進化や時代の変化にともない、オープンソース・ライブラリの作られ方・使われ方がどう変化してきているのか、C++が活躍する場がどう変化してきているのか、今後どうなっていくのかをお話しします。&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;■　14:55-15:40&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://technomado.jp/wp-content/uploads/20210720102513/suzuki.jpg&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;講演『Pythonの現在とこれからと』&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;鈴木 たかのり氏 / 一般社団法人PyCon JP Association 副代表理事&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Pythonは1991年にリリースされてから30年経っていますが、現在も開発が活発に継続しています。 しかしその裏では開発運営体制の変更などもありました。 現在Pythonの開発はどのように運用されているのか、その中で最近の大きな機能追加や今後のどのように発展していく予定かについて紹介したいと思います。&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;■　15:45-16:30&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://technomado.jp/wp-content/uploads/20210720102514/tanimoto.jpg&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;講演『26 Java Years - これが今のJavaだ！』&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;谷本 心氏 / 日本Javaユーザーグループ代表&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;1995年に生まれたJava言語は、2006年にオープンソース化され、いまでもエンタープライズ系システムを中心に根強く利用されています。この四半世紀の間に様々な話題があり、特に最近ではライセンス形態の変更により有償化されるという誤解を招いて大きな話題となりましたが、引き続き無償で使える言語であることに変わりありません。 本セッションでは、Javaの歴史を振り返りながら、オープンソースで生まれたアイデアが標準機能として取り込まれる潮流や、現在のライセンス形態を踏まえたJavaとの向き合い方について話します。&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;■　16:35-17:20&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://technomado.jp/wp-content/uploads/20210720102515/shimizu.jpg&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;講演『エコシステムと WebAssembly』&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;chikoski氏 / WebAssembly Night、Rust.Tokyo 主催&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;WebAssembly(Wasm) とは、安全かつ効率的に実行されるポータブルなバイナリフォーマットです。 ファイルフォーマットに加えて、仮想マシンの命令セットやメモリモデル、テキスト表現も仕様で定義されています。&lt;/p&gt; &lt;p&gt;この様に比較的低レイヤー寄りの技術ながら、Wasm への注目が高まっています。用途も、当初想定されていた Web フロントエンドでの利用に加えて、サーバレス環境やエッジ処理、アプリのプラグインなどへと広がっています。他の言語のエコシステムを間接的に利用できるようになることも一つの理由であるように思います。このセッションでは、Wasm の現状について仕様と利用例の面から概観し、エコシステムに与える影響について私の理解を共有したいと考えています。&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;■　17:20-17:30&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;閉会・ご挨拶&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;SCSK株式会社 R&amp;amp;Dセンター&lt;/strong&gt;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;■　17:30-18:30&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;交流会&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;セミナー終了後、オンラインでの交流会を予定しております。&lt;/p&gt; &lt;p&gt;本交流会では講演者の方にも参加いただきますので、 ぜひ、情報交換やネットワーキングの機会としてお気軽にご参加ください。&lt;/p&gt; &lt;h1&gt;OSS X Users Meeting 過去の開催内容&lt;/h1&gt; &lt;p&gt;本勉強会シリーズについてのご紹介、ならびに、過去の開催レポートについては以下 をご参照ください。&lt;/p&gt; &lt;p&gt;・OSSユーザーのための勉強会（OSS X Users Meeting）とは&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://technomado.jp/tech/5417/?utm_source=connpass&amp;amp;utm_medium=referral&amp;amp;utm_campaign=20210825_ossx&quot; rel=&quot;nofollow&quot;&gt;https://technomado.jp/tech/5417/&lt;/a&gt; 　&lt;/p&gt; &lt;p&gt;・#30 ～ここから広がる量子コンピュータの世界～　アフターレポート&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://technomado.jp/tech/8533/?utm_source=connpass&amp;amp;utm_medium=referral&amp;amp;utm_campaign=20210825_ossx&quot; rel=&quot;nofollow&quot;&gt;https://technomado.jp/tech/8533/&lt;/a&gt; &lt;/p&gt; &lt;h1&gt;個人情報の取り扱いについて&lt;/h1&gt; &lt;p&gt;◆本セミナーの運営事務局を担当しているSCSK株式会社は、個人情報 (氏名、所属、メールアドレスなど) を、 個人情報保護法、および、当社プライバシーポリシーに従い適切に取り扱います。 &lt;a href=&quot;https://www.scsk.jp/privacy.html&quot; rel=&quot;nofollow&quot;&gt;https://www.scsk.jp/privacy.html&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://oss-x-users-meeting.connpass.com/event/218793/'/>
+    <published>
+      2021-10-29T16:02:51+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://ginza-rails.connpass.com/event/226024/
@@ -27,7 +172,7 @@
     </content>
     <link rel='alternate' type='text/html' href='https://ginza-rails.connpass.com/event/226024/'/>
     <published>
-      2021-10-29T08:52:56+09:00
+      2021-10-29T12:01:55+09:00
     </published>
   </entry>
   <entry>
@@ -162,50 +307,6 @@
     <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/227733/'/>
     <published>
       2021-10-29T08:46:42+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://camphor.connpass.com/event/223581/
-    </id>
-    <title>
-      【pixiv】Webフロントエンドを学ぼう ~ CSSアニメーション・画像変換・配信エンジン ~
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;今回はピクシブ株式会社のエンジニアの方をお呼びして&lt;/p&gt; &lt;ul&gt; &lt;li&gt;トーク:
-      ImageFluxのしくみ&lt;/li&gt; &lt;li&gt;ハンズオン: これから始めるCSSアニメーション&lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;の2本立てでお話しいただきます！&lt;/p&gt;
-      &lt;h3&gt;参加枠に関して&lt;/h3&gt; &lt;h4&gt;YouTube配信枠&lt;/h4&gt;
-      &lt;p&gt;&lt;strong&gt;学生に限らず&lt;/strong&gt;参加していただくことができます！
-      YouTubeでの配信を予定しており、アーカイブに関しては未定です。&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;イベント前日までにメールでお知らせします&lt;/strong&gt;&lt;/p&gt;
-      &lt;h4&gt;Zoom枠&lt;/h4&gt;
-      &lt;p&gt;&lt;strong&gt;学生限定&lt;/strong&gt;の枠になっています。講師に直接質問をすることができるため、学生の方はZoom枠での参加をお勧めします！また、Zoom枠で抽選にもれてしまった場合も配信URLをお送りします！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;ZoomのURLはイベント前日にメールでお知らせします&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;ImageFluxのしくみ&lt;/h2&gt; &lt;p&gt;画像変換・配信エンジンImageFluxについて、何がうれしいのか、どうやって使うのか、どういう仕組みで動いているのか、を紹介します。&lt;/p&gt; &lt;h4&gt;対象&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;HTMLがそれなりにわかって、自分でいちおう書ける&lt;/li&gt; &lt;li&gt;Webで利用される画像形式についてざっくりと知識がある&lt;/li&gt; &lt;li&gt;画像をコンテンツに含むWebサービスの開発に興味がある&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;事前準備&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;特になし&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;講師/アシスタント&lt;/h4&gt; &lt;p&gt;usa (&lt;a href=&quot;https://twitter.com/unak&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/unak&lt;/a&gt;)&lt;/p&gt; &lt;p&gt;ピクシブ株式会社 技術開発本部 配信技術部のマネージャーという肩書のプログラマ。 業務では主に画像処理周りのサーバサイド側の開発を行っている。 業務外ではRubyというプログラミング言語処理系のコミッタをしてたり。&lt;/p&gt; &lt;h2&gt;これから始めるCSSアニメーション&lt;/h2&gt; &lt;p&gt;リッチなWebページを作るための、CSSアニメーションを使ったページ演出についてお話します。&lt;/p&gt; &lt;h4&gt;対象&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;モダンなCSSコーディングが問題なくできる&lt;/li&gt; &lt;li&gt;何かしらのデザインツールを使ったことがある&lt;/li&gt; &lt;li&gt;CSSアニメーションを使ったページの演出に興味がある&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;事前準備&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;最低限、HTML/CSSのコーディングが出来る環境（ローカル環境だけでなく、codepenなどのweb上でコーディングが出来る環境も可）&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;講師/アシスタント&lt;/h4&gt; &lt;p&gt;yui540(&lt;a href=&quot;https://twitter.com/yui540&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/yui540&lt;/a&gt;)&lt;/p&gt; &lt;p&gt;マーケティング＆ユーザーグロース事業部 プレミアムサービス部所属のフロントエンドエンジニア。 サービス開発以外にも、部署を問わず社内でCSSアニメーションを活かしたリッチなLP制作にも多数関わっている。&lt;/p&gt; &lt;h2&gt;イベント参加の注意事項&lt;/h2&gt; &lt;p&gt;こちらのイベントのZoom枠に関しては&lt;strong&gt;30歳以下の学生のみ&lt;/strong&gt;を対象にしております。&lt;/p&gt; &lt;p&gt;Zoom枠の方はZoomリンクをイベント前日にお送りいたしますのでそちらよりご参加ください。YouTubeの配信リンクはメールでのお知らせの他、connpass内の「参加者への情報」の欄にも記載をします。&lt;/p&gt; &lt;p&gt;Zoom枠の方は当日は下記スケジュールの14:45までにZoomにお入りください。&lt;/p&gt; &lt;h2&gt;スケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;スケジュール内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;14:30～14:45&lt;/td&gt; &lt;td&gt;接続開始&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:45～15:00&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:00～15:30&lt;/td&gt; &lt;td&gt;ImageFluxのしくみ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:30～15:40&lt;/td&gt; &lt;td&gt;休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:40～17:10&lt;/td&gt; &lt;td&gt;これから始めるCSSアニメーション&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:10～17:40&lt;/td&gt; &lt;td&gt;質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;CAMPHOR- Code of Conduct&lt;/h2&gt; &lt;p&gt;CAMPHOR-が主催するイベントに参加する際は、CAMPHOR- Code of Conductに同意していただく必要があります。以下のリンクよりご確認ください。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/camphor-/code-of-conduct&quot; rel=&quot;nofollow&quot;&gt;https://github.com/camphor-/code-of-conduct&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;ピクシブ株式会社について&lt;/h2&gt; &lt;p&gt;「pixiv」は「創作活動がもっと楽しくなる場所を創る」という理念のもと、作品（イラスト・マンガ・小説）を介したコミュニケーションにフォーカスした、クリエイターのためのSNS（ソーシャルネットワーキングサービス）です。 2007年9月に開始され、現在7100万人を超えるユーザーが登録し、総作品数は1億作品以上にのぼり、世界中のユーザーに利用されてるプロダクトとして運営されています。&lt;/p&gt; &lt;h2&gt;CAMPHOR-について&lt;/h2&gt; &lt;p&gt;CAMPHOR-は京都の町家を拠点に活動する、京都のエンジニアやデザイナーを目指す学生向けコミュニティです。 CAMPHOR- HOUSEというコミュニティスペースを運営しており、個人の作業や技術的な雑談などのコミュニケーションを気軽に取ることができるスペースになっています。また、学生主体の勉強会や企業の方をお呼びしたトークイベントなどを開催しています。&lt;/p&gt; &lt;h2&gt;関連リンク&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://www.pixiv.co.jp/&quot; rel=&quot;nofollow&quot;&gt;ピクシブ株式会社&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://camph.net/&quot; rel=&quot;nofollow&quot;&gt;CAMPHOR-&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://camphor.connpass.com/event/223581/'/>
-    <published>
-      2021-10-28T23:12:14+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://appbrew.connpass.com/event/229089/
-    </id>
-    <title>
-      2CMeetup 〜C向けスタートアップのエンジニアが語る！サービス開発秘話〜
-    </title>
-    <summary>
-      AppBrew,YOUTRUST,ミラティブの3社のメンバーによるトークセッション
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;「2CMeetup」とは？&lt;/h1&gt; &lt;ul&gt;
-      &lt;li&gt;toCサービスのスタートアップのメンバーが集い、日々の業務を通して感じる課題やそれを解決する知見や事例をシェアするオンラインイベントです。&lt;/li&gt; &lt;li&gt;初開催の今回は開発編。「C向けスタートアップのエンジニアが語る！サービス開発秘話」をサブタイトルに、LIPS、ミラティブ、YOUTRUSTのtoCサービスならではの開発秘話を3社のCTO、PM、エンジニアによるトークセッション形式で話します。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;視聴方法&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;当イベントは、Zoom にて配信予定です&lt;/li&gt; &lt;li&gt;ご案内の際にお送りするメールに視聴URLを記載しています&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;C向けサービス開発が好きなエンジニア・PMの方&lt;/li&gt; &lt;li&gt;他社の開発体制に興味のある方&lt;/li&gt; &lt;li&gt;AppBrew、ミラティブ 、YOUTRUSTで働くことに興味のある方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;タイムスケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20&lt;/td&gt; &lt;td&gt;配信開始&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30 - 19:35&lt;/td&gt; &lt;td&gt;ご挨拶・はじめに&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35 - 20:05&lt;/td&gt; &lt;td&gt;トークセッション「スタートアップのフェーズ別！プロダクト組織と体制について」&lt;/td&gt; &lt;td&gt;株式会社ミラティブ 横手 良太 CTO &lt;br&gt;株式会社YOUTRUST 佐々木 紀和 PdM &lt;br&gt;株式会社AppBrew 堀江慧 CTO&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:05 - 20:35&lt;/td&gt; &lt;td&gt;トークセッション「CGM・コミュニティサービスにおけるユーザーへのおすすめコンテンツ配信について」&lt;/td&gt; &lt;td&gt;株式会社YOUTRUST 水野 廉也 エンジニア&lt;br&gt;株式会社ミラティブ 立野 雅紘 サーバエンジニア&lt;br&gt;株式会社AppBrew 堀江慧 CTO&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:35 ~&lt;/td&gt; &lt;td&gt;パネルディスカッション・Q&amp;amp;A&lt;/td&gt; &lt;td&gt;登壇者5名&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;登壇者紹介&lt;/h1&gt; &lt;p&gt;（企業名50音順）&lt;/p&gt; &lt;h2&gt;株式会社AppBrew&lt;/h2&gt; &lt;h3&gt;堀江慧(pin) CTO &lt;a href=&quot;https://twitter.com/spinute&quot; rel=&quot;nofollow&quot;&gt;@spinute&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;東京大学総合文化研究科修了後、Murakumo社に入社。分散RDBMS・分散ジョブ処理系のフルスクラッチ開発プロジェクトに従事。プライベートではOpen Date Structuresの翻訳や、Ruby処理系の改善（GSoC 2016)等に取り組んだ。 2019年6月にAppBrewに入社。検索機能やレコメンド機能等の改善を行いつつ、2C向け開発チームのリードを務める。&lt;/p&gt; &lt;h2&gt;株式会社ミラティブ&lt;/h2&gt; &lt;h3&gt;横手 良太 CTO &lt;a href=&quot;https://twitter.com/n0mimono&quot; rel=&quot;nofollow&quot;&gt;@n0mimono&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;早稲田大学大学院修了。機械学習の分野で博士号取得後、助手として研究活動、論文執筆を行う。2014年に株式会社DONUTSに入社し、スマートフォンゲーム開発に従事。2017年より技術部部長。2018年7月ミラティブ参画し、ミラティブのアバター機能「エモモ」の開発をリード。2021年4月にCTOに就任。&lt;/p&gt; &lt;h3&gt;立野 雅紘 サーバエンジニア&lt;a href=&quot;https://twitter.com/hirota982&quot; rel=&quot;nofollow&quot;&gt;@hirota982&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;慶応大学理工学部情報工学科卒業後、技術系スタートアップ、DeNA、BCGにてエンジニアとして事業開発、プロダクト開発に従事。2019年1月、ミラティブにジョイン。現在は新規プロジェクトのサーバサイドの開発を務める。&lt;/p&gt; &lt;h2&gt;株式会社YOUTRUST&lt;/h2&gt; &lt;h3&gt;佐々木 紀和(zoo) PdM/プロダクト採用責任者 &lt;a href=&quot;https://twitter.com/petenshi1986&quot; rel=&quot;nofollow&quot;&gt;@petenshi1986&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;東京大学大学院修了。2013年に株式会社ディー・エヌ・エーに入社。EC事業本部において新規事業の開発に携わる。2016年より子会社である株式会社ペロリに出向。2018年より株式会社MERYの開発部部長。2021年7月にYOUTRUSTにジョインし、プロダクト組織開発に従事。&lt;/p&gt; &lt;h3&gt;水野 廉也 エンジニア &lt;a href=&quot;https://twitter.com/renyamizuno_&quot; rel=&quot;nofollow&quot;&gt;@enyamizuno_&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;名古屋という辺境の地の専門学校卒。2014年に某SIerに入社し半年で退職。その後、Misoca(現在は弥生株式会社)に転職。Misocaの開発やその他サブのプロダクトの開発・運用等々。2019年に株式会社キャスターにてbosyuの開発・運用等々。2021年9月にYOUTRUSTにジョインし、開発しつつ「やっとるか？」というのをやってる。&lt;/p&gt; &lt;h1&gt;登壇企業の会社情報&lt;/h1&gt; &lt;h2&gt;株式会社AppBrew&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://appbrew.io/&quot; rel=&quot;nofollow&quot;&gt;コーポレートサイト&lt;/a&gt; &lt;br&gt; &lt;a href=&quot;https://herp.careers/v1/appbrew&quot; rel=&quot;nofollow&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;株式会社ミラティブ&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.mirrativ.co.jp/&quot; rel=&quot;nofollow&quot;&gt;コーポレートサイト&lt;/a&gt;&lt;br&gt; &lt;a href=&quot;https://www.mirrativ.co.jp/recruit/&quot; rel=&quot;nofollow&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;株式会社YOUTRUST&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://youtrust.co.jp/&quot; rel=&quot;nofollow&quot;&gt;コーポレートサイト&lt;/a&gt;&lt;br&gt; &lt;a href=&quot;https://career.youtrust.co.jp/&quot; rel=&quot;nofollow&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;各社プライバシーポリシー&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://lipscosme.com/privacy_policy&quot; rel=&quot;nofollow&quot;&gt;AppBrewプライバシーポリシー&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://mirrativtmbr.tumblr.com/post/172409545523/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC&quot; rel=&quot;nofollow&quot;&gt;ミラティブプライバシーポリシー&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://youtrust.jp/privacy_policy&quot; rel=&quot;nofollow&quot;&gt;YOUTRUSTプライバシーポリシー&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://appbrew.connpass.com/event/229089/'/>
-    <published>
-      2021-10-28T18:58:50+09:00
     </published>
   </entry>
   <entry>
@@ -352,80 +453,6 @@
     <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/223691/'/>
     <published>
       2021-10-27T20:20:52+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://love-kotlin.connpass.com/event/227953/
-    </id>
-    <title>
-      集まれKotlin好き！Kotlin愛好会 vol.32 @オンライン
-    </title>
-    <summary>
-      10月もみんなで楽しくオンラインでワイワイ！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
-      Live)で開催いたします。 よい機会ですので、普段参加出来ない地方の方々など幅広い参加を募集いたします！&lt;/p&gt;
-      &lt;h2&gt;イベント概要&lt;/h2&gt;
-      &lt;p&gt;Kotlin好きで集まって、飲み物片手にKotlinについて語り合い、愛でましょう！！！&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;Kotlinからプログラミングを始めた方&lt;/li&gt;
-      &lt;li&gt;Java時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（JaveScript, Ruby,
-      etc...）をやりながらKotlinを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;Kotlin全般に関するお話や、AndroidやサーバーサイドにおいてKotlinを活用するお話をする
-      &quot;Kotlin談義&quot;（絶賛登壇者募集中！資料ナシでもOK）、そしてKotlin仲間をつくる懇親会で楽しみましょう〜
-      ^^/&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt;
-      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Kotlin Mascotがキタ！&lt;/td&gt; &lt;td&gt;jollyjoester&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Androidエンジニアとして 一年前の自分に伝えたいこと&lt;/td&gt; &lt;td&gt;Naoyuki_Tsuruo&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Safe Kotlin聞いてみた at DroidKaigi2021&lt;/td&gt; &lt;td&gt;jollyjoester&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Kotlin 2021 Premier Online Eventについて紹介&lt;/td&gt; &lt;td&gt;masaruhr&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■主催プロフィール&lt;/h2&gt; &lt;p&gt;七島 偉之 (@jollyjoester)&lt;/p&gt; &lt;p&gt;みんなでもっとKotlinを楽しめるようなネタを探してます！ かんぱいやー（勉強会で乾杯をする人）として、乾杯の力でKotlin好きの輪を広めています。&lt;/p&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live URL: &lt;a href=&quot;https://youtu.be/zLVeDhGTMB4&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/zLVeDhGTMB4&lt;/a&gt; &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://love-kotlin.connpass.com/event/227953/'/>
-    <published>
-      2021-10-27T19:51:00+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://kobe-sannomiya-dev.connpass.com/event/227757/
-    </id>
-    <title>
-      【三宮.dev オンライン】ついに出たぜNuxt3！Nuxt.js LT大会
-    </title>
-    <summary>
-      違いを見てみよう！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;概要&lt;/h1&gt; &lt;p&gt;ついにβ版が公開されたNuxt3！&lt;/p&gt;
-      &lt;p&gt;Nuxt2の頃とどう変わったのかをみんなで体験していきましょう！&lt;/p&gt;
-      &lt;p&gt;また、Nuxt3に関するLT枠を設けますのでいち早く触られた方は遠慮なく発表していってください！&lt;br&gt;
-      LTは大体10～15分程度で収まるようにしていただけると嬉しいです m( _ _ )m&lt;/p&gt;
-      &lt;h1&gt;対象者&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;javascript, Vue.js,
-      Nuxtjsに興味がある方&lt;/li&gt; &lt;li&gt;普段からjavascriptを使われている方&lt;/li&gt;
-      &lt;/ul&gt; &lt;h1&gt;開催場所&lt;/h1&gt; &lt;p&gt;オンライン（discord）&lt;/p&gt;
-      &lt;h1&gt;タイムスケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;14:00 〜&lt;/td&gt;
-      &lt;td&gt;勉強会開始&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;時間余ってたら&lt;/td&gt; &lt;td&gt;自己紹介 &amp;amp;
-      雑談しながらNuxt触る時間&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
-      &lt;h1&gt;LTする人&lt;/h1&gt; &lt;p&gt;順番に要望あれば言ってもらえれば応えます&lt;/p&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;#&lt;/th&gt;
-      &lt;th&gt;発表者&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt;
-      &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;てさお&lt;/td&gt; &lt;td&gt;Nitro Engineを深堀る&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td&gt;2&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt;
-      &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;3&lt;/td&gt;
-      &lt;td&gt;T.B.D&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td&gt;4&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt;
-      &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;T.B.D&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;三宮.devとは&lt;/h1&gt;
-      &lt;p&gt;神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです&lt;/p&gt;
-      &lt;p&gt;バックエンド～フロントエンドまで幅広い技術をテーマにしたイベントを企画・開催しています！&lt;/p&gt;
-      &lt;p&gt;毎月のイベントに関する情報などは&lt;a
-      href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;三宮.devのslack&lt;/a&gt;にて発信してますので是非ともご参加ください！&lt;/p&gt; &lt;p&gt;また、勉強会中に得た学びやハンズオンで用いた資料などメンバーが個人的に残しておきたいと思った情報は&lt;a href=&quot;https://scrapbox.io/sannomiya-dev/&quot; rel=&quot;nofollow&quot;&gt;三宮.devのScrapbox&lt;/a&gt; へ自由にアップロード可能としていますので、こちらもご活用ください！&lt;/p&gt; &lt;h1&gt;主催者プロフィール&lt;/h1&gt; &lt;h3&gt;てさお &lt;a href=&quot;https://twitter.com/tettyanman&quot; rel=&quot;nofollow&quot;&gt;@tettyanman&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;神戸で働くエンジニア&lt;br&gt; Vus.js, Ruby, Rust, xR系技術 が好き&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;me&quot; src=&quot;https://avatars.githubusercontent.com/tessai9?s=200&quot;&gt;&lt;/p&gt; &lt;h1&gt;slack&lt;/h1&gt; &lt;p&gt;三宮.devのslackあります&lt;br&gt; &lt;a href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;ご興味あればぜひご参加ください！&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;禁止事項、アンチハラスメントポリシー&lt;/h1&gt; &lt;p&gt;当コミュニティでは以下の行為を禁止させていただいております&lt;/p&gt; &lt;ul&gt; &lt;li&gt;勧誘や告知目的での参加&lt;/li&gt; &lt;li&gt;荒らし行為&lt;/li&gt; &lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://kobe-sannomiya-dev.connpass.com/event/227757/'/>
-    <published>
-      2021-10-27T18:17:03+09:00
     </published>
   </entry>
 </feed>
