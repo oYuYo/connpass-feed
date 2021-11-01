@@ -9,8 +9,51 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2021-10-31T00:22:28+00:00
+    2021-11-01T00:22:59+00:00
   </updated>
+  <entry>
+    <id>
+      https://mame-coffee-programing.connpass.com/event/229621/
+    </id>
+    <title>
+      オンラインもくもく会【コーヒー飲みながら参加しませんか？】49回目
+    </title>
+    <summary>
+      オンラインでもくもく勉強しませんか？入退室自由、ビデオオフでもOK※コーヒーは必須ではありません
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;オンラインで一緒にもくもく勉強しませんか？&lt;/h1&gt;
+      &lt;p&gt;〜毎週日曜日のお昼からは一緒にもくもく会をしませんか？〜&lt;/p&gt;
+      &lt;p&gt;1人でやるよりもみんなでやった方が集中できるはず！
+      12月から始めたこのオンラインもくもく会も第49回目となりました。&lt;/p&gt;
+      &lt;p&gt;1人だとだらけてしまう・・。でも大人数は少し気が引けるし・・。 そんな方でも安心してご参加いただけるかと思います。
+      強制的に勉強する環境を作っちゃいましょう！&lt;/p&gt;
+      &lt;p&gt;もちろん、ビデオオフでも問題ありませんし、ゆるゆるのもくもく会なのでお気軽にご参加いただけます！
+      コーヒーも自由です笑&lt;/p&gt; &lt;p&gt;参加する方も本当に様々で幅広い領域や経験の方がいらっしゃいます！&lt;/p&gt;
+      &lt;p&gt;質問も自由にしていただいて構いません。&lt;/p&gt; &lt;p&gt;完全無料かつ勧誘などもありませんのでご安心ください。
+      大学の課題をするでもよし、家計簿つけるという溜まった作業をするのもよし！ バリバリのハッカーの方も
+      Progateでつまづいている初心者の方もお気軽にご参加ください。&lt;/p&gt;
+      &lt;p&gt;入退室自由です。ご都合の良いタイミングでご参加いただければと思います。&lt;/p&gt;
+      &lt;p&gt;参加申込後、各種リンクをお知らせいたします。&lt;/p&gt;
+      &lt;p&gt;当日はGoogleMeetを利用しますのでGoogleアカウントをご用意ください。&lt;/p&gt;
+      &lt;p&gt;ではレッツもくもく〜♪&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt;
+      &lt;p&gt;１．「このイベントに申し込む」ボタンから参加申込&lt;br&gt; ２．このイベントページに戻る&lt;br&gt;
+      ３．「参加者への情報」欄からGoogle MeetとSlackのリンクをクリック&lt;/p&gt;
+      &lt;p&gt;※ご注意※&lt;br&gt; Google・Slackのアカウント名を事前にご確認ください。&lt;br&gt;
+      特に本名を公開したくない方は、名前変更、もしくは新規アカウントを作成いただくことをお勧めいたします。&lt;/p&gt;
+      &lt;h2&gt;当日の大まかなスケジュール&lt;/h2&gt; &lt;p&gt;13:00
+      自己紹介・今日やることの共有(Slackにて)&lt;br&gt; 13:10 開始挨拶〜もくもくタイム前半戦&lt;br&gt; 15:30
+      雑談タイム&lt;br&gt; 16:00 もくもくタイム後半戦&lt;br&gt; 17:30 報告会・雑談&lt;br&gt; 18:00
+      自由退出・おしゃべりタイム（オンライン飲み会に近い？？）&lt;/p&gt; &lt;h2&gt;もくもく会参考キーワード&lt;/h2&gt;
+      &lt;p&gt;JavaScript(React.js, Vue.js) html, css, scss, Bootstrap
+      Java(Spring), Kotlin Swift, C#, Unity, C++ Ruby(Ruby on Rails) PHP
+      (Laravel)WordPress Python(Django) もくもく会 オンライン まったり 初心者歓迎&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mame-coffee-programing.connpass.com/event/229621/'/>
+    <published>
+      2021-10-31T13:53:38+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://c-sagyoba-benkyoukai.connpass.com/event/229563/
@@ -385,25 +428,6 @@
     <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/229287/'/>
     <published>
       2021-10-28T17:01:33+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://ginza-rails.connpass.com/event/229348/
-    </id>
-    <title>
-      【オンライン開催】銀座Rails#39
-    </title>
-    <summary>
-      月1回実施する、Ruby on Railsの登壇/発表コミュニティです。
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;内容&lt;/h2&gt;
-      &lt;p&gt;銀座Railsは、Railsについての知識を交換し、日々の開発に役立てていこうという人々の集まるコミュニティです。&lt;/p&gt; &lt;h2&gt;登壇者募集&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://ginzarails.page.link/moke&quot; rel=&quot;nofollow&quot;&gt;銀座Rails #39 登壇公募フォーム&lt;/a&gt;をご確認の上ご応募下さい。&lt;/p&gt; &lt;p&gt;ご登壇頂いた方には、銀座Rails Tシャツかパーカーのうちどれか一つ、お好きなものをプレゼント致します。 &lt;a href=&quot;https://suzuri.jp/ginzarails&quot; rel=&quot;nofollow&quot;&gt;https://suzuri.jp/ginzarails&lt;/a&gt; ※発送は銀座Rails実施後になります&lt;/p&gt; &lt;p&gt;『こんな内容で大丈夫だろうか』『発表枠が長いので相談したい』などのご心配がありましたら、 Twitter &lt;a href=&quot;https://twitter.com/GinzaRails&quot; rel=&quot;nofollow&quot;&gt;@GinzaRails&lt;/a&gt;までDM等でご相談下さい。 (先着順のため、相談中の枠の完売につきましてはご容赦下さい)&lt;/p&gt; &lt;h2&gt;タイムテーブル（随時更新）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Time&lt;/th&gt; &lt;th&gt;Description&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;18:30 -&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:00 -&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;登壇者募集中です。&lt;br&gt;&lt;a href=&quot;https://ginzarails.page.link/moke&quot; rel=&quot;nofollow&quot;&gt;銀座Rails #39 登壇公募フォーム&lt;/a&gt;よりご応募お待ちしています。&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;招待講演&lt;/td&gt; &lt;td&gt;ゲストスピーカー 伊藤 浩一 (&lt;a href=&quot;https://twitter.com/koic&quot; rel=&quot;nofollow&quot;&gt;@koic&lt;/a&gt;)さん&lt;br&gt;&lt;b&gt;「動いた！」の先へ踏み出す、システムのメンテナビリティ向上の基礎技術&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;本編終了後&lt;/td&gt; &lt;td&gt;オンライン懇親会(Zoomにて)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※ 運営の都合により変更がある場合がございます。予めご了承下さい。&lt;/p&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;ZOOMを用いたリモート開催となります。&lt;br&gt;&lt;br&gt; ZOOMのウェビナー機能を利用致します。参加時に表示名とメールアドレスの入力が必要となります。恐れ入りますがご了承下さい。&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;開場時間前後になりますと、本connpassにご登録されたアドレスに、参加のためのURLが配布されますので、そちらを用いてJoinをお願い致します。&lt;br&gt; &lt;b&gt;no-reply@connpass.com からのメールが迷惑メールフォルダ等に入らないよう、ご注意下さい。&lt;/b&gt;&lt;/p&gt; &lt;h2&gt;Sponsors&lt;/h2&gt; &lt;p&gt;調整中&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://ginza-rails.connpass.com/event/229348/'/>
-    <published>
-      2021-10-28T13:42:12+09:00
     </published>
   </entry>
 </feed>
