@@ -9,8 +9,53 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2021-11-20T00:21:22+00:00
+    2021-11-21T00:23:00+00:00
   </updated>
+  <entry>
+    <id>
+      https://hatena.connpass.com/event/230919/
+    </id>
+    <title>
+      Hatena Engineer Seminar #17 はてラボの裏側編
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;今回は、はてなのラボサービス｢はてラボ｣にまつわる話題をお送りします。エンジニアだけでなくディレクターも交えて、既存のラボサービスの改善やラボサービスの新規立ち上げといった話題を通して、はてなとラボサービスの裏側を垣間見ることができる内容となっています。&lt;/p&gt; &lt;p&gt;今回も昨今の事情を鑑みてオンラインでの開催となりますが、希望する方には最後に登壇者と歓談できる時間をご用意いたします。皆様のご参加をお待ちしております。&lt;/p&gt; &lt;h1&gt;Hatena Engineer Seminar とは&lt;/h1&gt; &lt;p&gt;Hatena Engineer Seminar は、はてなのサービスを開発する上で、エンジニアがどのような事を考えているのか、どのような働き方をしているのかを語るイベントです。過去にも様々な技術レイヤーやサービスを軸としたテーマなどで開催してきました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://developer.hatenastaff.com/archive/category/Hatena%20Engineer%20Seminar&quot; rel=&quot;nofollow&quot;&gt;過去の Hatena Engineer Seminar に関する記事一覧&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;はてラボとは&lt;/h2&gt; &lt;p&gt;「はてラボ」は、正式サービスではない、はてなの実験的サービス置き場です。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;稼働中の本サービスに導入することが難しい新規機能を先行して実装する&lt;/li&gt; &lt;li&gt;本サービスとは異なるルールやポリシーに基づいてサービスを提供する&lt;/li&gt; &lt;li&gt;本サービスとして継続提供することが難しくなったサービスを、規模を縮小した形で提供し、ラボならではの挑戦的な施策を導入し再生を図る&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;といった、広義の実験的プロジェクトや実証実験の場としても使われています。&lt;/p&gt; &lt;p&gt;「はてラボ」には、更新チェックツール「はてなアンテナ」、名前を隠して記事を投稿できる「はてな匿名ダイアリー」、ブックマークレットの作成・公開サービス「Hatena::Let」などがあります。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://hatelabo.jp/&quot; rel=&quot;nofollow&quot;&gt;はてラボ&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://labo.hatenastaff.com/&quot; rel=&quot;nofollow&quot;&gt;はてラボ　開発者ブログ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;日時: 11月25日(木) 19:00-20:30（予定）&lt;/li&gt; &lt;li&gt;参加費: 無料&lt;/li&gt; &lt;li&gt;開催形式: オンライン配信 YouTube Live 『HatenaTech チャンネル』にて&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCwqsFJGxzAZQdcT1xYZhhbw&quot; rel=&quot;nofollow&quot;&gt;https://www.youtube.com/channel/UCwqsFJGxzAZQdcT1xYZhhbw&lt;/a&gt;&lt;/li&gt; &lt;li&gt;開催当日に connpass に登録されているメールアドレスや Twitter の @hatenatech アカウントにて配信 URL を共有いたします&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;ハッシュタグ: &lt;code&gt;#hatenatech&lt;/code&gt;&lt;ul&gt; &lt;li&gt;ブログを書く際や Tweet 時にぜひお使いください&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;歓談タイムについて&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;発表終了後, 登壇者と約30分の歓談タイムをご用意します&lt;ul&gt; &lt;li&gt;歓談タイムでは, Google Meetを利用します。予めご準備ください&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;参加を希望する方は, ｢オンライン参加枠 (歓談タイム参加希望)｣で参加登録をしてください&lt;/li&gt; &lt;li&gt;歓談タイムに利用するGoogle MeetのURLをご連絡するため、お手数をおかけいたしますが申し込みの際に連絡先となるメールアドレスの指定をお願いいたします&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;発表内容詳細&lt;/h1&gt; &lt;h2&gt;「おもしろがり」からのサービスリリース 〜てがきはてなブログの場合〜 (&lt;a href=&quot;https://tegaki.hatelabo.jp/&quot; rel=&quot;nofollow&quot;&gt;てがきはてなブログ&lt;/a&gt;) - by id:AirReader&lt;/h2&gt; &lt;p&gt;非エンジニアのディレクターの自由研究からラボリリースに至るまでの軌跡を話します&lt;/p&gt; &lt;p&gt;id:AirReader ｢そこにiPadとApple Pencilがあったから。おもしろがって勝手に作ったアプリケーションでも、ラボでリリースできる、そんな夢のあるお話です。｣&lt;/p&gt; &lt;h2&gt;Hatena::Let の式年遷宮 (&lt;a href=&quot;https://let.hatelabo.jp/&quot; rel=&quot;nofollow&quot;&gt;Hatena::Let&lt;/a&gt;) - by id:onk&lt;/h2&gt; &lt;p&gt;サービスを引き継ぐ際に Perl から Ruby に全て書き換えた裏側にあった目論見と苦労&lt;/p&gt; &lt;p&gt;id:onk ｢今年ははてラボの式年遷宮の年にあたります (式年遷宮とは数十年に一度社殿を建て替えて神様に新宮へお遷りいただく祭祀です)。 ソフトウェアの式年遷宮の狙いと実践について、実体験からお話しします。｣&lt;/p&gt; &lt;h2&gt;吉田を支える技術 (&lt;a href=&quot;https://anond.hatelabo.jp/&quot; rel=&quot;nofollow&quot;&gt;はてな匿名ダイアリー&lt;/a&gt;) - by id:cockscomb&lt;/h2&gt; &lt;p&gt;今年4月、はてな匿名ダイアリーに起きた事件について紹介します&lt;/p&gt; &lt;p&gt;id:cockscomb ｢２、３日後にものすごく長い増田があります。それが終わりの合図です。程なく大きめの本田が来るので気をつけて。それがやんだら、少しだけ間をおいて吉田がきます。｣ (&lt;a href=&quot;https://anond.hatelabo.jp/20180904152738&quot; rel=&quot;nofollow&quot;&gt;出典&lt;/a&gt;)&lt;/p&gt; &lt;h2&gt;はてなアンテナのクラウドジャーニー一合目 (&lt;a href=&quot;https://a.hatena.ne.jp/&quot; rel=&quot;nofollow&quot;&gt;はてなアンテナ&lt;/a&gt;) - by id:motemen&lt;/h2&gt; &lt;p&gt;来年でサービス開始から20周年を迎えるはてなアンテナのクラウド移行について話します&lt;/p&gt; &lt;p&gt;id:motemen ｢ラボサービス入りしてからサービス終了か？ ともささやかれるはてなアンテナですが、私の目の黒いうちはメンテナンスしていきます！｣&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時刻&lt;/th&gt; &lt;th&gt;id&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;時間&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;id:papix&lt;/td&gt; &lt;td&gt;開会の挨拶&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05&lt;/td&gt; &lt;td&gt;id:AirReader&lt;/td&gt; &lt;td&gt;「おもしろがり」からのサービスリリース 〜てがきはてなブログの場合〜&lt;/td&gt; &lt;td&gt;15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:20&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;質問タイム&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:25&lt;/td&gt; &lt;td&gt;id:onk&lt;/td&gt; &lt;td&gt;Hatena::Let の式年遷宮&lt;/td&gt; &lt;td&gt;15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;質問タイム&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:45&lt;/td&gt; &lt;td&gt;id:cockscomb&lt;/td&gt; &lt;td&gt;吉田を支える技術&lt;/td&gt; &lt;td&gt;15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:00&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;質問タイム&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:05&lt;/td&gt; &lt;td&gt;id:motemen&lt;/td&gt; &lt;td&gt;はてなアンテナのクラウドジャーニー一合目&lt;/td&gt; &lt;td&gt;15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:20&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;質問タイム&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:25&lt;/td&gt; &lt;td&gt;id:motemen&lt;/td&gt; &lt;td&gt;閉会の挨拶&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;諸注意&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;事情により内容や形式を変更する場合があります。&lt;/li&gt; &lt;li&gt;お申し込み時やアンケートなどでいただいた個人情報は、&lt;a href=&quot;https://hatenacorp.jp/recruit/privacypolicy&quot; rel=&quot;nofollow&quot;&gt;個人情報の取り扱いについて - 採用情報 - 株式会社はてな&lt;/a&gt;に準じ、セミナーの管理・品質改善・調査・採用のご案内目的に利用いたします。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;みなさまのご参加をお待ちしております！&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://hatena.connpass.com/event/230919/'/>
+    <published>
+      2021-11-21T00:05:21+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://hirakatarb.connpass.com/event/231741/
+    </id>
+    <title>
+      Hirakata.rb #39
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;概要&lt;/h2&gt;
+      &lt;p&gt;Hirakata.rbは大阪府枚方市やその周辺の人々が集まる、朝活スタイルのRubyコミュニティです。
+      RubyやRails、その他周辺知識をワイワイしながら勉強しています。スキルアップの場所にしましょう！&lt;/p&gt;
+      &lt;h2&gt;こんな人にオススメ&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;勉強中に詰まってしまったが周りに質問できる人がいない方&lt;/li&gt;
+      &lt;li&gt;Ruby、Rails、その他周辺のスキルを向上したいエンジニア&lt;/li&gt;
+      &lt;li&gt;人に教えたり一緒に考えたりすることで知識を深めたいエンジニア&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;途中抜け・参加もOKです！&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;自己紹介&lt;ul&gt; &lt;li&gt;呼び名&lt;/li&gt;
+      &lt;li&gt;最近勉強してること、好きなこと、ハマってることなどなんでも&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;
+      &lt;li&gt;ワイワイガヤガヤしながらみんなで勉強&lt;/li&gt; &lt;li&gt;解散&lt;/li&gt;
+      &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://hirakatarb.connpass.com/event/231741/'/>
+    <published>
+      2021-11-20T10:21:22+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://omotesandorb.connpass.com/event/231730/
@@ -230,42 +275,6 @@
     <link rel='alternate' type='text/html' href='https://sendairb.connpass.com/event/230961/'/>
     <published>
       2021-11-19T09:31:35+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://kobe-sannomiya-dev.connpass.com/event/231602/
-    </id>
-    <title>
-      三宮.dev＆bizpy 合同忘年会
-    </title>
-    <summary>
-      今年もありがとう
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;必ずお読みください&lt;/h1&gt; &lt;ul&gt;
-      &lt;li&gt;connpassの仕様上、開催日時を決めていますが参加アンケートにて参加者の希望日をお聞きして、日時を決定する予定です&lt;/li&gt; &lt;li&gt;当日は19時 ～ 21時で開催を予定しております&lt;/li&gt; &lt;li&gt;参加費用の3000円はあくまで目安で、当日全員で割り勘します&lt;/li&gt; &lt;li&gt;開催直前のキャンセル時は、キャンセル料をいただく可能性があります&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;内容&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;今年もお世話になりました！！！！！&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;ということで三宮.dev と &lt;a href=&quot;https://bizpy.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;bizpy&lt;/a&gt; の神戸を拠点としている2コミュニティにて合同で忘年会を開催します！&lt;/p&gt; &lt;p&gt;オフライン開催のため、コロナには気を付けて楽しくお酒を飲みましょう！&lt;/p&gt; &lt;p&gt;なお、開催日時は本イベントの参加アンケートにて集計した結果から決定します。&lt;br&gt; 以下の４日を候補日として開催します&lt;/p&gt; &lt;ul&gt; &lt;li&gt;12/8（水）&lt;/li&gt; &lt;li&gt;12/10（金）&lt;/li&gt; &lt;li&gt;12/15（水）&lt;/li&gt; &lt;li&gt;12/17（金）&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;時間は19時 ～ 21時となる予定です&lt;/p&gt; &lt;p&gt;また、お店に関しては予約が取れ次第、追って連絡いたします&lt;/p&gt; &lt;h1&gt;開催場所&lt;/h1&gt; &lt;p&gt;お店は探し中のため、追って連絡いたします&lt;/p&gt; &lt;h1&gt;三宮.devとは&lt;/h1&gt; &lt;p&gt;神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです&lt;/p&gt; &lt;p&gt;バックエンド～フロントエンドまで幅広い技術をテーマにしたイベントを企画・開催しています！&lt;/p&gt; &lt;p&gt;毎月のイベントに関する情報などは&lt;a href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;三宮.devのslack&lt;/a&gt;にて発信してますので是非ともご参加ください！&lt;/p&gt; &lt;p&gt;また、勉強会中に得た学びやハンズオンで用いた資料などメンバーが個人的に残しておきたいと思った情報は&lt;a href=&quot;https://scrapbox.io/sannomiya-dev/&quot; rel=&quot;nofollow&quot;&gt;三宮.devのScrapbox&lt;/a&gt; へ自由にアップロード可能としていますので、こちらもご活用ください！&lt;/p&gt; &lt;h1&gt;主催者プロフィール&lt;/h1&gt; &lt;h3&gt;てさお &lt;a href=&quot;https://twitter.com/tettyanman&quot; rel=&quot;nofollow&quot;&gt;@tettyanman&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;神戸で働くエンジニア&lt;br&gt; Vus.js, Ruby, Rust, xR系技術 が好き&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;me&quot; src=&quot;https://avatars.githubusercontent.com/tessai9?s=200&quot;&gt;&lt;/p&gt; &lt;h1&gt;slack&lt;/h1&gt; &lt;p&gt;三宮.devのslackあります&lt;br&gt; &lt;a href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;ご興味あればぜひご参加ください！&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;禁止事項、アンチハラスメントポリシー&lt;/h1&gt; &lt;p&gt;当コミュニティでは以下の行為を禁止させていただいております&lt;/p&gt; &lt;ul&gt; &lt;li&gt;勧誘や告知目的での参加&lt;/li&gt; &lt;li&gt;荒らし行為&lt;/li&gt; &lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://kobe-sannomiya-dev.connpass.com/event/231602/'/>
-    <published>
-      2021-11-18T19:37:34+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://hatena.connpass.com/event/230919/
-    </id>
-    <title>
-      Hatena Engineer Seminar #17 はてラボの裏側編
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;今回は、はてなのラボサービス｢はてラボ｣にまつわる話題をお送りします。エンジニアだけでなくディレクターも交えて、既存のラボサービスの改善やラボサービスの新規立ち上げといった話題を通して、はてなとラボサービスの裏側を垣間見ることができる内容となっています。&lt;/p&gt; &lt;p&gt;今回も昨今の事情を鑑みてオンラインでの開催となりますが、希望する方には最後に登壇者と歓談できる時間をご用意いたします。皆様のご参加をお待ちしております。&lt;/p&gt; &lt;h1&gt;Hatena Engineer Seminar とは&lt;/h1&gt; &lt;p&gt;Hatena Engineer Seminar は、はてなのサービスを開発する上で、エンジニアがどのような事を考えているのか、どのような働き方をしているのかを語るイベントです。過去にも様々な技術レイヤーやサービスを軸としたテーマなどで開催してきました。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://developer.hatenastaff.com/archive/category/Hatena%20Engineer%20Seminar&quot; rel=&quot;nofollow&quot;&gt;過去の Hatena Engineer Seminar に関する記事一覧&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;はてラボとは&lt;/h2&gt; &lt;p&gt;「はてラボ」は、正式サービスではない、はてなの実験的サービス置き場です。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;稼働中の本サービスに導入することが難しい新規機能を先行して実装する&lt;/li&gt; &lt;li&gt;本サービスとは異なるルールやポリシーに基づいてサービスを提供する&lt;/li&gt; &lt;li&gt;本サービスとして継続提供することが難しくなったサービスを、規模を縮小した形で提供し、ラボならではの挑戦的な施策を導入し再生を図る&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;といった、広義の実験的プロジェクトや実証実験の場としても使われています。&lt;/p&gt; &lt;p&gt;「はてラボ」には、更新チェックツール「はてなアンテナ」、名前を隠して記事を投稿できる「はてな匿名ダイアリー」、ブックマークレットの作成・公開サービス「Hatena::Let」などがあります。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://hatelabo.jp/&quot; rel=&quot;nofollow&quot;&gt;はてラボ&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://labo.hatenastaff.com/&quot; rel=&quot;nofollow&quot;&gt;はてラボ　開発者ブログ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;日時: 11月25日(木) 19:00-20:30（予定）&lt;/li&gt; &lt;li&gt;参加費: 無料&lt;/li&gt; &lt;li&gt;開催形式: オンライン配信 YouTube Live 『HatenaTech チャンネル』にて&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCwqsFJGxzAZQdcT1xYZhhbw&quot; rel=&quot;nofollow&quot;&gt;https://www.youtube.com/channel/UCwqsFJGxzAZQdcT1xYZhhbw&lt;/a&gt;&lt;/li&gt; &lt;li&gt;開催当日に connpass に登録されているメールアドレスや Twitter の @hatenatech アカウントにて配信 URL を共有いたします&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;ハッシュタグ: &lt;code&gt;#hatenatech&lt;/code&gt;&lt;ul&gt; &lt;li&gt;ブログを書く際や Tweet 時にぜひお使いください&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;歓談タイムについて&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;発表終了後, 登壇者と約30分の歓談タイムをご用意します&lt;ul&gt; &lt;li&gt;歓談タイムでは, Google Meetを利用します。予めご準備ください&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;参加を希望する方は, ｢オンライン参加枠 (歓談タイム参加希望)｣で参加登録をしてください&lt;/li&gt; &lt;li&gt;歓談タイムに利用するGoogle MeetのURLをご連絡するため、お手数をおかけいたしますが申し込みの際に連絡先となるメールアドレスの指定をお願いいたします&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;発表内容詳細&lt;/h1&gt; &lt;h2&gt;「おもしろがり」からのサービスリリース 〜てがきはてなブログの場合〜 (&lt;a href=&quot;https://tegaki.hatelabo.jp/&quot; rel=&quot;nofollow&quot;&gt;てがきはてなブログ&lt;/a&gt;) - by id:AirReader&lt;/h2&gt; &lt;p&gt;非エンジニアのディレクターの自由研究からラボリリースに至るまでの軌跡を話します&lt;/p&gt; &lt;p&gt;id:AirReader ｢そこにiPadとApple Pencilがあったから。おもしろがって勝手に作ったアプリケーションでも、ラボでリリースできる、そんな夢のあるお話です。｣&lt;/p&gt; &lt;h2&gt;Hatena::Let の式年遷宮 (&lt;a href=&quot;https://let.hatelabo.jp/&quot; rel=&quot;nofollow&quot;&gt;Hatena::Let&lt;/a&gt;) - by id:onk&lt;/h2&gt; &lt;p&gt;サービスを引き継ぐ際に Perl から Ruby に全て書き換えた裏側にあった目論見と苦労&lt;/p&gt; &lt;p&gt;id:onk ｢今年ははてラボの式年遷宮の年にあたります (式年遷宮とは数十年に一度社殿を建て替えて神様に新宮へお遷りいただく祭祀です)。 ソフトウェアの式年遷宮の狙いと実践について、実体験からお話しします。｣&lt;/p&gt; &lt;h2&gt;吉田を支える技術 (&lt;a href=&quot;https://anond.hatelabo.jp/&quot; rel=&quot;nofollow&quot;&gt;はてな匿名ダイアリー&lt;/a&gt;) - by id:cockscomb&lt;/h2&gt; &lt;p&gt;今年4月、はてな匿名ダイアリーに起きた事件について紹介します&lt;/p&gt; &lt;p&gt;id:cockscomb ｢２、３日後にものすごく長い増田があります。それが終わりの合図です。程なく大きめの本田が来るので気をつけて。それがやんだら、少しだけ間をおいて吉田がきます。｣ (&lt;a href=&quot;https://anond.hatelabo.jp/20180904152738&quot; rel=&quot;nofollow&quot;&gt;出典&lt;/a&gt;)&lt;/p&gt; &lt;h2&gt;はてなアンテナのクラウドジャーニー一合目 (&lt;a href=&quot;https://a.hatena.ne.jp/&quot; rel=&quot;nofollow&quot;&gt;はてなアンテナ&lt;/a&gt;) - by id:motemen&lt;/h2&gt; &lt;p&gt;来年でサービス開始から20周年を迎えるはてなアンテナのクラウド移行について話します&lt;/p&gt; &lt;p&gt;id:motemen ｢ラボサービス入りしてからサービス終了か？ ともささやかれるはてなアンテナですが、私の目の黒いうちはメンテナンスしていきます！｣&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時刻&lt;/th&gt; &lt;th&gt;id&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;時間&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;id:papix&lt;/td&gt; &lt;td&gt;開会の挨拶&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05&lt;/td&gt; &lt;td&gt;id:AirReader&lt;/td&gt; &lt;td&gt;「おもしろがり」からのサービスリリース 〜てがきはてなブログの場合〜&lt;/td&gt; &lt;td&gt;15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:20&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;質問タイム&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:25&lt;/td&gt; &lt;td&gt;id:onk&lt;/td&gt; &lt;td&gt;Hatena::Let の式年遷宮&lt;/td&gt; &lt;td&gt;15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;質問タイム&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:45&lt;/td&gt; &lt;td&gt;id:cockscomb&lt;/td&gt; &lt;td&gt;吉田を支える技術&lt;/td&gt; &lt;td&gt;15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:00&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;質問タイム&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:05&lt;/td&gt; &lt;td&gt;id:motemen&lt;/td&gt; &lt;td&gt;はてなアンテナのクラウドジャーニー一合目&lt;/td&gt; &lt;td&gt;15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:20&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;質問タイム&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:25&lt;/td&gt; &lt;td&gt;id:motemen&lt;/td&gt; &lt;td&gt;閉会の挨拶&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;諸注意&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;事情により内容や形式を変更する場合があります。&lt;/li&gt; &lt;li&gt;お申し込み時やアンケートなどでいただいた個人情報は、&lt;a href=&quot;https://hatenacorp.jp/recruit/privacypolicy&quot; rel=&quot;nofollow&quot;&gt;個人情報の取り扱いについて - 採用情報 - 株式会社はてな&lt;/a&gt;に準じ、セミナーの管理・品質改善・調査・採用のご案内目的に利用いたします。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;みなさまのご参加をお待ちしております！&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://hatena.connpass.com/event/230919/'/>
-    <published>
-      2021-11-18T15:05:08+09:00
     </published>
   </entry>
 </feed>
