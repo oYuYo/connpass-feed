@@ -9,8 +9,29 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2021-12-18T00:36:03+00:00
+    2021-12-19T00:36:47+00:00
   </updated>
+  <entry>
+    <id>
+      https://histudy.connpass.com/event/233265/
+    </id>
+    <title>
+      姫路IT系勉強会 2021.12
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;姫路IT系勉強会&lt;/h1&gt;
+      &lt;p&gt;姫路IT系勉強会は、毎月第3土曜日に開催している兵庫県姫路市を中心とした周辺地域のIT系技術者、
+      Webデザイナー、学生、それらの技術に興味のある人たちが気軽に集まり交流できる勉強会です。&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;&lt;a
+      href=&quot;https://join.slack.com/t/histudy/shared_invite/zt-ugowinom-ZG0ORhstkrqQGVyjksr_OA&quot; rel=&quot;nofollow&quot;&gt;姫路IT系勉強会 Slackへ参加する&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://discord.gg/rZCeScB&quot; rel=&quot;nofollow&quot;&gt;姫路IT系勉強会 Discordへ参加する&lt;/a&gt;&lt;/li&gt; &lt;li&gt;メーリングリスト: &lt;a href=&quot;https://groups.google.com/forum/?fromgroups#!forum/histudy&quot; rel=&quot;nofollow&quot;&gt;https://groups.google.com/forum/?fromgroups#!forum/histudy&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;勉強会の開催方法&lt;/h2&gt; &lt;h3&gt;はじめに&lt;/h3&gt; &lt;p&gt;当日、会場で付箋紙をお渡しするので、以下の様なことを自由にご記入ください。&lt;br&gt; (付箋紙に記載する内容に関しては、少しでもIT系にカスッていれば何を記載してOKです)&lt;/p&gt; &lt;ul&gt; &lt;li&gt;聞いてみたいこと&lt;/li&gt; &lt;li&gt;興味があること&lt;/li&gt; &lt;li&gt;こんなのやってみた(俺/私の話を聞いてくれ！)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;付箋紙に記載されたお題を元に、以下の方法で勉強会が進行していきます。&lt;/p&gt; &lt;h3&gt;勉強会の進行方法&lt;/h3&gt; &lt;p&gt;付箋紙に記載されたお題を元に、参加者全員でついて話し合う、&lt;br&gt; 座談会(アンカンファレンス)形式で進行します。 &lt;/p&gt; &lt;p&gt;付箋紙にお題を記載した人が、何かを発表をしなければいけないという類のものでありませんが、&lt;br&gt; 「ぜひ、発表をしたい！」という場合は歓迎します。&lt;/p&gt; &lt;h3&gt;姫路IT系勉強会のキーワード&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Web周辺テクノロジー&lt;/li&gt; &lt;li&gt;HTML5 / CSS3 / JavaScriptやjQueryなどのライブラリ&lt;/li&gt; &lt;li&gt;Webデザイン&lt;/li&gt; &lt;li&gt;CMS&lt;/li&gt; &lt;li&gt;プログラミング(PHPやRuby, Python. Shell Scriptなど)&lt;/li&gt; &lt;li&gt;サーバー / ネットワーク&lt;/li&gt; &lt;li&gt;仮想化&lt;/li&gt; &lt;li&gt;運用管理など&lt;/li&gt; &lt;li&gt;オープンソース / 自由ソフトウェア&lt;/li&gt; &lt;li&gt;Android / iOS&lt;/li&gt; &lt;li&gt;ガジェット Raspberry Pi, Beagle bone black&lt;/li&gt; &lt;li&gt;ワークフロー / タスクマネージメント&lt;/li&gt; &lt;li&gt;IT技術者のライフハック&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;その他、関連することなどなど…&lt;/p&gt; &lt;h3&gt;過去のお題(例)&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;google castの仕方教えてくだされ&lt;/li&gt; &lt;li&gt;業界未経験でITを勉強するには&lt;/li&gt; &lt;li&gt;チームでの開発(初心者からのWeb開発)&lt;/li&gt; &lt;li&gt;カメラとPCでタイムラプスしてみたす&lt;/li&gt; &lt;li&gt;AndroidタブレットにLinuxを入れて色々と遊んでみよう&lt;/li&gt; &lt;li&gt;C#を学ぶのに良いプロジェクトないですか？&lt;/li&gt; &lt;li&gt;LISPの紹介&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;注意事項&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;付箋紙に記載する内容は、参加者一人につき、1つだけ記載するようにお願いします。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;勉強会ログ (HackMD)&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://hackmd.io/YxNH_dmWQeC-REgfEHfrtQ&quot; rel=&quot;nofollow&quot;&gt;https://hackmd.io/YxNH_dmWQeC-REgfEHfrtQ&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;p&gt;付箋紙に記載されたお題をジャンル分け・レベル分けし、 以下の様な感じで開催されます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;13:15 - 会場の準備(机の並び替えなど)&lt;/li&gt; &lt;li&gt;13:30 - 前説・自己紹介&lt;/li&gt; &lt;li&gt;14:00 - お題1〜3 (比較的万人向け？) &lt;/li&gt; &lt;li&gt;15:00 - お題4〜6 (プログラム系のネタが多め？) &lt;/li&gt; &lt;li&gt;16:00 - お題7〜9 (インフラ・ネットワーク・サーバ系・脱落者多数のネタ多し？) &lt;/li&gt; &lt;li&gt;17:00 - 終了&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;お題の数や盛り上がり具合により時間は変動します、 また、間に適当に休憩を挟むので時間は前後します。&lt;/p&gt; &lt;h2&gt;参加費&lt;/h2&gt; &lt;p&gt;社会人: 500円 / 学生: 無料(社会人学生不可) 学生の方は、学生証などをお持ちください。&lt;/p&gt; &lt;h2&gt;懇親会&lt;/h2&gt; &lt;p&gt;終了後に希望者の数次第で懇親会があります。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://histudy.connpass.com/event/233265/'/>
+    <published>
+      2021-12-18T10:59:34+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://beginner-mokumoku.connpass.com/event/234098/
@@ -232,30 +253,6 @@
     <link rel='alternate' type='text/html' href='https://base.connpass.com/event/231346/'/>
     <published>
       2021-12-16T10:58:05+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://fusic.connpass.com/event/227279/
-    </id>
-    <title>
-      Fusic Tech Live Vol.5：PHPerの集い
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;Fusic Tech Live Vol.5：PHPerの集い&lt;/h1&gt;
-      &lt;p&gt;FusicではPHPとRubyを使った開発が行われております。&lt;br&gt;
-      今回はFusicでPHPを使った開発を行っているPHPerに各自の状況や視点からお話してもらいます！&lt;br&gt;
-      Fusic自体に興味のある方も是非ご参加ください！&lt;/p&gt; &lt;p&gt;※オンライン開催です。&lt;/p&gt;
-      &lt;h1&gt;発表者&lt;/h1&gt; &lt;h2&gt;Takematsu Shotaro (Fusic CO.,
-      LTD.)&lt;/h2&gt; &lt;h3&gt;「別言語からきたPHPer 半年で学んだことまとめ」&lt;/h3&gt;
-      &lt;p&gt;&lt;img alt=&quot;Takematsu&quot;
-      src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--646ab93858d703ba47ca82d5520cc5ee4fe5dd98/%E3%81%9F%E3%81%91%E3%81%BE%E3%81%A4%E3%81%95%E3%82%93%EF%BC%96.gif&quot;&gt;&lt;/p&gt; &lt;h2&gt;Kondo Ayano (Fusic CO., LTD.)&lt;/h2&gt; &lt;h3&gt;「Laravel で仕様変更に耐える API をつくるために」&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;Kondo&quot; src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3dLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--357be20db22b937d7d79e7af314f86f5a96a03e8/kondo.png&quot;&gt;&lt;/p&gt; &lt;h2&gt;Hagiwara Satoru (Fusic CO., LTD.)&lt;/h2&gt; &lt;h3&gt;「なぜ帳票用のプラグインを自作したか」&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;Hagiwara&quot; src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblFLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--53916aa3481a95a1084a6ffebc4f2e0659424f33/hagiwara.png&quot;&gt;&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;タイムテーブル&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;発表者&lt;/th&gt; &lt;th align=&quot;right&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00 〜 19:05&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 清家&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;諸注意等&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:05 〜 19:25&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 武末&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;別言語からきたPHPer 半年で学んだことまとめ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:25 〜 19:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Zoomコメント質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30 〜 19:50&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 近藤&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Laravel で仕様変更に耐える API をつくるために&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:50 〜 19:55&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Zoomコメント質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:55 〜 20:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:00 〜 20:20&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 萩原&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;なぜ帳票用のプラグインを自作したか&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:20 〜 20:25&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;-&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Zoomコメント質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:25 〜 20:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;Fusic 佐藤&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:30 〜 21:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;各自&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Zoom開放&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;オンラインにて実施いたします。&lt;/li&gt; &lt;li&gt;お申込み完了後、当社より開催URLをご案内いたします。（当日12時頃と直前、計2回送付予定です。）&lt;/li&gt; &lt;li&gt;Zoomを使用しますので、事前にインストールをお願いします。&lt;/li&gt; &lt;li&gt;カメラはOFFでOKです。&lt;/li&gt; &lt;li&gt;質疑に関してはZoomのチャット機能を利用します。お気軽にコメントください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;本イベントの内容は、後日、株式会社Fusicのコーポレートサイト、Twitter等の媒体にて紹介する可能性があります。&lt;br&gt; その際、ご参加者名が写った画像（キャプチャなど）も紹介される可能性があります。予めご了承ください。 &lt;/li&gt; &lt;li&gt;当社におけるその他取り扱いは以下プライバシーポリシーに従います。ご同意の上、ご参加ください。 &lt;br&gt; &lt;a href=&quot;https://fusic.co.jp/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://fusic.co.jp/privacy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;運営スタッフは、このイベントに関わるみなさまに気持ちよくご参加いただけるよう考えています。 &lt;br&gt; 参加者の皆様も、他の方が不愉快に思われるような発言にはご配慮いただきますようお願いいたします。 &lt;br&gt; またそのような行動を目にした方は、connpassの「イベントへのお問い合わせ」フォームからお知らせください。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://fusic.connpass.com/event/227279/'/>
-    <published>
-      2021-12-15T16:52:39+09:00
     </published>
   </entry>
 </feed>
