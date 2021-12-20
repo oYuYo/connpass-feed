@@ -9,8 +9,115 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2021-12-19T00:36:47+00:00
+    2021-12-20T00:35:23+00:00
   </updated>
+  <entry>
+    <id>
+      https://souls.connpass.com/event/234416/
+    </id>
+    <title>
+      【オンライン開催】SOULs Live Coding Stream #1
+    </title>
+    <summary>
+      Ruby サーバーレスフレームワーク SOULs
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;James 氏&lt;/p&gt; &lt;p&gt;と&lt;/p&gt; &lt;p&gt;Kawasaki
+      氏&lt;/p&gt; &lt;p&gt;の簡単な自己紹介のあと&lt;/p&gt; &lt;p&gt;SOULs を使ってGraphQL API
+      を作成する方法や、SOULs Gem の改善しているところを LIVE 配信します。&lt;/p&gt;
+      &lt;p&gt;常時、質問など、コメントで募集しています。&lt;/p&gt; &lt;p&gt;お気軽にコメント下さい！&lt;/p&gt;
+      &lt;p&gt;開催日時： 12月21日 日本時間 22:00 ~ 23:00&lt;/p&gt; &lt;p&gt;会場：　YouTube
+      Live 配信 URL: &lt;a href=&quot;https://youtu.be/Iijfz4zFnPk&quot;
+      rel=&quot;nofollow&quot;&gt;https://youtu.be/Iijfz4zFnPk&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://souls.connpass.com/event/234416/'/>
+    <published>
+      2021-12-19T18:51:56+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://beginner-mokumoku.connpass.com/event/234521/
+    </id>
+    <title>
+      【朝もく会】AWSがちょっとだけ得意なフリーランスエンジニアのオンラインもくもく×交流会
+    </title>
+    <summary>
+      僕はAWSハンズオンをやる予定です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;内容&lt;/h2&gt;
+      &lt;p&gt;新米フリーランスエンジニアが朝活オンラインもくもく×交流会を開催いたします。&lt;br&gt;
+      ・フリーランスに興味がある&lt;br&gt; ・最新のトレンドを知りたい&lt;br&gt; ・IT業界の情報を知りたい&lt;br&gt;
+      ・IT業界の仲間や友達が欲しい ・仕事の愚痴を言いたい&lt;br&gt; ・キャリアアップや将来の相談や悩みを共有したい ・もくもく勉強したい
+      &lt;/p&gt; &lt;p&gt;等々こういった目的をもった方々、お気軽にご参加ください！ &lt;/p&gt;
+      &lt;p&gt;時間は1時間なので、気軽の参加してくれたら嬉しいです！ &lt;br&gt;
+      当日はオンラインでの開催になりますので、前日までに開催URLをメールまたは、本ページにて通知いたします。 ご参加お待ちしております！！
+      &lt;/p&gt;
+      &lt;p&gt;※当日7時半までに参加者がいなかった場合は中止となります。1人でも参加希望者がいる場合は開催いたします。&lt;/p&gt;
+      &lt;h2&gt;参加対象としていいる方&lt;/h2&gt; &lt;p&gt;エンジニアの方
+      ※駆け出しの方も歓迎ですが話についていけない可能性もありますのでご了承くださいませ。&lt;/p&gt;
+      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;Google Meetにてオンラインで行います。&lt;br&gt;
+      グーグルの機能でURLをクリックすると自動で入れます。&lt;/p&gt; &lt;h2&gt;持ち物&lt;/h2&gt;
+      &lt;p&gt;・なし&lt;/p&gt; &lt;h2&gt;主催者情報&lt;/h2&gt;
+      &lt;p&gt;ワタルさん　東京のフリーランスインフラエンジニア（6年目） &lt;/p&gt; &lt;h2&gt;内部用&lt;/h2&gt;
+      &lt;p&gt;JavaScript(jQuery, AngularJS, React.js, Node.js,
+      Vue.js)&lt;br&gt; html, css, slim, haml, scss, Bootstrap&lt;br&gt;
+      Java(Struts, Spring Boot, Play Framework), Kotlin, Scala, Groovy&lt;br&gt;
+      Swift, Objective-C, C#, Unity, C++&lt;br&gt; Ruby(Ruby on Rails,
+      Sinatra)&lt;br&gt; PHP (Laravel, CakePHP, FuelPHP), WordPress&lt;br&gt;
+      Python(Django)&lt;br&gt; Go, Elixir&lt;br&gt; Vagrant, Docker, Git, Linux,
+      Mac, Windows, iOS, Android&lt;br&gt; Arduino, Raspberry Pi, C&lt;br&gt;
+      Adobe Illustrator, Adobe Photoshop, Adobe Xd&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://beginner-mokumoku.connpass.com/event/234521/'/>
+    <published>
+      2021-12-19T17:49:38+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mame-coffee-programing.connpass.com/event/234492/
+    </id>
+    <title>
+      オンラインもくもく会【コーヒー飲みながら参加しませんか？】55回目
+    </title>
+    <summary>
+      オンラインでもくもく勉強しませんか？入退室自由、ビデオオフでもOK※コーヒーは必須ではありません
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;オンラインで一緒にもくもく勉強しませんか？&lt;/h1&gt;
+      &lt;p&gt;〜毎週日曜日のお昼からは一緒にもくもく会をしませんか？〜&lt;/p&gt;
+      &lt;p&gt;1人でやるよりもみんなでやった方が集中できるはず！
+      12月から始めたこのオンラインもくもく会も第55回目となりました。&lt;/p&gt;
+      &lt;p&gt;1人だとだらけてしまう・・。でも大人数は少し気が引けるし・・。 そんな方でも安心してご参加いただけるかと思います。
+      強制的に勉強する環境を作っちゃいましょう！&lt;/p&gt;
+      &lt;p&gt;もちろん、ビデオオフでも問題ありませんし、ゆるゆるのもくもく会なのでお気軽にご参加いただけます！
+      コーヒーも自由です笑&lt;/p&gt; &lt;p&gt;参加する方も本当に様々で幅広い領域や経験の方がいらっしゃいます！&lt;/p&gt;
+      &lt;p&gt;質問も自由にしていただいて構いません。&lt;/p&gt; &lt;p&gt;完全無料かつ勧誘などもありませんのでご安心ください。
+      大学の課題をするでもよし、家計簿つけるという溜まった作業をするのもよし！ バリバリのハッカーの方も
+      Progateでつまづいている初心者の方もお気軽にご参加ください。&lt;/p&gt;
+      &lt;p&gt;入退室自由です。ご都合の良いタイミングでご参加いただければと思います。&lt;/p&gt;
+      &lt;p&gt;参加申込後、各種リンクをお知らせいたします。&lt;/p&gt;
+      &lt;p&gt;当日はGoogleMeetを利用しますのでGoogleアカウントをご用意ください。&lt;/p&gt;
+      &lt;p&gt;ではレッツもくもく〜♪&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt;
+      &lt;p&gt;１．「このイベントに申し込む」ボタンから参加申込&lt;br&gt; ２．このイベントページに戻る&lt;br&gt;
+      ３．「参加者への情報」欄からGoogle MeetとSlackのリンクをクリック&lt;/p&gt;
+      &lt;p&gt;※ご注意※&lt;br&gt; Google・Slackのアカウント名を事前にご確認ください。&lt;br&gt;
+      特に本名を公開したくない方は、名前変更、もしくは新規アカウントを作成いただくことをお勧めいたします。&lt;/p&gt;
+      &lt;h2&gt;当日の大まかなスケジュール&lt;/h2&gt; &lt;p&gt;13:00
+      自己紹介・今日やることの共有(Slackにて)&lt;br&gt; 13:10 開始挨拶〜もくもくタイム前半戦&lt;br&gt; 15:30
+      雑談タイム&lt;br&gt; 16:00 もくもくタイム後半戦&lt;br&gt; 17:30 報告会・雑談&lt;br&gt; 18:00
+      自由退出・おしゃべりタイム（オンライン飲み会に近い？？）&lt;/p&gt; &lt;h2&gt;もくもく会参考キーワード&lt;/h2&gt;
+      &lt;p&gt;JavaScript(React.js, Vue.js) html, css, scss, Bootstrap
+      Java(Spring), Kotlin Swift, C#, Unity, C++ Ruby(Ruby on Rails) PHP
+      (Laravel)WordPress Python(Django) もくもく会 オンライン まったり 初心者歓迎&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mame-coffee-programing.connpass.com/event/234492/'/>
+    <published>
+      2021-12-19T13:06:45+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://histudy.connpass.com/event/233265/
@@ -70,31 +177,6 @@
     <link rel='alternate' type='text/html' href='https://beginner-mokumoku.connpass.com/event/234098/'/>
     <published>
       2021-12-18T01:18:14+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://souls.connpass.com/event/234416/
-    </id>
-    <title>
-      【オンライン開催】SOULs Live Coding Stream #1
-    </title>
-    <summary>
-      Ruby サーバーレスフレームワーク SOULs
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;James 氏&lt;/p&gt; &lt;p&gt;と&lt;/p&gt; &lt;p&gt;Kawasaki
-      氏&lt;/p&gt; &lt;p&gt;の簡単な自己紹介のあと&lt;/p&gt; &lt;p&gt;SOULs を使ってGraphQL API
-      を作成する方法や、SOULs Gem の改善しているところを LIVE 配信します。&lt;/p&gt;
-      &lt;p&gt;常時、質問など、コメントで募集しています。&lt;/p&gt; &lt;p&gt;お気軽にコメント下さい！&lt;/p&gt;
-      &lt;p&gt;開催日時： 12月21日 日本時間 22:00 ~ 23:00&lt;/p&gt; &lt;p&gt;会場：　YouTube
-      Live 配信 URL: &lt;a
-      href=&quot;https://www.youtube.com/channel/UCAk6qdYFhUCqL56Q67Gl8gQ&quot;
-      rel=&quot;nofollow&quot;&gt;https://www.youtube.com/channel/UCAk6qdYFhUCqL56Q67Gl8gQ&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://souls.connpass.com/event/234416/'/>
-    <published>
-      2021-12-18T00:37:24+09:00
     </published>
   </entry>
   <entry>
@@ -193,66 +275,6 @@
     <link rel='alternate' type='text/html' href='https://forkwell.connpass.com/event/231212/'/>
     <published>
       2021-12-17T13:35:17+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://ginza-rails.connpass.com/event/231552/
-    </id>
-    <title>
-      【オンライン開催】銀座Rails#40
-    </title>
-    <summary>
-      月1回実施する、Ruby on Railsの登壇/発表コミュニティです。
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;内容&lt;/h2&gt;
-      &lt;p&gt;銀座Railsは、Railsについての知識を交換し、日々の開発に役立てていこうという人々の集まるコミュニティです。&lt;/p&gt; &lt;h2&gt;登壇者募集&lt;/h2&gt; &lt;p&gt;公募を締め切りました。最新の銀座への登壇応募は公開されている最新銀座RailsのConnpassページをご覧下さい。 最新情報は&lt;a href=&quot;https://twitter.com/ginzarails&quot; rel=&quot;nofollow&quot;&gt;@GinzaRails&lt;/a&gt;をご確認ください。 1月の銀座Rails登壇応募も近々開始予定です。&lt;/p&gt; &lt;p&gt;なお、ご登壇頂いた方には銀座Rails Tシャツかパーカーのうちどれか一つ、お好きなものをプレゼント致します。 &lt;a href=&quot;https://suzuri.jp/ginzarails&quot; rel=&quot;nofollow&quot;&gt;https://suzuri.jp/ginzarails&lt;/a&gt; ※発送は銀座Rails実施後になります&lt;/p&gt; &lt;p&gt;『こんな内容で大丈夫だろうか』『発表枠が長いので相談したい』などのご心配がありましたら、 Twitter &lt;a href=&quot;https://twitter.com/GinzaRails&quot; rel=&quot;nofollow&quot;&gt;@GinzaRails&lt;/a&gt;までDM等でご相談下さい。 (原則先着順のため、相談中の枠の完売につきましてはご容赦下さい)&lt;/p&gt; &lt;h2&gt;タイムテーブル（随時更新）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Time &lt;img width=&quot;310&quot;&gt;&lt;/th&gt; &lt;th&gt;Description&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;18:30 -&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:00 -&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05 - 19:35&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;https://secret-garden.hatenablog.com/&quot; rel=&quot;nofollow&quot;&gt;osyo&lt;/a&gt;さん&lt;br&gt;&lt;b&gt;12月25日にリリースされる Ruby 3.1 に備えよう！&lt;/b&gt;&lt;br&gt;Ruby 3.1 で新しく追加されるデバッガやエラー箇所のハイライト、Hash の省略記法といった新機能の紹介や新しく追加されるメソッド、変更点などを紹介し、来たるべき Ruby 3.1 に備えていきたいと思います。 わたしは Refinements が好きなので import_methods が入るのが楽しみです。&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35 - 19:50&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;https://twitter.com/uuushiro&quot; rel=&quot;nofollow&quot;&gt;松谷勇史朗(@uuushiro)&lt;/a&gt;さん&lt;br&gt;&lt;b&gt;Railsメジャーバージョンアップを安全にカナリアリリースする&lt;/b&gt;&lt;br&gt;最近、弊社のRailsアプリケーションをv5.1からv6.1へメジャーバージョンアップしました。メジャーバージョンアップは大きな変更ですが、カナリアリリースにより安全にリリースすることができました。この発表では、Railsアプリケーションの各種プロセス(puma, sidekiq, delayed_job, cronなど)をカナリアリリースする際のチップス、及びバージョンアップする際に問題となった箇所について共有します。&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:55 - 20:10&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;https://twitter.com/kon_yu&quot; rel=&quot;nofollow&quot;&gt;kon_yu&lt;/a&gt;さん&lt;br&gt;&lt;b&gt;RailsでのREST API開発の知見共有&lt;/b&gt;&lt;br&gt;RailsでREST APIサーバを作成する場合&lt;ul&gt;&lt;li&gt;APIドキュメントはOpenAPI(Swagger)を使ってメンテナブルにしたい&lt;/li&gt;&lt;li&gt;SPAやスマフォアプリなどクライアントとでOpenAPIを使ってAPIアクセス部を自動生成したい&lt;/li&gt;&lt;/ul&gt;これらの要望を満たすためにライブラリはいくつかあり、その中で下記のライブラリを本番環境で使いました。&lt;ul&gt;&lt;li&gt;Grape&lt;/li&gt;&lt;li&gt;rspec-openapi&lt;/li&gt;&lt;li&gt;committee-rails&lt;/li&gt;&lt;/ul&gt;その経験からPros/Consを共有しつつ、現在時点でのおすすめをお話します。&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:10 - 20:15&lt;/td&gt; &lt;td&gt;休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:15 - 20:30&lt;/td&gt; &lt;td&gt;スポンサーセッション（各5分）&lt;br&gt;&lt;ul&gt;&lt;li&gt;株式会社UZUMAKI様&lt;/li&gt;&lt;li&gt;株式会社ディー・エヌ・エー様&lt;/li&gt;&lt;li&gt;株式会社リンクアンドモチベーション様&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:30 - 21:10&lt;/td&gt; &lt;td&gt;ゲストスピーカー &lt;a href=&quot;https://cockscomb.hatenablog.com&quot; rel=&quot;nofollow&quot;&gt;加藤尋樹&lt;/a&gt; (&lt;a href=&quot;https://twitter.com/cockscomb&quot; rel=&quot;nofollow&quot;&gt;cockscomb&lt;/a&gt;) さん&lt;br&gt;&lt;b&gt;GraphQLの高速道路&lt;/b&gt;&lt;br&gt; &lt;a href=&quot;https://gihyo.jp/magazine/wdpress/archive/2021/vol125&quot; rel=&quot;nofollow&quot;&gt;WEB+DB PRESS Vol.125&lt;/a&gt;の特集「GraphQL完全ガイド」で、GraphQLについて幅広く紹介しました。本発表では、GraphQL APIを実装する上でのプラクティスを中心に紹介します。GraphQLに素早くキャッチアップする一助となれば幸いです。&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;本編終了後&lt;/td&gt; &lt;td&gt;オンライン懇親会(Zoomにて)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※ 運営の都合により変更がある場合がございます。予めご了承下さい。&lt;/p&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;ZOOMを用いたリモート開催となります。&lt;br&gt;&lt;br&gt; ZOOMのウェビナー機能を利用致します。参加時に表示名とメールアドレスの入力が必要となります。恐れ入りますがご了承下さい。&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;開場時間前後になりますと、本connpassにご登録されたアドレスに、参加のためのURLが配布されますので、そちらを用いてJoinをお願い致します。&lt;br&gt; &lt;b&gt;no-reply@connpass.com からのメールが迷惑メールフォルダ等に入らないよう、ご注意下さい。&lt;/b&gt;&lt;/p&gt; &lt;h2&gt;Sponsors&lt;/h2&gt; &lt;h3&gt;スポンサー 株式会社UZUMAKI様&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;株式会社UZUMAKI様ロゴ&quot; src=&quot;https://ginza-rails-public-resources.s3.ap-northeast-1.amazonaws.com/images/uzumaki-logo.png&quot; style=&quot;margin: 45px;&quot; width=&quot;80%&quot;&gt;&lt;/p&gt; &lt;h3&gt;スポンサー 株式会社ディー・エヌ・エー様&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;株式会社ディー・エヌ・エー様ロゴ&quot; src=&quot;https://ginzarails-public-images.s3-ap-northeast-1.amazonaws.com/DeNA_logo_RGB.png&quot; style=&quot;margin: 45px;&quot; width=&quot;80%&quot;&gt;&lt;/p&gt; &lt;h3&gt;スポンサー 株式会社リンクアンドモチベーション様&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;株式会社リンクアンドモチベーション様ロゴ&quot; src=&quot;https://ginzarails-public-images.s3-ap-northeast-1.amazonaws.com/lmi_logo.png&quot; style=&quot;margin: 45px;&quot; width=&quot;80%&quot;&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://ginza-rails.connpass.com/event/231552/'/>
-    <published>
-      2021-12-17T13:21:18+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://base.connpass.com/event/231346/
-    </id>
-    <title>
-      BASE Tech Talk #1 〜Next.jsを使ったカート大規模リプレイスPJの裏側〜
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;h2&gt;BASE Tech Talkとは&lt;/h2&gt;
-      &lt;p&gt;BASEでエンジニアリングに関わるメンバーが、BASEにおける技術動向や、開発の内情を語ります！&lt;/p&gt;
-      &lt;h2&gt;今回のテーマ&lt;/h2&gt;
-      &lt;p&gt;BASEでは、サービスの根幹機能である「ショッピングカート」のリニューアルを行いました。&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;&lt;a
-      href=&quot;https://binc.jp/press-room/news/press-release/pr_20211202&quot;
-      rel=&quot;nofollow&quot;&gt;BASEが加盟店の売上向上アシストを目的に「ショッピングカート」のリニューアルを開始
-      -まずは入力画面の改善と追加購入の導線設計を強化-&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;この「ショッピングカート」のリニューアルは、これまでのBASEの歴史の中でも
-      最も大規模なリニューアルとなった開発プロジェクトです。
-      リニューアルにあたり、フロントエンドではNext.jsを採用し、開発を進めました。&lt;/p&gt;
-      &lt;p&gt;今回は、&lt;b&gt;「Next.jsを使ったカート大規模リプレイスPJの裏側」&lt;/b&gt;と題し、
-      3名のフロントエンドエンジニアがそれぞれ下記テーマで、技術選定の背景や開発プロジェクトの詳細について発表します。&lt;/p&gt;
-      &lt;ul&gt; &lt;li&gt;リプレイスPJの全体像と技術選定&lt;/li&gt;
-      &lt;li&gt;大規模リプレイスPJを経験した8ヶ月間を通しての学び&lt;/li&gt;
-      &lt;li&gt;カートのデータレイヤーに秩序をもたらすステートマシン「XState」について&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;視聴者様からのご質問も取り上げますのでぜひご視聴いただき、様々なご質問をお寄せください。&lt;/p&gt;
-      &lt;h1&gt;BASE株式会社について&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a
-      href=&quot;https://binc.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;コーポレートサイト&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;メインサービス：&lt;a href=&quot;https://thebase.in/&quot;
-      rel=&quot;nofollow&quot;&gt;ネットショップ作成サービス「BASE」&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;「Payment to the People, Power to the
-      People.」をミッションに、ネットショップ作成サービス「BASE」を提供し、決済の簡易化に取り組んでいます。&lt;/p&gt;
-      &lt;p&gt;個人やスモールチームが多様な決済手段をできる限り簡易に導入できる環境や、資金調達をよりスムーズに実施できる環境をつくり、世界のすべての人に自分の力を自由に価値へと変えて生きていけるチャンスが届くよう寄り添います。&lt;/p&gt; &lt;h1&gt;登壇者プロフィール&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;BASE株式会社 Product Dev Division テックリード 大木 聡（おおき さとし）&lt;/li&gt; &lt;/ul&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;1981年生まれ。千葉県出身。大学卒業後、SI企業に入社し、ERPパッケージ導入支援など企業の基幹システムの構築・運用業務に従事。その後、ソフトウェアエンジニアとして、組込機器・Webバックエンド・フロントエンド・iOSアプリ開発の経験を経て、2018年2月にBASE株式会社に入社。現在はEコマースプラットフォーム「BASE」のWeb開発に従事している。趣味は山登り。 &lt;/pre&gt;&lt;/div&gt; &lt;ul&gt; &lt;li&gt;BASE株式会社 Product Dev Division エンジニア 田中 彩子（たなか あやこ）&lt;a href=&quot;https://twitter.com/hiyokoayako&quot; rel=&quot;nofollow&quot;&gt;@hiyokoayako&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;1994年生まれ。鳥取県出身。大学卒業後、2018年4月に新卒で入社した企業にて、検索・予約サービス、メディアサイトのWebフロントエンド開発を経験。その後、2020年4月にBASE株式会社へ入社。 &lt;/pre&gt;&lt;/div&gt; &lt;ul&gt; &lt;li&gt;BASE株式会社 Product Dev Division エンジニア rry（りりぃ）&lt;a href=&quot;https://twitter.com/ryamakuchi&quot; rel=&quot;nofollow&quot;&gt;@ryamakuchi&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;SIer -&amp;gt; Web デザイン受託 -&amp;gt; 自社 Web サービス開発 という流れでエンジニアになった。マークアップ出身 Rails 育ちで主に Ruby / Vue 界隈でわいわいしている。前職は STORES EC のバックエンドエンジニア。 2021年4月より BASE 株式会社へフロントエンドエンジニアとして入社。Vue も React もどっちも好き。 &lt;/pre&gt;&lt;/div&gt; &lt;ul&gt; &lt;li&gt;BASE株式会社 Product Dev Division エンジニアリングマネージャー 松原 佑介（まつばら ゆうすけ）&lt;/li&gt; &lt;/ul&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;1988年生まれ、愛媛県出身。大学卒業後SI企業に入社。その後、株式会社一休にて主に「一休.comレストラン」のiOSアプリ、フロントエンドの開発を担当。2018年9月にBASE株式会社にフロントエンドエンジニアとして入社。現在はマネージャーとしてBASEの開発グループの運営とフロントエンド組織の運営を行う &lt;/pre&gt;&lt;/div&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30〜19:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング（開催趣旨・会社紹介・開発組織紹介）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;松原 佑介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:45〜20:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;登壇「リプレイスPJの全体像と技術選定（仮）」&lt;br&gt;　　＆質疑応答&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;大木 聡&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:15〜20:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT1「大規模リプレイスPJを経験した8ヶ月間を通しての学び（仮）」&lt;br&gt;　　＆質疑応答&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;田中 彩子&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:25〜20:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT2「カートのデータレイヤーに秩序をもたらすステートマシン「XState」について（仮）」&lt;br&gt;　　＆質疑応答&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;rry（りりぃ）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:35〜20:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クローズ&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;松原 佑介&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※ 当日予告なく時間配分・内容が変更になる可能性がございます。&lt;/p&gt; &lt;h1&gt;お申し込み・参加について&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;本イベントは Zoomを利用して、オンラインにて開催いたします&lt;/li&gt; &lt;li&gt;ご参加のお申し込みは、Connpassよりお願いいたします&lt;/li&gt; &lt;li&gt;お申し込み後、お申込者の方が閲覧できるページにて当日の参加URLをご確認いただけます&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;こんな人におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;BASEのエンジニアリングにご興味のある方&lt;/li&gt; &lt;li&gt;BASEの開発組織にご興味のある方&lt;/li&gt; &lt;li&gt;フロントエンド開発にご興味のある方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;諸注意&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;イベントの開催の様子は、後日メディアで掲載する可能性があります。&lt;/li&gt; &lt;li&gt;参加資格に該当しない方、その他運営局側で参加が不適切だと判断した方については事前に出来る限りお断りさせていただきます。また当日、該当すると判断に至った方については運営から退室をお願いさせていただく可能性があります。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://base.connpass.com/event/231346/'/>
-    <published>
-      2021-12-16T10:58:05+09:00
     </published>
   </entry>
 </feed>
