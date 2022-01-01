@@ -9,8 +9,26 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2021-12-31T00:35:56+00:00
+    2022-01-01T00:36:02+00:00
   </updated>
+  <entry>
+    <id>
+      https://connpass.com/event/235074/
+    </id>
+    <title>
+      【誰でも歓迎！】ITもくもく会&amp;年始歓談
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;ITもくもく&amp;amp;年始歓談🎍&lt;/h2&gt;
+      &lt;p&gt;「詳しい人たち視点から見た、&lt;strong&gt;意見&amp;amp;偏見&amp;amp;ここだけの話&lt;/strong&gt;...が聞きたい」&lt;br&gt; …という&lt;strong&gt;社長の好奇心&lt;/strong&gt;により、開催します。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;今年の目標&lt;/li&gt; &lt;li&gt;最近注目の技術・プロダクト・テクノロジースタートアップ&lt;/li&gt; &lt;li&gt;自分が好きな or オススメの技術&lt;/li&gt; &lt;li&gt;いわゆる「なんちゃってテクノロジー」の真偽&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;…などテーマは自由に、雑談しながらゆるく作業しませんか?&lt;/p&gt; &lt;p&gt;社長も一風変わった経歴の持ち主なので、色々面白い会話や相談もできると思います。&lt;br&gt; &lt;strong&gt;&lt;span style=&quot;&quot;&gt;4人以上で🍣or🍕を頼みます&lt;/span&gt;&lt;/strong&gt;ので、知り合いを誘って頂けると嬉しいです。&lt;/p&gt; &lt;p&gt;※途中入退出OK&lt;/p&gt; &lt;p&gt;===&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;lt;社長&amp;gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;村重 亮 | ワンドロップス株式会社 代表取締役社長&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;防衛大学校・陸上自衛隊幹部候補生学校出身&lt;/li&gt; &lt;li&gt;人生初のマラソン大会で、いきなり世界で最も過酷なレースと呼ばれるサハラマラソンに参加し完走&lt;/li&gt; &lt;li&gt;仕事&amp;amp;プライベート含め、デンマーク、欧州、アジア、中東など、30カ国に渡航・滞在&lt;/li&gt; &lt;li&gt;動物や赤ちゃんに異様に好かれる(座ってるだけでめちゃくちゃ寄ってくる)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&amp;lt;エンジニア&amp;gt;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;2名、元インフラ出身&amp;amp;WEBオンリー&lt;/li&gt; &lt;li&gt;普段使ってる技術は&lt;strong&gt;Ruby, Rails, Vue.js, AWS&lt;/strong&gt;あたり&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://connpass.com/event/235074/'/>
+    <published>
+      2021-12-31T16:08:22+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://redmine-patch.connpass.com/event/235248/
@@ -242,36 +260,6 @@
     <link rel='alternate' type='text/html' href='https://mito-web-engineer.connpass.com/event/235209/'/>
     <published>
       2021-12-28T15:07:45+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://dive-into-code.connpass.com/event/235158/
-    </id>
-    <title>
-      【プログラミング初学者向けお悩み相談会】DIVE INTO CODE 一番人気講師が回答！
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;【前回満員！ 未経験 プログラミング学習のお悩み相談会】DIVE INTO CODE Webエンジニア
-      一番人気講師が回答します！（オンライン開催）&lt;/h1&gt;
-      &lt;p&gt;&lt;strong&gt;【概要】&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Webエンジニアコース
-      講師による、プログラミング学習初心者のお悩み相談&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;【お悩み相談例】&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;数あるプログラミング言語から、何を学べばいいのか？&lt;/li&gt;
-      &lt;li&gt;広告でよくみるような副業は可能？&lt;/li&gt;
-      &lt;li&gt;効率の良い、自分に向いている学習方法の見つけ方は？&lt;/li&gt;
-      &lt;li&gt;学習を継続していくには？最後まで続くの？&lt;/li&gt; &lt;li&gt;向き不向きはあるの？&lt;/li&gt;
-      &lt;li&gt;何を学習したらいいの？&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;&lt;strong&gt;【準備していただくもの】&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;Zoomのインストールが完了しているPC端末&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;Zoomのインストールは&lt;a href=&quot;https://zoom.us/download&quot;
-      rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;から（公式サイトのダウンロードページに遷移します。）&lt;/p&gt; &lt;p&gt;&lt;strong&gt;【対象の方】&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;エンジニア転職を考えている方&lt;/li&gt; &lt;li&gt;仕事でエンジニアとのコミュニケーションがある方&lt;/li&gt; &lt;li&gt;独学でプログラミング学習をしている方&lt;/li&gt; &lt;li&gt;仕事をしながらプログラミング学習をしている方&lt;/li&gt; &lt;li&gt;プログラミング学習で挫折しました、でもエンジニアになりたいですという方&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;【担当講師紹介】&lt;/strong&gt; 2017年よりDIVE INTO CODEにて教育のメンター及び講師を務めており、Railsの開発案件にも携わっています。&lt;/p&gt; &lt;p&gt;技術を実務の内容に絡めて受講生さんに伝えることで、実務を想定した技術習得の一助になるよう心がけています。&lt;/p&gt; &lt;p&gt;私自身も飲食業界の畑違いからITの世界に飛び込み、0からプログラミング学習を重ねエンジニアになりました。&lt;/p&gt; &lt;p&gt;受講生さん一人一人の学習機会を最大化し、技術を楽しむ仲間として共に成長する事で、楽しさを共有することに常に高いモチベーションを持っています。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;【実績】&lt;/strong&gt; ・DIVE INTO CODE Webエンジニア受講生 累計580名に技術解説や質疑、受講面談等のサポート ・Ruby on Railsなどのセミナーの開催 ・大手法人様への研修 ・技術者としてテキストの改修 ・パートタイム生の授業&lt;/p&gt; &lt;p&gt;スクールの説明会で現役のエンジニアや在籍している講師・メンターにリアルな話を聞いてみたい方はぜひご参加ください🙋‍♀️&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://dive-into-code.connpass.com/event/235158/'/>
-    <published>
-      2021-12-27T18:53:35+09:00
     </published>
   </entry>
 </feed>
