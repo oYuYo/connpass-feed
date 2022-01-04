@@ -9,8 +9,71 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-01-03T00:35:03+00:00
+    2022-01-04T00:35:28+00:00
   </updated>
+  <entry>
+    <id>
+      https://sendairb.connpass.com/event/235426/
+    </id>
+    <title>
+      [オンライン開催]Sendai.rb #27
+    </title>
+    <summary>
+      アルゴリズム問題をRubyで解いてみよう！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;イベント概要&lt;/h1&gt;
+      &lt;p&gt;仙台周辺のRubyistが集まってワイワイするコミュニティ、Sendai.rbの第23回は『Ruby de
+      アルゴリズム問題』を開催！&lt;/p&gt;
+      &lt;p&gt;複数チームに分かれて、モブプロしながらアルゴリズム問題をRubyで解いてみましょう！&lt;/p&gt;
+      &lt;p&gt;今回もオンライン開催ですので、遠方の方のご参加もお待ちしております。&lt;/p&gt;
+      &lt;p&gt;各グループの回答を見ながら、「Rubyならこう書けそう」「もっと短く書けるよ！」「このほうが実行時間が短くなるはず…」などなど、わいわい議論しましょう！&lt;/p&gt; &lt;p&gt;※チーム及びドライバーは、時間の関係で運営より指定させていただきます&lt;/p&gt; &lt;p&gt;※参加者が少ない場合は、1チームでモブプロとディスカッションを同時並行的に行う可能性があります&lt;/p&gt; &lt;p&gt;※モブプロに参加せず、見ているだけでもOKです。気軽にご参加ください！&lt;/p&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;Zoomを用いたオンラインでの開催を予定しています。 参加用URLは参加申し込みいただいた方へconnpassのメッセージでお送りします。&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オンライン通話スタート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:00-20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;スタッフによる前説 &amp;amp; チーム発表&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:10-20:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;問題1（難易度低）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:20-20:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;問題1のディスカッション&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:30-20:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;問題2（難易度中）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:50-21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;問題2のディスカッション&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;21:00-21:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;問題3（難易度高）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;21:30-21:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;問題3のディスカッション&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;21:50-22:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;まとめ&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※進捗によっては問題数が前後する場合があります。&lt;/p&gt; &lt;h1&gt;お願い&lt;/h1&gt; &lt;p&gt;Sendai.rbでは、イベントの参加者全員が楽しく、安全に集える場を維持するために行動規範を策定しています。&lt;br&gt; &lt;a href=&quot;https://esa-pages.io/p/sharing/13299/posts/6/11c7cd2a3876ee3ef3a3.html&quot; rel=&quot;nofollow&quot;&gt;こちらのページの内容&lt;/a&gt;を必ず一読いただき、ご理解いただいた上でご参加ください。&lt;/p&gt; &lt;p&gt;今回は画面共有機能を利用する場合がありますので、予め画面共有が可能なセキュリティ設定を行った上でご参加いただけますようお願いします。&lt;/p&gt; &lt;p&gt;ディスカッション・ワークショップが中心となります。タイピング速度に自信のある方はチャットのみでの参加も可能ですが、声出し可能な方の参加が望ましいです（ボイチェンはOK、バ美肉もOKです）。&lt;/p&gt; &lt;h1&gt;📢Slackチャンネルについて&lt;/h1&gt; &lt;p&gt;ruby-jpのSlackグループに#sendairbチャンネルがあります。&lt;br&gt; イベント当日の簡単な資料共有をはじめ、参加者どうしのコミュニケーションに使いたいと思っていますので、ぜひご参加ください！&lt;/p&gt; &lt;p&gt;ruby-jpのSlackグループに未参加の方は&lt;a href=&quot;https://ruby-jp.github.io/&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;からどうぞ。(ruby-jpの行動規範も必ずご確認ください)&lt;br&gt; このSlackグループには国内のRubyistがたくさん集まっているので、Sendai.rb以外でのコミュニケーションもぜひ楽しんでください😊&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://sendairb.connpass.com/event/235426/'/>
+    <published>
+      2022-01-04T08:40:10+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://kokurarb.connpass.com/event/229360/
+    </id>
+    <title>
+      Kokura.rb #1
+    </title>
+    <summary>
+      アルゴリズムとデータ構造の勉強を始めよう
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;イベント概要&lt;/h1&gt;
+      &lt;p&gt;北九州市は小倉を中心に活動するRuby好きのみなさんのためのコミュニティです。&lt;/p&gt;
+      &lt;p&gt;当イベントは&lt;a href=&quot;https://fukuokarb.connpass.com/&quot;
+      rel=&quot;nofollow&quot;&gt;Fukuoka.rb&lt;/a&gt;にインスパイアされており、
+      こちらのイベントのスピンオフとしての活動と、&lt;/p&gt;
+      &lt;p&gt;小倉でのイベントを探してた方にもエンジニアカフェのコミュニティを経由して遊びに来てもらいたいという思いから、&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://engineercafe.jp/ja/&quot;
+      rel=&quot;nofollow&quot;&gt;エンジニアカフェ&lt;/a&gt;に配信協力をしていただいてます。&lt;/p&gt;
+      &lt;h2&gt;対象者&lt;/h2&gt; &lt;h1&gt;テーマ&lt;/h1&gt;
+      &lt;p&gt;今回のテーマは「データ構造とアルゴリズム」です。&lt;/p&gt;
+      &lt;p&gt;競技プログラミングサービスの公開されている問題を使ってモブプロ形式で学習方法についてお伝えしたり、&lt;/p&gt;
+      &lt;p&gt;参加者みなさんで問題にチャレンジしてもらったりします。&lt;/p&gt;
+      &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;h2&gt;概略 09:30 - 10:00&lt;/h2&gt;
+      &lt;p&gt;競技プログラミングやアルゴリズムについての基礎知識をラジオ風に語ります。&lt;/p&gt;
+      &lt;h2&gt;モブプログラミング 10:00 - 10:30&lt;/h2&gt; &lt;h2&gt;みんなで問題演習[1] 10:30 -
+      11:50&lt;/h2&gt; &lt;p&gt;10分で問題を解いて、その後解けた人の解凍を共有してもらいなが、解説タイム。&lt;/p&gt;
+      &lt;h2&gt;みんなで問題演習[2] 10:50 - 11:10&lt;/h2&gt; &lt;p&gt;同上&lt;/p&gt;
+      &lt;h2&gt;みんなで問題演習[3] 10:10 - 11:30&lt;/h2&gt; &lt;p&gt;同上&lt;/p&gt;
+      &lt;h2&gt;雑談タイム 11:30 - 12:00&lt;/h2&gt;
+      &lt;p&gt;希望者向けにzoom・エンジニアカフェを開放します。&lt;br&gt;
+      勉強会後に話したいことがある方は残っておしゃべりしましょう。&lt;/p&gt;
+      &lt;h1&gt;イベント開催に関する注意事項&lt;/h1&gt;
+      &lt;p&gt;今のところ、オフライン会場とオンラインのハイブリッド開催を予定しておりますが、新型コロナウイルスの感染状況によってはオンラインのみの開催になりますことをご了承ください。&lt;br&gt; 開催前にご案内致しますので、現地参加をお考えの方は案内をお待ち下さい。 &lt;/p&gt; &lt;h2&gt;運営者紹介&lt;/h2&gt; &lt;h2&gt;kokura.rb運営の2名を紹介します&lt;/h2&gt; &lt;p&gt;いでと申します。Twitter: &lt;a href=&quot;https://twitter.com/Aseiide&quot; rel=&quot;nofollow&quot;&gt;@aseiide&lt;/a&gt;&lt;br&gt; 高校時代+浪人時代の19年間を北九州で過ごす。大学は東京へ。&lt;br&gt; ゆるくRubyで競プロをやっています｡だいたいABCのC問題に苦戦&lt;br&gt; 現在はエンジニアを目指して学習中。 &lt;/p&gt; &lt;hr&gt; &lt;p&gt;田中と申します。 Ruby書き始めて2年過ぎたのに継承を上手くあつかえません。&lt;/p&gt; &lt;p&gt;今回は福岡のサテライト会場をお借りしてるので、感染症が拡大していなければ来場者の方とふれあえるといいな〜と思ってます。&lt;/p&gt; &lt;h3&gt;連絡先&lt;/h3&gt; &lt;p&gt;質問など困りごとがございましたら &lt;a href=&quot;https://twitter.com/Aseiide&quot; rel=&quot;nofollow&quot;&gt;@aseiide&lt;/a&gt; のTwitterのDMでご連絡ください。DM開放しております。&lt;/p&gt; &lt;h3&gt;行動規範(CoC)&lt;/h3&gt; &lt;p&gt;※行動規範(CoC)があります。ご参加予定の方は一度目をお通しいただけると幸いです。&lt;br&gt; &lt;a href=&quot;https://github.com/fukuokarb/code-of-conduct&quot; rel=&quot;nofollow&quot;&gt;行動規範(CoC)&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://kokurarb.connpass.com/event/229360/'/>
+    <published>
+      2022-01-03T14:24:16+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://corderdojo-todakoen.connpass.com/event/235365/
@@ -184,72 +247,6 @@
     <link rel='alternate' type='text/html' href='https://coderdojoowari.connpass.com/event/227275/'/>
     <published>
       2021-12-28T17:48:36+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://wsr-fukuoka.connpass.com/event/235214/
-    </id>
-    <title>
-      【福岡県主催/無料】第３回：ITインフラエンジニア向け基礎講座～サーバー編～
-    </title>
-    <summary>
-      初心者歓迎！ITインフラサーバーの基礎から実務活用までを短期習得しましょう！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;この講座をオススメしたい人&lt;/h1&gt; &lt;ul&gt;
-      &lt;li&gt;ITインフラエンジニアとして一歩レベルアップしたい方&lt;/li&gt;
-      &lt;li&gt;サーバーのスキルを伸ばしたい方&lt;/li&gt;
-      &lt;li&gt;スキルアップ後、正社員就職や転職考えている方&lt;/li&gt; &lt;/ul&gt;
-      &lt;h1&gt;この講座の３つのメリット&lt;/h1&gt;
-      &lt;h2&gt;１.【福岡県主催】無料で信頼できる講座を受講できる&lt;/h2&gt; &lt;p&gt;&lt;img
-      alt=&quot;ロゴ画像&quot; src=&quot;https://wsr-fukuoka.jp/data/flogo.gif&quot;
-      title=&quot;福岡県主催&quot;&gt;&lt;/p&gt;
-      &lt;p&gt;福岡県内の中小企業等に必要なスキル等を習得して正社員就職を支援するプロジェクトの講座であるため、経験豊富な講師による質の高い講座を無料で受講いただけます。また講座でのスキルアップだけでなく正社員就職や転職を支援する事業のため、その後の支援も受けられるのが特徴です。 事業の詳細は、&lt;a href=&quot;https://wsr-fukuoka.jp/training/index.html&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;を確認下さい。&lt;/p&gt; &lt;h2&gt;２.ITインフラのサーバーの基礎から実践まで学べる&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;サーバーの基礎が学べる&lt;/li&gt; &lt;li&gt;シミュレーターを用いたハンズオンにより実際の作業を通じてスキルを身に付けることが出来る&lt;/li&gt; &lt;li&gt;講座修了後、仕事現場でサーバーの構築をスタートできる&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;３.就職＆転職相談・カウンセリングが受けられる&lt;/h2&gt; &lt;p&gt;受講後はキャリアアップの専門家であるキャリアコンサルタントが、皆様の疑問や不安に寄り添い、企業選びや業界選びなどきめ細やかな情報提供を行います。&lt;/p&gt; &lt;h1&gt;この講座の対象者&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;b style=&quot;color: red;&quot;&gt;全3日の受講が前提となります。[1/15(土)→1/22(土)→1/29(土)の計3日（各13:00～18:00）]&lt;/b&gt;&lt;/li&gt; &lt;li&gt;福岡県内の戦略産業分野の中小企業等に正社員就職を希望している求職者(学生を除く)&lt;br&gt; ※福岡県内の戦略産業分野の中小企業等で働いている非正規雇用労働者の方で正社員就職を目指す方や、現在仕事に就いていて正社員への転職希望の方も含みます。&lt;/li&gt; &lt;li&gt;ITパスポート相当以上程度&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;戦略産業分野＝自動車・航空機関連産業／バイオ・メディカル・有機EL関連産業／ロボット関連産業／IoT・軽量Ruby等ソフトウェア関連産業／水素・燃料電池・再生可能エネルギー関連産業／食品製造関連産業&lt;/p&gt; &lt;h1&gt;講座概要&lt;/h1&gt; &lt;p&gt;仕事や普段の生活で利用しているPCやスマートフォンによる各処理、インターネット利用などの土台として様々なサーバが使われています。&lt;/p&gt; &lt;p&gt;当講座では、私たちが普段利用しているファイル共有やメール送受信、ログイン認証のためのサーバや仮想化技術、クラウド技術などについて解説します。各サーバの役割や機能について学び、各回のハンズオンを通して実際にサーバ構築を行っていただきます。&lt;/p&gt; &lt;p&gt;ITインフラのサーバ技術を身に付けたいけれど、どこから始めればよいか分からない、そんなエンジニアの方のスキル向上を目指します。&lt;/p&gt; &lt;h2&gt;講師&lt;/h2&gt; &lt;p&gt;&lt;img alt=&quot;画像のサンプル&quot; height=&quot;50%&quot; src=&quot;https://wsr-fukuoka.jp/data/Photo_itn_k.n.png&quot; width=&quot;50%&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;株式会社パソナテック&lt;br&gt; 野口 公人（のぐち　きみと） 氏&lt;/b&gt;&lt;/p&gt; &lt;p&gt;東京の独立系SIerでサーバエンジニアとして7年間勤務をした後、長男誕生を機に2013年にUターン転職でパソナテックに入社。 メーカー系SIerで約3年ネットワークエンジニアとして就業しつつ、社内のインフラチーム立ち上げに奔走。 現在はパソナテック博多Labにてエンジニアマネージャとして、メンバーのマネジメント業務に従事。 その傍ら現役エンジニアとして第一線でインフラ設計、構築作業に携わる。 最近の趣味はファミリーフィッシングと読書。&lt;/p&gt; &lt;h2&gt;講座の流れ&lt;/h2&gt; &lt;p&gt;&lt;b&gt;●1日目&lt;/b&gt;&lt;br&gt; サーバエンジニアとして最低限知っておくべきことを学ぶ&lt;br&gt; ・サーバの構成要素、サーバの役割と動作&lt;br&gt; ・サーバ仮想化、クラウド技術、ストレージ技術、サーバ構築自動化概要&lt;br&gt; &lt;br&gt; WebサーバとDNSサーバを構築し、基本的な動作を把握する&lt;br&gt; ・Webサーバ、DNSサーバ&lt;br&gt; ・Webサーバ、DNSサーバを作ろう&lt;br&gt; &lt;br&gt; &lt;b&gt;●2日目&lt;/b&gt;&lt;br&gt; メールサーバの概要を学ぶ&lt;br&gt; ・メール送受信の仕組み&lt;br&gt; ・SMTP、POP、IMAPの概要&lt;br&gt; &lt;br&gt; メールサーバを構築し、基本的な動作を把握する&lt;br&gt; ・メールサーバを作ろう&lt;br&gt; ・メールを送ってみよう&lt;br&gt; &lt;br&gt; ファイルサーバの概要を学ぶ&lt;br&gt; ・ファイル共有の仕組み&lt;br&gt; ・SMB(CIFS)、NFS、iSCSIの概要&lt;br&gt; &lt;br&gt; ファイルサーバを構築し、基本的な動作を把握する&lt;br&gt; ・ファイルサーバを作ろう ～SMB(CIFS)～&lt;br&gt; ・ファイルサーバを作ろう ～NFS～&lt;br&gt; ・ファイルサーバを作ろう ～iSCSI～&lt;br&gt; &lt;br&gt; &lt;b&gt;●3日目&lt;/b&gt;&lt;br&gt; Active Directoryの概要を学ぶ&lt;br&gt; ・Active Directoryとは&lt;br&gt; ・Windows認証&lt;br&gt; ・Active Directory概要&lt;br&gt; ・ディレクトリデータベースの構造&lt;br&gt; ・ドメインツリー、フォレスト&lt;br&gt; ・Active Directoryの名前解決&lt;br&gt; ・アクセス制御&lt;br&gt; ・グループポリシー&lt;br&gt; &lt;br&gt; Active Directoryを構築し、基本的な動作を把握する&lt;br&gt; ・ドメインコントローラを作ろう&lt;br&gt; ・ドメインユーザの作成&lt;br&gt; ・クライアントとファイルサーバのドメイン参加&lt;br&gt; ・異なるドメインのリソースに接続する&lt;br&gt; ・OUの作成、グループポリシーの適用&lt;br&gt; &lt;br&gt; ※上記の中で事例も交えながら進めて参ります&lt;/p&gt; &lt;h1&gt;講座の申込方法&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://wsr-fukuoka.jp/training/privacy.html&quot; rel=&quot;nofollow&quot;&gt;こちらの個人情報の取り扱い&lt;/a&gt;をご確認頂いたうえで、このconnpassイベントページからご参加ください。受講には申し込み時のアンケート回答が必須となります。&lt;/p&gt; &lt;h1&gt;当日の持ち物&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;慣れたご自分のPC持ち込みも可能です。その場合はPCの電源もご持参ください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;会場アクセス&lt;/h1&gt; &lt;p&gt;福岡県福岡市中央区天神 1-6-8 天神ツインビル13階（株式会社パソナ内）&lt;/p&gt; &lt;p&gt;▼Google MAPで見る &lt;a href=&quot;https://goo.gl/maps/J8DGHpnV8SgVJjS2A&quot; rel=&quot;nofollow&quot;&gt;https://goo.gl/maps/J8DGHpnV8SgVJjS2A&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;ITインフラサーバーの技術習得が目標の講座です。&lt;/li&gt; &lt;li&gt;正社員就職や転職に興味がある方の参加を推奨しています。&lt;/li&gt; &lt;li&gt;やむを得ない場合を除き、講座の途中参加・途中退出はお断りいたしています。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;新型コロナウイルス感染症の感染防止対策について&lt;/h1&gt; &lt;p&gt;当講座では、新型コロナウイルス感染症の感染防止対策として下記のような取り組みを行っています。また、研修会場の換気については、機械換気の状況を確認したうえで、「機械換気に加え、扉や窓の開放による定期的な換気を行っています。」&lt;br&gt;&lt;br&gt; &lt;b&gt;▼研修時の「3密（密集・密接・密閉）」の回避&lt;/b&gt;&lt;br&gt;&lt;/p&gt; &lt;p style=&quot;font-weight: normal;&quot;&gt;・密集の回避：研修参加人数を抑制しています&lt;br&gt; ・密接の回避：身体的距離の確保として講師と受講者及び受講者同士の間隔を確保しています&lt;br&gt; ・密閉の回避：研修会場の換気をこまめに行っています&lt;/p&gt; &lt;p style=&quot;font-weight: bold;&quot;&gt;▼講師及び受講者は、マスクを着用しています。&lt;/p&gt; &lt;p style=&quot;font-weight: bold;&quot;&gt;▼研修参加当日は、検温をして頂き37.5 度以上の発熱（または平熱より 1 度以上高い）もしくは発熱・咳等の症状がみられるなど体調が優れない場合には、参加を控えて頂いています。&lt;/p&gt; &lt;p style=&quot;font-weight: bold;&quot;&gt;▼研修会場の入退室時は、消毒液を常設しこまめに手指の消毒・手洗いをしてもらっています。&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;img alt=&quot;講座会場の飛沫防止パネル1&quot; height=&quot;50%&quot; src=&quot;https://wsr-fukuoka.jp/data/IMG_0441.jpg&quot; width=&quot;50%&quot;&gt; &lt;br&gt;&lt;br&gt; &lt;img alt=&quot;講座会場の飛沫防止パネル2&quot; height=&quot;50%&quot; src=&quot;https://wsr-fukuoka.jp/data/IMG_0445.jpg&quot; width=&quot;50%&quot;&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://wsr-fukuoka.connpass.com/event/235214/'/>
-    <published>
-      2021-12-28T16:24:57+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://kokurarb.connpass.com/event/229360/
-    </id>
-    <title>
-      Kokura.rb #1
-    </title>
-    <summary>
-      アルゴリズムとデータ構造の勉強を始めよう
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;イベント概要&lt;/h1&gt;
-      &lt;p&gt;北九州市は小倉を中心に活動するRuby好きのみなさんのためのコミュニティです。&lt;/p&gt;
-      &lt;p&gt;当イベントは&lt;a href=&quot;https://fukuokarb.connpass.com/&quot;
-      rel=&quot;nofollow&quot;&gt;Fukuoka.rb&lt;/a&gt;にインスパイアされており、
-      こちらのイベントのスピンオフとしての活動と、&lt;/p&gt;
-      &lt;p&gt;小倉でのイベントを探してた方にもエンジニアカフェのコミュニティを経由して遊びに来てもらいたいという思いから、&lt;/p&gt;
-      &lt;p&gt;&lt;a href=&quot;https://engineercafe.jp/ja/&quot;
-      rel=&quot;nofollow&quot;&gt;エンジニアカフェ&lt;/a&gt;に配信協力をしていただいてます。&lt;/p&gt;
-      &lt;h2&gt;対象者&lt;/h2&gt; &lt;h1&gt;テーマ&lt;/h1&gt;
-      &lt;p&gt;今回のテーマは「データ構造とアルゴリズム」です。&lt;/p&gt;
-      &lt;p&gt;競技プログラミングサービスの公開されている問題を使ってモブプロ形式で学習方法についてお伝えしたり、&lt;/p&gt;
-      &lt;p&gt;参加者みなさんで問題にチャレンジしてもらったりします。&lt;/p&gt;
-      &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;h2&gt;概略 09:30 - 10:00&lt;/h2&gt;
-      &lt;p&gt;競技プログラミングやアルゴリズムについての基礎知識をラジオ風に語ります。&lt;/p&gt;
-      &lt;h2&gt;モブプログラミング 10:00 - 10:30&lt;/h2&gt; &lt;h2&gt;みんなで問題演習[1] 10:30 -
-      11:50&lt;/h2&gt; &lt;p&gt;10分で問題を解いて、その後解けた人の解凍を共有してもらいなが、解説タイム。&lt;/p&gt;
-      &lt;h2&gt;みんなで問題演習[2] 10:50 - 11:10&lt;/h2&gt; &lt;p&gt;同上&lt;/p&gt;
-      &lt;h2&gt;みんなで問題演習[3] 10:10 - 11:30&lt;/h2&gt; &lt;p&gt;同上&lt;/p&gt;
-      &lt;h2&gt;雑談タイム 11:30 - 12:00&lt;/h2&gt;
-      &lt;p&gt;希望者向けにzoom・エンジニアカフェを開放します。&lt;br&gt;
-      勉強会後に話したいことがある方は残っておしゃべりしましょう。&lt;/p&gt;
-      &lt;h1&gt;イベント開催に関する注意事項&lt;/h1&gt;
-      &lt;p&gt;今のところ、オフライン会場とオンラインのハイブリッド開催を予定しておりますが、新型コロナウイルスの感染状況によってはオンラインのみの開催になりますことをご了承ください。&lt;br&gt; 開催前にご案内致しますので、現地参加をお考えの方は案内をお待ち下さい。 &lt;/p&gt; &lt;h2&gt;運営者紹介&lt;/h2&gt; &lt;h2&gt;kokura.rb運営の2名を紹介します&lt;/h2&gt; &lt;p&gt;いでと申します。Twitter: &lt;a href=&quot;https://twitter.com/Aseiide&quot; rel=&quot;nofollow&quot;&gt;@aseiide&lt;/a&gt;&lt;br&gt; 高校時代+浪人時代の19年間を北九州で過ごす。大学は東京へ。&lt;br&gt; ゆるくRubyで競プロをやっています｡だいたいABCのC問題に苦戦&lt;br&gt; 現在はエンジニアを目指して学習中。 &lt;/p&gt; &lt;hr&gt; &lt;p&gt;田中と申します。 Ruby書き始めて2年過ぎたのに継承を上手くあつかえません。&lt;/p&gt; &lt;p&gt;今回は福岡のサテライト会場をお借りしてるので、感染症が拡大していなければ来場者の方とふれあえるといいな〜と思ってます。&lt;/p&gt; &lt;h3&gt;連絡先&lt;/h3&gt; &lt;p&gt;質問など困りごとがございましたら &lt;a href=&quot;https://twitter.com/Aseiide&quot; rel=&quot;nofollow&quot;&gt;@aseiide&lt;/a&gt; のTwitterのDMでご連絡ください。DM開放しております。&lt;/p&gt; &lt;h3&gt;行動規範(CoC)&lt;/h3&gt; &lt;p&gt;※行動規範(CoC)があります。ご参加予定の方は一度目をお通しいただけると幸いです。&lt;br&gt; &lt;a href=&quot;https://github.com/fukuokarb/code-of-conduct&quot; rel=&quot;nofollow&quot;&gt;行動規範(CoC)&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://kokurarb.connpass.com/event/229360/'/>
-    <published>
-      2021-12-28T15:13:36+09:00
     </published>
   </entry>
 </feed>
