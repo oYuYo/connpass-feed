@@ -9,8 +9,70 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-02-20T00:43:10+00:00
+    2022-02-21T00:37:58+00:00
   </updated>
+  <entry>
+    <id>
+      https://tonihome.connpass.com/event/238825/
+    </id>
+    <title>
+      とにかくほめる！マウントなしのLT会（オフライン）
+    </title>
+    <summary>
+      ほめあってLT経験値をUP!
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;今回のテーマ&lt;/h2&gt; &lt;p&gt;テーマはフリーです！&lt;/p&gt;
+      &lt;p&gt;学習した内容のアウトプットや、新しい知識の収穫、LT力アップなどを目的とした、LT参加/ほめ参加お待ちしております！&lt;/p&gt; &lt;p&gt;☆☆「アウトプットの場が欲しい」「LTやってみたいけどまだ勇気が出ない」「マウントが怖い」という声に応える&lt;br&gt; &lt;strong&gt;とにかくほめる！マウントなしのLT会&lt;/strong&gt;☆☆&lt;/p&gt; &lt;h2&gt;目的&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;アウトプットで参加者全員の知識を広める&lt;/li&gt; &lt;li&gt;エンジニアの横のつながりを深める&lt;/li&gt; &lt;li&gt;LT経験者を増やしエンジニアの発信を促進する&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;LTでモチベを上げたい人&lt;/li&gt; &lt;li&gt;横のつながりを作りたい人&lt;/li&gt; &lt;li&gt;好きなイケてる技術を発表したい人&lt;/li&gt; &lt;li&gt;とにかくほめられたい人&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;LT例&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;OAuthと仲良くなる！&lt;/li&gt; &lt;li&gt;個人開発のアイデアの出し方&lt;/li&gt; &lt;li&gt;Nimというプログラミング言語について&lt;/li&gt; &lt;li&gt;FW抜きでサイト制作してた話&lt;/li&gt; &lt;li&gt;みんなの得意技を自動抽出・可視化してみた！&lt;/li&gt; &lt;li&gt;pcapファイルの解析ツールネタ&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;タメになる内容であればなんでもOKです！&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;当日のプログラム&lt;/h1&gt; &lt;p&gt;LTは1人10分。（発表7分、質疑応答3分）&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;center&quot;&gt;　時間　　&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;　　　　タイトル　　　　&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;　　　　内容　　　　&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;集合&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;概要説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自己紹介&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アイスブレイク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもく会スタート&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;各自もくもく&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;〜&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;15:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LTスタート&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;※順番は仮&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;&lt;code&gt;10分(質問含む)&lt;/code&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;strong&gt;題名&lt;/strong&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;strong&gt;スピーカー&lt;/strong&gt;　&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT①&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT②&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT③&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT④&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT⑤&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT⑥&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;17:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;交流会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;17:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自由解散&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;会場詳細&lt;/h2&gt; &lt;p&gt;都内某所（近日公開）&lt;/p&gt; &lt;h1&gt;ルール&lt;/h1&gt; &lt;p&gt;みんなで気持ちよく実りあるLT会にするために守って欲しいルールです！ご協力ください。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;とにかくホメる&lt;/li&gt; &lt;li&gt;技術マウントを取らない&lt;/li&gt; &lt;li&gt;他の人のLTはちゃんと聞いてリアクション（みんなのやる気を高めましょう！）&lt;/li&gt; &lt;li&gt;リアクションはコメント、質問、ホメること。批判は無しです。&lt;/li&gt; &lt;li&gt;とにかく褒める、お互いに褒め合ってLT経験値をUPさせていきましょう！&lt;/li&gt; &lt;li&gt;セールスやスカウトなどの勧誘および営業活動、ハラスメント行為などは禁止&lt;/li&gt; &lt;li&gt;SNSへの投稿は自由ですが、写真・動画投稿時の顔出し可否の確認など、プライバシーへのご配慮をお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;当日遅れる/質問等は&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;こちらにDM&lt;/a&gt;下さい&lt;/p&gt; &lt;h3&gt;主催者&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;なる&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;@1026NT&lt;/a&gt;&lt;br&gt; フリーランスエンジニア.&lt;br&gt; RubyやVueで開発したり、1人でアプリの管理をしたり、採用を任されたりしてる。&lt;br&gt; &lt;a href=&quot;https://www.ideee.tech/about?utm_source=connpass&amp;amp;utm_medium=event_page&amp;amp;utm_id=2022/1/30&quot; rel=&quot;nofollow&quot;&gt;（アイデアとエンジニアのマッチングアプリ）ideee&lt;/a&gt;の代表 &lt;/p&gt; &lt;p&gt;&lt;strong&gt;あるたん&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/ririri_3132&quot; rel=&quot;nofollow&quot;&gt;@ririri_3132&lt;/a&gt;&lt;br&gt; サーバーサイドエンジニア&lt;br&gt; 元貿易事務、PMO、PL&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://tonihome.connpass.com/event/238825/'/>
+    <published>
+      2022-02-20T16:17:07+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mame-coffee-programing.connpass.com/event/240283/
+    </id>
+    <title>
+      オンラインもくもく会【コーヒー飲みながら参加しませんか？】62回目
+    </title>
+    <summary>
+      オンラインでもくもく勉強しませんか？入退室自由、ビデオオフでもOK※コーヒーは必須ではありません
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;オンラインで一緒にもくもく勉強しませんか？&lt;/h1&gt;
+      &lt;p&gt;〜毎週日曜日のお昼からは一緒にもくもく会をしませんか？〜&lt;/p&gt;
+      &lt;p&gt;1人でやるよりもみんなでやった方が集中できるはず！
+      12月から始めたこのオンラインもくもく会も第62回目となりました。&lt;/p&gt;
+      &lt;p&gt;1人だとだらけてしまう・・。でも大人数は少し気が引けるし・・。 そんな方でも安心してご参加いただけるかと思います。
+      強制的に勉強する環境を作っちゃいましょう！&lt;/p&gt;
+      &lt;p&gt;もちろん、ビデオオフでも問題ありませんし、ゆるゆるのもくもく会なのでお気軽にご参加いただけます！
+      コーヒーも自由です笑&lt;/p&gt; &lt;p&gt;参加する方も本当に様々で幅広い領域や経験の方がいらっしゃいます！&lt;/p&gt;
+      &lt;p&gt;質問も自由にしていただいて構いません。&lt;/p&gt; &lt;p&gt;完全無料かつ勧誘などもありませんのでご安心ください。
+      大学の課題をするでもよし、家計簿つけるという溜まった作業をするのもよし！ バリバリのハッカーの方も
+      Progateでつまづいている初心者の方もお気軽にご参加ください。&lt;/p&gt;
+      &lt;p&gt;入退室自由です。ご都合の良いタイミングでご参加いただければと思います。&lt;/p&gt;
+      &lt;p&gt;参加申込後、各種リンクをお知らせいたします。&lt;/p&gt;
+      &lt;p&gt;当日はGoogleMeetを利用しますのでGoogleアカウントをご用意ください。&lt;/p&gt;
+      &lt;p&gt;ではレッツもくもく〜♪&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt;
+      &lt;p&gt;１．「このイベントに申し込む」ボタンから参加申込&lt;br&gt; ２．このイベントページに戻る&lt;br&gt;
+      ３．「参加者への情報」欄からGoogle MeetとSlackのリンクをクリック&lt;/p&gt;
+      &lt;p&gt;※ご注意※&lt;br&gt; Google・Slackのアカウント名を事前にご確認ください。&lt;br&gt;
+      特に本名を公開したくない方は、名前変更、もしくは新規アカウントを作成いただくことをお勧めいたします。&lt;/p&gt;
+      &lt;h2&gt;当日の大まかなスケジュール&lt;/h2&gt; &lt;p&gt;13:00
+      自己紹介・今日やることの共有(Slackにて)&lt;br&gt; 13:10 開始挨拶〜もくもくタイム前半戦&lt;br&gt; 15:30
+      雑談タイム&lt;br&gt; 16:00 もくもくタイム後半戦&lt;br&gt; 17:30 報告会・雑談&lt;br&gt; 18:00
+      自由退出・おしゃべりタイム（オンライン飲み会に近い？？）&lt;/p&gt; &lt;h2&gt;もくもく会参考キーワード&lt;/h2&gt;
+      &lt;p&gt;JavaScript(React.js, Vue.js) html, css, scss, Bootstrap
+      Java(Spring), Kotlin Swift, C#, Unity, C++ Ruby(Ruby on Rails) PHP
+      (Laravel)WordPress Python(Django) もくもく会 オンライン まったり 初心者歓迎&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mame-coffee-programing.connpass.com/event/240283/'/>
+    <published>
+      2022-02-20T12:45:08+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://harbors-kihonjoho.connpass.com/event/240248/
@@ -156,25 +218,6 @@
   </entry>
   <entry>
     <id>
-      https://tonihome.connpass.com/event/238825/
-    </id>
-    <title>
-      とにかくほめる！マウントなしのLT会（オフライン）
-    </title>
-    <summary>
-      ほめあってLT経験値をUP!
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;今回のテーマ&lt;/h2&gt; &lt;p&gt;テーマはフリーです！&lt;/p&gt;
-      &lt;p&gt;学習した内容のアウトプットや、新しい知識の収穫、LT力アップなどを目的とした、LT参加/ほめ参加お待ちしております！&lt;/p&gt; &lt;p&gt;☆☆「アウトプットの場が欲しい」「LTやってみたいけどまだ勇気が出ない」「マウントが怖い」という声に応える&lt;br&gt; &lt;strong&gt;とにかくほめる！マウントなしのLT会&lt;/strong&gt;☆☆&lt;/p&gt; &lt;h2&gt;目的&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;アウトプットで参加者全員の知識を広める&lt;/li&gt; &lt;li&gt;エンジニアの横のつながりを深める&lt;/li&gt; &lt;li&gt;LT経験者を増やしエンジニアの発信を促進する&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;LTでモチベを上げたい人&lt;/li&gt; &lt;li&gt;横のつながりを作りたい人&lt;/li&gt; &lt;li&gt;好きなイケてる技術を発表したい人&lt;/li&gt; &lt;li&gt;とにかくほめられたい人&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;LT例&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;OAuthと仲良くなる！&lt;/li&gt; &lt;li&gt;個人開発のアイデアの出し方&lt;/li&gt; &lt;li&gt;Nimというプログラミング言語について&lt;/li&gt; &lt;li&gt;FW抜きでサイト制作してた話&lt;/li&gt; &lt;li&gt;みんなの得意技を自動抽出・可視化してみた！&lt;/li&gt; &lt;li&gt;pcapファイルの解析ツールネタ&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;タメになる内容であればなんでもOKです！&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;当日のプログラム&lt;/h1&gt; &lt;p&gt;LTは1人10分。（発表7分、質疑応答3分）&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;center&quot;&gt;　時間　　&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;　　　　タイトル　　　　&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;　　　　内容　　　　&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;集合&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;概要説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自己紹介&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アイスブレイク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもく会スタート&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;各自もくもく&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;〜&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;15:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LTスタート&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;※順番は仮&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;&lt;code&gt;10分(質問含む)&lt;/code&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;strong&gt;題名&lt;/strong&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;strong&gt;スピーカー&lt;/strong&gt;　&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT①&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT②&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT③&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT④&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT⑤&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT⑥&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;17:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;交流会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;17:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自由解散&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;会場詳細&lt;/h2&gt; &lt;p&gt;都内某所（近日公開）&lt;/p&gt; &lt;h1&gt;ルール&lt;/h1&gt; &lt;p&gt;みんなで気持ちよく実りあるLT会にするために守って欲しいルールです！ご協力ください。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;とにかくホメる&lt;/li&gt; &lt;li&gt;技術マウントを取らない&lt;/li&gt; &lt;li&gt;他の人のLTはちゃんと聞いてリアクション（みんなのやる気を高めましょう！）&lt;/li&gt; &lt;li&gt;リアクションはコメント、質問、ホメること。批判は無しです。&lt;/li&gt; &lt;li&gt;とにかく褒める、お互いに褒め合ってLT経験値をUPさせていきましょう！&lt;/li&gt; &lt;li&gt;セールスやスカウトなどの勧誘および営業活動、ハラスメント行為などは禁止&lt;/li&gt; &lt;li&gt;SNSへの投稿は自由ですが、写真・動画投稿時の顔出し可否の確認など、プライバシーへのご配慮をお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;当日遅れる/質問等は&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;こちらにDM&lt;/a&gt;下さい&lt;/p&gt; &lt;h3&gt;主催者&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;なる&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;@1026NT&lt;/a&gt;&lt;br&gt; フリーランスエンジニア.&lt;br&gt; RubyやVueで開発したり、1人でアプリの管理をしたり、採用を任されたりしてる。&lt;br&gt; &lt;a href=&quot;https://www.ideee.tech/about?utm_source=connpass&amp;amp;utm_medium=event_page&amp;amp;utm_id=2022/1/30&quot; rel=&quot;nofollow&quot;&gt;（アイデアとエンジニアのマッチングアプリ）ideee&lt;/a&gt;の代表 &lt;/p&gt; &lt;p&gt;&lt;strong&gt;あるたん&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/ririri_3132&quot; rel=&quot;nofollow&quot;&gt;@ririri_3132&lt;/a&gt;&lt;br&gt; サーバーサイドエンジニア&lt;br&gt; 元貿易事務、PMO、PL&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://tonihome.connpass.com/event/238825/'/>
-    <published>
-      2022-02-19T13:21:46+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
       https://tonihome.connpass.com/event/238183/
     </id>
     <title>
@@ -229,27 +272,6 @@
     <link rel='alternate' type='text/html' href='https://yumenosora.connpass.com/event/238708/'/>
     <published>
       2022-02-18T18:07:16+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://codebase.connpass.com/event/239582/
-    </id>
-    <title>
-      「DXの前」のノーコード体験会(仮)
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;はじめに&lt;/h1&gt; &lt;h2&gt;「DXの前」とは？&lt;/h2&gt;
-      &lt;p&gt;昨今必要性が叫ばれているDX。
-      経済産業省でも「むやみやたらにIT化するのはリスクを伴う」ということを伝えています。&lt;/p&gt;
-      &lt;p&gt;実は、ITに関する正しい感覚をDXをやる前に身につけておくことはとても重要です。&lt;/p&gt;
-      &lt;p&gt;データ・ネットワーク・システムなど、それぞれで学ぶと大変ですが、これを素早く体験する手段として、今回はノーコードのサービスを利用してIT技術の感覚を体験してみましょう。&lt;/p&gt; &lt;h2&gt;当日取り組む課題&lt;/h2&gt; &lt;p&gt;アンケートフォームを作成し、解答からToDoリストの作成と、作成したことの通知までを自動化する&lt;/p&gt; &lt;h3&gt;発表者について&lt;/h3&gt; &lt;p&gt;金城廣太。&lt;/p&gt; &lt;p&gt;沖縄高専7期生、琉球大学情報工学科卒、Ryukyu frogs5期生。15歳の時から情報工学に触れ、12年間ITの世界に身を置く。 21歳から2022年現在までの6年間、フリーランスのエンジニアとして活動。&lt;/p&gt; &lt;p&gt;主にバックエンドとクラウドインフラの技術領域に明るく、現在はRuby on RailsやReact.jsなどの技術をベースにしたシステム開発を生業としている。 また、CODEBASEではプログラミングスクールのカリキュラム作りや、イベント企画・運営などを行なう。&lt;/p&gt; &lt;p&gt;趣味はゴルフで、初めて1年でベストスコアは87。&lt;/p&gt; &lt;h1&gt;概要&lt;/h1&gt; &lt;h2&gt;プログラム&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;時間&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;1&lt;/td&gt; &lt;td&gt;なぜDXの前にノーコードなのか？&lt;/td&gt; &lt;td&gt;15 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;2&lt;/td&gt; &lt;td&gt;IFTTTについて &amp;amp; アカウント作成&lt;/td&gt; &lt;td&gt;10 ~ 20 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;3&lt;/td&gt; &lt;td&gt;サンプルの課題に挑戦してみる&lt;/td&gt; &lt;td&gt;60 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;4&lt;/td&gt; &lt;td&gt;自身で課題を設定してIFTTTを作ってみる&lt;/td&gt; &lt;td&gt;30 ~ 60 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;5&lt;/td&gt; &lt;td&gt;まとめ&lt;/td&gt; &lt;td&gt;10 min&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;用意するもの&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;パソコン (Win/Mac OK)&lt;/li&gt; &lt;li&gt;Googleのアカウント&lt;/li&gt; &lt;li&gt;IFTTTのアカウント (できるだけ事前に作っておいてください)&lt;/li&gt; &lt;li&gt;Notionのアカウント (事前に作っておいてください)&lt;/li&gt; &lt;/ol&gt; &lt;h3&gt;IFTTTのアカウントの作り方&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://ifttt.com/login&quot; rel=&quot;nofollow&quot;&gt;IFTTTのログインページ&lt;/a&gt;から、お持ちのソーシャルアカウントを使ってログイン。&lt;/p&gt; &lt;p&gt;もしもよくわからない場合は、&lt;a href=&quot;https://youtu.be/dr5wrIl19pk&quot; rel=&quot;nofollow&quot;&gt;こちらの動画を参考&lt;/a&gt;にしてください。&lt;/p&gt; &lt;h3&gt;Notionのアカウントの作り方&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://www.notion.so/login&quot; rel=&quot;nofollow&quot;&gt;Notion.soのログインページ&lt;/a&gt;から、お持ちのソーシャルアカウントを使ってログイン。&lt;/p&gt; &lt;p&gt;もしもよくわからない場合は、&lt;a href=&quot;https://youtu.be/lwYSEglg6A4&quot; rel=&quot;nofollow&quot;&gt;こちらの動画を参考&lt;/a&gt;にしてください&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://codebase.connpass.com/event/239582/'/>
-    <published>
-      2022-02-18T15:44:10+09:00
     </published>
   </entry>
 </feed>
