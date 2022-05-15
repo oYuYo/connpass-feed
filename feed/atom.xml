@@ -9,8 +9,47 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-05-14T01:05:36+00:00
+    2022-05-15T01:07:38+00:00
   </updated>
+  <entry>
+    <id>
+      https://connpass.com/event/247366/
+    </id>
+    <title>
+      【オフライン】大阪エンジニアカフェ会
+    </title>
+    <summary>
+      ITエンジニアの皆さんでオフラインにて集まって、気軽にお話しましょう♪
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;◆概要&lt;/p&gt;
+      &lt;p&gt;大阪近辺にお住まいのITエンジニアの皆さんで集まって、気軽にお話しましょう♪&lt;/p&gt;
+      &lt;p&gt;大阪エンジニアカフェ会では、コロナ禍でもしっかり感染症対策しながらオフライン開催にこだわって、人と人との結び付きを大切にしています(⌒▽⌒)&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;◆内容&lt;/p&gt; &lt;p&gt;話す内容は、技術談義からプライベートな趣味の話まで何でもOK！&lt;/p&gt; &lt;p&gt;主催者はWEBエンジニアとしての経歴が長く4社経験しているので、転職やキャリア形成について相談してもらってもOK！&lt;/p&gt; &lt;p&gt;開催場所になるカフェは無料でWiFiを使えるので、もくもく会やLT大会もできます♪&lt;/p&gt; &lt;p&gt;何をやるかは敢えて事前に決めていません。参加していただいた皆さんの要望を汲み取りながら、その場のノリで何をやるか決めます！笑&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;◆こんな方におすすめ！&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;オンラインではなくリアルでエンジニア同士の交流を深めたい方&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;ITエンジニアのお仕事を現在している方、過去にしていた方、これからしたいと思っている方&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;仕事はエンジニアじゃないけど、プライベートでITやエンジニアに興味がある方&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;技術的な相談がしたい方、キャリアについての相談がしたい方、副業についての相談がしたい方&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;もくもく会がしたい方、LT大会がしたい方&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;◆主催者 自己紹介&lt;/p&gt; &lt;p&gt;京都市出身 大阪市在住 32歳 男&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;【経歴】&lt;/p&gt; &lt;p&gt;大学は情報系の学科を選び、プログラミングに出会う。&lt;/p&gt; &lt;p&gt;就職後はWEBエンジニアとしてのキャリアが長めで、正社員として4社を経験。&lt;/p&gt; &lt;p&gt;就職してからの約10年間で、主に以下の経験を積んできました。&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;[本業]&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;WEBシステムの受託開発&lt;/p&gt; &lt;ul&gt; &lt;li&gt;PHP(Zend Framework)、jQuery、MySQL、Apache&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;iOSアプリの開発&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Swift&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;SIerの客先常駐エンジニアとして、大手ベンダーの生産管理システムの開発&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Visual Basic .NET、Oracle&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;プライム上場企業の正社員エンジニアとして、1日10万アクセス規模の自社WEBサービスの開発・保守・運用&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Ruby(Ruby on Rails)、MySQL、React、AWS、Nginx&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;大手スポーツ用品店の基幹システムの開発&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Python、AWS&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;[副業]&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;未経験者向けのWEBエンジニア養成スクールの講師&lt;/p&gt; &lt;ul&gt; &lt;li&gt;PHP(Laravel)、MySQL&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;エージェントを介さない個人直受けの受託開発&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Ruby(Ruby on Rails)、Heroku、WordPress&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;【趣味・プライベート】&lt;/p&gt; &lt;p&gt;気になる技術があったりする時は、プライベートな時間を割いてしっかり勉強します。&lt;/p&gt; &lt;p&gt;ただインドアになり過ぎるのも避けたいので、普段のプライベートはけっこうアウトドアに過ごしてます。&lt;/p&gt; &lt;p&gt;筋トレ、ランニング、マリンスポーツ、サッカー観戦をよくやってます！&lt;/p&gt; &lt;p&gt;旅行に行ったり、車でドライブするのも好きです♪&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;【SNSアカウント】&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/MATz1989&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://qiita.com/taiteam&quot; rel=&quot;nofollow&quot;&gt;Qiita&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/matsumura-taichi&quot; rel=&quot;nofollow&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br&gt; &lt;/p&gt; &lt;p&gt;◆注意事項&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;開催場所となるカフェへの入店時にアルコール消毒と検温を行いますので、ご協力お願いいたします。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;咳・くしゃみ等がひどい方、37.5度以上の発熱のある方は、参加をお控えください。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;ネットワークビジネス、セールス、宗教、政治活動等を目的とした参加は禁止です。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;参加にあたっての各自の行動については自己責任となります。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;マナーを守ってお互い気持ちよくご参加いただけますよう、ご協力お願いいたします。&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://connpass.com/event/247366/'/>
+    <published>
+      2022-05-15T00:57:18+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://connpass.com/event/248181/
+    </id>
+    <title>
+      プログラミング&amp;もくもく会(勉強会) in 高崎オーパ ★プログラミング初心者大歓迎！★
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;こんにちは！&lt;/p&gt;
+      &lt;p&gt;群馬県ではなかなかITやプログラミング系の勉強会が少ないなと思いまして、このような勉強会を開かせていただきました！
+      HTMLやCSS・PHP・Ruby・Reactなどプログラミングの勉強であれば何でもOKです！（主催者はRubyonRailsやReact・PHP辺りの勉強をするかと思います。）&lt;/p&gt; &lt;p&gt;「もくもく会」とは各自が好きな自習に必要なものを持ち込んで、それぞれが勉強していく形になります。&lt;/p&gt; &lt;p&gt;ですので、勉強会といっても何か共通の課題やテーマに沿って勉強する形ではないのでご注意ください！&lt;/p&gt; &lt;p&gt;基本自習スタイルの勉強会ですが、途中で雑談したりもOKです！この辺りは柔軟にしていければなと思っております^^&lt;/p&gt; &lt;p&gt;なかなか会社や学校以外で、一緒にプログラミングの勉強ができる人と知り合いになれる機会は少ないと思いますので、そういった出会いの場所としてもなっていければいいなと思っております。&lt;/p&gt; &lt;h3&gt;開催概要&lt;/h3&gt; &lt;p&gt;【日時】5/7(土) 10:00-12:00&lt;/p&gt; &lt;p&gt;【費用】場所代：税込550円〜（自己負担）&lt;br&gt; ＊勉強会自体は2時間を予定しておりますのでHACOの料金体系により550円となっております。 2時間以上いる場合、料金はそれ以上発生いたしますのでご注意ください。 具体的な料金体系が気になる方は下記のHACO ホームページをご覧ください。&lt;/p&gt; &lt;p&gt;【場所】HACO 高崎オーパ店&lt;/p&gt; &lt;p&gt;【場所URL】 &lt;a href=&quot;https://haco.lala.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://haco.lala.co.jp/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;【定員】3名&lt;/p&gt; &lt;h3&gt;感染症予防のご協力のお願い&lt;/h3&gt; &lt;p&gt;当日や直前に発熱や風邪などの症状（咳など）がある場合、参加を控えるようお願いします。&lt;/p&gt; &lt;p&gt;参加の際はマスクの着用をお願いします。&lt;/p&gt; &lt;h3&gt;その他&lt;/h3&gt; &lt;p&gt;・宗教の勧誘や営業活動など禁止とさせていただきます。&lt;/p&gt; &lt;p&gt;・当日ご連絡なく不参加の方、キャンセルを繰り返される方は以後参加をお断りする場合があります。&lt;/p&gt; &lt;p&gt;・周りのかたへ迷惑行為を行った場合はその場でご退室頂きます。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://connpass.com/event/248181/'/>
+    <published>
+      2022-05-14T16:15:00+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://team-ml.connpass.com/event/246272/
@@ -27,7 +66,7 @@
     </content>
     <link rel='alternate' type='text/html' href='https://team-ml.connpass.com/event/246272/'/>
     <published>
-      2022-05-13T21:46:22+09:00
+      2022-05-14T15:47:19+09:00
     </published>
   </entry>
   <entry>
@@ -422,56 +461,6 @@
     <link rel='alternate' type='text/html' href='https://rindokurb.connpass.com/event/248093/'/>
     <published>
       2022-05-13T09:12:14+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://love-kotlin.connpass.com/event/247757/
-    </id>
-    <title>
-      集まれKotlin好き！Kotlin愛好会 vol.36 @オンライン
-    </title>
-    <summary>
-      みんなで楽しくオンラインでワイワイ！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
-      Live)で開催いたします。 よい機会ですので、普段参加出来ない地方の方々など幅広い参加を募集いたします！&lt;/p&gt;
-      &lt;h2&gt;イベント概要&lt;/h2&gt;
-      &lt;p&gt;Kotlin好きで集まって、飲み物片手にKotlinについて語り合い、愛でましょう！！！&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;Kotlinからプログラミングを始めた方&lt;/li&gt;
-      &lt;li&gt;Java時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（JaveScript, Ruby,
-      etc...）をやりながらKotlinを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;Kotlin全般に関するお話や、AndroidやサーバーサイドにおいてKotlinを活用するお話をする
-      &quot;Kotlin談義&quot;（絶賛登壇者募集中！資料ナシでもOK）、そしてKotlin仲間をつくる懇親会で楽しみましょう〜
-      ^^/&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt;
-      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■主催プロフィール&lt;/h2&gt; &lt;p&gt;七島 偉之 (@jollyjoester)&lt;/p&gt; &lt;p&gt;みんなでもっとKotlinを楽しめるようなネタを探してます！ かんぱいやー（勉強会で乾杯をする人）として、乾杯の力でKotlin好きの輪を広めています。&lt;/p&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live TBD &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://love-kotlin.connpass.com/event/247757/'/>
-    <published>
-      2022-05-12T15:06:57+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://hamadarb.connpass.com/event/247939/
-    </id>
-    <title>
-      Ruby Hacking Challenge in Hamada.rb
-    </title>
-    <summary>
-      RubyをHackしてみよう in Hamda.rb
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;RubyをHackしてみよう！ in Hamada.rb&lt;/p&gt;
-      &lt;p&gt;ざっくり以下の内容をやってみようかと思います。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;本家:Ruby
-      Hacking Challengeの演習などをやってみよう！(&lt;a
-      href=&quot;https://github.com/ko1/rubyhackchallenge&quot;
-      rel=&quot;nofollow&quot;&gt;https://github.com/ko1/rubyhackchallenge&lt;/a&gt;)&lt;/li&gt; &lt;li&gt;欲しいメソッドをRubyに追加してみよう&lt;/li&gt; &lt;li&gt;好きな感じでRubyをHackしてみよう&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;オンラインにて開催します。前日までにZoomのURLをpostしますのでそちらからアクセスしてください&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://hamadarb.connpass.com/event/247939/'/>
-    <published>
-      2022-05-12T00:00:40+09:00
     </published>
   </entry>
 </feed>
