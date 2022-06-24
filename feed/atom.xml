@@ -9,8 +9,93 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-06-23T00:52:11+00:00
+    2022-06-24T00:56:17+00:00
   </updated>
+  <entry>
+    <id>
+      https://redmine-patch.connpass.com/event/252374/
+    </id>
+    <title>
+      Redmineパッチ会オンライン #25
+    </title>
+    <summary>
+      Redmine本体を改善していく会
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;Redmine本体の改善をできる人を増やし、Redmineパッチ会を継続的に行っていけることを目的として、2020年7月から基本毎月オンライン開催していきます。&lt;/p&gt; &lt;h4&gt;参加要件&lt;/h4&gt; &lt;p&gt;Redmineの改善に興味ある方であればどなたでも。&lt;br&gt; 参加者はみんながみんな必ずしもRuby・Railsに精通しているわけではなく、それぞれのできる範囲で少しずつ成長を重ねながらRedmineの改善に取り組んでいます。たとえば、プログラミングせずに画面の文言変更でもパッチは送れます。 他にも、一緒に仕様を考えて、本家にチケットを作成するだけでもやれることはあります。（Ruby・Railsのプログラミング経験がある方は大歓迎です）&lt;/p&gt; &lt;p&gt;初参加の場合、見学からでもお気軽にどうぞ(^^ 「見学・入門者枠」で申し込んでいただけたら運営がフォローしますのでご安心ください。&lt;/p&gt; &lt;h4&gt;イベントの基本的な流れ&lt;/h4&gt; &lt;p&gt;参加申し込みいただいた方にはパッチ会用のDiscordと情報共有のためのScrapboxのURLをお知らせします。 イベント当日までの基本的な流れは以下のとおりです。&lt;/p&gt; &lt;h5&gt;イベント前日まで&lt;/h5&gt; &lt;p&gt;「常連枠」で申し込みいただいた方は以下の準備をお願いします。&lt;/p&gt; &lt;ol&gt; &lt;li&gt;パッチ会Discordのテキストチャンネル上でイベント当日に着手するタスクを他の常連枠メンバーと相談する（グループを組むのも、1人だけでやるのもOK）&lt;/li&gt; &lt;li&gt;環境を準備しておく（環境がなくてもVSCodeのLive Shareでモブプロのように参加できます）&lt;/li&gt; &lt;/ol&gt; &lt;h5&gt;イベント当日&lt;/h5&gt; &lt;ol&gt; &lt;li&gt;パッチ会Discordのボイスチャンネルに集合する&lt;/li&gt; &lt;li&gt;運営から「見学・入門者枠」で申し込みいただいた方向けにガイダンス&lt;/li&gt; &lt;li&gt;自己紹介＆近況報告&lt;/li&gt; &lt;li&gt;タスクごとにチームに分かれて作業（＋見学・入門者へのフォロー）&lt;/li&gt; &lt;li&gt;合流してやったことの共有、ふりかえり&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;パッチ会のプロジェクトをGitHubで公開しています。&lt;br&gt; &lt;a href=&quot;https://github.com/redmine-patch-meetup/redmine-dev-mirror/projects/1&quot; rel=&quot;nofollow&quot;&gt;https://github.com/redmine-patch-meetup/redmine-dev-mirror/projects/1&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://redmine-patch.connpass.com/event/252374/'/>
+    <published>
+      2022-06-23T23:11:56+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://rubygems-code-reading.connpass.com/event/248852/
+    </id>
+    <title>
+      dRubyを読む
+    </title>
+    <summary>
+      分散オブジェクト機構のdrubyを読みます
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;dRubyを読む&lt;/h1&gt; &lt;p&gt;今回はRubyで書かれた分散オブジェクトフレームワークである&lt;a
+      href=&quot;https://github.com/ruby/drb&quot;
+      rel=&quot;nofollow&quot;&gt;dRuby&lt;/a&gt;を読んでいきます。&lt;/p&gt;
+      &lt;h2&gt;dRubyとは&lt;/h2&gt;
+      &lt;p&gt;分散オブジェクトプログラミングのためのライブラリです。&lt;/p&gt; &lt;p&gt;Ruby
+      のプロセスから他のRubyプロセスにあるオブジェクトのメソッドを呼びだすことができます。他のマシン上のプロセスにもアクセスできます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;出典: &lt;a href=&quot;https://docs.ruby-lang.org/ja/latest/library/drb.html&quot; rel=&quot;nofollow&quot;&gt;library drb&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;発起人である&lt;a href=&quot;https://twitter.com/coe401_&quot; rel=&quot;nofollow&quot;&gt;しおい&lt;/a&gt;がdRubyについて調べた記事がこちらです→&lt;a href=&quot;https://coe401.hatenablog.com/entry/2021/12/17/080312&quot; rel=&quot;nofollow&quot;&gt;Ruby Advent Calendar 2021: パケットキャプチャ入門 with dRuby&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;当日の流れ&lt;/h2&gt; &lt;p&gt;Zoomでの開催となります。音声・画面ともにオンオフは自由です。&lt;/p&gt; &lt;p&gt;みんなでワイワイとソースコードを読んでいきます。事前に&lt;a href=&quot;https://github.com/ruby/drb&quot; rel=&quot;nofollow&quot;&gt;ソースコード&lt;/a&gt;をダウンロードしておくとよいですが、ダウンロードなしでも大丈夫です。&lt;/p&gt; &lt;p&gt;はじめに簡単な自己紹介を行います。その際、ざっくり今回は「わいわい発言したい」「聞き専で参加したい」どちらの立場で参加されるかお訊きしていますが、もちろんどちらを選んでいただいたとしても、途中で宣言無しに立場を変えていただいて問題ありません。&lt;/p&gt; &lt;p&gt;気になる箇所があったら随時疑問点などを音声やチャットで共有していただければと思います。&lt;/p&gt; &lt;p&gt;イベント開催中、Zoomのテキストチャット機能はご自由にご利用いただけますが、&lt;a href=&quot;https://gist.github.com/okuramasafumi/b339c55ba2edef287e8c65c5de7214a3&quot; rel=&quot;nofollow&quot;&gt;アンチハラスメントポリシー&lt;/a&gt;に抵触するコメントはお控えください。&lt;/p&gt; &lt;h2&gt;当日の緊急連絡先&lt;/h2&gt; &lt;p&gt;当日までに何か連絡が必要なことがありましたら、&lt;a href=&quot;https://twitter.com/okuramasafumi&quot; rel=&quot;nofollow&quot;&gt;大倉&lt;/a&gt;までTwitterのDMでご連絡ください。&lt;/p&gt; &lt;h2&gt;アンチハラスメントポリシー&lt;/h2&gt; &lt;p&gt;Rubygemsコードリーディング部では&lt;a href=&quot;https://gist.github.com/okuramasafumi/b339c55ba2edef287e8c65c5de7214a3&quot; rel=&quot;nofollow&quot;&gt;アンチハラスメントポリシー&lt;/a&gt;を策定しています。イベント参加の前にご一読ください。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://rubygems-code-reading.connpass.com/event/248852/'/>
+    <published>
+      2022-06-23T21:04:59+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://ueqareer.connpass.com/event/252199/
+    </id>
+    <title>
+      GAKUSEIハッカソン : Hackathon For Students
+    </title>
+    <summary>
+      【オンライン・初学者歓迎】エンジニアを目指す学生のためのハッカソン
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;
+      「GAKUSEIハッカソン」&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;開発テーマ：「学生生活を豊かにするサービス」&lt;br&gt; 場所：
+      &lt;strong&gt;オンライン（Zoom）&lt;/strong&gt;&lt;br&gt; 期間：2022年8月21日(日) 〜
+      2022年9月4日(日) &lt;/p&gt; &lt;h2&gt;ハッカソンとは？&lt;/h2&gt;
+      &lt;p&gt;ハッカソン（Hackathon）とは、ハック（Hack）とマラソン（Marathon）を掛け合わせた造語です。&lt;br&gt;
+      エンジニア、デザイナー、プランナー、マーケターなどがチームを作り、与えられたテーマに対し、それぞれの技術やアイデアを持ち寄り、短期間に集中してサービスやシステム、アプリケーションなどを開発し、成果を競う開発イベントです。&lt;/p&gt; &lt;h2&gt;「GAKUSEIハッカソン」の特長&lt;/h2&gt; &lt;h3&gt;特長1：はじめてのハッカソンに最適&lt;/h3&gt; &lt;p&gt;ハッカソンの参加経験が無くても大丈夫。経験豊富な開発サポーターが相談に乗り、期間内でプロダクトが形になるように開発をサポートします。またハッカソンで役立つプログラミングの学習教材をYouTubeで公開しています。&lt;/p&gt; &lt;h3&gt;特長2：オンライン開催なので全国どのエリアからでも参加&lt;/h3&gt; &lt;p&gt;全国どのエリアからでもオンラインで参加できます。ハッカソンを通じて参加している全国の学生エンジニアとぜひ交流をしましょう。&lt;/p&gt; &lt;h3&gt;特長3：チームメンバーが揃わない場合はチームビルディングをサポート&lt;/h3&gt; &lt;p&gt;チームビルディング希望者でチームビルディングを運営がサポートします。&lt;/p&gt; &lt;h1&gt;対象 / こんな方におすすめ&lt;/h1&gt; &lt;p&gt;プログラミングを学んでいる大学生・大学院生の方が対象。&lt;br&gt; （プログラミングの経験があれば中学生や高校生の方も参加可能）&lt;br&gt; チーム、または個人で参加いただけます。&lt;br&gt; チームビルディングを希望される方は、運営側でチームビルディングをサポートします。 &lt;/p&gt; &lt;ul&gt; &lt;li&gt;授業などでプログラミングを学んだけどプロダクト開発は未経験な人&lt;/li&gt; &lt;li&gt;開発したいサービスやプロダクトがある人&lt;/li&gt; &lt;li&gt;チーム開発を経験したい人&lt;/li&gt; &lt;li&gt;自分のプログラミングスキルの腕試しをしたい人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;ハッカソンで開発するプロダクト&lt;/h2&gt; &lt;p&gt;テーマに沿ってプロダクトを開発。&lt;br&gt; テクノロジーを使ったものであればどんな技術分野での開発でもOK！&lt;br&gt; ※ ただしアイデアのみは不可、実現可能性を示せるプロトタイプを開発してもらいます&lt;/p&gt; &lt;p&gt;以下、想定している技術分野。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Webアプリ&lt;/li&gt; &lt;li&gt;スマートフォンアプリ&lt;/li&gt; &lt;li&gt;ハードウェア&lt;/li&gt; &lt;li&gt;AI&lt;/li&gt; &lt;li&gt;Web3関連&lt;/li&gt; &lt;li&gt;xR(VR, AR, MR)&lt;/li&gt; &lt;li&gt;その他（チャットボット、自動化ツールなど）&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;開発サポーターに相談も可能です。 （サポーターの専門分野以外はベストエフォートで相談に応じます）&lt;/p&gt; &lt;p&gt;既に開発しているプロダクトでもエントリーは可能です。&lt;br&gt; その場合は、ハッカソンの期間内で開発された部分（新機能など）が審査対象となります。 &lt;/p&gt; &lt;h3&gt;過去に開催されたハッカソンでの作品&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://protopedia.net/event/7&quot; rel=&quot;nofollow&quot;&gt;Firebaseオンラインハッカソン&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://protopedia.net/event/34&quot; rel=&quot;nofollow&quot;&gt;ピース・ハッカソン&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;参加方法&lt;/h1&gt; &lt;h2&gt;STEP1. 参加フォームからエントリー&lt;/h2&gt; &lt;p&gt;こちらの&lt;a href=&quot;https://forms.gle/B8VjH2pdwTZ1gWD47&quot; rel=&quot;nofollow&quot;&gt;参加フォーム&lt;/a&gt;からエントリーをお願いします。&lt;br&gt; チームでの参加の場合も、必ずチームメンバー全員が個別にエントリーする必要がありますのでご注意ください。&lt;/p&gt; &lt;h2&gt;STEP2. チームの登録（個人またはチームビルディング希望の方は回答不要）&lt;/h2&gt; &lt;p&gt;既存のチームで参加する場合は、&lt;a href=&quot;https://forms.gle/MH2jqoecKkcBxWSP6&quot; rel=&quot;nofollow&quot;&gt;チームの登録&lt;/a&gt;をお願いします。フォームの回答は、チームの代表者が行ってください。&lt;/p&gt; &lt;h2&gt;STEP3. Slackコミュニティへの参加&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/ueqareer/shared_invite/zt-ojf0711f-1OzSktdmJSm0WHAr~0geDA&quot; rel=&quot;nofollow&quot;&gt;UEQareer&lt;/a&gt; より「#220821_gakusei_hackathon」チャンネルにご参加ください。 &lt;/p&gt; &lt;p&gt;こちらSlackチャンネルでハッカソン参加者向けの連絡を行います。 &lt;/p&gt; &lt;h1&gt;ハッカソンで役立つプログラミングの学習教材&lt;/h1&gt; &lt;h3&gt;Youtubeチャンネル : &lt;a href=&quot;https://www.youtube.com/channel/UCdsCNxALP2nAJ_mLLlg3rFQ?pbjreload=102&quot; rel=&quot;nofollow&quot;&gt;REDIMPULZ Lab【レッドインパルス・ラボ】&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;プログラミング初学者・ハッカソン未経験の方向けに解説動画を公開しています。&lt;br&gt; ぜひプログラミング学習や開発の参考にしてみてください。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLGqNraLKYNVfVgglnwg99Vvwe-OcmnEvM&quot; rel=&quot;nofollow&quot;&gt;JSマスター&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLGqNraLKYNVd0YvPLORqKQ3iCOnCh-h-d&quot; rel=&quot;nofollow&quot;&gt;サーバーサイドJSマスター&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLGqNraLKYNVfKYWYeLd7daugzUfmgSQ8H&quot; rel=&quot;nofollow&quot;&gt;実践プログラミング&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLGqNraLKYNVfGjw5_Rgfttk0vY3kNgGhS&quot; rel=&quot;nofollow&quot;&gt;インフラ解説&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLGqNraLKYNVe8f5LuJnypnwGPmu-Buft2&quot; rel=&quot;nofollow&quot;&gt;Firebase&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;協賛企業&lt;/h1&gt; &lt;p&gt;協賛を検討の方（個人・企業問わず）は、&lt;a href=&quot;https://ueqareer.connpass.com/event/243877/inquiry/&quot; rel=&quot;nofollow&quot;&gt;運営にお問い合わせください。&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;賞&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;レッドインパルス賞&lt;/li&gt; &lt;li&gt;シンギュラリティ・ソサエティ賞&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;随時、更新します。&lt;/p&gt; &lt;h1&gt;スケジュール&lt;/h1&gt; &lt;h2&gt;2022年8月21日(日) 開会スケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:30&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:00&lt;/td&gt; &lt;td&gt;開会式・オープニングディスカッション&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;11:00&lt;/td&gt; &lt;td&gt;チームビルディング・アイディア出し&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;12:30&lt;/td&gt; &lt;td&gt;進捗確認(アイディア)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;発表会まで各チームで自由に開発&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※ 原則、全員参加ですが、都合が合わない場合は運営にご連絡ください。 &lt;/p&gt; &lt;h2&gt;2022年8月22日(月) 〜 2022年9月3日(土) 開発期間&lt;/h2&gt; &lt;p&gt;各チームで開発を進めてもらいます。&lt;br&gt; 期間内にslackやZoomなどでサポーターに相談も可能です。 &lt;/p&gt; &lt;h2&gt;2022年9月4日(日) 発表会スケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;12:00&lt;/td&gt; &lt;td&gt;発表リハーサル&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;12:30&lt;/td&gt; &lt;td&gt;作品発表&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:30&lt;/td&gt; &lt;td&gt;審査・休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:00&lt;/td&gt; &lt;td&gt;授賞式&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:30&lt;/td&gt; &lt;td&gt;閉会式（記念撮影・講評など）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:00&lt;/td&gt; &lt;td&gt;（参加自由）懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※ 当日のスケジュールは変更になる可能性があります。&lt;/p&gt; &lt;h2&gt;開発サポーター（一部）&lt;/h2&gt; &lt;h3&gt;&lt;a href=&quot;https://twitter.com/takahash_k&quot; rel=&quot;nofollow&quot;&gt;高橋健（たかけん）&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://s3-ap-northeast-1.amazonaws.com/files.redimpulz.com/images/connpass/ueq-camp-takaken.jpg&quot; width=&quot;200&quot;&gt;&lt;/p&gt; &lt;p&gt;レッドインパルス(株) 代表取締役&lt;br&gt; サーバー、フロントエンド、アプリ、幅広く対応し、0→1の開発を得意とする。&lt;br&gt; エンジニアを世の中に増やすために、ハッカソンの企画や、エンジニア向けYouTubeチャンネルなども行う。&lt;/p&gt; &lt;p&gt;得意分野：JavaScript、TypeScipt、Go、React、Next.js、React Native、Firebase、設計全般、SQL&lt;br&gt; 他サポート可能技術：PHP,Python、AWS、Vue.js、Dart、Fluter &lt;/p&gt; &lt;h3&gt;菊池文矩（ぶんちゃん）&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://s3-ap-northeast-1.amazonaws.com/files.redimpulz.com/images/connpass/ueq-camp-buncyan.jpg&quot; width=&quot;200&quot;&gt;&lt;/p&gt; &lt;p&gt;レッドインパルス(株) 取締役&lt;br&gt; 大手Web系IT企業に新卒で入社し、大規模配信システムのリプレイス開発などを経験。&lt;br&gt; バックエンド・インフラ周りの技術が得意。 &lt;/p&gt; &lt;p&gt;得意分野：PHP、Laravel、Go、React、AWS、Firebase、SQL、シェルスクリプト、インフラ全般&lt;br&gt; 他サポート可能技術：Python、AWS、Ruby、React.js、Vue.js、Unity&lt;/p&gt; &lt;h2&gt;オープニング・ディスカッション&lt;/h2&gt; &lt;p&gt;日本を代表するソフトウェアエンジニアであり経営者でもある中島氏に、「学生×エンジニア」をテーマに質問形式でお話し頂きます。 &lt;/p&gt; &lt;h3&gt;&lt;a href=&quot;https://twitter.com/snakajima&quot; rel=&quot;nofollow&quot;&gt;中島聡（なかじま・さとし）&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://s3.ap-northeast-1.amazonaws.com/files.redimpulz.com/images/connpass/post_why_singularity_society_banner.jpg&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;Windows95のアーキテクトとして知られるソフトウェア・エンジニア。&lt;br&gt; Microsoftを退職後、ベンチャー企業を複数立ち上げ、売却に成功した経験をもつ起業家。&lt;br&gt; 現在は、シリコンバレーのmmhmmで投資家兼エンジニアとしてシアトルやハワイからリモートで働く。&lt;br&gt; メルマガ「週刊 Life is beautiful」を毎週火曜日に発行。&lt;br&gt; 工学修士（早稲田大学）、MBA（ワシントン大学）。&lt;/p&gt; &lt;h1&gt;主催&lt;/h1&gt; &lt;h2&gt;&lt;a href=&quot;https://redimpulz.com/&quot; rel=&quot;nofollow&quot;&gt;レッドインパルス株式会社&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://redimpulz.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://s3-ap-northeast-1.amazonaws.com/files.redimpulz.com/images/connpass/rip_logo_v2.png&quot; width=&quot;125&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;電気通信大学所属のエンジニアのメンバーでスタートした、レッドインパルス。エンジニアメンバーが揃ったからこそ、「作る」をテーマに、『作れる楽しさを広め、作れる人を増やす、作りたい人の夢を叶える』をミッションとして日々開発に勤しんでいます。 &lt;/p&gt; &lt;h2&gt;&lt;a href=&quot;https://www.singularitysociety.org/&quot; rel=&quot;nofollow&quot;&gt;一般社団法人シンギュラリティ・ソサエティ&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.singularitysociety.org/&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://s3.ap-northeast-1.amazonaws.com/files.redimpulz.com/images/connpass/logo_singularitysociety_color_bglight.png&quot; width=&quot;300&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;シンギュラリティ・ソサエティは、中島聡と夏野剛が共同発起人となり、シンギュラリティの時代にふさわしい人材の勉強・議論・情報発信、ネットワーク作り、企業の機会の創出を目的とした、デジタル・ネイティブな世代の若者を中心としたコミュニティです。&lt;/p&gt; &lt;h1&gt;協賛・協力&lt;/h1&gt; &lt;p&gt;随時、更新します。&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;参加費等は徴収しておりませんが、イベント内で発生する経費等は各自の負担でお願いします。&lt;/li&gt; &lt;li&gt;イベント当日の様子は後日何らかの媒体にて公開させていただくことがございます。&lt;/li&gt; &lt;li&gt;イベント内容、日程は一部変更になる可能性がございます。&lt;/li&gt; &lt;li&gt;未成年の方は保護者の方の同意を得た上でご参加ください。未成年の方がご応募・ご参加された場合は、保護者の方の同意を得たものとみなします。また、保護者の方に同意を得られない場合は、イベントへのご参加はご遠慮ください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;成果物の権利について&lt;/h1&gt; &lt;p&gt;本イベントにおいて参加者が作成した文章、スケッチ、図、3Dデータ、CGデータ、写真、音声、動画、ソフトウェア、プロトタイピングしたハードウェアその他一切の成果物（以下「成果物」といいます）に関する著作権（著作権法第27条および第28条の権利その他の権利を含みます）、特許権、実用新案権、意匠権、商標権等の知的財産権（それらの権利を取得し、またはそれらの権利につき登録等を出願する権利も含むものとします。以下、合わせて「知的財産権」といいます）その他一切の権利は、作成した参加者自身に帰属します。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://ueqareer.connpass.com/event/252199/'/>
+    <published>
+      2022-06-23T19:02:39+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://engineercafe.connpass.com/event/250783/
+    </id>
+    <title>
+      DeepLearning Tenjin #1
+    </title>
+    <summary>
+      AIを『創れる』エンジニアになろう！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;【イベント内容】&lt;/h1&gt;
+      &lt;p&gt;Pythonの簡単な入門から始めて、ディープラーニングの代表的な手法を手を動かしながらみんなで学んでいきます！&lt;/p&gt;
+      &lt;p&gt;このディープラーニング勉強会は、みんなでテーマを持ち寄り話し合いながら、継続的に開催していきたいと考えています。&lt;/p&gt; &lt;p&gt;第1回のキックオフとなる今回は、ハッカーサポーターの岡部さんをお招きし、実際に手を動かしてみる実践講座回としての開催です！&lt;/p&gt; &lt;p&gt;今後はみんなでワイワイ話し合う回、実践講座回、もくもく会などを織り交ぜながら開催していければと思いますので、この機会に皆さんのやってみたいことなどもお聞かせください。&lt;/p&gt; &lt;h1&gt;【イベントの目的】&lt;/h1&gt; &lt;p&gt;各自が教材を動かしながら体験していくことで、ディープラーニングの代表的な手法を手を動かしながら学んでいきます。&lt;/p&gt; &lt;p&gt;受講者はスライドを見ながら、教材のサンプルを動かしながら進めていきます。&lt;/p&gt; &lt;p&gt;本実践講座はシリーズ化を予定しています。次回以降の参加者の方は、アーカイブ動画をご覧になって予習して来てもらえるとスムーズです！&lt;/p&gt; &lt;p&gt;※今回はハンズオン形式のイベントです。オンライン参加枠も設けておりますが、オンラインの方は全員を完全にフォローできるとは限りませんので、ご了承ください。&lt;/p&gt; &lt;h1&gt;【こんな人にオススメ！】&lt;/h1&gt; &lt;p&gt;・Pythonに入門してみた後、ディープラーニングにも手を出してみたい ・精度を上げていくポイントを知りたい ・実際にどのような場面で使うといいのかヒントが欲しい&lt;/p&gt; &lt;p&gt;皆さんの「やってみたい」をエンジニアカフェで一緒にやりましょう！ イベント外でもご相談等お待ちしております。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#ff69b4&quot;&gt;イベント資料について&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;イベント資料については6/20頃公開予定です。イベント資料が用意できましたらconnpassよりメールを送付いたします。&lt;/p&gt; &lt;p&gt;事前にダウンロードください。&lt;/p&gt; &lt;h3&gt;(2022/06/18 追記)&lt;/h3&gt; &lt;p&gt;イベント資料及び、Colaboratory用の実行ファイルを掲載しました。&lt;/p&gt; &lt;p&gt;Colaboratoryの実行は&lt;strong&gt;Chromeブラウザ&lt;/strong&gt;が推奨されます。 インストールは&lt;a href=&quot;https://www.google.co.jp/chrome/&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;から。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#ff69b4&quot;&gt;事前サポートについて&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;今回のイベントではオンライン実行環境の「Google Colaboratory」を利用します。 動作確認に不安がある方は事前にエンジニアカフェのほうで随時サポートを行いますので、ご来所、あるいはDiscord等でお尋ねください。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#ff69b4&quot;&gt;配信リンクについて&lt;/font&gt;&lt;/h2&gt; &lt;h3&gt;(2022/06/21追記)&lt;/h3&gt; &lt;p&gt;配信リンクを掲載しました！ ページ上部の「参加者への情報」の部分をご覧ください。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#ff69b4&quot;&gt;事前アンケートについて&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;登録前に数件アンケートがございますのでお応えください。&lt;/p&gt; &lt;h1&gt;【ブログ執筆枠について】&lt;/h1&gt; &lt;p&gt;イベント後にブログ等で感想などを執筆していただける方には、優先的にお席をご準備させていただきます！ ブログ枠でご参加の方は、イベント後にフィードにブログリンクを投稿ください！ご確認させていただいたのち、問題なければ、エンジニアカフェ公式Twitterアカウントなどで拡散などさせていただきます！&lt;/p&gt; &lt;h1&gt;【タイムテーブル】&lt;/h1&gt; &lt;h2&gt;16:30 ~ 来場者受付&lt;/h2&gt; &lt;h2&gt;17:00- イベント説明／レクチャー開始&lt;/h2&gt; &lt;h2&gt;19:30- 質問受付・雑談&lt;/h2&gt; &lt;h2&gt;20:00- 解散 &amp;amp; 希望者はCafe Sainoで懇親会&lt;/h2&gt; &lt;h1&gt;【ゲストハッカーサポーター】&lt;/h1&gt; &lt;p&gt;岡部 浩太郎 氏&lt;/p&gt; &lt;p&gt;（SCSK九州株式会社 ビジネスシステム事業本部 AI推進プロジェクト所属／NPO法人軽量Rubyフォーラム事務局長）&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;赤煉瓦会館とエンジニアカフェの紹介&lt;/h1&gt; &lt;h2&gt;福岡市赤煉瓦文化館について&lt;/h2&gt; &lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt; &lt;h2&gt;エンジニアカフェについて&lt;/h2&gt; &lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt; &lt;h2&gt;Fukuoka City Akarenga Cultural Center&lt;/h2&gt; &lt;p&gt;Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909. The structure was designed by Tatsuno Kataoka design office. As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it. This architecture is English Queen Anne style. As the Fukuoka city history museum since 1972. Engineer Cafe opened on August 21st in 2019. Many tourists and engineers are visiting here today.&lt;/p&gt; &lt;h2&gt;Engineer Cafe&lt;/h2&gt; &lt;p&gt;Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://engineercafe.connpass.com/event/250783/'/>
+    <published>
+      2022-06-23T12:41:09+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://metaps.connpass.com/event/250685/
@@ -139,104 +224,6 @@
     <link rel='alternate' type='text/html' href='https://uniquevision.connpass.com/event/247321/'/>
     <published>
       2022-06-21T19:20:33+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/252131/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #124 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応20人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/252131/'/>
-    <published>
-      2022-06-21T19:09:57+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://vivid-garden.connpass.com/event/251269/
-    </id>
-    <title>
-      食べチョク Tech Talk #1 「ユーザーに早く価値を届ける」組織と技術それぞれの取り組み
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;イベント概要💡&lt;/h1&gt;
-      &lt;p&gt;ユーザーに早く価値を届ける。そのためにプロダクト開発チームでは組織を急拡大しながら技術と組織の両面でさまざまな取り組みを行ってきました。&lt;/p&gt; &lt;p&gt;チームトポロジーの考え方を取り入れた組織設計、1日数回のデプロイ体制構築、データサイエンティストやEMメンバーの加入、中長期での成長の芽探求組織の結成等がそれに当たります。&lt;/p&gt; &lt;p&gt;今回は40人規模の組織となっていく過程でどんな課題に直面し、どのような取り組みをしてきたのかをLT形式でお届けします。それが皆様にとって学びになるものとなれば幸いです。&lt;/p&gt; &lt;p&gt;少しでも興味があればお気軽にお申し込みください！&lt;/p&gt; &lt;h2&gt;LTについて 📣&lt;/h2&gt; &lt;p&gt;今回はプロダクト開発に関わる方々を対象に、3つのLTを準備しました。&lt;/p&gt; &lt;h3&gt;アウトカム思考なプロダクト開発を実現する組織作り&lt;/h3&gt; &lt;p&gt;ここ2年で4人から40人へと急拡大した開発組織ですが、同時に初期フェーズのアウトプット重視なマインドから徐々にアウトカム重視なマインドへと変化してきました。&lt;/p&gt; &lt;p&gt;そこに至る経緯や考え方、実際の組織の作り方に関して、1人目のエンジニアであるCTO西尾からお伝えします。&lt;/p&gt; &lt;p&gt;⚡ピンと来たらぜひ！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;アウトカム思考&lt;/li&gt; &lt;li&gt;チームトポロジー&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;連続的な成長と非連続的な成長を担うプロダクトマネジメント&lt;/h3&gt; &lt;p&gt;プロダクトが取り組むべきミッションを定め、ユニットがその仮説検証を回す体制の開発チーム。&lt;/p&gt; &lt;p&gt;ユーザー体験が多様化し続ける中で非連続な成長を続けるために選んだディスカバリーチーム結成の背景と体制、生み出している成果に関してお話します。&lt;/p&gt; &lt;p&gt;⚡ピンと来たらぜひ！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;ミッション単位で分けられたユニット&lt;/li&gt; &lt;li&gt;ディスカバリー&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;デリバリー速度向上と品質維持のためにここ1年で取り組んだこと&lt;/h3&gt; &lt;p&gt;仮説検証を早く回すためにデリバリー速度向上と品質の維持を行うことが急務だった開発組織。&lt;/p&gt; &lt;p&gt;組織全体を巻き込みながら速度と品質の可視化、改善活動を推進したQAエンジニアがこの1年の実際の取り組みを共有します。&lt;/p&gt; &lt;p&gt;⚡ピンと来たらぜひ！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;1日1回以上のリリース&lt;/li&gt; &lt;li&gt;E2E・VRTの導入&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル ⏰&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;概要&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT アウトカム思考なプロダクト開発を実現する組織作り&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT 連続的な成長と非連続的な成長を担うプロダクトマネジメント&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT デリバリー速度向上と品質維持のためにここ1年で取り組んだこと&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Q&amp;amp;Aタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;中締め &amp;amp; アフタートーク 🍺🍵&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;完全撤収&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;登壇者👩‍💻👨‍💻&lt;/h2&gt; &lt;h3&gt;&lt;a href=&quot;https://twitter.com/nishio_dens&quot; rel=&quot;nofollow&quot;&gt;西尾 慎祐&lt;/a&gt; 執行役員CTO&lt;/h3&gt; &lt;p&gt;山梨県北杜市出身。山梨大学大学院医学工学総合教育部を修了後、SI企業に就職。Rubyエンジニア、開発チームリーダーとして動画配信サービスのフルリプレイスに携わる。2018年3月より正式メンバーとして入社。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://note.com/nishio_dens/n/nc08e63fde0bc&quot; rel=&quot;nofollow&quot;&gt;事業を加速させるために向き合う、食べチョクの開発戦略&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;&lt;a href=&quot;https://twitter.com/teng416&quot; rel=&quot;nofollow&quot;&gt;森 洋一郎&lt;/a&gt; プロダクトマネージャー&lt;/h3&gt; &lt;p&gt;大学卒業後、SI企業にエンジニアとして入社し、大手通信会社の通信品質監視ツールの設計・実装などに携わる。 その後、2012年に株式会社レアジョブに入社。エンジニアとして決済システム等を担当した後、PMとしてプロダクト開発やチームリーダーとしてプロダクトマネジメント部チームリーダーとして従事。 2021年8月にビビッドガーデンに入社し、PMを務める。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://note.com/teng416/n/n5c9d5ed3f0c9&quot; rel=&quot;nofollow&quot;&gt;「ここに居続けていいのか」と悩んだ古株PdMがスタートアップに転職した話&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;&lt;a href=&quot;https://twitter.com/uje49538710&quot; rel=&quot;nofollow&quot;&gt;@uje49538710&lt;/a&gt; QAエンジニア&lt;/h3&gt; &lt;p&gt;ゲーム系企業にて広報、企画などに従事した後、QAエンジニアとして複数のプロジェクトにリーダーとして参画する。2021年6月にビビッドガーデンに入社し、1人目QAとしてフロー改善、E2E導入、VRT導入などに携わる。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://tech.tabechoku.com/entry/2022/05/06/155749&quot; rel=&quot;nofollow&quot;&gt;食べチョクの自動テスト改善活動 〜これまでとこれから〜&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;場所 💻&lt;/h2&gt; &lt;p&gt;オンラインイベントです。 視聴URLはメールにてご連絡します。&lt;/p&gt; &lt;h2&gt;イベント前にこちらもご覧ください 🙈&lt;/h2&gt; &lt;p&gt;ビビッドガーデンは「生産者の“こだわり”が、正当に評価される世界へ」をビジョンに掲げ、こだわり生産者さんから直送で新鮮な食材が買えるオンラインマルシェ「食べチョク」を運営しています。 農・畜・水産業界をITの技術力で変えていこうとしているスタートアップです。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/vividgarden/bibitudogadenhui-she-shao-jie-zi-liao-cai-yong-zi-liao&quot; rel=&quot;nofollow&quot;&gt;会社紹介資料&lt;/a&gt;&lt;/p&gt; &lt;p&gt;会社の雰囲気はこちらからご覧いただくことができます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/search?q=%23%E6%9C%AC%E6%97%A5%E3%81%AE%E3%83%93%E3%83%93%E3%83%83%E3%83%89%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3&amp;amp;src=typed_query&amp;amp;f=live&quot; rel=&quot;nofollow&quot;&gt;Twitter #本日のビビッドガーデン&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://note.com/vividgarden_corp/m/m8ba51d9d46fa&quot; rel=&quot;nofollow&quot;&gt;ビビッドガーデン公式 note #食べチョクチーム&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://tech.tabechoku.com/&quot; rel=&quot;nofollow&quot;&gt;食べチョク 開発者ブログ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Twitter等SNSでの拡散大歓迎です&lt;/li&gt; &lt;li&gt;SNS拡散の際には他の方のプライバシーには十分ご配慮くださいませ&lt;/li&gt; &lt;li&gt;都合が悪くなった場合は早めのキャンセル処理をお願いします&lt;/li&gt; &lt;li&gt;イベントの様子はPR目的でウェブサイトやソーシャルメディア等に掲載される可能性があります&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://vivid-garden.connpass.com/event/251269/'/>
-    <published>
-      2022-06-21T18:10:05+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shinjukurb.connpass.com/event/252091/
-    </id>
-    <title>
-      Shinjuku.rb #89 Online
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;Shinjuku.rb って何？&lt;/h1&gt; &lt;p&gt;Shinjuku.rb(&lt;a
-      href=&quot;https://qiita.com/treby/items/c11da012f4dacb02f5cc&quot;
-      rel=&quot;nofollow&quot;&gt;Shinjuku.rbに行こう！&lt;/a&gt;)は新宿周辺のRuby技術者たちが気軽に集まるコミュニティです。 ミートアップはディスカッションを大事にしており、通常時であれば毎月第４水曜日に開催されます。&lt;/p&gt; &lt;p&gt;最近のスタイルとしてはRubyを使っている開発者・Rubyを使っていた開発者・Rubyを使いたい開発者が各々LTや話のネタを持ち寄って(10人前後)、2時間(+α)一本勝負のオンラインミーティングを行っています。&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;20:00 開場&lt;/li&gt; &lt;li&gt;20:10 はじめに・自己紹介&lt;/li&gt; &lt;li&gt;20:15 雑談 &amp;amp; もし話したい人がいればLTもあり&lt;ul&gt; &lt;li&gt;&lt;strong&gt;テーマの例&lt;/strong&gt; : &lt;ul&gt; &lt;li&gt;近況共有 / 最近ホットな技術トピック&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;22:00 解散&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;オンライン(Zoom)&lt;/p&gt; &lt;h1&gt;留意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;途中入退室はご自由にどうぞ。&lt;/li&gt; &lt;li&gt;どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください&lt;/li&gt; &lt;li&gt;質問・疑問などは &lt;a href=&quot;https://shinjukurb.slack.com/&quot; rel=&quot;nofollow&quot;&gt;slack&lt;/a&gt;もしくは &lt;a href=&quot;https://twitter.com/hashtag/shinjukurb?f=tweets&amp;amp;vertical=default&amp;amp;src=hash&quot; rel=&quot;nofollow&quot;&gt;&lt;code&gt;#shinjukurb&lt;/code&gt;&lt;/a&gt; 付きのtweetでご連絡ください&lt;/li&gt; &lt;li&gt;本イベントは&lt;a href=&quot;http://25.ruby.or.jp/coc.ja.html&quot; rel=&quot;nofollow&quot;&gt;アンチハラスメントポリシー&lt;/a&gt;に従います。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shinjukurb.connpass.com/event/252091/'/>
-    <published>
-      2022-06-21T17:31:32+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://engineercafe.connpass.com/event/250783/
-    </id>
-    <title>
-      DeepLearning Tenjin #1
-    </title>
-    <summary>
-      AIを『創れる』エンジニアになろう！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;【イベント内容】&lt;/h1&gt;
-      &lt;p&gt;Pythonの簡単な入門から始めて、ディープラーニングの代表的な手法を手を動かしながらみんなで学んでいきます！&lt;/p&gt;
-      &lt;p&gt;このディープラーニング勉強会は、みんなでテーマを持ち寄り話し合いながら、継続的に開催していきたいと考えています。&lt;/p&gt; &lt;p&gt;第1回のキックオフとなる今回は、ハッカーサポーターの岡部さんをお招きし、実際に手を動かしてみる実践講座回としての開催です！&lt;/p&gt; &lt;p&gt;今後はみんなでワイワイ話し合う回、実践講座回、もくもく会などを織り交ぜながら開催していければと思いますので、この機会に皆さんのやってみたいことなどもお聞かせください。&lt;/p&gt; &lt;h1&gt;【イベントの目的】&lt;/h1&gt; &lt;p&gt;各自が教材を動かしながら体験していくことで、ディープラーニングの代表的な手法を手を動かしながら学んでいきます。&lt;/p&gt; &lt;p&gt;受講者はスライドを見ながら、教材のサンプルを動かしながら進めていきます。&lt;/p&gt; &lt;p&gt;本実践講座はシリーズ化を予定しています。次回以降の参加者の方は、アーカイブ動画をご覧になって予習して来てもらえるとスムーズです！&lt;/p&gt; &lt;p&gt;※今回はハンズオン形式のイベントです。オンライン参加枠も設けておりますが、オンラインの方は全員を完全にフォローできるとは限りませんので、ご了承ください。&lt;/p&gt; &lt;h1&gt;【こんな人にオススメ！】&lt;/h1&gt; &lt;p&gt;・Pythonに入門してみた後、ディープラーニングにも手を出してみたい ・精度を上げていくポイントを知りたい ・実際にどのような場面で使うといいのかヒントが欲しい&lt;/p&gt; &lt;p&gt;皆さんの「やってみたい」をエンジニアカフェで一緒にやりましょう！ イベント外でもご相談等お待ちしております。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#ff69b4&quot;&gt;イベント資料について&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;イベント資料については6/20頃公開予定です。イベント資料が用意できましたらconnpassよりメールを送付いたします。&lt;/p&gt; &lt;p&gt;事前にダウンロードください。&lt;/p&gt; &lt;h3&gt;(2022/06/18 追記)&lt;/h3&gt; &lt;p&gt;イベント資料及び、Colaboratory用の実行ファイルを掲載しました。&lt;/p&gt; &lt;p&gt;Colaboratoryの実行は&lt;strong&gt;Chromeブラウザ&lt;/strong&gt;が推奨されます。 インストールは&lt;a href=&quot;https://www.google.co.jp/chrome/&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;から。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#ff69b4&quot;&gt;事前サポートについて&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;今回のイベントではオンライン実行環境の「Google Colaboratory」を利用します。 動作確認に不安がある方は事前にエンジニアカフェのほうで随時サポートを行いますので、ご来所、あるいはDiscord等でお尋ねください。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#ff69b4&quot;&gt;配信リンクについて&lt;/font&gt;&lt;/h2&gt; &lt;h3&gt;(2022/06/21追記)&lt;/h3&gt; &lt;p&gt;配信リンクを掲載しました！ ページ上部の「参加者への情報」の部分をご覧ください。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#ff69b4&quot;&gt;事前アンケートについて&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;登録前に数件アンケートがございますのでお応えください。&lt;/p&gt; &lt;p&gt;※ブログ枠でご参加の方は、イベント後にフィードにブログリンクを投稿ください。&lt;/p&gt; &lt;h1&gt;【タイムテーブル】&lt;/h1&gt; &lt;h2&gt;16:30 ~ 来場者受付&lt;/h2&gt; &lt;h2&gt;17:00- イベント説明／レクチャー開始&lt;/h2&gt; &lt;h2&gt;19:30- 質問受付・雑談&lt;/h2&gt; &lt;h2&gt;20:00- 解散 &amp;amp; 希望者はCafe Sainoで懇親会&lt;/h2&gt; &lt;h1&gt;【ゲストハッカーサポーター】&lt;/h1&gt; &lt;p&gt;岡部 浩太郎 氏&lt;/p&gt; &lt;p&gt;（SCSK九州株式会社 ビジネスシステム事業本部 AI推進プロジェクト所属／NPO法人軽量Rubyフォーラム事務局長）&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;赤煉瓦会館とエンジニアカフェの紹介&lt;/h1&gt; &lt;h2&gt;福岡市赤煉瓦文化館について&lt;/h2&gt; &lt;p&gt;商人の町であった博多地区と、城下町であった福岡地区の境目、西中島橋のすぐそばに、1909年、旧日本生命保険株式会社九州支店として竣工。設計は辰野片岡建築事務所。辰野金吾が後に手掛ける東京駅の丸の内駅舎と同様に、建物には英国のクイーンアン様式が見られる。1972年に福岡市歴史資料館として開館。1994年より福岡市赤煉瓦文化館へ。2019年8月21日より、エンジニアカフェがオープン。今日も、多くの観光客、エンジニア達が訪ねてきています。&lt;/p&gt; &lt;h2&gt;エンジニアカフェについて&lt;/h2&gt; &lt;p&gt;『エンジニアが集まる、活躍する、成長する街、福岡。』を掲げる福岡市の「エンジニアフレンドリーシティ福岡」活動の一環として、福岡市赤煉瓦文化館内に2019年8月21日オープン。エンジニアがより先鋭的なチャレンジやスキルの幅を広げることができることで多様多種の方に様々な機会を提供したいという想いから、官民一体で生まれたエンジニアのための施設です。&lt;/p&gt; &lt;h2&gt;Fukuoka City Akarenga Cultural Center&lt;/h2&gt; &lt;p&gt;Near the Nishinakajima Bridge between merchant town Hakata and castle town Fukuoka, Nissay Kyushu had opened since 1909. The structure was designed by Tatsuno Kataoka design office. As same as Tokyo station Marunouchi area, Kingo Tatsuno designed it. This architecture is English Queen Anne style. As the Fukuoka city history museum since 1972. Engineer Cafe opened on August 21st in 2019. Many tourists and engineers are visiting here today.&lt;/p&gt; &lt;h2&gt;Engineer Cafe&lt;/h2&gt; &lt;p&gt;Engineers getting together, active, and grow up in Fukuoka. As part of the “Engineer Friendly City Fukuoka”, inside of Fukuoka City Akarenga Cultural Center, this facility opened on August 21 in 2019. We would like to provide various opportunities for a wide variety of people by enabling engineers to expand their range of more advanced challenges and skills. A facility for engineers born in the public and private sectors.&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://engineercafe.connpass.com/event/250783/'/>
-    <published>
-      2022-06-21T16:46:03+09:00
     </published>
   </entry>
 </feed>
