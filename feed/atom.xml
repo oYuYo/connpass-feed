@@ -9,38 +9,8 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-07-07T01:01:58+00:00
+    2022-07-08T01:02:48+00:00
   </updated>
-  <entry>
-    <id>
-      https://harbors-kihonjoho.connpass.com/event/253917/
-    </id>
-    <title>
-      バックエンド勉強会#5
-    </title>
-    <summary>
-      日曜日、一緒にもくもくしませんか？交流タイムもあり、初参加の方からも大好評のイベントです
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;コロナ対策のお願い&lt;/h1&gt;
-      &lt;p&gt;体調が芳しくない方は、ご連絡いただいた上で参加者の参加自粛をお願いします
-      会場にて検温を行います。37.5℃以上を検知した場合は参加出来ないことをご了承ください 参加者はマスク着用をお願いします
-      入場時のアルコール消毒をお願いします 参加者ご自身でのテーブル消毒(利用前/利用後)をお願いします
-      会場では喚起のためドアや窓を開放する場合があります。&lt;/p&gt; &lt;h1&gt;イベント内容&lt;/h1&gt;
-      &lt;p&gt;バックエンド勉強会です。 以下の人を対象に行っていく予定です。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;
-      バックエンド言語であるPython,Ruby,GOなどの言語理解を深めたい&lt;/li&gt; &lt;li&gt;
-      バックエンドに興味がある&lt;/li&gt; &lt;li&gt;とにかくバックエンドが好きな人&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;バックエンドエンジニア大歓迎のイベントです！！ 良かったら参加してみて下さい！！
-      バックエンドに限らず、フロントエンドエンジニアでも参加可能です！！&lt;/p&gt;
-      &lt;p&gt;また、今回は&lt;strong&gt;LTタイム&lt;/strong&gt;も設けてあります！&lt;br&gt;
-      ぜひ練習の場にもご活用いただければ幸いです😆&lt;/p&gt; &lt;p&gt;そしてなんと！&lt;br&gt; &lt;font
-      color=&quot;blue&quot;&gt;初めてのご参加の方にはHarborS表参道コワーキングスペース1DAY無料券(3300円相当)をプレゼント中！&lt;/font&gt;🎁&lt;/p&gt; &lt;h1&gt;ファシリテーター紹介&lt;/h1&gt; &lt;h2&gt;遠藤さん&lt;/h2&gt; &lt;p&gt;今回はプライベートでも勉強熱心なインフラエンジニアの遠藤さんが担当します！ &lt;img src=&quot;https://lh3.googleusercontent.com/A0NyEbtBz2pMWHnGozUtl1NRldAt7KiljUDcCjILi4erufZHs8sHQL_wAcsxp7pouw3UA-r2YsKqsgaZhqPWzBeTP0NEiatesSzjzsurEaC04KOLAfQuxsSPVniot-JdjDmRErVRK9k34yy9RN9MBQq7QsADPv5a2fQd45Kxo3mfYmxqEWTaQS7lajYHWj4uFDfTftRGsPlkOw6pMFmxqaWNQlP_cOUPh4HBtJydcxCbfSTw-i8XmmLNWa67EzEHxeLduocqP7yEDtN083M8eShQ_5nV19UR2X5JfnjDIzxfUshS_8UQMg8oj-7h1u12hi8h9GKdvt8pVctR4hwGi0z7eGGmqy0FfUTFHF_4u-5YX-u16kxzluvE6TPBZl1YbdrJZPLguhtE5YBQvOhooN9Rbz8LF22s70lB9QuziPnI3txU2I5aVnKbSl2dhJOQLK65olEsFxpGTUnNzWVHwMCVEpfroHkGv0Z4DJlhARsZ9ffGW4b_Tof9fbb4yupZCe5aVZmuQetk7xMJdvAGKW-zpZVXjXZ-Z-qxWzSN9i-tVc6dc5QqNcKN1ipZnZdwjtcZxyuY-_uLozd71Y_KbZZR91ZpcaQcNKvjEntHAdobF3juWjrcGJckwfvMVkWHE-d7R4ltyQ5I7DRFrJPXJ-4iA25dzjrfw4bDeQQYi3LCZsq8ISQRu5QXIT4XtPHlPT1tWMelyz4gwQVg3ZJ-TZOD9El1_pzefFTC0QS5sZn4oAGLur9SJQX8mKl9=s512-no?authuser=0&quot; width=&quot;250&quot;&gt;&lt;/p&gt; &lt;h3&gt;【遠藤さん経歴】 &lt;br&gt;&lt;/h3&gt; &lt;p&gt;学生時代からゲームを作成したりと活動的で、前職では大手の一部上場企業のインフラエンジニア（ネットワークエンジニア）として働いていらっしゃりました。&lt;br&gt; 現在はしばらくの間はRailsとAWSをメインに、余裕ができればAIや機械学習などの分野に挑戦したいと考えていらっしゃるそうです。&lt;/p&gt; &lt;h3&gt;【活用している言語や勉強したいこと】&lt;br&gt;&lt;/h3&gt; &lt;p&gt;python フレームワーク（Flask）を用いた WEB サイトの構築、また AWS を用いたインフラストラクチャの構築・運用など、様々なプログラミング言語に関する実践的な知見及び汎用的なインフラストラクチャーの技術をお持ちです。&lt;br&gt; また様々な資格もお持ちで、現在はソフトウェアエンジニアとして能力を高めるため日々研鑽していらっしゃるそうです💪&lt;/p&gt; &lt;h3&gt;【遠藤さんよりひとこと！】 &lt;br&gt;&lt;/h3&gt; &lt;p&gt;今回のファシリテーターを担当する遠藤です。&lt;br&gt; 本日はよろしくお願いします！&lt;br&gt;&lt;/p&gt; &lt;h1&gt;開催場所について&lt;/h1&gt; &lt;p&gt;開催場所は HarborSのコワーキングスペースを利用します。 &lt;img alt=&quot;ロゴ画像&quot; src=&quot;https://harbors.anti-pattern.co.jp/img/eventspace.jpg&quot;&gt;&lt;/p&gt; &lt;h1&gt;会場情報 - HarborS表参道(ハーバーズ表参道) について&lt;/h1&gt; &lt;p&gt;「HarborS」はエンジニア同士の繋がりを創造できるコワーキングスペースです。 働く環境が整っているうえに、エンジニア向け勉強会やイベントも多数開催しています。 HarborSのコミュニティマネージャが会員同士の繋がり、コミュニティ形成のお手伝いをさせていただきます。 - &lt;a href=&quot;https://harbors.anti-pattern.co.jp/&quot; rel=&quot;nofollow&quot;&gt;HarborSサイト&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/harbors_sh&quot; rel=&quot;nofollow&quot;&gt;HarborS Twitter&lt;/a&gt; - &lt;a href=&quot;https://harbors.anti-pattern.co.jp/rooms/&quot; rel=&quot;nofollow&quot;&gt;HarborS会議室利用案内&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;HarborS&lt;/h1&gt; &lt;p&gt;参加対象者 エンジニア、もしくはエンジニアを目指している人 一緒に勉強する人を探している人&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 13:10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;会場説明/自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:10 - 15:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;勉強会タイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15: 10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:10 - 15:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ちょっと交流&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:30 - 17:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;勉強会タイム&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※途中退室OK！&lt;/p&gt; &lt;h1&gt;持ち物・用意するもの&lt;/h1&gt; &lt;p&gt;ノートパソコン(参考書を使いたい方は任意)&lt;/p&gt; &lt;h1&gt;環境&lt;/h1&gt; &lt;p&gt;Wifi&lt;/p&gt; &lt;p&gt;電源タップ&lt;/p&gt; &lt;p&gt;カフェ（有料）&lt;/p&gt; &lt;p&gt;テラス（是非見ていってね！）&lt;/p&gt; &lt;h1&gt;アクセス&lt;/h1&gt; &lt;p&gt;会場：HarborS表参道&lt;/p&gt; &lt;p&gt;住所：東京都港区南青山3丁目15-9 MINOWA表参道3F&lt;/p&gt; &lt;p&gt;アクセス：東京メトロ銀座線 半蔵門線「表参道」下車 A4出口 徒歩3分&lt;/p&gt; &lt;h1&gt;HarborS表参道&lt;/h1&gt; &lt;p&gt;遅れて到着される方は、下記にご連絡いただければ嬉しいです。&lt;/p&gt; &lt;p&gt;Twitter： &lt;a href=&quot;https://twitter.com/reading_earth&quot; rel=&quot;nofollow&quot;&gt;しゅきさん＠WEB系エンジニア&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;会場諸注意&lt;/h1&gt; &lt;p&gt;会場内は禁煙です。 会場内では無線LANがご利用できます。&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;マウントや勧誘、その他の迷惑行為など不適切だと認められる場合、運営側で参加をキャンセルさせていただきます。 参加者の方でそのような事があった場合、運営者にごご相談ください。 イベントの様子を写真撮影・動画で録画し、ブログやSNSなどで公開することがあります。 その際、来場者の姿も公開されることがあることをご了承ください。 撮影する際はお声掛けさせてもらうので、難しい方はお声がけください。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://harbors-kihonjoho.connpass.com/event/253917/'/>
-    <published>
-      2022-07-07T10:00:34+09:00
-    </published>
-  </entry>
   <entry>
     <id>
       https://rakus.connpass.com/event/249139/
@@ -68,132 +38,34 @@
     </content>
     <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/249139/'/>
     <published>
-      2022-07-06T19:20:23+09:00
+      2022-07-08T09:46:26+09:00
     </published>
   </entry>
   <entry>
     <id>
-      https://mito-web-engineer.connpass.com/event/253802/
+      https://rindokurb.connpass.com/event/254041/
     </id>
     <title>
-      Mito.dev #34 もくもく会
+      りんどく.rb #55
     </title>
     <summary>
-      茨城・水戸近郊のエンジニアが集まりもくもくする会。
+      チェリー本2版 第55回
     </summary>
     <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;茨城・水戸近郊のエンジニアが集まりもくもくする会です。&lt;/p&gt;
-      &lt;ul&gt; &lt;li&gt;茨城で数少ないエンジニア仲間を作りたい&lt;/li&gt;
-      &lt;li&gt;集中してコードを書きたい&lt;/li&gt; &lt;li&gt;本を読みたい&lt;/li&gt;
-      &lt;li&gt;異業種からエンジニア転職考えて勉強中&lt;/li&gt;
-      &lt;li&gt;学生だけど、働くエンジニアにあってみたい&lt;/li&gt;
-      &lt;li&gt;リモートワーカーに話を聞いてみたい&lt;/li&gt; &lt;li&gt;LTの練習がしたい&lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;などなど、気軽にご参加ください。&lt;/p&gt;
-      &lt;h2&gt;新型コロナウィルス対策について&lt;/h2&gt;
-      &lt;p&gt;新型コロナウィルス対策のため当日はマスクの着用をお願いします。&lt;br&gt;
-      また、席間隔を開けるため通常より定員を絞っています（10名 =&amp;gt; 8名）。 &lt;/p&gt;
-      &lt;h2&gt;LT・テックトークについて&lt;/h2&gt;
-      &lt;p&gt;もくもく会の中休みとして、LT希望者がいる場合はLTを開催します。もし、LT希望者がいない場合は、最近の気になったテック系ニュースや、お気に入りのツールを紹介するテックトークを開催します（&lt;a href=&quot;https://www.youtube.com/playlist?list=PLKbaztxP2P4jpdF0P5YbJNJwFabB-pksK&quot; rel=&quot;nofollow&quot;&gt;開催イメージ&lt;/a&gt;）。テックトークで資料等を準備する必要はありません。気軽にご参加ください。&lt;/p&gt; &lt;h2&gt;当日のタイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:50 - 13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;受付&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 13:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Slackにやること&amp;amp;自己紹介投稿&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:15 - 15:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT or テックトーク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:40 - 17:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:45 - 18:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;やったこと共有 &amp;amp; 締め&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;18:00 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;懇親会（希望者いれば）&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;p&gt;Mito.devのSlackワークスペースに参加 - &lt;a href=&quot;https://join.slack.com/t/mito-engineer/shared_invite/enQtNzI3OTQ5NDc5Njg3LWFiZWI4MTk3OTMxMzQxNjkyNGI2MDU1MDFmNmJmYWQ3ZjM1ZTYwYjI4YTQ3OTM0NDE3Zjc0OWE5Mjc4ZTE5Yzg&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;からご参加ください&lt;/p&gt; &lt;p&gt;当日のご連絡はSlackで行います。&lt;/p&gt; &lt;h2&gt;ご用意いただくもの&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;会場費（レンタルスペース利用料 参加人数で割るので前後します）&lt;/li&gt; &lt;li&gt;PC&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;懇親会&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;もくもく会終了後、近くの居酒屋で希望者で懇親会を予定しています。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;p&gt;会場に駐車場がありません。 お車でご来場の方は近くの有料駐車場に駐車してください。&lt;br&gt; ・パラカ水戸南町第2 終日最大500円&lt;br&gt; ・パラカ水戸南町第2 終日最大600円 &lt;br&gt; ・リパーク水戸南町3丁目第2 終日最大600円&lt;br&gt; ・タイムズ水戸泉町 終日最大600円 &lt;/p&gt; &lt;p&gt;何かご質問などあれば、 主催者(&lt;a href=&quot;https://twitter.com/KawamataRyo&quot; rel=&quot;nofollow&quot;&gt;@KawamataRyo&lt;/a&gt; &lt;a href=&quot;http://twitter.com/b7472&quot; rel=&quot;nofollow&quot;&gt;@b7472&lt;/a&gt;)までお気軽にお問い合わせください。&lt;/p&gt; &lt;h2&gt;イベントの様子&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://mito-web-engineer.connpass.com/event/188079/&quot; rel=&quot;nofollow&quot;&gt;https://mito-web-engineer.connpass.com/event/188079/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;■参加された方のやったこと一覧&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;・Kotlinを完全理解していく ・Nuxt入門！〜 フロントチームとちゃんとお話できるまで 〜 ・「Wordpress × Docker × VSC」環境の相談 ・azureのMobile Appでアプリを作成する。 ・プロを目指す人のためのRuby入門を読み進める！ ・PWAアップでカメラを起動して、ISBNを読み取るアプリを作る ・LTの準備(Strapi + GraphQLでNuxt.jsからAPI通信) ・Ruby、Railsの基礎の勉強を進める（主にprogate) ・前回作ったReactチュートリアルの成果をDocker化したので、それをAWSのECSにデプロイしてみる。 ・React + TypescriptでWeb製作 ・ラズパイ での電子工作 ・プレゼンスライドの準備 ・組み込み ・機械学習の勉強 ・資格勉強 ・副業 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h2&gt;主催者紹介&lt;/h2&gt; &lt;h3&gt;かわまた（@RyoKawamata）&lt;/h3&gt; &lt;p&gt;消防士から三十路間近でwebエンジニアに転職。一児の父。現在ひたちなか市からフルリモートで就業中。&lt;br&gt; Ruby, JavaScript, TypeScript, Vue.js, Firebaseが好き。&lt;br&gt; 詳しい自己紹介は&lt;a href=&quot;https://note.mu/ryo_kawamata/n/n4fc0fa900314&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;なっぱ(Shuhei Yamashita)&lt;/h3&gt; &lt;p&gt;EC特化でエンジニアを続けてきた32歳。茨城県水戸市でフルリモートのマネージャーをやっている。 最近のブームはRust, Golang, TypeScriptあたり。趣味は料理。 茨城のエンジニア界隈を盛り上げていきましょう！！&lt;/p&gt; &lt;h2&gt;関連技術（参加者がもくもくしてた技術）&lt;/h2&gt; &lt;p&gt;JavaScript, Vue.js, React, Firebase, TypeScript, .NET, AWS, Python, Ruby, C#, ESP32, FreeRTOS, Hasura&lt;/p&gt;
+      &lt;h2&gt;りんどく.rbとは&lt;/h2&gt; &lt;p&gt;RubyやRuby on
+      Railsに関する技術書を輪読会形式で読むコミュニティです。&lt;br&gt;
+      基本的に火・金曜日の朝8:00〜9:00に開催します。&lt;br&gt;
+      必ずしも毎回参加しなくて大丈夫ですし、途中参加・途中退室、ラジオ参加(発言はせず聞いているだけ)も大歓迎です！！&lt;/p&gt;
+      &lt;p&gt;朝の時間を有効活用して、一緒に知識と技術を深めましょう！&lt;/p&gt;
+      &lt;p&gt;▼立ち上げの経緯&lt;br&gt; &lt;a
+      href=&quot;https://fuga-ch85.hatenablog.com/entry/2021/12/14/002128&quot;
+      rel=&quot;nofollow&quot;&gt;Rubyの技術書を輪読する”りんどく.rb”を立ち上げます - No day younger
+      than today&lt;/a&gt;&lt;/p&gt; &lt;p&gt;▼りんどく.rbのご案内&lt;br&gt; &lt;a
+      href=&quot;https://speakerdeck.com/fugakkbn/introduction-to-rindokurb&quot; rel=&quot;nofollow&quot;&gt;introduction-to-rindokurb - Speaker Deck&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;参加資格&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyが好きなこと&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;以上！！&lt;br&gt; 初心者〜ベテランまで、どなたでも歓迎します。&lt;/p&gt; &lt;h2&gt;現在輪読中の書籍・章&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERuby%E5%85%A5%E9%96%80-%E6%94%B9%E8%A8%822%E7%89%88-%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98%E3%81%8B%E3%82%89%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%BB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%8A%80%E6%B3%95%E3%81%BE%E3%81%A7-Software-Design/dp/4297124378/ref=sr_1_2_sspa?crid=3QOGFENWMIHOF&amp;amp;keywords=%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEruby%E5%85%A5%E9%96%80+%E6%94%B9%E8%A8%822%E7%89%88&amp;amp;qid=1641908422&amp;amp;sprefix=%E3%83%97%E3%83%AD%E3%82%92%E3%82%81%2Caps%2C193&amp;amp;sr=8-2-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPTDg5NjhTM1U5UlUmZW5jcnlwdGVkSWQ9QTA3NTY0NTIzVVNaUVdLTFhURFpSJmVuY3J5cHRlZEFkSWQ9QVJRRjRQV1Q2MVJWMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&quot; rel=&quot;nofollow&quot;&gt;プロを目指す人のためのRuby入門[改訂2版] 言語仕様からテスト駆動開発・デバッグ技法まで（著：伊藤 淳一）&lt;/a&gt;&lt;/p&gt; &lt;p&gt;7.6「クラスの継承」〜&lt;/p&gt; &lt;p&gt;※&lt;strong&gt;改訂2版&lt;/strong&gt;を輪読します。これから購入される方は&lt;strong&gt;表紙のさくらんぼが2つ&lt;/strong&gt;のものを目印にお買い求めください。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;h3&gt;8:00〜8:10 自己紹介&lt;/h3&gt; &lt;p&gt;簡単に自己紹介をしていただきます。&lt;/p&gt; &lt;h3&gt;8:10〜8:50 輪読タイム&lt;/h3&gt; &lt;p&gt;節単位でランダムに1人指名して、音読します。&lt;br&gt; サンプルコードがあればモブプロしながら理解を深めます。&lt;br&gt; 質問や疑問は適宜してもらって大丈夫です。&lt;/p&gt; &lt;h3&gt;8:50〜9:00 ふりかえり&lt;/h3&gt; &lt;p&gt;この日学んだことや気づいたこと、感想などを書く時間です。&lt;br&gt; 書く場所は別途ご案内します。&lt;/p&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;現在、オンラインでのみ開催しております。&lt;br&gt; 会場は&lt;a href=&quot;https://discord.com/&quot; rel=&quot;nofollow&quot;&gt;Discord&lt;/a&gt;のボイスチャンネルを使用します。&lt;br&gt; &lt;a href=&quot;https://discord.gg/2FYf8jTE2T&quot; rel=&quot;nofollow&quot;&gt;りんどく.rbのDiscordサーバー&lt;/a&gt;への登録をお願いします。&lt;/p&gt; &lt;h2&gt;ツール&lt;/h2&gt; &lt;p&gt;共有ドキュメントとして、&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa&lt;/a&gt;を使用しています。&lt;br&gt; &lt;a href=&quot;https://rindokurb.esa.io/team/invitations/member-76999605482c465674cb207507de69b1&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;から参加登録をお願いします。&lt;/p&gt; &lt;h2&gt;ハッシュタグ&lt;/h2&gt; &lt;p&gt;&lt;code&gt;#りんどくrb&lt;/code&gt;&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;あまり細かいルールを作りたくないので、ご参加いただく際は&lt;strong&gt;みんなが気持ちよく参加できる&lt;/strong&gt;言動を心がけていただくようお願いいたします。&lt;/p&gt;
     </content>
-    <link rel='alternate' type='text/html' href='https://mito-web-engineer.connpass.com/event/253802/'/>
+    <link rel='alternate' type='text/html' href='https://rindokurb.connpass.com/event/254041/'/>
     <published>
-      2022-07-06T13:07:33+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://harbors-kihonjoho.connpass.com/event/252608/
-    </id>
-    <title>
-      HarborSもくもく会@表参道 #57
-    </title>
-    <summary>
-      エンジニア特化型コワーキングスペースでもくもくしませんか？
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;■イベント内容&lt;/h1&gt; &lt;p&gt;HarborSもくもく会を開催します～
-      初参加の方、初学者の方も歓迎です！&lt;/p&gt; &lt;h2&gt;◆HarborSでのもくもく会は&lt;/h2&gt;
-      &lt;p&gt;前半がもくもくタイムで後半が交流タイムと交流が多い会となってます！&lt;/p&gt;
-      &lt;p&gt;エンジニア同士の交流は有益な情報交換ができるのは勿論&lt;/p&gt;
-      &lt;p&gt;新たな出会いがきっかけでお仕事や環境、考え方が変わることもあります！&lt;/p&gt;
-      &lt;p&gt;そしてなんと！&lt;br&gt; &lt;font
-      color=&quot;blue&quot;&gt;初めてのご参加の方にはHarborS表参道コワーキングスペース1DAY無料券(3300円相当)をプレゼント中！&lt;/font&gt;🎁&lt;/p&gt; &lt;h3&gt;またその他にも...&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;ITの業界に興味がある&lt;/li&gt; &lt;li&gt;プログラミング勉強したことあるけど苦手意識がある&lt;/li&gt; &lt;li&gt;もっと知識を深めたい&lt;/li&gt; &lt;li&gt;IT業界で働きたい&lt;/li&gt; &lt;li&gt;プログラミング仲間がほしい&lt;/li&gt; &lt;li&gt;プログラミングの相談したい&lt;/li&gt; &lt;li&gt;勉強しなきゃいけないけど、モチベーションが上がらない&lt;/li&gt; &lt;li&gt;IT資格を取りたい&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;等々こういった目的をもった方々、お気軽にご参加ください！&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;blue&quot;&gt;■もくもく会&amp;amp;ドロップインセットが登場！！&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;✨もくもく会参加者限定✨&lt;br&gt; &lt;font color=&quot;blue&quot;&gt;もくもく会当日のコワーキングスペース1day利用を60%OFFの1200円でご利用いただけます！&lt;/font&gt;&lt;br&gt; セットをご希望の方は申し込みの際に出てくるアンケートより選択ください！&lt;br&gt;&lt;/p&gt; &lt;p&gt;営業時間：10時-20時&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;font color=&quot;red&quot;&gt;■コロナ対策&lt;/font&gt;&lt;/h1&gt; &lt;p&gt;&lt;font color=&quot;red&quot;&gt;新型ウィルス流行に伴い以下の対策を実施しております。ご協力をお願い致します。&lt;/font&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;マスクの着用をお願いします。&lt;/li&gt; &lt;li&gt;アルコールを用意しますので、入場時に手の消毒をお願いします。&lt;/li&gt; &lt;li&gt;咳、くしゃみなどの際は口を抑えるなどの配慮をお願いします。&lt;/li&gt; &lt;li&gt;参加者同士の物理的な接触(握手など)を極力避けるようお願いします。&lt;/li&gt; &lt;li&gt;体調が優れない場合、参加はご遠慮下さい。(必ずConnpassにてキャンセル処理をお願いします。)&lt;/li&gt; &lt;li&gt;会場にて検温を行います。37.5℃以上を検知した場合は参加出来ないことをご了承ください&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;■ファシリテータ&lt;/h1&gt; &lt;h2&gt;ましもさん&lt;/h2&gt; &lt;p&gt;今回はもくもく会常連さんでもあるましもさんが担当します！&lt;br&gt; 小4時のましもさんのお写真をいただきました✨&lt;br&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;【ましもさん経歴】 &lt;/strong&gt;&lt;br&gt;&lt;/h3&gt; &lt;p&gt;学生時代は軽音楽サークルに所属していらっしゃったそうです！&lt;br&gt; 社会人になってからは新卒で入社した会社で、言われたことをやる単調な仕事よりも&lt;br&gt; 自分のものづくりが好きな性格や、課題解決能力をより活かせる仕事をしたいという思いから、&lt;br&gt; プログラミングを勉強してソフトエンジニアになられました！&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;【活用している言語や勉強したいこと】&lt;/strong&gt;&lt;br&gt;&lt;/h3&gt; &lt;p&gt;Ruby, RubyonRails, TypeScript, React, AWSの知識をお持ちで、現在はシステムプログラミング、アルゴリズム、個人アプリ開発を勉強していきたいとのことです。&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;【ましもさんよりひとこと！】 &lt;/strong&gt;&lt;br&gt;&lt;/h3&gt; &lt;p&gt;楽しくもくもくしましょう！よろしくお願いします！&lt;/p&gt; &lt;h1&gt;■参加条件&lt;/h1&gt; &lt;p&gt;・IT関連の勉強/作業をされる方　とさせて頂きます&lt;/p&gt; &lt;h1&gt;■もちもの&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;もくもくに必要なもの(PC 参考書など)&lt;/li&gt; &lt;li&gt;飲食物(においが強くないもの)&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;■料金&lt;/h1&gt; &lt;p&gt;500円(税込)（HarborS会員の方は無料）&lt;/p&gt; &lt;h1&gt;■設備&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;電源&lt;/li&gt; &lt;li&gt;Wi-Fi　&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;■タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 15:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自己紹介 and もくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;HarborS紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:10 - 16:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;交流タイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:00 - 16:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもく or 交流 (自由)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:50 - 17:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもく終了/片付け&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;■諸注意&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;会場は禁煙です。&lt;/li&gt; &lt;li&gt;キャンセルする場合は必ずConnpassよりキャンセル処理をお願いします。&lt;/li&gt; &lt;li&gt;当日の連絡は当ページのフィード欄にお願いします。&lt;/li&gt; &lt;li&gt;会場のエレベータは３階のボタンが２つ付いております。「HarborSセミナー会場」を押してください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;■HorborSについて&lt;/h1&gt; &lt;p&gt;「HarborS」はエンジニア同士の繋がりを創造できる場所です。&lt;/p&gt; &lt;p&gt;働く環境が整っているうえに、エンジニア向け勉強会やイベントも多数開催しています。&lt;/p&gt; &lt;p&gt;HarborSのコミュニティマネージャが会員同士の繋がり、コミュニティ形成のお手伝いをさせていただきます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://harbors.anti-pattern.co.jp/&quot; rel=&quot;nofollow&quot;&gt;HarborSサイト&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/harbors_sh&quot; rel=&quot;nofollow&quot;&gt;HarborS Twitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://harbors-kihonjoho.connpass.com/event/252608/'/>
-    <published>
-      2022-07-06T10:18:41+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://harbors-kihonjoho.connpass.com/event/252819/
-    </id>
-    <title>
-      バックエンド勉強会#5
-    </title>
-    <summary>
-      日曜日、一緒にもくもくしませんか？交流タイムもあり、初参加の方からも大好評のイベントです
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;コロナ対策のお願い&lt;/h1&gt;
-      &lt;p&gt;体調が芳しくない方は、ご連絡いただいた上で参加者の参加自粛をお願いします
-      会場にて検温を行います。37.5℃以上を検知した場合は参加出来ないことをご了承ください 参加者はマスク着用をお願いします
-      入場時のアルコール消毒をお願いします 参加者ご自身でのテーブル消毒(利用前/利用後)をお願いします
-      会場では喚起のためドアや窓を開放する場合があります。&lt;/p&gt; &lt;h1&gt;イベント内容&lt;/h1&gt;
-      &lt;p&gt;バックエンド勉強会です。 以下の人を対象に行っていく予定です。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;
-      バックエンド言語であるPython,Ruby,GOなどの言語理解を深めたい&lt;/li&gt; &lt;li&gt;
-      バックエンドに興味がある&lt;/li&gt; &lt;li&gt;とにかくバックエンドが好きな人&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;バックエンドエンジニア大歓迎のイベントです！！ 良かったら参加してみて下さい！！
-      バックエンドに限らず、フロントエンドエンジニアでも参加可能です！！&lt;/p&gt;
-      &lt;p&gt;また、今回は&lt;strong&gt;LTタイム&lt;/strong&gt;も設けてあります！&lt;br&gt;
-      ぜひ練習の場にもご活用いただければ幸いです😆&lt;/p&gt; &lt;p&gt;そしてなんと！&lt;br&gt; &lt;font
-      color=&quot;blue&quot;&gt;初めてのご参加の方にはHarborS表参道コワーキングスペース1DAY無料券(3300円相当)をプレゼント中！&lt;/font&gt;🎁&lt;/p&gt; &lt;h1&gt;ファシリテーター紹介&lt;/h1&gt; &lt;h2&gt;遠藤さん&lt;/h2&gt; &lt;p&gt;今回はプライベートでも勉強熱心なインフラエンジニアの遠藤さんが担当します！ &lt;img src=&quot;https://lh3.googleusercontent.com/A0NyEbtBz2pMWHnGozUtl1NRldAt7KiljUDcCjILi4erufZHs8sHQL_wAcsxp7pouw3UA-r2YsKqsgaZhqPWzBeTP0NEiatesSzjzsurEaC04KOLAfQuxsSPVniot-JdjDmRErVRK9k34yy9RN9MBQq7QsADPv5a2fQd45Kxo3mfYmxqEWTaQS7lajYHWj4uFDfTftRGsPlkOw6pMFmxqaWNQlP_cOUPh4HBtJydcxCbfSTw-i8XmmLNWa67EzEHxeLduocqP7yEDtN083M8eShQ_5nV19UR2X5JfnjDIzxfUshS_8UQMg8oj-7h1u12hi8h9GKdvt8pVctR4hwGi0z7eGGmqy0FfUTFHF_4u-5YX-u16kxzluvE6TPBZl1YbdrJZPLguhtE5YBQvOhooN9Rbz8LF22s70lB9QuziPnI3txU2I5aVnKbSl2dhJOQLK65olEsFxpGTUnNzWVHwMCVEpfroHkGv0Z4DJlhARsZ9ffGW4b_Tof9fbb4yupZCe5aVZmuQetk7xMJdvAGKW-zpZVXjXZ-Z-qxWzSN9i-tVc6dc5QqNcKN1ipZnZdwjtcZxyuY-_uLozd71Y_KbZZR91ZpcaQcNKvjEntHAdobF3juWjrcGJckwfvMVkWHE-d7R4ltyQ5I7DRFrJPXJ-4iA25dzjrfw4bDeQQYi3LCZsq8ISQRu5QXIT4XtPHlPT1tWMelyz4gwQVg3ZJ-TZOD9El1_pzefFTC0QS5sZn4oAGLur9SJQX8mKl9=s512-no?authuser=0&quot; width=&quot;250&quot;&gt;&lt;/p&gt; &lt;h3&gt;【遠藤さん経歴】 &lt;br&gt;&lt;/h3&gt; &lt;p&gt;学生時代からゲームを作成したりと活動的で、前職では大手の一部上場企業のインフラエンジニア（ネットワークエンジニア）として働いていらっしゃりました。&lt;br&gt; 現在はしばらくの間はRailsとAWSをメインに、余裕ができればAIや機械学習などの分野に挑戦したいと考えていらっしゃるそうです。&lt;/p&gt; &lt;h3&gt;【活用している言語や勉強したいこと】&lt;br&gt;&lt;/h3&gt; &lt;p&gt;python フレームワーク（Flask）を用いた WEB サイトの構築、また AWS を用いたインフラストラクチャの構築・運用など、様々なプログラミング言語に関する実践的な知見及び汎用的なインフラストラクチャーの技術をお持ちです。&lt;br&gt; また様々な資格もお持ちで、現在はソフトウェアエンジニアとして能力を高めるため日々研鑽していらっしゃるそうです💪&lt;/p&gt; &lt;h3&gt;【遠藤さんよりひとこと！】 &lt;br&gt;&lt;/h3&gt; &lt;p&gt;今回のファシリテーターを担当する遠藤です。&lt;br&gt; 本日はよろしくお願いします！&lt;br&gt;&lt;/p&gt; &lt;h1&gt;開催場所について&lt;/h1&gt; &lt;p&gt;開催場所は HarborSのコワーキングスペースを利用します。 &lt;img alt=&quot;ロゴ画像&quot; src=&quot;https://harbors.anti-pattern.co.jp/img/eventspace.jpg&quot;&gt;&lt;/p&gt; &lt;h1&gt;会場情報 - HarborS表参道(ハーバーズ表参道) について&lt;/h1&gt; &lt;p&gt;「HarborS」はエンジニア同士の繋がりを創造できるコワーキングスペースです。 働く環境が整っているうえに、エンジニア向け勉強会やイベントも多数開催しています。 HarborSのコミュニティマネージャが会員同士の繋がり、コミュニティ形成のお手伝いをさせていただきます。 - &lt;a href=&quot;https://harbors.anti-pattern.co.jp/&quot; rel=&quot;nofollow&quot;&gt;HarborSサイト&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/harbors_sh&quot; rel=&quot;nofollow&quot;&gt;HarborS Twitter&lt;/a&gt; - &lt;a href=&quot;https://harbors.anti-pattern.co.jp/rooms/&quot; rel=&quot;nofollow&quot;&gt;HarborS会議室利用案内&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;HarborS&lt;/h1&gt; &lt;p&gt;参加対象者 エンジニア、もしくはエンジニアを目指している人 一緒に勉強する人を探している人&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 13:10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;会場説明/自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:10 - 15:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;勉強会タイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15: 10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:10 - 15:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ちょっと交流&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:30 - 17:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;勉強会タイム&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※途中退室OK！&lt;/p&gt; &lt;h1&gt;持ち物・用意するもの&lt;/h1&gt; &lt;p&gt;ノートパソコン(参考書を使いたい方は任意)&lt;/p&gt; &lt;h1&gt;環境&lt;/h1&gt; &lt;p&gt;Wifi&lt;/p&gt; &lt;p&gt;電源タップ&lt;/p&gt; &lt;p&gt;カフェ（有料）&lt;/p&gt; &lt;p&gt;テラス（是非見ていってね！）&lt;/p&gt; &lt;h1&gt;アクセス&lt;/h1&gt; &lt;p&gt;会場：HarborS表参道&lt;/p&gt; &lt;p&gt;住所：東京都港区南青山3丁目15-9 MINOWA表参道3F&lt;/p&gt; &lt;p&gt;アクセス：東京メトロ銀座線 半蔵門線「表参道」下車 A4出口 徒歩3分&lt;/p&gt; &lt;h1&gt;HarborS表参道&lt;/h1&gt; &lt;p&gt;遅れて到着される方は、下記にご連絡いただければ嬉しいです。&lt;/p&gt; &lt;p&gt;Twitter： &lt;a href=&quot;https://twitter.com/reading_earth&quot; rel=&quot;nofollow&quot;&gt;しゅきさん＠WEB系エンジニア&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;会場諸注意&lt;/h1&gt; &lt;p&gt;会場内は禁煙です。 会場内では無線LANがご利用できます。&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;マウントや勧誘、その他の迷惑行為など不適切だと認められる場合、運営側で参加をキャンセルさせていただきます。 参加者の方でそのような事があった場合、運営者にごご相談ください。 イベントの様子を写真撮影・動画で録画し、ブログやSNSなどで公開することがあります。 その際、来場者の姿も公開されることがあることをご了承ください。 撮影する際はお声掛けさせてもらうので、難しい方はお声がけください。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://harbors-kihonjoho.connpass.com/event/252819/'/>
-    <published>
-      2022-07-06T07:31:03+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://cherry-rindoku.connpass.com/event/253728/
-    </id>
-    <title>
-      チェリー本(第2版)オンライン輪読会#16
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;&lt;a
-      href=&quot;https://gihyo.jp/book/2021/978-4-297-12437-3&quot;
-      rel=&quot;nofollow&quot;&gt;プロを目指す人のためのRuby入門［改訂2版］
-      言語仕様からテスト駆動開発・デバッグ技法まで：書籍案内｜技術評論社&lt;/a&gt;(&lt;strong&gt;第2版&lt;/strong&gt;)(通称:チェリー本)を輪読します。&lt;/p&gt; &lt;p&gt;※詳しいタイムスケジュールは当日Disocrd内で共有いたします。&lt;/p&gt; &lt;h2&gt;今読んでいるところ&lt;/h2&gt; &lt;p&gt;p470 11.5 パターンマッチについてもっと詳しく&lt;/p&gt; &lt;p&gt;から読み進めます🚀&lt;/p&gt; &lt;h2&gt;参加資格&lt;/h2&gt; &lt;p&gt;どなたでもご参加いただけますが、見学やラジオ参加以外の方は、本がお手元にある前提で輪読会をすすめます。&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;会場はオンラインです。 鹿児島.mkのDiscordを使わせていただきます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;こちらのURLから当日ご自由にご参加ください。&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://discord.gg/3h3gmrZy6h&quot; rel=&quot;nofollow&quot;&gt;https://discord.gg/3h3gmrZy6h&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※リンク切れなどの不具合があった場合は、お手数ですが主催者のTwitterにDMお願いします🙏&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/hyumanase&quot; rel=&quot;nofollow&quot;&gt;主催者のTwitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※鹿児島.mkの詳細について&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://kagoshima-mk.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;鹿児島.mk - connpass&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当日はボイスチャンネルによる参加になります。ビデオのオン・オフはご自由に。&lt;/li&gt; &lt;li&gt;見学、途中参加、途中退席、ラジオ参加(聞いているだけ)大歓迎😄&lt;ul&gt; &lt;li&gt;なにか作業したいけどやる気がでない方、ラジオ参加でお気軽にお立ち寄りください〜🍒🍒&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;スケジュール・輪読会方針などはやりながら柔軟に変更していく予定です。あらかじめご了承ください🙇&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://cherry-rindoku.connpass.com/event/253728/'/>
-    <published>
-      2022-07-05T19:35:05+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://histudy.connpass.com/event/253457/
-    </id>
-    <title>
-      姫路IT系勉強会 2022.7(オフライン)
-    </title>
-    <summary>
-      今月から兵庫県立はりま姫路総合医療センターの教育研修棟で開催です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;姫路IT系勉強会&lt;/h1&gt;
-      &lt;p&gt;姫路IT系勉強会は、毎月第3土曜日に開催している兵庫県姫路市を中心とした周辺地域のIT系技術者、
-      Webデザイナー、学生、それらの技術に興味のある人たちが気軽に集まり交流できる勉強会です。&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;&lt;a
-      href=&quot;https://join.slack.com/t/histudy/shared_invite/zt-ugowinom-ZG0ORhstkrqQGVyjksr_OA&quot; rel=&quot;nofollow&quot;&gt;姫路IT系勉強会 Slackへ参加する&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://discord.gg/rZCeScB&quot; rel=&quot;nofollow&quot;&gt;姫路IT系勉強会 Discordへ参加する&lt;/a&gt;&lt;/li&gt; &lt;li&gt;メーリングリスト: &lt;a href=&quot;https://groups.google.com/forum/?fromgroups#!forum/histudy&quot; rel=&quot;nofollow&quot;&gt;https://groups.google.com/forum/?fromgroups#!forum/histudy&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;会場までのルート&lt;/h3&gt; &lt;p&gt;JR姫路駅から勉強会会場までのルートは以下を参照してください&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&amp;amp;route=34.8268%2C134.6901%3B34.8265%2C134.7020#map=17/34.82737/134.69632&quot; rel=&quot;nofollow&quot;&gt;https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&amp;amp;route=34.8268%2C134.6901%3B34.8265%2C134.7020#map=17/34.82737/134.69632&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;勉強会の開催方法&lt;/h2&gt; &lt;h3&gt;はじめに&lt;/h3&gt; &lt;p&gt;当日、会場で付箋紙をお渡しするので、以下の様なことを自由にご記入ください。&lt;br&gt; (付箋紙に記載する内容に関しては、少しでもIT系にカスッていれば何を記載してOKです)&lt;/p&gt; &lt;ul&gt; &lt;li&gt;聞いてみたいこと&lt;/li&gt; &lt;li&gt;興味があること&lt;/li&gt; &lt;li&gt;こんなのやってみた(俺/私の話を聞いてくれ！)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;付箋紙に記載されたお題を元に、以下の方法で勉強会が進行していきます。&lt;/p&gt; &lt;h3&gt;勉強会の進行方法&lt;/h3&gt; &lt;p&gt;付箋紙に記載されたお題を元に、参加者全員でついて話し合う、&lt;br&gt; 座談会(アンカンファレンス)形式で進行します。 &lt;/p&gt; &lt;p&gt;付箋紙にお題を記載した人が、何かを発表をしなければいけないという類のものでありませんが、&lt;br&gt; 「ぜひ、発表をしたい！」という場合は歓迎します。&lt;/p&gt; &lt;h3&gt;姫路IT系勉強会のキーワード&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Web周辺テクノロジー&lt;/li&gt; &lt;li&gt;HTML5 / CSS3 / JavaScriptやjQueryなどのライブラリ&lt;/li&gt; &lt;li&gt;Webデザイン&lt;/li&gt; &lt;li&gt;CMS&lt;/li&gt; &lt;li&gt;プログラミング(PHPやRuby, Python. Shell Scriptなど)&lt;/li&gt; &lt;li&gt;サーバー / ネットワーク&lt;/li&gt; &lt;li&gt;仮想化&lt;/li&gt; &lt;li&gt;運用管理など&lt;/li&gt; &lt;li&gt;オープンソース / 自由ソフトウェア&lt;/li&gt; &lt;li&gt;Android / iOS&lt;/li&gt; &lt;li&gt;ガジェット Raspberry Pi, Beagle bone black&lt;/li&gt; &lt;li&gt;ワークフロー / タスクマネージメント&lt;/li&gt; &lt;li&gt;IT技術者のライフハック&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;その他、関連することなどなど…&lt;/p&gt; &lt;h3&gt;過去のお題(例)&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;google castの仕方教えてくだされ&lt;/li&gt; &lt;li&gt;業界未経験でITを勉強するには&lt;/li&gt; &lt;li&gt;チームでの開発(初心者からのWeb開発)&lt;/li&gt; &lt;li&gt;カメラとPCでタイムラプスしてみたす&lt;/li&gt; &lt;li&gt;AndroidタブレットにLinuxを入れて色々と遊んでみよう&lt;/li&gt; &lt;li&gt;C#を学ぶのに良いプロジェクトないですか？&lt;/li&gt; &lt;li&gt;LISPの紹介&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;注意事項&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;付箋紙に記載する内容は、参加者一人につき、1つだけ記載するようにお願いします。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;勉強会ログ (HackMD)&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://hackmd.io/Q5aRK26mTVGtmwKWioltyg&quot; rel=&quot;nofollow&quot;&gt;https://hackmd.io/Q5aRK26mTVGtmwKWioltyg&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;p&gt;付箋紙に記載されたお題をジャンル分け・レベル分けし、 以下の様な感じで開催されます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;13:15 - 会場の準備(机の並び替えなど)&lt;/li&gt; &lt;li&gt;13:30 - 前説・自己紹介&lt;/li&gt; &lt;li&gt;14:00 - お題1〜3 (比較的万人向け？) &lt;/li&gt; &lt;li&gt;15:00 - お題4〜6 (プログラム系のネタが多め？) &lt;/li&gt; &lt;li&gt;16:00 - お題7〜9 (インフラ・ネットワーク・サーバ系・脱落者多数のネタ多し？) &lt;/li&gt; &lt;li&gt;17:00 - 終了&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;お題の数や盛り上がり具合により時間は変動します、 また、間に適当に休憩を挟むので時間は前後します。&lt;/p&gt; &lt;h2&gt;参加費&lt;/h2&gt; &lt;p&gt;社会人: 500円 / 学生: 無料(社会人学生不可) 学生の方は、学生証などをお持ちください。&lt;/p&gt; &lt;h2&gt;懇親会&lt;/h2&gt; &lt;p&gt;終了後に希望者の数次第で懇親会があります。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://histudy.connpass.com/event/253457/'/>
-    <published>
-      2022-07-05T19:26:02+09:00
+      2022-07-08T09:21:52+09:00
     </published>
   </entry>
   <entry>
@@ -234,52 +106,185 @@
     </content>
     <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/253722/'/>
     <published>
-      2022-07-05T19:18:48+09:00
+      2022-07-08T03:36:58+09:00
     </published>
   </entry>
   <entry>
     <id>
-      https://vivid-garden.connpass.com/event/251269/
+      https://pg-beginner-mtg.connpass.com/event/254008/
     </id>
     <title>
-      食べチョク Tech Talk #1 「ユーザーに早く価値を届ける」組織と技術それぞれの取り組み
+      もくもく会（プログラミング初学者）#3
     </title>
     <summary>
     </summary>
     <content type='html' xml:lang='ja'>
-      &lt;h1&gt;イベント概要💡&lt;/h1&gt;
-      &lt;p&gt;ユーザーに早く価値を届ける。そのためにプロダクト開発チームでは組織を急拡大しながら技術と組織の両面でさまざまな取り組みを行ってきました。&lt;/p&gt; &lt;p&gt;チームトポロジーの考え方を取り入れた組織設計、1日数回のデプロイ体制構築、データサイエンティストやEMメンバーの加入、中長期での成長の芽探求組織の結成等がそれに当たります。&lt;/p&gt; &lt;p&gt;今回は40人規模の組織となっていく過程でどんな課題に直面し、どのような取り組みをしてきたのかをLT形式でお届けします。それが皆様にとって学びになるものとなれば幸いです。&lt;/p&gt; &lt;p&gt;少しでも興味があればお気軽にお申し込みください！&lt;/p&gt; &lt;h2&gt;LTについて 📣&lt;/h2&gt; &lt;p&gt;今回はプロダクト開発に関わる方々を対象に、3つのLTを準備しました。&lt;/p&gt; &lt;h3&gt;アウトカム思考なプロダクト開発を実現する組織作り&lt;/h3&gt; &lt;p&gt;ここ2年で4人から40人へと急拡大した開発組織ですが、同時に初期フェーズのアウトプット重視なマインドから徐々にアウトカム重視なマインドへと変化してきました。&lt;/p&gt; &lt;p&gt;そこに至る経緯や考え方、実際の組織の作り方に関して、1人目のエンジニアであるCTO西尾からお伝えします。&lt;/p&gt; &lt;p&gt;⚡ピンと来たらぜひ！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;アウトカム思考&lt;/li&gt; &lt;li&gt;チームトポロジー&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;連続的な成長と非連続的な成長を担うプロダクトマネジメント&lt;/h3&gt; &lt;p&gt;プロダクトが取り組むべきミッションを定め、ユニットがその仮説検証を回す体制の開発チーム。&lt;/p&gt; &lt;p&gt;ユーザー体験が多様化し続ける中で非連続な成長を続けるために選んだディスカバリーチーム結成の背景と体制、生み出している成果に関してお話します。&lt;/p&gt; &lt;p&gt;⚡ピンと来たらぜひ！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;ミッション単位で分けられたユニット&lt;/li&gt; &lt;li&gt;ディスカバリー&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;デリバリー速度向上と品質維持のためにここ1年で取り組んだこと&lt;/h3&gt; &lt;p&gt;仮説検証を早く回すためにデリバリー速度向上と品質の維持を行うことが急務だった開発組織。&lt;/p&gt; &lt;p&gt;組織全体を巻き込みながら速度と品質の可視化、改善活動を推進したQAエンジニアがこの1年の実際の取り組みを共有します。&lt;/p&gt; &lt;p&gt;⚡ピンと来たらぜひ！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;1日1回以上のリリース&lt;/li&gt; &lt;li&gt;E2E・VRTの導入&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル ⏰&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;概要&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT アウトカム思考なプロダクト開発を実現する組織作り&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT 連続的な成長と非連続的な成長を担うプロダクトマネジメント&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT デリバリー速度向上と品質維持のためにここ1年で取り組んだこと&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Q&amp;amp;Aタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;中締め &amp;amp; アフタートーク 🍺🍵&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;完全撤収&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;登壇者👩‍💻👨‍💻&lt;/h2&gt; &lt;h3&gt;&lt;a href=&quot;https://twitter.com/nishio_dens&quot; rel=&quot;nofollow&quot;&gt;西尾 慎祐&lt;/a&gt; 執行役員CTO&lt;/h3&gt; &lt;p&gt;山梨県北杜市出身。山梨大学大学院医学工学総合教育部を修了後、SI企業に就職。Rubyエンジニア、開発チームリーダーとして動画配信サービスのフルリプレイスに携わる。2018年3月より正式メンバーとして入社。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://note.com/nishio_dens/n/nc08e63fde0bc&quot; rel=&quot;nofollow&quot;&gt;事業を加速させるために向き合う、食べチョクの開発戦略&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;&lt;a href=&quot;https://twitter.com/teng416&quot; rel=&quot;nofollow&quot;&gt;森 洋一郎&lt;/a&gt; プロダクトマネージャー&lt;/h3&gt; &lt;p&gt;大学卒業後、SI企業にエンジニアとして入社し、大手通信会社の通信品質監視ツールの設計・実装などに携わる。 その後、2012年に株式会社レアジョブに入社。エンジニアとして決済システム等を担当した後、PMとしてプロダクト開発やチームリーダーとしてプロダクトマネジメント部チームリーダーとして従事。 2021年8月にビビッドガーデンに入社し、PMを務める。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://note.com/teng416/n/n5c9d5ed3f0c9&quot; rel=&quot;nofollow&quot;&gt;「ここに居続けていいのか」と悩んだ古株PdMがスタートアップに転職した話&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;&lt;a href=&quot;https://twitter.com/uje49538710&quot; rel=&quot;nofollow&quot;&gt;@uje49538710&lt;/a&gt; QAエンジニア&lt;/h3&gt; &lt;p&gt;ゲーム系企業にて広報、企画などに従事した後、QAエンジニアとして複数のプロジェクトにリーダーとして参画する。2021年6月にビビッドガーデンに入社し、1人目QAとしてフロー改善、E2E導入、VRT導入などに携わる。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://tech.tabechoku.com/entry/2022/05/06/155749&quot; rel=&quot;nofollow&quot;&gt;食べチョクの自動テスト改善活動 〜これまでとこれから〜&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;場所 💻&lt;/h2&gt; &lt;p&gt;オンラインイベントです。 視聴URLはメールにてご連絡します。&lt;/p&gt; &lt;h2&gt;イベント前にこちらもご覧ください 🙈&lt;/h2&gt; &lt;p&gt;ビビッドガーデンは「生産者の“こだわり”が、正当に評価される世界へ」をビジョンに掲げ、こだわり生産者さんから直送で新鮮な食材が買えるオンラインマルシェ「食べチョク」を運営しています。 農・畜・水産業界をITの技術力で変えていこうとしているスタートアップです。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/vividgarden/bibitudogadenhui-she-shao-jie-zi-liao-cai-yong-zi-liao&quot; rel=&quot;nofollow&quot;&gt;会社紹介資料&lt;/a&gt;&lt;/p&gt; &lt;p&gt;会社の雰囲気はこちらからご覧いただくことができます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/search?q=%23%E6%9C%AC%E6%97%A5%E3%81%AE%E3%83%93%E3%83%93%E3%83%83%E3%83%89%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3&amp;amp;src=typed_query&amp;amp;f=live&quot; rel=&quot;nofollow&quot;&gt;Twitter #本日のビビッドガーデン&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://note.com/vividgarden_corp/m/m8ba51d9d46fa&quot; rel=&quot;nofollow&quot;&gt;ビビッドガーデン公式 note #食べチョクチーム&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://tech.tabechoku.com/&quot; rel=&quot;nofollow&quot;&gt;食べチョク 開発者ブログ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Twitter等SNSでの拡散大歓迎です&lt;/li&gt; &lt;li&gt;SNS拡散の際には他の方のプライバシーには十分ご配慮くださいませ&lt;/li&gt; &lt;li&gt;都合が悪くなった場合は早めのキャンセル処理をお願いします&lt;/li&gt; &lt;li&gt;イベントの様子はPR目的でウェブサイトやソーシャルメディア等に掲載される可能性があります&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;プログラミング/ITの知識をつけること、ゆるく楽しく交流を広めることを目的にしております！&lt;/p&gt;
+      &lt;p&gt;今回は“もくもく会”としておりますが、何か議題を持ってきて一緒に考えることも可能です^^&lt;/p&gt;
+      &lt;p&gt;参加者は&quot;ホームページ&quot;&quot;ECサイト&quot;&quot;WEBアプリ&quot;を制作してる者が多いですが、プログラミング/ITであればジャンルは問いません。むしろ、ジャンルを越えた交流ができればとも考えております。&lt;/p&gt; &lt;p&gt;途中参加、途中退室OKです！&lt;/p&gt; &lt;p&gt;一緒に良い時間にしましょう！&lt;/p&gt; &lt;p&gt;※もくもく会とは：勉強したり、仕事したり、各々がやるべきことを黙々とやる会です。もちろん雑談や相談もOK。みんなで喫煙する会ではないのでご注意を。ちなみに会場は禁煙です。&lt;/p&gt; &lt;h1&gt;タイムスケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00〜13:10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;準備&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:10〜13:15&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ご挨拶、ルール説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:15〜13:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;簡単に自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:30〜15:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;黙々しましょう！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:30〜16:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;今日の成果共有、雑談、次回のご案内、片付け&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;参加対象&lt;/h1&gt; &lt;p&gt;・これからプログラミングを始めたい方&lt;/p&gt; &lt;p&gt;・プログラミングを始めたばかりの方&lt;/p&gt; &lt;p&gt;・プログラミング/ITを通じて交流を広げたい方&lt;/p&gt; &lt;p&gt;※ベテランの方でも初心に帰りたい方、初学者と交流したい方は参加OK&lt;/p&gt; &lt;h1&gt;持ち物&lt;/h1&gt; &lt;p&gt;・パソコン（任意）&lt;/p&gt; &lt;p&gt;・もくもくに必要なモノ&lt;/p&gt; &lt;p&gt;・学ぶ気持ち&lt;/p&gt; &lt;h1&gt;参加費&lt;/h1&gt; &lt;p&gt;500円/人（会場費）&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;※ 参加を辞退する場合は、詳細ページより申込のキャンセルをお願い致します。 &lt;/p&gt; &lt;p&gt;※ リクルーティング、勧誘など、採用目的でのイベント参加はお断りしております。&lt;/p&gt; &lt;p&gt;※ 補欠者の方は、ご来場いただいてもご入場いただくことが出来ませんのでご了承ください。&lt;/p&gt; &lt;p&gt;※ 無断キャンセル・欠席が続く場合、次回以降の参加をお断りさせていただく場合がございますのでご了承ください。&lt;/p&gt; &lt;p&gt;※ 当日予告なく時間配分・内容が変更になる可能性がございます。&lt;/p&gt; &lt;p&gt;※新型コロナウイルスの影響で緊急事態宣言等が発令された場合、オンライン(ZOOM)での開催に切り替えることもございます。この場合は参加費無料です。&lt;/p&gt; &lt;h1&gt;運営側プロフィール&lt;/h1&gt; &lt;p&gt;難波にある某プログラミングスクールを2020年に卒業した同期メンバー4人を中心に仲良く運営し始めました。&lt;/p&gt; &lt;p&gt;未経験から転職に成功した者、転職に失敗した者、YouTube運営、ブログ運営、経営者など様々です。&lt;/p&gt; &lt;p&gt;1年ぶりの開催のため、都合により運営メンバーからの参加者は私一人です。&lt;/p&gt; &lt;p&gt;エンジニアとしては&quot;ホームページ&quot;&quot;ECサイト&quot;&quot;WEBアプリ&quot;などを制作しております。&lt;/p&gt; &lt;p&gt;・大切にしてること：ノーマウント、素直な心、攻めの姿勢&lt;/p&gt; &lt;p&gt;・言語/ツール：HTML、CSS、JS、Ruby、Ruby on Rails、PHP、Laravel、CakePHP、WordPress、NoCode系&lt;/p&gt; &lt;p&gt;・管理者：Masaki Maeda（株式会社SHOU）&lt;/p&gt; &lt;h1&gt;開催実績&lt;/h1&gt; &lt;p&gt;2021/1/17：5人&lt;/p&gt; &lt;p&gt;2020/12/6：11人（オンライン開催）&lt;/p&gt;
     </content>
-    <link rel='alternate' type='text/html' href='https://vivid-garden.connpass.com/event/251269/'/>
+    <link rel='alternate' type='text/html' href='https://pg-beginner-mtg.connpass.com/event/254008/'/>
     <published>
-      2022-07-05T15:58:29+09:00
+      2022-07-08T00:49:14+09:00
     </published>
   </entry>
   <entry>
     <id>
-      https://rindokurb.connpass.com/event/253652/
+      https://harbors-kihonjoho.connpass.com/event/252608/
     </id>
     <title>
-      りんどく.rb #54
+      HarborSもくもく会@表参道 #57
     </title>
     <summary>
-      チェリー本2版 第54回
+      エンジニア特化型コワーキングスペースでもくもくしませんか？
     </summary>
     <content type='html' xml:lang='ja'>
-      &lt;h2&gt;りんどく.rbとは&lt;/h2&gt; &lt;p&gt;RubyやRuby on
-      Railsに関する技術書を輪読会形式で読むコミュニティです。&lt;br&gt;
-      基本的に火・金曜日の朝8:00〜9:00に開催します。&lt;br&gt;
-      必ずしも毎回参加しなくて大丈夫ですし、途中参加・途中退室、ラジオ参加(発言はせず聞いているだけ)も大歓迎です！！&lt;/p&gt;
-      &lt;p&gt;朝の時間を有効活用して、一緒に知識と技術を深めましょう！&lt;/p&gt;
-      &lt;p&gt;▼立ち上げの経緯&lt;br&gt; &lt;a
-      href=&quot;https://fuga-ch85.hatenablog.com/entry/2021/12/14/002128&quot;
-      rel=&quot;nofollow&quot;&gt;Rubyの技術書を輪読する”りんどく.rb”を立ち上げます - No day younger
-      than today&lt;/a&gt;&lt;/p&gt; &lt;p&gt;▼りんどく.rbのご案内&lt;br&gt; &lt;a
-      href=&quot;https://speakerdeck.com/fugakkbn/introduction-to-rindokurb&quot; rel=&quot;nofollow&quot;&gt;introduction-to-rindokurb - Speaker Deck&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;参加資格&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyが好きなこと&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;以上！！&lt;br&gt; 初心者〜ベテランまで、どなたでも歓迎します。&lt;/p&gt; &lt;h2&gt;現在輪読中の書籍・章&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERuby%E5%85%A5%E9%96%80-%E6%94%B9%E8%A8%822%E7%89%88-%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98%E3%81%8B%E3%82%89%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%BB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%8A%80%E6%B3%95%E3%81%BE%E3%81%A7-Software-Design/dp/4297124378/ref=sr_1_2_sspa?crid=3QOGFENWMIHOF&amp;amp;keywords=%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEruby%E5%85%A5%E9%96%80+%E6%94%B9%E8%A8%822%E7%89%88&amp;amp;qid=1641908422&amp;amp;sprefix=%E3%83%97%E3%83%AD%E3%82%92%E3%82%81%2Caps%2C193&amp;amp;sr=8-2-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPTDg5NjhTM1U5UlUmZW5jcnlwdGVkSWQ9QTA3NTY0NTIzVVNaUVdLTFhURFpSJmVuY3J5cHRlZEFkSWQ9QVJRRjRQV1Q2MVJWMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&quot; rel=&quot;nofollow&quot;&gt;プロを目指す人のためのRuby入門[改訂2版] 言語仕様からテスト駆動開発・デバッグ技法まで（著：伊藤 淳一）&lt;/a&gt;&lt;/p&gt; &lt;p&gt;7.4.5 コラム〜&lt;/p&gt; &lt;p&gt;※&lt;strong&gt;改訂2版&lt;/strong&gt;を輪読します。これから購入される方は&lt;strong&gt;表紙のさくらんぼが2つ&lt;/strong&gt;のものを目印にお買い求めください。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;h3&gt;8:00〜8:10 自己紹介&lt;/h3&gt; &lt;p&gt;簡単に自己紹介をしていただきます。&lt;/p&gt; &lt;h3&gt;8:10〜8:50 輪読タイム&lt;/h3&gt; &lt;p&gt;節単位でランダムに1人指名して、音読します。&lt;br&gt; サンプルコードがあればモブプロしながら理解を深めます。&lt;br&gt; 質問や疑問は適宜してもらって大丈夫です。&lt;/p&gt; &lt;h3&gt;8:50〜9:00 ふりかえり&lt;/h3&gt; &lt;p&gt;この日学んだことや気づいたこと、感想などを書く時間です。&lt;br&gt; 書く場所は別途ご案内します。&lt;/p&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;現在、オンラインでのみ開催しております。&lt;br&gt; 会場は&lt;a href=&quot;https://discord.com/&quot; rel=&quot;nofollow&quot;&gt;Discord&lt;/a&gt;のボイスチャンネルを使用します。&lt;br&gt; &lt;a href=&quot;https://discord.gg/2FYf8jTE2T&quot; rel=&quot;nofollow&quot;&gt;りんどく.rbのDiscordサーバー&lt;/a&gt;への登録をお願いします。&lt;/p&gt; &lt;h2&gt;ツール&lt;/h2&gt; &lt;p&gt;共有ドキュメントとして、&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa&lt;/a&gt;を使用しています。&lt;br&gt; &lt;a href=&quot;https://rindokurb.esa.io/team/invitations/member-76999605482c465674cb207507de69b1&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;から参加登録をお願いします。&lt;/p&gt; &lt;h2&gt;ハッシュタグ&lt;/h2&gt; &lt;p&gt;&lt;code&gt;#りんどくrb&lt;/code&gt;&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;あまり細かいルールを作りたくないので、ご参加いただく際は&lt;strong&gt;みんなが気持ちよく参加できる&lt;/strong&gt;言動を心がけていただくようお願いいたします。&lt;/p&gt;
+      &lt;h1&gt;■イベント内容&lt;/h1&gt; &lt;p&gt;HarborSもくもく会を開催します～
+      初参加の方、初学者の方も歓迎です！&lt;/p&gt; &lt;h2&gt;◆HarborSでのもくもく会は&lt;/h2&gt;
+      &lt;p&gt;前半がもくもくタイムで後半が交流タイムと交流が多い会となってます！&lt;/p&gt;
+      &lt;p&gt;エンジニア同士の交流は有益な情報交換ができるのは勿論&lt;/p&gt;
+      &lt;p&gt;新たな出会いがきっかけでお仕事や環境、考え方が変わることもあります！&lt;/p&gt;
+      &lt;p&gt;そしてなんと！&lt;br&gt; &lt;font
+      color=&quot;blue&quot;&gt;初めてのご参加の方にはHarborS表参道コワーキングスペース1DAY無料券(3300円相当)をプレゼント中！&lt;/font&gt;🎁&lt;/p&gt; &lt;h3&gt;またその他にも...&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;ITの業界に興味がある&lt;/li&gt; &lt;li&gt;プログラミング勉強したことあるけど苦手意識がある&lt;/li&gt; &lt;li&gt;もっと知識を深めたい&lt;/li&gt; &lt;li&gt;IT業界で働きたい&lt;/li&gt; &lt;li&gt;プログラミング仲間がほしい&lt;/li&gt; &lt;li&gt;プログラミングの相談したい&lt;/li&gt; &lt;li&gt;勉強しなきゃいけないけど、モチベーションが上がらない&lt;/li&gt; &lt;li&gt;IT資格を取りたい&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;等々こういった目的をもった方々、お気軽にご参加ください！&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;blue&quot;&gt;■もくもく会&amp;amp;ドロップインセットが登場！！&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;✨もくもく会参加者限定✨&lt;br&gt; &lt;font color=&quot;blue&quot;&gt;もくもく会当日のコワーキングスペース1day利用を60%OFFの1200円でご利用いただけます！&lt;/font&gt;&lt;br&gt; セットをご希望の方は申し込みの際に出てくるアンケートより選択ください！&lt;br&gt;&lt;/p&gt; &lt;p&gt;営業時間：10時-20時&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;font color=&quot;red&quot;&gt;■コロナ対策&lt;/font&gt;&lt;/h1&gt; &lt;p&gt;&lt;font color=&quot;red&quot;&gt;新型ウィルス流行に伴い以下の対策を実施しております。ご協力をお願い致します。&lt;/font&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;マスクの着用をお願いします。&lt;/li&gt; &lt;li&gt;アルコールを用意しますので、入場時に手の消毒をお願いします。&lt;/li&gt; &lt;li&gt;咳、くしゃみなどの際は口を抑えるなどの配慮をお願いします。&lt;/li&gt; &lt;li&gt;参加者同士の物理的な接触(握手など)を極力避けるようお願いします。&lt;/li&gt; &lt;li&gt;体調が優れない場合、参加はご遠慮下さい。(必ずConnpassにてキャンセル処理をお願いします。)&lt;/li&gt; &lt;li&gt;会場にて検温を行います。37.5℃以上を検知した場合は参加出来ないことをご了承ください&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;■ファシリテータ&lt;/h1&gt; &lt;h2&gt;ましもさん&lt;/h2&gt; &lt;p&gt;今回はもくもく会常連さんでもあるましもさんが担当します！&lt;br&gt; 小4時のましもさんのお写真をいただきました✨&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://connpass-tokyo.s3.amazonaws.com/thumbs/0d/f8/0df86df53b4c4fbed314c859cd827345.png&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;【ましもさん経歴】 &lt;/strong&gt;&lt;br&gt;&lt;/h3&gt; &lt;p&gt;学生時代は軽音楽サークルに所属していらっしゃったそうです！&lt;br&gt; 社会人になってからは新卒で入社した会社で、言われたことをやる単調な仕事よりも&lt;br&gt; 自分のものづくりが好きな性格や、課題解決能力をより活かせる仕事をしたいという思いから、&lt;br&gt; プログラミングを勉強してソフトエンジニアになられました！&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;【活用している言語や勉強したいこと】&lt;/strong&gt;&lt;br&gt;&lt;/h3&gt; &lt;p&gt;Ruby, RubyonRails, TypeScript, React, AWSの知識をお持ちで、現在はシステムプログラミング、アルゴリズム、個人アプリ開発を勉強していきたいとのことです。&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;【ましもさんよりひとこと！】 &lt;/strong&gt;&lt;br&gt;&lt;/h3&gt; &lt;p&gt;楽しくもくもくしましょう！よろしくお願いします！&lt;/p&gt; &lt;h1&gt;■参加条件&lt;/h1&gt; &lt;p&gt;・IT関連の勉強/作業をされる方　とさせて頂きます&lt;/p&gt; &lt;h1&gt;■もちもの&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;もくもくに必要なもの(PC 参考書など)&lt;/li&gt; &lt;li&gt;飲食物(においが強くないもの)&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;■料金&lt;/h1&gt; &lt;p&gt;500円(税込)（HarborS会員の方は無料）&lt;/p&gt; &lt;h1&gt;■設備&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;電源&lt;/li&gt; &lt;li&gt;Wi-Fi　&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;■タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 15:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自己紹介 and もくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;HarborS紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:10 - 16:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;交流タイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:00 - 16:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもく or 交流 (自由)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:50 - 17:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもく終了/片付け&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;■諸注意&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;会場は禁煙です。&lt;/li&gt; &lt;li&gt;キャンセルする場合は必ずConnpassよりキャンセル処理をお願いします。&lt;/li&gt; &lt;li&gt;当日の連絡は当ページのフィード欄にお願いします。&lt;/li&gt; &lt;li&gt;会場のエレベータは３階のボタンが２つ付いております。「HarborSセミナー会場」を押してください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;■HorborSについて&lt;/h1&gt; &lt;p&gt;「HarborS」はエンジニア同士の繋がりを創造できる場所です。&lt;/p&gt; &lt;p&gt;働く環境が整っているうえに、エンジニア向け勉強会やイベントも多数開催しています。&lt;/p&gt; &lt;p&gt;HarborSのコミュニティマネージャが会員同士の繋がり、コミュニティ形成のお手伝いをさせていただきます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://harbors.anti-pattern.co.jp/&quot; rel=&quot;nofollow&quot;&gt;HarborSサイト&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/harbors_sh&quot; rel=&quot;nofollow&quot;&gt;HarborS Twitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
     </content>
-    <link rel='alternate' type='text/html' href='https://rindokurb.connpass.com/event/253652/'/>
+    <link rel='alternate' type='text/html' href='https://harbors-kihonjoho.connpass.com/event/252608/'/>
     <published>
-      2022-07-05T09:26:11+09:00
+      2022-07-07T19:04:54+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://harbors-kihonjoho.connpass.com/event/253917/
+    </id>
+    <title>
+      バックエンド勉強会#5
+    </title>
+    <summary>
+      日曜日、一緒にもくもくしませんか？交流タイムもあり、初参加の方からも大好評のイベントです
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;コロナ対策のお願い&lt;/h1&gt;
+      &lt;p&gt;体調が芳しくない方は、ご連絡いただいた上で参加者の参加自粛をお願いします
+      会場にて検温を行います。37.5℃以上を検知した場合は参加出来ないことをご了承ください 参加者はマスク着用をお願いします
+      入場時のアルコール消毒をお願いします 参加者ご自身でのテーブル消毒(利用前/利用後)をお願いします
+      会場では喚起のためドアや窓を開放する場合があります。&lt;/p&gt; &lt;h1&gt;イベント内容&lt;/h1&gt;
+      &lt;p&gt;バックエンド勉強会です。 以下の人を対象に行っていく予定です。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;
+      バックエンド言語であるPython,Ruby,GOなどの言語理解を深めたい&lt;/li&gt; &lt;li&gt;
+      バックエンドに興味がある&lt;/li&gt; &lt;li&gt;とにかくバックエンドが好きな人&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;バックエンドエンジニア大歓迎のイベントです！！ 良かったら参加してみて下さい！！
+      バックエンドに限らず、フロントエンドエンジニアでも参加可能です！！&lt;/p&gt;
+      &lt;p&gt;また、今回は&lt;strong&gt;LTタイム&lt;/strong&gt;も設けてあります！&lt;br&gt;
+      ぜひ練習の場にもご活用いただければ幸いです😆&lt;/p&gt; &lt;p&gt;そしてなんと！&lt;br&gt; &lt;font
+      color=&quot;blue&quot;&gt;初めてのご参加の方にはHarborS表参道コワーキングスペース1DAY無料券(3300円相当)をプレゼント中！&lt;/font&gt;🎁&lt;/p&gt; &lt;h1&gt;ファシリテーター紹介&lt;/h1&gt; &lt;h2&gt;遠藤さん&lt;/h2&gt; &lt;p&gt;今回はプライベートでも勉強熱心なインフラエンジニアの遠藤さんが担当します！ &lt;img src=&quot;https://connpass-tokyo.s3.amazonaws.com/thumbs/61/94/61944d65e29ea568247a4ac64857510a.png&quot; width=&quot;250&quot;&gt;&lt;/p&gt; &lt;h3&gt;【遠藤さん経歴】 &lt;br&gt;&lt;/h3&gt; &lt;p&gt;学生時代からゲームを作成したりと活動的で、前職では大手の一部上場企業のインフラエンジニア（ネットワークエンジニア）として働いていらっしゃりました。&lt;br&gt; 現在はしばらくの間はRailsとAWSをメインに、余裕ができればAIや機械学習などの分野に挑戦したいと考えていらっしゃるそうです。&lt;/p&gt; &lt;h3&gt;【活用している言語や勉強したいこと】&lt;br&gt;&lt;/h3&gt; &lt;p&gt;python フレームワーク（Flask）を用いた WEB サイトの構築、また AWS を用いたインフラストラクチャの構築・運用など、様々なプログラミング言語に関する実践的な知見及び汎用的なインフラストラクチャーの技術をお持ちです。&lt;br&gt; また様々な資格もお持ちで、現在はソフトウェアエンジニアとして能力を高めるため日々研鑽していらっしゃるそうです💪&lt;/p&gt; &lt;h3&gt;【遠藤さんよりひとこと！】 &lt;br&gt;&lt;/h3&gt; &lt;p&gt;今回のファシリテーターを担当する遠藤です。&lt;br&gt; 本日はよろしくお願いします！&lt;br&gt;&lt;/p&gt; &lt;h1&gt;開催場所について&lt;/h1&gt; &lt;p&gt;開催場所は HarborSのコワーキングスペースを利用します。 &lt;img alt=&quot;ロゴ画像&quot; src=&quot;https://harbors.anti-pattern.co.jp/img/eventspace.jpg&quot;&gt;&lt;/p&gt; &lt;h1&gt;会場情報 - HarborS表参道(ハーバーズ表参道) について&lt;/h1&gt; &lt;p&gt;「HarborS」はエンジニア同士の繋がりを創造できるコワーキングスペースです。 働く環境が整っているうえに、エンジニア向け勉強会やイベントも多数開催しています。 HarborSのコミュニティマネージャが会員同士の繋がり、コミュニティ形成のお手伝いをさせていただきます。 - &lt;a href=&quot;https://harbors.anti-pattern.co.jp/&quot; rel=&quot;nofollow&quot;&gt;HarborSサイト&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/harbors_sh&quot; rel=&quot;nofollow&quot;&gt;HarborS Twitter&lt;/a&gt; - &lt;a href=&quot;https://harbors.anti-pattern.co.jp/rooms/&quot; rel=&quot;nofollow&quot;&gt;HarborS会議室利用案内&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;HarborS&lt;/h1&gt; &lt;p&gt;参加対象者 エンジニア、もしくはエンジニアを目指している人 一緒に勉強する人を探している人&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 13:10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;会場説明/自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:10 - 15:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;勉強会タイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15: 10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:10 - 15:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ちょっと交流&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:30 - 17:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;勉強会タイム&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※途中退室OK！&lt;/p&gt; &lt;h1&gt;持ち物・用意するもの&lt;/h1&gt; &lt;p&gt;ノートパソコン(参考書を使いたい方は任意)&lt;/p&gt; &lt;h1&gt;環境&lt;/h1&gt; &lt;p&gt;Wifi&lt;/p&gt; &lt;p&gt;電源タップ&lt;/p&gt; &lt;p&gt;カフェ（有料）&lt;/p&gt; &lt;p&gt;テラス（是非見ていってね！）&lt;/p&gt; &lt;h1&gt;アクセス&lt;/h1&gt; &lt;p&gt;会場：HarborS表参道&lt;/p&gt; &lt;p&gt;住所：東京都港区南青山3丁目15-9 MINOWA表参道3F&lt;/p&gt; &lt;p&gt;アクセス：東京メトロ銀座線 半蔵門線「表参道」下車 A4出口 徒歩3分&lt;/p&gt; &lt;h1&gt;HarborS表参道&lt;/h1&gt; &lt;p&gt;遅れて到着される方は、下記にご連絡いただければ嬉しいです。&lt;/p&gt; &lt;p&gt;Twitter： &lt;a href=&quot;https://twitter.com/reading_earth&quot; rel=&quot;nofollow&quot;&gt;しゅきさん＠WEB系エンジニア&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;会場諸注意&lt;/h1&gt; &lt;p&gt;会場内は禁煙です。 会場内では無線LANがご利用できます。&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;マウントや勧誘、その他の迷惑行為など不適切だと認められる場合、運営側で参加をキャンセルさせていただきます。 参加者の方でそのような事があった場合、運営者にごご相談ください。 イベントの様子を写真撮影・動画で録画し、ブログやSNSなどで公開することがあります。 その際、来場者の姿も公開されることがあることをご了承ください。 撮影する際はお声掛けさせてもらうので、難しい方はお声がけください。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://harbors-kihonjoho.connpass.com/event/253917/'/>
+    <published>
+      2022-07-07T18:58:10+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://uniquevision.connpass.com/event/252412/
+    </id>
+    <title>
+      UV Study : Rust LT会 Vol.5
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;概要&lt;/h1&gt; &lt;p&gt;Rust をテーマにしたLT会です。&lt;/p&gt;
+      &lt;p&gt;Rust について、各自興味のあるテーマを持ち寄ることで知識を深めていくことを目的としています。&lt;/p&gt;
+      &lt;p&gt;発表内容は Rust にまつわる技術情報であればなんでも構いません。&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;例&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;最近〇〇を動かし始めたが、こんなことでハマった。&lt;/li&gt;
+      &lt;li&gt;こんなものを作ってみた。&lt;/li&gt;
+      &lt;li&gt;初心者に向けて、押さえておいて欲しいこと。&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;など、&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;過去のテーマ&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;serdeで値だけのstructをシリアライズしたい。なぜならTwitterAPIv2のレスポンスがそうだから。&lt;/li&gt; &lt;li&gt;「axum」を触りました。&lt;/li&gt; &lt;li&gt;Rustで簡単にDiscordBotを動かしてみる&lt;/li&gt; &lt;li&gt;RustのnomでCREATE TABLEをパースする&lt;/li&gt; &lt;li&gt;かつてserde_valid なるものを開発していた&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;LT登壇者は6名、それぞれ1分~最大10分程度の内容を発表していただいた後に、それぞれ質問時間を予定しています。&lt;/p&gt; &lt;p&gt;当日 19:00 頃より Google Meet の入場を受け付けます。&lt;/p&gt; &lt;p&gt;登壇者の方は当日早めに入場していただき、画面共有やマイクのテストにご協力ください。&lt;/p&gt; &lt;p&gt;登壇順に希望がある場合はご連絡ください。可能な限り考慮します。&lt;/p&gt; &lt;p&gt;過去の関連イベント&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/240157/&quot; rel=&quot;nofollow&quot;&gt;Vol.4 【初心者歓迎】Rust LT会@オンライン&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/229459/&quot; rel=&quot;nofollow&quot;&gt;Vol.3 【初心者歓迎】Rust LT会@オンライン&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/202944/&quot; rel=&quot;nofollow&quot;&gt;Vol.2 【初心者歓迎】Rust LT会@オンライン&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/191020/&quot; rel=&quot;nofollow&quot;&gt;Vol.1 【初心者歓迎】Rust LT会@オンライン&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; &lt;hr&gt; &lt;h1&gt;参加方法&lt;/h1&gt; &lt;p&gt;本ページの参加者への情報にURLを記載していますので、ご確認ください。 &lt;/p&gt; &lt;p&gt;オンライン開催ですので、スピーカーやマイクなど必要機材の事前確認をお願いします。&lt;br&gt; 登壇者の方は当日までに発表資料としてスライドなどをご用意ください。&lt;/p&gt; &lt;p&gt;希望がない場合、登壇枠は順番に埋めていきます。&lt;br&gt; イベントページ下部、フィードに発表テーマをご記載いただければ数日のうちにタイムテーブルへ反映いたします。 &lt;/p&gt; &lt;hr&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者/テーマ&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開始&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT1&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Thuong/「rubyからrustに移行するについて」&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT2&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT3&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT4&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT5&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT6&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;現在、登壇者は調整中です。決まり次第更新していきます。&lt;br&gt; 発表順は当日に前後する場合がございます。&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;オンライン開催(Google Meet)&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;参加費&lt;/h1&gt; &lt;p&gt;無料&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;その他&lt;/h1&gt; &lt;p&gt;ブログ・SNS等での発信大歓迎です！&lt;br&gt; ご都合が悪くなった場合は早めのキャンセル手続きをお願いします。&lt;br&gt; &lt;strong&gt;ユニークビジョンのこれまでの取り組みは&lt;a href=&quot;https://www.uniquevision.co.jp/case/?ref=connpass&quot; rel=&quot;nofollow&quot; title=&quot;ケーススタディ&quot;&gt;こちら&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://uniquevision.connpass.com/event/252412/'/>
+    <published>
+      2022-07-07T16:40:16+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://harbors-kihonjoho.connpass.com/event/252819/
+    </id>
+    <title>
+      バックエンド勉強会#5
+    </title>
+    <summary>
+      日曜日、一緒にもくもくしませんか？交流タイムもあり、初参加の方からも大好評のイベントです
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;コロナ対策のお願い&lt;/h1&gt;
+      &lt;p&gt;体調が芳しくない方は、ご連絡いただいた上で参加者の参加自粛をお願いします
+      会場にて検温を行います。37.5℃以上を検知した場合は参加出来ないことをご了承ください 参加者はマスク着用をお願いします
+      入場時のアルコール消毒をお願いします 参加者ご自身でのテーブル消毒(利用前/利用後)をお願いします
+      会場では喚起のためドアや窓を開放する場合があります。&lt;/p&gt; &lt;h1&gt;イベント内容&lt;/h1&gt;
+      &lt;p&gt;バックエンド勉強会です。 以下の人を対象に行っていく予定です。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;
+      バックエンド言語であるPython,Ruby,GOなどの言語理解を深めたい&lt;/li&gt; &lt;li&gt;
+      バックエンドに興味がある&lt;/li&gt; &lt;li&gt;とにかくバックエンドが好きな人&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;バックエンドエンジニア大歓迎のイベントです！！ 良かったら参加してみて下さい！！
+      バックエンドに限らず、フロントエンドエンジニアでも参加可能です！！&lt;/p&gt;
+      &lt;p&gt;また、今回は&lt;strong&gt;LTタイム&lt;/strong&gt;も設けてあります！&lt;br&gt;
+      ぜひ練習の場にもご活用いただければ幸いです😆&lt;/p&gt; &lt;p&gt;そしてなんと！&lt;br&gt; &lt;font
+      color=&quot;blue&quot;&gt;初めてのご参加の方にはHarborS表参道コワーキングスペース1DAY無料券(3300円相当)をプレゼント中！&lt;/font&gt;🎁&lt;/p&gt; &lt;h1&gt;ファシリテーター紹介&lt;/h1&gt; &lt;h2&gt;遠藤さん&lt;/h2&gt; &lt;p&gt;今回はプライベートでも勉強熱心なインフラエンジニアの遠藤さんが担当します！ &lt;img src=&quot;https://lh3.googleusercontent.com/A0NyEbtBz2pMWHnGozUtl1NRldAt7KiljUDcCjILi4erufZHs8sHQL_wAcsxp7pouw3UA-r2YsKqsgaZhqPWzBeTP0NEiatesSzjzsurEaC04KOLAfQuxsSPVniot-JdjDmRErVRK9k34yy9RN9MBQq7QsADPv5a2fQd45Kxo3mfYmxqEWTaQS7lajYHWj4uFDfTftRGsPlkOw6pMFmxqaWNQlP_cOUPh4HBtJydcxCbfSTw-i8XmmLNWa67EzEHxeLduocqP7yEDtN083M8eShQ_5nV19UR2X5JfnjDIzxfUshS_8UQMg8oj-7h1u12hi8h9GKdvt8pVctR4hwGi0z7eGGmqy0FfUTFHF_4u-5YX-u16kxzluvE6TPBZl1YbdrJZPLguhtE5YBQvOhooN9Rbz8LF22s70lB9QuziPnI3txU2I5aVnKbSl2dhJOQLK65olEsFxpGTUnNzWVHwMCVEpfroHkGv0Z4DJlhARsZ9ffGW4b_Tof9fbb4yupZCe5aVZmuQetk7xMJdvAGKW-zpZVXjXZ-Z-qxWzSN9i-tVc6dc5QqNcKN1ipZnZdwjtcZxyuY-_uLozd71Y_KbZZR91ZpcaQcNKvjEntHAdobF3juWjrcGJckwfvMVkWHE-d7R4ltyQ5I7DRFrJPXJ-4iA25dzjrfw4bDeQQYi3LCZsq8ISQRu5QXIT4XtPHlPT1tWMelyz4gwQVg3ZJ-TZOD9El1_pzefFTC0QS5sZn4oAGLur9SJQX8mKl9=s512-no?authuser=0&quot; width=&quot;250&quot;&gt;&lt;/p&gt; &lt;h3&gt;【遠藤さん経歴】 &lt;br&gt;&lt;/h3&gt; &lt;p&gt;学生時代からゲームを作成したりと活動的で、前職では大手の一部上場企業のインフラエンジニア（ネットワークエンジニア）として働いていらっしゃりました。&lt;br&gt; 現在はしばらくの間はRailsとAWSをメインに、余裕ができればAIや機械学習などの分野に挑戦したいと考えていらっしゃるそうです。&lt;/p&gt; &lt;h3&gt;【活用している言語や勉強したいこと】&lt;br&gt;&lt;/h3&gt; &lt;p&gt;python フレームワーク（Flask）を用いた WEB サイトの構築、また AWS を用いたインフラストラクチャの構築・運用など、様々なプログラミング言語に関する実践的な知見及び汎用的なインフラストラクチャーの技術をお持ちです。&lt;br&gt; また様々な資格もお持ちで、現在はソフトウェアエンジニアとして能力を高めるため日々研鑽していらっしゃるそうです💪&lt;/p&gt; &lt;h3&gt;【遠藤さんよりひとこと！】 &lt;br&gt;&lt;/h3&gt; &lt;p&gt;今回のファシリテーターを担当する遠藤です。&lt;br&gt; 本日はよろしくお願いします！&lt;br&gt;&lt;/p&gt; &lt;h1&gt;開催場所について&lt;/h1&gt; &lt;p&gt;開催場所は HarborSのコワーキングスペースを利用します。 &lt;img alt=&quot;ロゴ画像&quot; src=&quot;https://harbors.anti-pattern.co.jp/img/eventspace.jpg&quot;&gt;&lt;/p&gt; &lt;h1&gt;会場情報 - HarborS表参道(ハーバーズ表参道) について&lt;/h1&gt; &lt;p&gt;「HarborS」はエンジニア同士の繋がりを創造できるコワーキングスペースです。 働く環境が整っているうえに、エンジニア向け勉強会やイベントも多数開催しています。 HarborSのコミュニティマネージャが会員同士の繋がり、コミュニティ形成のお手伝いをさせていただきます。 - &lt;a href=&quot;https://harbors.anti-pattern.co.jp/&quot; rel=&quot;nofollow&quot;&gt;HarborSサイト&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/harbors_sh&quot; rel=&quot;nofollow&quot;&gt;HarborS Twitter&lt;/a&gt; - &lt;a href=&quot;https://harbors.anti-pattern.co.jp/rooms/&quot; rel=&quot;nofollow&quot;&gt;HarborS会議室利用案内&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;HarborS&lt;/h1&gt; &lt;p&gt;参加対象者 エンジニア、もしくはエンジニアを目指している人 一緒に勉強する人を探している人&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 13:10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;会場説明/自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:10 - 15:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;勉強会タイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15: 10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:10 - 15:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ちょっと交流&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:30 - 17:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;勉強会タイム&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※途中退室OK！&lt;/p&gt; &lt;h1&gt;持ち物・用意するもの&lt;/h1&gt; &lt;p&gt;ノートパソコン(参考書を使いたい方は任意)&lt;/p&gt; &lt;h1&gt;環境&lt;/h1&gt; &lt;p&gt;Wifi&lt;/p&gt; &lt;p&gt;電源タップ&lt;/p&gt; &lt;p&gt;カフェ（有料）&lt;/p&gt; &lt;p&gt;テラス（是非見ていってね！）&lt;/p&gt; &lt;h1&gt;アクセス&lt;/h1&gt; &lt;p&gt;会場：HarborS表参道&lt;/p&gt; &lt;p&gt;住所：東京都港区南青山3丁目15-9 MINOWA表参道3F&lt;/p&gt; &lt;p&gt;アクセス：東京メトロ銀座線 半蔵門線「表参道」下車 A4出口 徒歩3分&lt;/p&gt; &lt;h1&gt;HarborS表参道&lt;/h1&gt; &lt;p&gt;遅れて到着される方は、下記にご連絡いただければ嬉しいです。&lt;/p&gt; &lt;p&gt;Twitter： &lt;a href=&quot;https://twitter.com/reading_earth&quot; rel=&quot;nofollow&quot;&gt;しゅきさん＠WEB系エンジニア&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;会場諸注意&lt;/h1&gt; &lt;p&gt;会場内は禁煙です。 会場内では無線LANがご利用できます。&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;マウントや勧誘、その他の迷惑行為など不適切だと認められる場合、運営側で参加をキャンセルさせていただきます。 参加者の方でそのような事があった場合、運営者にごご相談ください。 イベントの様子を写真撮影・動画で録画し、ブログやSNSなどで公開することがあります。 その際、来場者の姿も公開されることがあることをご了承ください。 撮影する際はお声掛けさせてもらうので、難しい方はお声がけください。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://harbors-kihonjoho.connpass.com/event/252819/'/>
+    <published>
+      2022-07-07T10:05:08+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mito-web-engineer.connpass.com/event/253802/
+    </id>
+    <title>
+      Mito.dev #34 もくもく会
+    </title>
+    <summary>
+      茨城・水戸近郊のエンジニアが集まりもくもくする会。
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;茨城・水戸近郊のエンジニアが集まりもくもくする会です。&lt;/p&gt;
+      &lt;ul&gt; &lt;li&gt;茨城で数少ないエンジニア仲間を作りたい&lt;/li&gt;
+      &lt;li&gt;集中してコードを書きたい&lt;/li&gt; &lt;li&gt;本を読みたい&lt;/li&gt;
+      &lt;li&gt;異業種からエンジニア転職考えて勉強中&lt;/li&gt;
+      &lt;li&gt;学生だけど、働くエンジニアにあってみたい&lt;/li&gt;
+      &lt;li&gt;リモートワーカーに話を聞いてみたい&lt;/li&gt; &lt;li&gt;LTの練習がしたい&lt;/li&gt;
+      &lt;/ul&gt; &lt;p&gt;などなど、気軽にご参加ください。&lt;/p&gt;
+      &lt;h2&gt;新型コロナウィルス対策について&lt;/h2&gt;
+      &lt;p&gt;新型コロナウィルス対策のため当日はマスクの着用をお願いします。&lt;br&gt;
+      また、席間隔を開けるため通常より定員を絞っています（10名 =&amp;gt; 8名）。 &lt;/p&gt;
+      &lt;h2&gt;LT・テックトークについて&lt;/h2&gt;
+      &lt;p&gt;もくもく会の中休みとして、LT希望者がいる場合はLTを開催します。もし、LT希望者がいない場合は、最近の気になったテック系ニュースや、お気に入りのツールを紹介するテックトークを開催します（&lt;a href=&quot;https://www.youtube.com/playlist?list=PLKbaztxP2P4jpdF0P5YbJNJwFabB-pksK&quot; rel=&quot;nofollow&quot;&gt;開催イメージ&lt;/a&gt;）。テックトークで資料等を準備する必要はありません。気軽にご参加ください。&lt;/p&gt; &lt;h2&gt;当日のタイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:50 - 13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;受付&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 13:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Slackにやること&amp;amp;自己紹介投稿&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:15 - 15:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT or テックトーク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:40 - 17:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:45 - 18:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;やったこと共有 &amp;amp; 締め&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;18:00 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;懇親会（希望者いれば）&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;p&gt;Mito.devのSlackワークスペースに参加 - &lt;a href=&quot;https://join.slack.com/t/mito-engineer/shared_invite/enQtNzI3OTQ5NDc5Njg3LWFiZWI4MTk3OTMxMzQxNjkyNGI2MDU1MDFmNmJmYWQ3ZjM1ZTYwYjI4YTQ3OTM0NDE3Zjc0OWE5Mjc4ZTE5Yzg&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;からご参加ください&lt;/p&gt; &lt;p&gt;当日のご連絡はSlackで行います。&lt;/p&gt; &lt;h2&gt;ご用意いただくもの&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;会場費（レンタルスペース利用料 参加人数で割るので前後します）&lt;/li&gt; &lt;li&gt;PC&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;懇親会&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;もくもく会終了後、近くの居酒屋で希望者で懇親会を予定しています。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;p&gt;会場に駐車場がありません。 お車でご来場の方は近くの有料駐車場に駐車してください。&lt;br&gt; ・パラカ水戸南町第2 終日最大500円&lt;br&gt; ・パラカ水戸南町第2 終日最大600円 &lt;br&gt; ・リパーク水戸南町3丁目第2 終日最大600円&lt;br&gt; ・タイムズ水戸泉町 終日最大600円 &lt;/p&gt; &lt;p&gt;何かご質問などあれば、 主催者(&lt;a href=&quot;https://twitter.com/KawamataRyo&quot; rel=&quot;nofollow&quot;&gt;@KawamataRyo&lt;/a&gt; &lt;a href=&quot;http://twitter.com/b7472&quot; rel=&quot;nofollow&quot;&gt;@b7472&lt;/a&gt;)までお気軽にお問い合わせください。&lt;/p&gt; &lt;h2&gt;イベントの様子&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://mito-web-engineer.connpass.com/event/188079/&quot; rel=&quot;nofollow&quot;&gt;https://mito-web-engineer.connpass.com/event/188079/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;■参加された方のやったこと一覧&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;・Kotlinを完全理解していく ・Nuxt入門！〜 フロントチームとちゃんとお話できるまで 〜 ・「Wordpress × Docker × VSC」環境の相談 ・azureのMobile Appでアプリを作成する。 ・プロを目指す人のためのRuby入門を読み進める！ ・PWAアップでカメラを起動して、ISBNを読み取るアプリを作る ・LTの準備(Strapi + GraphQLでNuxt.jsからAPI通信) ・Ruby、Railsの基礎の勉強を進める（主にprogate) ・前回作ったReactチュートリアルの成果をDocker化したので、それをAWSのECSにデプロイしてみる。 ・React + TypescriptでWeb製作 ・ラズパイ での電子工作 ・プレゼンスライドの準備 ・組み込み ・機械学習の勉強 ・資格勉強 ・副業 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h2&gt;主催者紹介&lt;/h2&gt; &lt;h3&gt;かわまた（@RyoKawamata）&lt;/h3&gt; &lt;p&gt;消防士から三十路間近でwebエンジニアに転職。一児の父。現在ひたちなか市からフルリモートで就業中。&lt;br&gt; Ruby, JavaScript, TypeScript, Vue.js, Firebaseが好き。&lt;br&gt; 詳しい自己紹介は&lt;a href=&quot;https://note.mu/ryo_kawamata/n/n4fc0fa900314&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;なっぱ(Shuhei Yamashita)&lt;/h3&gt; &lt;p&gt;EC特化でエンジニアを続けてきた32歳。茨城県水戸市でフルリモートのマネージャーをやっている。 最近のブームはRust, Golang, TypeScriptあたり。趣味は料理。 茨城のエンジニア界隈を盛り上げていきましょう！！&lt;/p&gt; &lt;h2&gt;関連技術（参加者がもくもくしてた技術）&lt;/h2&gt; &lt;p&gt;JavaScript, Vue.js, React, Firebase, TypeScript, .NET, AWS, Python, Ruby, C#, ESP32, FreeRTOS, Hasura&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mito-web-engineer.connpass.com/event/253802/'/>
+    <published>
+      2022-07-06T13:07:33+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://cherry-rindoku.connpass.com/event/253728/
+    </id>
+    <title>
+      チェリー本(第2版)オンライン輪読会#16
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;&lt;a
+      href=&quot;https://gihyo.jp/book/2021/978-4-297-12437-3&quot;
+      rel=&quot;nofollow&quot;&gt;プロを目指す人のためのRuby入門［改訂2版］
+      言語仕様からテスト駆動開発・デバッグ技法まで：書籍案内｜技術評論社&lt;/a&gt;(&lt;strong&gt;第2版&lt;/strong&gt;)(通称:チェリー本)を輪読します。&lt;/p&gt; &lt;p&gt;※詳しいタイムスケジュールは当日Disocrd内で共有いたします。&lt;/p&gt; &lt;h2&gt;今読んでいるところ&lt;/h2&gt; &lt;p&gt;p470 11.5 パターンマッチについてもっと詳しく&lt;/p&gt; &lt;p&gt;から読み進めます🚀&lt;/p&gt; &lt;h2&gt;参加資格&lt;/h2&gt; &lt;p&gt;どなたでもご参加いただけますが、見学やラジオ参加以外の方は、本がお手元にある前提で輪読会をすすめます。&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;会場はオンラインです。 鹿児島.mkのDiscordを使わせていただきます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;こちらのURLから当日ご自由にご参加ください。&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://discord.gg/3h3gmrZy6h&quot; rel=&quot;nofollow&quot;&gt;https://discord.gg/3h3gmrZy6h&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※リンク切れなどの不具合があった場合は、お手数ですが主催者のTwitterにDMお願いします🙏&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/hyumanase&quot; rel=&quot;nofollow&quot;&gt;主催者のTwitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※鹿児島.mkの詳細について&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://kagoshima-mk.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;鹿児島.mk - connpass&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当日はボイスチャンネルによる参加になります。ビデオのオン・オフはご自由に。&lt;/li&gt; &lt;li&gt;見学、途中参加、途中退席、ラジオ参加(聞いているだけ)大歓迎😄&lt;ul&gt; &lt;li&gt;なにか作業したいけどやる気がでない方、ラジオ参加でお気軽にお立ち寄りください〜🍒🍒&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;スケジュール・輪読会方針などはやりながら柔軟に変更していく予定です。あらかじめご了承ください🙇&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://cherry-rindoku.connpass.com/event/253728/'/>
+    <published>
+      2022-07-05T19:35:05+09:00
     </published>
   </entry>
 </feed>
