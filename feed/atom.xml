@@ -9,8 +9,88 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-07-09T00:52:29+00:00
+    2022-07-10T01:04:49+00:00
   </updated>
+  <entry>
+    <id>
+      https://histudy.connpass.com/event/253457/
+    </id>
+    <title>
+      姫路IT系勉強会 2022.7(オフライン)
+    </title>
+    <summary>
+      今月から兵庫県立はりま姫路総合医療センターの教育研修棟で開催です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;姫路IT系勉強会&lt;/h1&gt;
+      &lt;p&gt;姫路IT系勉強会は、毎月第3土曜日に開催している兵庫県姫路市を中心とした周辺地域のIT系技術者、
+      Webデザイナー、学生、それらの技術に興味のある人たちが気軽に集まり交流できる勉強会です。&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;&lt;a
+      href=&quot;https://join.slack.com/t/histudy/shared_invite/zt-ugowinom-ZG0ORhstkrqQGVyjksr_OA&quot; rel=&quot;nofollow&quot;&gt;姫路IT系勉強会 Slackへ参加する&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://discord.gg/rZCeScB&quot; rel=&quot;nofollow&quot;&gt;姫路IT系勉強会 Discordへ参加する&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;会場までのルート&lt;/h3&gt; &lt;p&gt;JR姫路駅から勉強会会場までのルートは以下を参照してください&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://yasukosan-my.sharepoint.com/personal/masayuki_yasukosan_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmasayuki%5Fyasukosan%5Fonmicrosoft%5Fcom%2FDocuments%2FShare%2F%E9%81%93%E9%A0%86%2Epdf&amp;amp;parent=%2Fpersonal%2Fmasayuki%5Fyasukosan%5Fonmicrosoft%5Fcom%2FDocuments%2FShare&amp;amp;ga=1&quot; rel=&quot;nofollow&quot;&gt;https://yasukosan-my.sharepoint.com/personal/masayuki_yasukosan_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmasayuki%5Fyasukosan%5Fonmicrosoft%5Fcom%2FDocuments%2FShare%2F%E9%81%93%E9%A0%86%2Epdf&amp;amp;parent=%2Fpersonal%2Fmasayuki%5Fyasukosan%5Fonmicrosoft%5Fcom%2FDocuments%2FShare&amp;amp;ga=1&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;勉強会の開催方法&lt;/h2&gt; &lt;h3&gt;はじめに&lt;/h3&gt; &lt;p&gt;当日、会場で付箋紙をお渡しするので、以下の様なことを自由にご記入ください。&lt;br&gt; (付箋紙に記載する内容に関しては、少しでもIT系にカスッていれば何を記載してOKです)&lt;/p&gt; &lt;ul&gt; &lt;li&gt;聞いてみたいこと&lt;/li&gt; &lt;li&gt;興味があること&lt;/li&gt; &lt;li&gt;こんなのやってみた(俺/私の話を聞いてくれ！)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;付箋紙に記載されたお題を元に、以下の方法で勉強会が進行していきます。&lt;/p&gt; &lt;h3&gt;勉強会の進行方法&lt;/h3&gt; &lt;p&gt;付箋紙に記載されたお題を元に、参加者全員でついて話し合う、&lt;br&gt; 座談会(アンカンファレンス)形式で進行します。 &lt;/p&gt; &lt;p&gt;付箋紙にお題を記載した人が、何かを発表をしなければいけないという類のものでありませんが、&lt;br&gt; 「ぜひ、発表をしたい！」という場合は歓迎します。&lt;/p&gt; &lt;h3&gt;姫路IT系勉強会のキーワード&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Web周辺テクノロジー&lt;/li&gt; &lt;li&gt;HTML5 / CSS3 / JavaScriptやjQueryなどのライブラリ&lt;/li&gt; &lt;li&gt;Webデザイン&lt;/li&gt; &lt;li&gt;CMS&lt;/li&gt; &lt;li&gt;プログラミング(PHPやRuby, Python. Shell Scriptなど)&lt;/li&gt; &lt;li&gt;サーバー / ネットワーク&lt;/li&gt; &lt;li&gt;仮想化&lt;/li&gt; &lt;li&gt;運用管理など&lt;/li&gt; &lt;li&gt;オープンソース / 自由ソフトウェア&lt;/li&gt; &lt;li&gt;Android / iOS&lt;/li&gt; &lt;li&gt;ガジェット Raspberry Pi, Beagle bone black&lt;/li&gt; &lt;li&gt;ワークフロー / タスクマネージメント&lt;/li&gt; &lt;li&gt;IT技術者のライフハック&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;その他、関連することなどなど…&lt;/p&gt; &lt;h3&gt;過去のお題(例)&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;google castの仕方教えてくだされ&lt;/li&gt; &lt;li&gt;業界未経験でITを勉強するには&lt;/li&gt; &lt;li&gt;チームでの開発(初心者からのWeb開発)&lt;/li&gt; &lt;li&gt;カメラとPCでタイムラプスしてみたす&lt;/li&gt; &lt;li&gt;AndroidタブレットにLinuxを入れて色々と遊んでみよう&lt;/li&gt; &lt;li&gt;C#を学ぶのに良いプロジェクトないですか？&lt;/li&gt; &lt;li&gt;LISPの紹介&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;注意事項&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;付箋紙に記載する内容は、参加者一人につき、1つだけ記載するようにお願いします。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;勉強会ログ (HackMD)&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://hackmd.io/Q5aRK26mTVGtmwKWioltyg&quot; rel=&quot;nofollow&quot;&gt;https://hackmd.io/Q5aRK26mTVGtmwKWioltyg&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;p&gt;付箋紙に記載されたお題をジャンル分け・レベル分けし、 以下の様な感じで開催されます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;13:15 - 会場の準備(机の並び替えなど)&lt;/li&gt; &lt;li&gt;13:30 - 前説・自己紹介&lt;/li&gt; &lt;li&gt;14:00 - お題1〜3 (比較的万人向け？) &lt;/li&gt; &lt;li&gt;15:00 - お題4〜6 (プログラム系のネタが多め？) &lt;/li&gt; &lt;li&gt;16:00 - お題7〜9 (インフラ・ネットワーク・サーバ系・脱落者多数のネタ多し？) &lt;/li&gt; &lt;li&gt;17:00 - 終了&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;お題の数や盛り上がり具合により時間は変動します、 また、間に適当に休憩を挟むので時間は前後します。&lt;/p&gt; &lt;h2&gt;参加費&lt;/h2&gt; &lt;p&gt;社会人: 500円 / 学生: 無料(社会人学生不可) 学生の方は、学生証などをお持ちください。&lt;/p&gt; &lt;h2&gt;懇親会&lt;/h2&gt; &lt;p&gt;終了後に希望者の数次第で懇親会があります。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://histudy.connpass.com/event/253457/'/>
+    <published>
+      2022-07-09T20:32:45+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://freestyle-mokumoku.connpass.com/event/254171/
+    </id>
+    <title>
+      第91回【オンライン開催】フリースタイルもくもく会【学生歓迎！】
+    </title>
+    <summary>
+      オンラインでも、もくもく！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;=====================&lt;/p&gt;
+      &lt;p&gt;新型コロナウイルスの急速な感染拡大を受け、Slackにてオンライン開催することといたしました。イベント会場での開催は見送ります。
+      会場でのご参加を楽しみにされていた方には、誠に申し訳ございませんが、ご了承ください。&lt;/p&gt;
+      &lt;h1&gt;Slack開催もくもく会参加要領&lt;/h1&gt; &lt;ul&gt;
+      &lt;li&gt;以下のリンクからSlakに参加&lt;/li&gt; &lt;li&gt;&lt;a
+      href=&quot;http://port-mokumoku.herokuapp.com/&quot;
+      rel=&quot;nofollow&quot;&gt;もくもく会Slack未参加の方&lt;/a&gt;&lt;ul&gt;
+      &lt;li&gt;（読込みに数秒かかることがあります）&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://free-style-mokumoku.slack.com/&quot;
+      rel=&quot;nofollow&quot;&gt;Slack Join済みの方&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;当日11:00くらいまでに #online_mokumoku に入室ください。&lt;/li&gt;
+      &lt;li&gt;出入りは自由です。&lt;/li&gt;
+      &lt;li&gt;LTは中止とします。LT枠参加者の方は、資料を共有していただけると助かります。&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;=====================&lt;/p&gt; &lt;h1&gt;&lt;a
+      href=&quot;http://port-mokumoku.herokuapp.com/&quot;
+      rel=&quot;nofollow&quot;&gt;Slackはこちら&lt;/a&gt;,
+      ぜひご登録を！(読み込みに数秒かかります)&lt;/h1&gt; &lt;p&gt;こんにちは！&lt;br&gt; &lt;a
+      href=&quot;https://twitter.com/_kehonda&quot;
+      rel=&quot;nofollow&quot;&gt;@_kehonda&lt;/a&gt; です。&lt;br&gt;
+      もくもく会したいと思います！&lt;br&gt; みんなで集まってわいわいやると, 捗った気分が味わえますよ。&lt;br&gt; &lt;span
+      style=&quot;font-size: 18pt;&quot;&gt;言語の指定はありません。&lt;/span&gt;&lt;br&gt;
+      Ruby でも Swift でも PHP でも Java でも Scalaでも Python でも .NETでも Unity でも
+      Haskellでも Objective-C でも、 Rustでも、何でも OK です！電子工作, デザイン,
+      読書などでのご参加も大歓迎です。&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;いつもと違う環境での作業は気分転換にもなりますし、普段なら出会わない人と話すことは大きな刺激になると思います！&lt;br&gt;
+      家で一人でもくもくするより楽しいし集中できるのでおすすめです！&lt;br&gt; 最近&lt;a
+      href=&quot;http://port-mokumoku.herokuapp.com/&quot;
+      rel=&quot;nofollow&quot;&gt;Slack&lt;/a&gt;
+      作りました。ぜひご参加ください！質問や情報共有に便利ですよー。&lt;/p&gt; &lt;h1&gt;もくもく会って何？&lt;/h1&gt;
+      &lt;p&gt;基本的には個人でやりたいことをする会です。&lt;br&gt;
+      何か作ったり、勉強したり、卒論したり、仕事したり・・・色々です。&lt;br&gt; こちらで特に何か指定することはしません。&lt;br&gt;
+      周りの人と情報交換したり、流行りのフレームワークをいじってみたり、好きなことをしてみましょう♪&lt;br&gt;&lt;/p&gt;
+      &lt;h1&gt;対象者&lt;/h1&gt; &lt;ul&gt;
+      &lt;li&gt;プログラミング好きな人、もしくは、興味がある人（レベルは問いません, 初心者の方も大歓迎！）&lt;/li&gt;
+      &lt;li&gt;個人的に開発しているアプリがある！または作り始めたい！&lt;/li&gt;
+      &lt;li&gt;新しく言語を勉強したい！&lt;/li&gt; &lt;li&gt;web業界に興味のある学生さん&lt;/li&gt;
+      &lt;li&gt;HTML, CSSを書いてるフロントエンジニア&lt;/li&gt; &lt;li&gt;デザイナーさん&lt;/li&gt;
+      &lt;li&gt;パンケーキが好きな方&lt;/li&gt; &lt;li&gt;フルーチェが好きな方&lt;/li&gt;
+      &lt;li&gt;雪見だいふくが好きな方&lt;/li&gt; &lt;li&gt;ピエール・マルコリーニが好きな方&lt;/li&gt;
+      &lt;li&gt;クリスマスケーキが食べたい方&lt;/li&gt; &lt;li&gt;フリーランスの方&lt;/li&gt;
+      &lt;li&gt;コーヒーが好きな方&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://freestyle-mokumoku.connpass.com/event/254171/'/>
+    <published>
+      2022-07-09T17:58:56+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://coroutine.connpass.com/event/254108/
@@ -188,66 +268,6 @@
     <link rel='alternate' type='text/html' href='https://rindokurb.connpass.com/event/254041/'/>
     <published>
       2022-07-08T09:21:52+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/253722/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #126 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応20人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/253722/'/>
-    <published>
-      2022-07-08T03:36:58+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://pg-beginner-mtg.connpass.com/event/254008/
-    </id>
-    <title>
-      もくもく会（プログラミング初学者）#3
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;プログラミング/ITの知識をつけること、ゆるく楽しく交流を広めることを目的にしております！&lt;/p&gt;
-      &lt;p&gt;今回は“もくもく会”としておりますが、何か議題を持ってきて一緒に考えることも可能です^^&lt;/p&gt;
-      &lt;p&gt;参加者は&quot;ホームページ&quot;&quot;ECサイト&quot;&quot;WEBアプリ&quot;を制作してる者が多いですが、プログラミング/ITであればジャンルは問いません。むしろ、ジャンルを越えた交流ができればとも考えております。&lt;/p&gt; &lt;p&gt;途中参加、途中退室OKです！&lt;/p&gt; &lt;p&gt;一緒に良い時間にしましょう！&lt;/p&gt; &lt;p&gt;※もくもく会とは：勉強したり、仕事したり、各々がやるべきことを黙々とやる会です。もちろん雑談や相談もOK。みんなで喫煙する会ではないのでご注意を。ちなみに会場は禁煙です。&lt;/p&gt; &lt;h1&gt;タイムスケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00〜13:10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;準備&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:10〜13:15&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ご挨拶、ルール説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:15〜13:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;簡単に自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:30〜15:30&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;黙々しましょう！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:30〜16:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;今日の成果共有、雑談、次回のご案内、片付け&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;参加対象&lt;/h1&gt; &lt;p&gt;・これからプログラミングを始めたい方&lt;/p&gt; &lt;p&gt;・プログラミングを始めたばかりの方&lt;/p&gt; &lt;p&gt;・プログラミング/ITを通じて交流を広げたい方&lt;/p&gt; &lt;p&gt;※ベテランの方でも初心に帰りたい方、初学者と交流したい方は参加OK&lt;/p&gt; &lt;h1&gt;持ち物&lt;/h1&gt; &lt;p&gt;・パソコン（任意）&lt;/p&gt; &lt;p&gt;・もくもくに必要なモノ&lt;/p&gt; &lt;p&gt;・学ぶ気持ち&lt;/p&gt; &lt;h1&gt;参加費&lt;/h1&gt; &lt;p&gt;500円/人（会場費）&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;※ 参加を辞退する場合は、詳細ページより申込のキャンセルをお願い致します。 &lt;/p&gt; &lt;p&gt;※ リクルーティング、勧誘など、採用目的でのイベント参加はお断りしております。&lt;/p&gt; &lt;p&gt;※ 補欠者の方は、ご来場いただいてもご入場いただくことが出来ませんのでご了承ください。&lt;/p&gt; &lt;p&gt;※ 無断キャンセル・欠席が続く場合、次回以降の参加をお断りさせていただく場合がございますのでご了承ください。&lt;/p&gt; &lt;p&gt;※ 当日予告なく時間配分・内容が変更になる可能性がございます。&lt;/p&gt; &lt;p&gt;※新型コロナウイルスの影響で緊急事態宣言等が発令された場合、オンライン(ZOOM)での開催に切り替えることもございます。この場合は参加費無料です。&lt;/p&gt; &lt;h1&gt;運営側プロフィール&lt;/h1&gt; &lt;p&gt;難波にある某プログラミングスクールを2020年に卒業した同期メンバー4人を中心に仲良く運営し始めました。&lt;/p&gt; &lt;p&gt;未経験から転職に成功した者、転職に失敗した者、YouTube運営、ブログ運営、経営者など様々です。&lt;/p&gt; &lt;p&gt;1年ぶりの開催のため、都合により運営メンバーからの参加者は私一人です。&lt;/p&gt; &lt;p&gt;エンジニアとしては&quot;ホームページ&quot;&quot;ECサイト&quot;&quot;WEBアプリ&quot;などを制作しております。&lt;/p&gt; &lt;p&gt;・大切にしてること：ノーマウント、素直な心、攻めの姿勢&lt;/p&gt; &lt;p&gt;・言語/ツール：HTML、CSS、JS、Ruby、Ruby on Rails、PHP、Laravel、CakePHP、WordPress、NoCode系&lt;/p&gt; &lt;p&gt;・管理者：Masaki Maeda（株式会社SHOU）&lt;/p&gt; &lt;h1&gt;開催実績&lt;/h1&gt; &lt;p&gt;2021/1/17：5人&lt;/p&gt; &lt;p&gt;2020/12/6：11人（オンライン開催）&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://pg-beginner-mtg.connpass.com/event/254008/'/>
-    <published>
-      2022-07-08T00:49:14+09:00
     </published>
   </entry>
 </feed>
