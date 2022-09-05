@@ -9,8 +9,102 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-09-04T01:03:02+00:00
+    2022-09-05T01:16:19+00:00
   </updated>
+  <entry>
+    <id>
+      https://kobe-sannomiya-dev.connpass.com/event/244875/
+    </id>
+    <title>
+      【三宮.dev &amp; KELab 共催】教えて！おすすめWebサービスLT大会
+    </title>
+    <summary>
+      Notion？Gather？Canva？あなたのおすすめWebサービスは何ですか！？
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;概要&lt;/h1&gt;
+      &lt;p&gt;&lt;strong&gt;あなたが重宝しているWebサービスを教えてください！&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;最近はたくさんのWebサービスが様々な用途に合わせて世の中に溢れています。
+      世界中の人が使っているような有名なもの、ちょっとニッチな領域にフォーカスされたもの、企業が運営しているもの、個人で開発・運用されているものなど有り方も様々です。&lt;/p&gt; &lt;p&gt;このLT大会では、多数あるWebサービスの中からおすすめのWebサービスやその使い方を共有しあいます&lt;/p&gt; &lt;ul&gt; &lt;li&gt;こんなWebサービスがあるよ！&lt;/li&gt; &lt;li&gt;有名なWebサービスをこういう使い方をすることができるよ！&lt;/li&gt; &lt;li&gt;このWebサービスでこの拡張機能を使うと便利だよ！&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;などをぜひ教えてください！&lt;/p&gt; &lt;h1&gt;対象者&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;便利なWebサービスに興味のある方&lt;/li&gt; &lt;li&gt;Webサービスを使った業務効率などを考えられている方&lt;/li&gt; &lt;li&gt;布教したいWebサービスを使っている方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;開催場所&lt;/h1&gt; &lt;p&gt;オンライン（zoom）&lt;br&gt; Zoom URL はイベント開催前に通知 + 参加者の向けに本イベントページにて掲示致します&lt;/p&gt; &lt;h1&gt;タイムスケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:30 〜&lt;/td&gt; &lt;td&gt;LT大会開始&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;時間余ってたら&lt;/td&gt; &lt;td&gt;自己紹介 &amp;amp; 雑談&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;LTする人&lt;/h1&gt; &lt;p&gt;LTの内容によって順番が前後する可能性があります&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;#&lt;/th&gt; &lt;th&gt;発表者&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;1&lt;/td&gt; &lt;td&gt;てさお&lt;/td&gt; &lt;td&gt;Exercismで上げろコーディング力&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;2&lt;/td&gt; &lt;td&gt;Masanao Suzuki さん&lt;/td&gt; &lt;td&gt;Canva を用いた簡易クリエイティブ作成&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;3&lt;/td&gt; &lt;td&gt;てんかわ さん&lt;/td&gt; &lt;td&gt;chromaticの紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;4&lt;/td&gt; &lt;td&gt;Alyson さん&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;5&lt;/td&gt; &lt;td&gt;pawn さん&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;主催コミュニティ&lt;/h1&gt; &lt;h2&gt;三宮.dev&lt;/h2&gt; &lt;p style=&quot;text-align: center;&quot;&gt; &lt;img src=&quot;https://connpass-tokyo.s3.amazonaws.com/thumbs/de/3e/de3e841f2a29f391ceb8d7d407528449.png&quot;&gt; &lt;/p&gt; &lt;p&gt;神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです&lt;/p&gt; &lt;p&gt;バックエンド～フロントエンドまで幅広い技術をテーマにしたイベントを企画・開催しています！&lt;/p&gt; &lt;p&gt;毎月のイベントに関する情報などは&lt;a href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;三宮.devのslack&lt;/a&gt;にて発信してますので是非ともご参加ください！&lt;/p&gt; &lt;p&gt;また、勉強会中に得た学びやハンズオンで用いた資料などメンバーが個人的に残しておきたいと思った情報は&lt;a href=&quot;https://scrapbox.io/sannomiya-dev/&quot; rel=&quot;nofollow&quot;&gt;三宮.devのScrapbox&lt;/a&gt; へ自由にアップロード可能としていますので、こちらもご活用ください！&lt;/p&gt; &lt;h2&gt;Kobe Engineer&apos;s Lab&lt;/h2&gt; &lt;p style=&quot;text-align: center;&quot;&gt; &lt;img src=&quot;https://connpass-tokyo.s3.amazonaws.com/thumbs/93/35/9335dbba943873f6b6fd8f1e25c40794.png&quot;&gt; &lt;/p&gt; &lt;p&gt;神戸市 企画調整局医療・新産業本部 新産業部新産業課 では、実務レベルで社会の課題解決を導く“次世代IT人材”の創出を目指し、令和3年度より神戸市エンジニア創出事業「Kobe x Engineer&apos;s Lab (神戸エンジニアラボ)」を開始します。対象は、プログラミングを学んでいる、または学びたいと志す若年層とし、実践的な“学びの機会”を提供します。&lt;/p&gt; &lt;h1&gt;主催者プロフィール&lt;/h1&gt; &lt;h3&gt;三宮.dev：てさお &lt;a href=&quot;https://twitter.com/tettyanman&quot; rel=&quot;nofollow&quot;&gt;@tettyanman&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;me&quot; src=&quot;https://avatars.githubusercontent.com/tessai9?s=200&quot;&gt;&lt;/p&gt; &lt;p&gt;神戸で働くエンジニア&lt;br&gt; Ruby, Rust, xR系技術 が好き&lt;br&gt; 最近はBlockchain関連の技術にハマっている&lt;/p&gt; &lt;h3&gt;Kobe Engineer&apos;s Lab：Masanao Suzuki&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;masanao suzuki&quot; src=&quot;https://pbs.twimg.com/profile_images/1221768933557948418/iyxuU7A0_200x200.jpg&quot;&gt;&lt;/p&gt; &lt;p&gt;明治大学文系卒。新卒でGAOGAOタイ・バンコク拠点に参画。大学在学中に教員免許を取得するなどエンジニア教育への関心が強く、2019年にベトナム・ホーチミンにてGAOGAOゲート事業の立ち上げを行う。本年、神戸市内の若年層へ、実務に役立つ“プログラミング学習機会の提供”を目標に、神戸へ移住・移転。&lt;/p&gt; &lt;h2&gt;三宮.dev slack&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;ご興味あればぜひご参加ください！&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;Kobe Engineer&apos;s Lab 公式サイト&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://kobe-engr-lab.studio.site/&quot; rel=&quot;nofollow&quot;&gt;Kobe x Engineer&apos;s Lab 公式サイト&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;禁止事項、アンチハラスメントポリシー&lt;/h1&gt; &lt;p&gt;当コミュニティでは以下の行為を禁止させていただいております&lt;/p&gt; &lt;ul&gt; &lt;li&gt;勧誘や告知目的での参加&lt;/li&gt; &lt;li&gt;荒らし行為&lt;/li&gt; &lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://kobe-sannomiya-dev.connpass.com/event/244875/'/>
+    <published>
+      2022-09-05T09:50:45+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mame-coffee-programing.connpass.com/event/259493/
+    </id>
+    <title>
+      オンラインもくもく会【コーヒー飲みながら参加しませんか？】86回目
+    </title>
+    <summary>
+      オンラインでもくもく勉強しませんか？入退室自由、ビデオオフでもOK※コーヒーは必須ではありません
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;オンラインで一緒にもくもく勉強しませんか？&lt;/h1&gt;
+      &lt;p&gt;〜毎週日曜日のお昼からは一緒にもくもく会をしませんか？〜&lt;/p&gt;
+      &lt;p&gt;1人でやるよりもみんなでやった方が集中できるはず！
+      2020年の12月から始めたこのオンラインもくもく会も86回目となりました。&lt;/p&gt;
+      &lt;p&gt;1人だとだらけてしまう・・。でも大人数は少し気が引けるし・・。 そんな方でも安心してご参加いただけるかと思います。
+      強制的に勉強する環境を作っちゃいましょう！&lt;/p&gt;
+      &lt;p&gt;もちろん、ビデオオフでも問題ありませんし、ゆるゆるのもくもく会なのでお気軽にご参加いただけます！
+      コーヒーも自由です笑&lt;/p&gt; &lt;p&gt;参加する方も本当に様々で幅広い領域や経験の方がいらっしゃいます！&lt;/p&gt;
+      &lt;p&gt;質問も自由にしていただいて構いません。&lt;/p&gt; &lt;p&gt;完全無料かつ勧誘などもありませんのでご安心ください。
+      大学の課題をするでもよし、家計簿つけるという溜まった作業をするのもよし！ バリバリのハッカーの方も
+      Progateでつまづいている初心者の方もお気軽にご参加ください。&lt;/p&gt;
+      &lt;p&gt;入退室自由です。ご都合の良いタイミングでご参加いただければと思います。&lt;/p&gt;
+      &lt;p&gt;参加申込後、各種リンクをお知らせいたします。&lt;/p&gt;
+      &lt;p&gt;当日はGoogleMeetを利用しますのでGoogleアカウントをご用意ください。&lt;/p&gt;
+      &lt;p&gt;ではレッツもくもく〜♪&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt;
+      &lt;p&gt;１．「このイベントに申し込む」ボタンから参加申込&lt;br&gt; ２．このイベントページに戻る&lt;br&gt;
+      ３．「参加者への情報」欄からGoogle MeetとSlackのリンクをクリック&lt;/p&gt;
+      &lt;p&gt;※ご注意※&lt;br&gt; Google・Slackのアカウント名を事前にご確認ください。&lt;br&gt;
+      特に本名を公開したくない方は、名前変更、もしくは新規アカウントを作成いただくことをお勧めいたします。&lt;/p&gt;
+      &lt;h2&gt;当日の大まかなスケジュール&lt;/h2&gt; &lt;p&gt;13:00
+      自己紹介・今日やることの共有(Slackにて)&lt;br&gt; 13:10 開始挨拶〜もくもくタイム前半戦&lt;br&gt; 15:30
+      雑談タイム&lt;br&gt; 16:00 もくもくタイム後半戦&lt;br&gt; 17:30 報告会・雑談&lt;br&gt; 18:00
+      自由退出・おしゃべりタイム（オンライン飲み会に近い？？）&lt;/p&gt; &lt;h2&gt;もくもく会参考キーワード&lt;/h2&gt;
+      &lt;p&gt;JavaScript(React.js, Vue.js) html, css, scss, Bootstrap
+      Java(Spring), Kotlin Swift, C#, Unity, C++ Ruby(Ruby on Rails) PHP
+      (Laravel)WordPress Python(Django) もくもく会 オンライン まったり 初心者歓迎&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mame-coffee-programing.connpass.com/event/259493/'/>
+    <published>
+      2022-09-04T15:28:46+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://love-swift.connpass.com/event/259463/
+    </id>
+    <title>
+      集まれSwift好き！Swift愛好会 vol.70 @ オンライン
+    </title>
+    <summary>
+      iOSDC後もみんなでわいわい！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
+      Live)での開催といたします。 よい機会ですので、普段参加出来ない海外・地方の方々など幅広い参加をお待ちしています！&lt;/p&gt;
+      &lt;p&gt;今回はiOSDC2022の感想戦をしましょう！&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;セッションで話したかったこと&lt;/li&gt; &lt;li&gt;セッションを聞いて考えたこと&lt;/li&gt;
+      &lt;li&gt;このセッションは聞いておけ！&lt;/li&gt; &lt;li&gt;複数セッション見たまとめ&lt;/li&gt;
+      &lt;li&gt;パンレットの記事に寄稿・読んでみた感想&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;などをテーマにした談義を募集します！&lt;/p&gt; &lt;h2&gt;■イベント概要&lt;/h2&gt;
+      &lt;p&gt;Swift好きで集まって、ビール片手にわいわい LT会です！&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;Swiftからプログラムを始めた方&lt;/li&gt;
+      &lt;li&gt;Objective-C時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（Java, Ruby,
+      etc）をやりながらSwiftを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;いろんな背景の人で集まってSwiftを遊び倒したいです！&lt;/p&gt;
+      &lt;p&gt;イベント前半では、&lt;strong&gt;Swift全般&lt;/strong&gt;に関するお話や、iOSアプリ開発&lt;strong&gt;スキルアップのための様々なテクニック&lt;/strong&gt;をお話する&quot;Swift談義タイム&quot;。&lt;/p&gt; &lt;p&gt;後半は、Swift仲間をつくる懇親会へ^^/&lt;/p&gt; &lt;p&gt;なお、絶賛Swift談義スピーカー募集してます。 ぜひご経験をお聞かせください！&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt; &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;p&gt;登壇していただいた内容については知見共有のため、YouTube Liveでの配信およびアーカイブをする予定です。ご了承の上、お申込みください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4&gt;時間が余ったら談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■主催プロフィール&lt;/h2&gt; &lt;p&gt;七島 偉之 (@jollyjoester)&lt;/p&gt; &lt;p&gt;みんなでもっとSwiftを楽しめるようなネタを探してます！ かんぱいやー（勉強会で乾杯をする人）として、乾杯の力でSwift好きの輪を広めています。&lt;/p&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Swiftが好きな人！&lt;/li&gt; &lt;li&gt;Swiftを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろSwiftから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、&lt;b&gt;飲み物は各自必ずご用意ください。&lt;/b&gt;&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live&lt;/p&gt; &lt;p&gt;〜準備中〜 &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpassにログオンして、参加者情報から、URLをご確認ください。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのままGoogle Meetで行います。&lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日の内容は収録してYouTubeの愛好会チャンネルで公開されます。あらかじめご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://love-swift.connpass.com/event/259463/'/>
+    <published>
+      2022-09-04T14:37:10+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://tonihome.connpass.com/event/258315/
@@ -520,94 +614,6 @@
     <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/255781/'/>
     <published>
       2022-09-02T09:03:29+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://kawasakirb.connpass.com/event/259290/
-    </id>
-    <title>
-      kawasaki.rb #112 (オンライン開催)
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;オンラインでミートアップを開催します&lt;/h1&gt;
-      &lt;p&gt;COVID-19の情勢を考えて今月のkawasaki.rbはオンライン開催をします。
-      通常Slackで連絡をしていますが、discordを使ってミートアップを行います。以下の招待リンクからサーバーにご参加ください。（よければメインの&lt;a href=&quot;https://join.slack.com/t/kawasakirb/shared_invite/enQtNDgyNTkyNTEwNzcwLTQyNDVmYmMyZWQ3YTJmODU3OGRjNWY0YmE3NWJmMDU3YTdjNjQ1NDVlYmQ3NjJhNmUzYjU2MzZkODQxNzBmZmU&quot; rel=&quot;nofollow&quot;&gt;Slack&lt;/a&gt;の方もご参加ください）&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://discord.gg/EaymPdG&quot; rel=&quot;nofollow&quot;&gt;https://discord.gg/EaymPdG&lt;/a&gt;&lt;/p&gt; &lt;p&gt;なお、終了後はオンライン懇親会を開催予定ですので、参加希望者は飲み物や食べ物を各自用意してください。紹興酒などが必要な方は&lt;a href=&quot;https://amzn.to/2yXfTlT&quot; rel=&quot;nofollow&quot;&gt;事前にお買い求め&lt;/a&gt;ください。&lt;/p&gt; &lt;h2&gt;以下はいつもの&lt;/h2&gt; &lt;p&gt;Kawasaki.rbは川崎周辺のRuby技術者たちが集まってRubyだけでなく技術に関する何かをする地域Rubyistコミュニティです。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://medium.com/kawasakirb&quot; rel=&quot;nofollow&quot;&gt;過去のまとめ記事&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/kawasakirb/shared_invite/enQtNDgyNTkyNTEwNzcwLWY1OTE2ODFkOTVkMjRmNTQyYzJiNzVmNmJkMmVjNGJjM2ZjNzQ5OTUyZTMwMDgyZWE2YzkwNzgyYWZjYzVhNzQ&quot; rel=&quot;nofollow&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;注意事項をよくご確認ください。&lt;/p&gt; &lt;h2&gt;内容について&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:15~&lt;/td&gt; &lt;td&gt;自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30~&lt;/td&gt; &lt;td&gt;「&lt;a href=&quot;https://sustainable-rails.com/assets/sustainable-rails-sample.pdf&quot; rel=&quot;nofollow&quot;&gt;Sustainable Web Debelopment with Ruby on Rails (Sample)&lt;/a&gt;」を読む&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:30~&lt;/td&gt; &lt;td&gt;セッション&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00~&lt;/td&gt; &lt;td&gt;懇親会（オンライン）&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;連絡先&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/kawasakirb/shared_invite/enQtNDgyNTkyNTEwNzcwLWY1OTE2ODFkOTVkMjRmNTQyYzJiNzVmNmJkMmVjNGJjM2ZjNzQ5OTUyZTMwMDgyZWE2YzkwNzgyYWZjYzVhNzQ&quot; rel=&quot;nofollow&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/kawasakirb&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/258704250945432/&quot; rel=&quot;nofollow&quot;&gt;Facebookグループ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;過去のまとめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://medium.com/kawasakirb&quot; rel=&quot;nofollow&quot;&gt;https://medium.com/kawasakirb&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://kawasakirb.github.io&quot; rel=&quot;nofollow&quot;&gt;http://kawasakirb.github.io&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://kawasakirb.connpass.com/event/259290/'/>
-    <published>
-      2022-09-01T18:55:28+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://love-kotlin.connpass.com/event/257564/
-    </id>
-    <title>
-      集まれKotlin好き！Kotlin愛好会 vol.38 @オンライン
-    </title>
-    <summary>
-      みんなで楽しくオンラインでワイワイ！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
-      Live)で開催いたします。 よい機会ですので、普段参加出来ない地方の方々など幅広い参加を募集いたします！&lt;/p&gt;
-      &lt;h2&gt;イベント概要&lt;/h2&gt;
-      &lt;p&gt;Kotlin好きで集まって、飲み物片手にKotlinについて語り合い、愛でましょう！！！&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;Kotlinからプログラミングを始めた方&lt;/li&gt;
-      &lt;li&gt;Java時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（JaveScript, Ruby,
-      etc...）をやりながらKotlinを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;Kotlin全般に関するお話や、AndroidやサーバーサイドにおいてKotlinを活用するお話をする
-      &quot;Kotlin談義&quot;（絶賛登壇者募集中！資料ナシでもOK）、そしてKotlin仲間をつくる懇親会で楽しみましょう〜
-      ^^/&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt;
-      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;圧縮ネイティブ・ライブラリについて&lt;/td&gt; &lt;td&gt;村上幸雄&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Kotlin Multiplatform のライブラリを作った話&lt;/td&gt; &lt;td&gt;奏(sya-ri)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Kotlin Blogのローカライゼーションプロジェクトにお試し参加してみた&lt;/td&gt; &lt;td&gt;jollyjoester&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;KotlinConf 2023のチケットの買い方ハンズオン&lt;/td&gt; &lt;td&gt;タケハタ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■主催プロフィール&lt;/h2&gt; &lt;p&gt;七島 偉之 (@jollyjoester)&lt;/p&gt; &lt;p&gt;みんなでもっとKotlinを楽しめるようなネタを探してます！ かんぱいやー（勉強会で乾杯をする人）として、乾杯の力でKotlin好きの輪を広めています。&lt;/p&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live &lt;a href=&quot;https://youtu.be/WKftF-RRUBM&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/WKftF-RRUBM&lt;/a&gt; &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://love-kotlin.connpass.com/event/257564/'/>
-    <published>
-      2022-08-31T08:55:25+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/259055/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #134 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応20人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/259055/'/>
-    <published>
-      2022-08-30T19:17:05+09:00
     </published>
   </entry>
 </feed>
