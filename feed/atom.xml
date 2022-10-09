@@ -9,8 +9,52 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-10-08T01:04:46+00:00
+    2022-10-09T01:10:45+00:00
   </updated>
+  <entry>
+    <id>
+      https://engineeringskype.connpass.com/event/262831/
+    </id>
+    <title>
+      Ruby3x3ライブコーディング型Webアプリ制作勉強会（超初級）
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;★ Ruby3x3ライブコーディング型Webアプリ制作勉強会（超初級）★&lt;br&gt; 毎週土曜日２１時～
+      次回10/15（土）２１時～ &lt;/p&gt; &lt;ol&gt; &lt;li&gt;Rubyはまだまだこれからです！
+      &lt;/li&gt; &lt;li&gt;Ruby3（RubyOnRails）の勉強会を開催します。 &lt;/li&gt;
+      &lt;li&gt;ドキュメントは以下を元に進めていきます。&lt;br&gt; 英語：&lt;a
+      href=&quot;https://guides.rubyonrails.org/getting_started.html&quot;
+      rel=&quot;nofollow&quot;&gt;https://guides.rubyonrails.org/getting_started.html&lt;/a&gt;&lt;br&gt; 日本語：https://guides-rubyonrails-org.translate.goog/getting_started.html?_x_tr_sl=en&amp;amp;_x_tr_tl=ja&amp;amp;_x_tr_hl=en&amp;amp;_x_tr_pto=wapp &lt;/li&gt; &lt;li&gt;ハンズオン形式で、画面共有しながら、コーディングをしていきます。&lt;br&gt; その場でWebアプリケーションを構築していきます。&lt;br&gt; 5．積極的に発言していただいても、聞くだけでもかまいません。&lt;br&gt; 6.顔出しは必要ありません。Webカメラはオフにしてご参加ください。ハンドル名でもOKです &lt;/li&gt; &lt;/ol&gt; &lt;p&gt;参加されたい方はSkypeをインストールして、アカウントを作成し、以下よりご入室ください。 &lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://join.skype.com/yYxiH7fEG1bF&quot; rel=&quot;nofollow&quot;&gt;https://join.skype.com/yYxiH7fEG1bF&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://engineeringskype.connpass.com/event/262831/'/>
+    <published>
+      2022-10-08T22:06:44+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://engineeringskype.connpass.com/event/262408/
+    </id>
+    <title>
+      Ruby3x3ライブコーディング型Webアプリ制作勉強会（超初級）
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;★ Ruby3x3ライブコーディング型Webアプリ制作勉強会（超初級）★&lt;br&gt; 毎週土曜日２１時～
+      次回10/08（土）２１時～ &lt;/p&gt; &lt;ol&gt; &lt;li&gt;Rubyはまだまだこれからです！
+      &lt;/li&gt; &lt;li&gt;Ruby3（RubyOnRails）の勉強会を開催します。 &lt;/li&gt;
+      &lt;li&gt;ドキュメントは以下を元に進めていきます。&lt;br&gt; 英語：&lt;a
+      href=&quot;https://guides.rubyonrails.org/getting_started.html&quot;
+      rel=&quot;nofollow&quot;&gt;https://guides.rubyonrails.org/getting_started.html&lt;/a&gt;&lt;br&gt; 日本語：https://guides-rubyonrails-org.translate.goog/getting_started.html?_x_tr_sl=en&amp;amp;_x_tr_tl=ja&amp;amp;_x_tr_hl=en&amp;amp;_x_tr_pto=wapp &lt;/li&gt; &lt;li&gt;ハンズオン形式で、画面共有しながら、コーディングをしていきます。&lt;br&gt; その場でWebアプリケーションを構築していきます。&lt;br&gt; 5．積極的に発言していただいても、聞くだけでもかまいません。&lt;br&gt; 6.顔出しは必要ありません。Webカメラはオフにしてご参加ください。ハンドル名でもOKです &lt;/li&gt; &lt;/ol&gt; &lt;p&gt;参加されたい方はSkypeをインストールして、アカウントを作成し、以下よりご入室ください。 &lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://join.skype.com/yYxiH7fEG1bF&quot; rel=&quot;nofollow&quot;&gt;https://join.skype.com/yYxiH7fEG1bF&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://engineeringskype.connpass.com/event/262408/'/>
+    <published>
+      2022-10-08T12:17:50+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://andpad.connpass.com/event/260735/
@@ -455,43 +499,6 @@
     <link rel='alternate' type='text/html' href='https://mito-web-engineer.connpass.com/event/262468/'/>
     <published>
       2022-10-06T21:37:01+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://cyberagent.connpass.com/event/261115/
-    </id>
-    <title>
-      Muddy Web #3- 泥臭いフロントエンドの現場
-    </title>
-    <summary>
-      Webフロントエンドの現場から明日使えそうな技術や事例を学ぶ
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;Muddy WebはMuddy =
-      泥臭いとして、Webフロントエンドの開発現場における話やケーススタディなど泥臭さのある話をもとに学びを得ることを目的として開催しています。&lt;/p&gt; &lt;p&gt;現場で遭遇した具体的な体験を元に実際に明日から使えるかもしれないWebフロントエンド的な技術や知識を参加者の皆さまと共有し合うことを通して、フロントエンド開発の糧になれればと思います。&lt;/p&gt; &lt;h1&gt;日時・場所&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;開催日: 2022年10月11日(火) 19：00～&lt;/li&gt; &lt;li&gt;場所:オンライン：YouTube LIVE開催 &lt;a href=&quot;https://youtu.be/P62t9ynF2_8&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/P62t9ynF2_8&lt;/a&gt;&lt;/li&gt; &lt;li&gt;参加費：無料&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Youtubeチャンネル&lt;/h3&gt; &lt;p&gt;本イベントは YouTube Live を使用してライブ配信いたします。 &lt;/p&gt; &lt;p&gt;※ 配信情報はconnpassまたはYouTubeを通して連絡いたしますのでconnpassの登録の他、YouTubeチャンネルを登録していただけると当日見逃すことなく、ご参加いただけます。&lt;/p&gt; &lt;h1&gt;対象となる参加者&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Webフロントエンド開発に携わる方&lt;/li&gt; &lt;li&gt;Webフロントエンド開発に興味を持っている方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;18:30 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00 - 19:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:10 - 19:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;リリースから5年、Webフロントエンドの経年劣化と向き合う&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:45 - 19:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;CA BASE NEXT LP の品質を担保するために行ったアクセシビリティ対応とパフォーマンス改善&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:00 - 20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;CA BASE NEXT でスクロール連動したUIを実装した話&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:15 - 20:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Ruby on Rails に ViewComponentを導入した話&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:25 - 20:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;&lt;font color=&quot;red&quot;&gt;※ タイムスケジュールは目安です。当日の進行を見て調整する可能性がございます。&lt;/font&gt;&lt;/p&gt; &lt;h1&gt;セッション内容と登壇者&lt;/h1&gt; &lt;h2&gt;リリースから5年、Webフロントエンドの経年劣化と向き合う&lt;/h2&gt; &lt;p&gt;news.ameba.jpは5年前にデスクトップ版ではReact化、モバイル版ではAMP化が行われました。当時は最先端の技術でしたが時が経つにつれて技術的なトレンドも変化しています。TypeScriptやTanStack、Core Web Vitalsの登場によりWebフロントエンドの技術構成は日々進化しています。 時代の流れに合わせてAmebaNewsでは、脱AMP、脱SPAやTypeScript化などを行いましたので紹介いたします。&lt;/p&gt; &lt;h3&gt;高見 駿介&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;プロフィール写真: 高見 駿介&quot; height=&quot;100&quot; src=&quot;https://i.imgur.com/EAmHoKN.jpg&quot; width=&quot;100&quot;&gt;&lt;/p&gt; &lt;p&gt;2021年にCyberAgent中途入社。Ameba事業本部にてAmebaブログ関連サービスのフロントエンド開発に携わっています。&lt;/p&gt; &lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/shunke07&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/shunke07&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;原 一成&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;プロフィール写真: 原 一成&quot; height=&quot;100&quot; src=&quot;https://i.pinimg.com/564x/59/a0/9b/59a09b2ee0d90c39b95e1e543c400132.jpg&quot; width=&quot;100&quot;&gt;&lt;/p&gt; &lt;p&gt;2008年に新卒でサイバーエージェントに入社。 Amebaのテックリード、Web Developer。 Amebaに関連する機能開発や設計、開発環境構築、アクセシビリティ、パフォーマンス面からの品質向上やデザインシステムの構築の傍ら、サイバーエージェントのDeveloper ExpertsとしてWebアプリケーションの発展に従事している。&lt;/p&gt; &lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/herablog&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/herablog&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;佐々木 慶也&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;プロフィール写真: 佐々木 慶也&quot; height=&quot;100&quot; src=&quot;https://pbs.twimg.com/profile_images/1390670685798731780/QF4ZRKIy_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/p&gt; &lt;p&gt;2021年にCyberAgent新卒入社。Ameba事業本部にてAmebaブログ関連サービスのフロントエンド開発に携わっています。&lt;/p&gt; &lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/_keiya01&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/_keiya01&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;CA BASE NEXT LP の品質を担保するために行ったアクセシビリティ対応とパフォーマンス改善&lt;/h2&gt; &lt;p&gt;2022年7月28,29日に、サイバーエージェントの20代のエンジニア・クリエイターが中心となって創り上げる技術カンファレンス &quot;CA BASE NEXT&quot; が開催されました。&lt;/p&gt; &lt;p&gt;一般的に「パフォーマンスの質」と「CV数」には正の相関がある（参考: https://web.dev/vitals-business-impact/）と言われており、本カンファレンスサイトにおいても、より多くの方にご試聴いただくためには「パフォーマンスの質」を担保することは重要でした。また、さまざまな方にご視聴いただくためには「アクセシビリティの質」を担保することも重要だと言えます。&lt;/p&gt; &lt;p&gt;技術カンファレンスサイトの開発を担う一時的な開発チームにおいて、いかにパフォーマンスとアクセシビリティへの関心を維持しつつ、開発速度を落とさずに品質を担保していったのか。という &quot;Muddy&quot; なお話ができたらと思います。&lt;/p&gt; &lt;h3&gt;吹金原 榛耶&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;プロフィール写真: 吹金原 榛耶&quot; height=&quot;100&quot; src=&quot;https://i.imgur.com/oMfDmr4.png&quot; width=&quot;100&quot;&gt;&lt;/p&gt; &lt;p&gt;2023年4月入社予定。Webフロント領域を中心に、ビジネスとしての価値を生む技術に興味関心があります。&lt;/p&gt; &lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/progriro&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/progriro&lt;/a&gt; GitHub: &lt;a href=&quot;https://github.com/progriro&quot; rel=&quot;nofollow&quot;&gt;https://github.com/progriro&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;CA BASE NEXT でスクロール連動したUIを実装した話&lt;/h2&gt; &lt;p&gt;CA BASE NEXT で実装したスクロール連動したUIの実装に関して話します。&lt;/p&gt; &lt;h3&gt;窪田 秀哉&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;プロフィール写真: 窪田 秀哉&quot; height=&quot;100&quot; src=&quot;https://i.imgur.com/GtRQWrT.jpg&quot; width=&quot;100&quot;&gt;&lt;/p&gt; &lt;p&gt;2021年に新卒で入社。株式会社CAMでFensiプラットフォーム、Marougeを始めとする占いサービスでフロントエンドエンジニアとして活動しています。&lt;/p&gt; &lt;p&gt;Twitter: &lt;a href=&quot;https://twitter.com/kubo_programmer&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/kubo_programmer&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;Ruby on Rails に ViewComponentを導入した話&lt;/h2&gt; &lt;p&gt;Ruby on RailsにReact likeなライブラリーの ViewComponentを導入してコンポネント単位でフロントエンドの開発をするようにした話です。&lt;/p&gt; &lt;h3&gt;石井 勇生&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;プロフィール写真:石井 勇生&quot; height=&quot;100&quot; src=&quot;https://i.imgur.com/5VPHeoH.jpg&quot; width=&quot;100&quot;&gt;&lt;/p&gt; &lt;p&gt;2022年にフロントエンドとして新卒入社。 現在は株式会社シロクで働いており主にフルスタックとしてWeb アプリケーションの開発に携わっている。 得意分野はCSS。&lt;/p&gt; &lt;p&gt;Portfolio: &lt;a href=&quot;https://yuki-dev.com&quot; rel=&quot;nofollow&quot;&gt;https://yuki-dev.com&lt;/a&gt; GitHub: &lt;a href=&quot;https://github.com/yuki0418&quot; rel=&quot;nofollow&quot;&gt;https://github.com/yuki0418&lt;/a&gt; Twitter: &lt;a href=&quot;https://twitter.com/YukiIshii10&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/YukiIshii10&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;技術交流が目的の勉強会ですので、知識の共有および、参加者同士の交流を目的としない参加はお断りしています。&lt;/li&gt; &lt;li&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;個人情報の取扱いについて&lt;/h1&gt; &lt;p&gt;主催：株式会社サイバーエージェント&lt;/p&gt; &lt;p&gt;申し込み時にご提供いただいた情報は、イベント受付管理や各種ご案内（サービス・イベント等）に利用させていただきます。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://cyberagent.connpass.com/event/261115/'/>
-    <published>
-      2022-10-06T11:51:41+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://toruby.connpass.com/event/261539/
-    </id>
-    <title>
-      toruby 186th
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;ul&gt; &lt;li&gt;いつもの勉強会をします&lt;/li&gt; &lt;li&gt;研鑽Rubyやってます（&lt;a
-      href=&quot;https://www.lambdanote.com/products/products-polished-ruby-beta）&quot; rel=&quot;nofollow&quot;&gt;https://www.lambdanote.com/products/products-polished-ruby-beta）&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://toruby.connpass.com/event/261539/'/>
-    <published>
-      2022-10-05T18:20:43+09:00
     </published>
   </entry>
 </feed>
