@@ -9,8 +9,47 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-10-09T01:10:45+00:00
+    2022-10-10T01:15:20+00:00
   </updated>
+  <entry>
+    <id>
+      https://toruby.connpass.com/event/262895/
+    </id>
+    <title>
+      toruby 187th
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;ul&gt; &lt;li&gt;いつもの勉強会をします&lt;/li&gt; &lt;li&gt;研鑽Rubyやってます（&lt;a
+      href=&quot;https://www.lambdanote.com/products/products-polished-ruby-beta）&quot; rel=&quot;nofollow&quot;&gt;https://www.lambdanote.com/products/products-polished-ruby-beta）&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://toruby.connpass.com/event/262895/'/>
+    <published>
+      2022-10-10T09:57:34+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://aws-startup-community.connpass.com/event/249802/
+    </id>
+    <title>
+      AWS Startup Tech Meetup Fukuoka #1
+    </title>
+    <summary>
+      あつまれ！福岡のスタートアップエンジニア！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;AWS Startup Tech Meetup Fukuoka&lt;/h1&gt; &lt;p&gt;AWS Startup
+      Community 主催の技術系イベントで、九州主に福岡のスタートアップのエンジニアの交流や知見の共有を目的としています。&lt;/p&gt;
+      &lt;p&gt;AWS を利用する or
+      今後利用したいスタートアップのエンジニア及びスタートアップに興味のあるエンジニアであれば役職によらず、どなたでもご参加いただけます。&lt;/p&gt; &lt;p&gt;九州スタートアップの盛り上げを他の地域でも知ってもらうために、&lt;strong&gt;現地開催とオンラインのハイブリッド&lt;/strong&gt; での開催をしていくつもりです！&lt;/p&gt; &lt;h2&gt;第一回は LT 会！&lt;/h2&gt; &lt;p&gt;今回はテーマなしの LT 会です！ &lt;strong&gt;スタートアップの開発現場にまつわる話&lt;/strong&gt; をしていただければと思います。。 ハードルを下げるために &lt;strong&gt;「持ち時間 5-15分（応相談）」「質疑応答無し（任意）」&lt;/strong&gt; となっています！！初めてLT をするという方も大歓迎です！もし話す内容について悩んでいる場合はコアメンバーまでご相談ください！&lt;/p&gt; &lt;p&gt;セッションの最初や最後に採用やプロダクトの話をしていただいても構いません！&lt;/p&gt; &lt;h3&gt;スタートアップの開発現場にまつわる？&lt;/h3&gt; &lt;p&gt;難しいことはありません。みなさんの意思決定には、会社の状況や社内のメンバーのスキルセットなど様々なコンテキストがあるかと思います。それらについて触れて頂ければ問題ありません。&lt;/p&gt; &lt;h2&gt;Agenda（時間にはQA時間含む）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Timeline&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Title&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Speaker (敬称略)&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;質疑応答&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00-19:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;本イベントについて・会場について&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;運営&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ー&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10-19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;スタートアップと技術選定と AWS&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;はまーん / AWS&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30-19:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;YAMAPのインフラ構成、9年間の軌跡〜サービス立ち上げ期から現在まで〜&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;樋口 浩平 / YAMAP&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:45-20:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;ヌーラボの開発現場とそれを支える取り組み - AWS Fault Injection Simulatorを活用した障害訓練入門 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;二橋 宣友 / ヌーラボ&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:00-20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;ー&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ー&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:10-20:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;スタートアップにやさしいAWS(仮)&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;野田健夫 / エクスチェンジソリューションズ&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:20-20:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トイポのインフラリプレースのお話&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;立石賢吾 / トイポ&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:30-21:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;MVPやPoCの開発現場（仮）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;甲斐あずさ / アークエルテクノロジーズ&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:45-21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;IaC化のn個のポイント&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;山下達也 / Fusic&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00-21:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;AWSのマネージドサービスを活用して作るブロックチェーンAPI&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;安土茂亨 / chaintope&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:15-21:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;浜松のコミュニティとスタートアップ&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;松井 英俊 / スタートアップテクノロジー&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;○&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:20-21:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング・お知らせ&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;運営&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;ー&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※ 時間帯は若干前後する可能性がございます。&lt;/p&gt; &lt;h2&gt;Sessions &amp;amp; Speakers&lt;/h2&gt; &lt;h3&gt;スタートアップと技術選定と AWS&lt;/h3&gt; &lt;h4&gt;はまーん / AWS &lt;a href=&quot;https://twitter.com/track3jyo&quot; rel=&quot;nofollow&quot;&gt;@track3jyo&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/978826828418527232/981413556413136896/unknown.png&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;コーラとポテチをこよなく愛する AWS の西日本担当スタートアップSA。ウグイスの鳴き声で毎日癒されています。&lt;/p&gt; &lt;h3&gt;YAMAPのインフラ構成、9年間の軌跡〜サービス立ち上げ期から現在まで〜&lt;/h3&gt; &lt;h4&gt;樋口 浩平 / YAMAP &lt;a href=&quot;https://twitter.com/higuhey&quot; rel=&quot;nofollow&quot;&gt;@higuhey&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://s3.ap-northeast-1.amazonaws.com/file.yamap.co.jp/hr/higuchi.jpg&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;2013年にYAMAPにジョインして、現在はCTOをしています。休日はPodcastを聞きながら山の中を徘徊しています。&lt;/p&gt; &lt;h3&gt;ヌーラボの開発現場とそれを支える取り組み - AWS Fault Injection Simulatorを活用した障害訓練入門 -&lt;/h3&gt; &lt;h4&gt;二橋 宣友 / ヌーラボ &lt;a href=&quot;https://twitter.com/futahashi&quot; rel=&quot;nofollow&quot;&gt;@futahashi&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://www.futahashi.com/static/images/futahashi002.png&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;ワインとウクレレをこよなく愛する 株式会社ヌーラボのAWS大好きなSRE兼お笑い担当。我が子の泣き声と笑い声で毎日癒されています。&lt;/p&gt; &lt;h3&gt;スタートアップにやさしいAWS(仮)&lt;/h3&gt; &lt;h4&gt;野田健夫 / エクスチェンジソリューションズ &lt;a href=&quot;https://twitter.com/nodatakeo&quot; rel=&quot;nofollow&quot;&gt;@nodatakeo&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AM-JKLUKv5utm1kw936-4MkrV7CjxUSCaROPv-_9RZkncLKcAgwtOWo4ZBe2ma8eufU0syeBjWKYQmbFPwa2gRyabAp5UPmQf8s1-qBToJu-epW89coXqOseEF6o5lj9Yb6d0-XlXVtRVvLl_jQ0mrqnYuEuJQ=s637-no?authuser=0&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;音楽好きなフルスタックエンジニアです。AWS環境を中心にPHP/Java/.NET/Python/Ruby/Vue/NuxtJSなど幅広くWEBアプリケーションの開発に携わっています。&lt;/p&gt; &lt;h3&gt;トイポのインフラリプレースのお話&lt;/h3&gt; &lt;h4&gt;立石賢吾 / トイポ &lt;a href=&quot;https://twitter.com/tkengo&quot; rel=&quot;nofollow&quot;&gt;@tkengo&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://scontent.ffuk2-1.fna.fbcdn.net/v/t1.6435-9/122167948_3513376465389961_1424020523632899902_n.jpg?_nc_cat=110&amp;amp;ccb=1-7&amp;amp;_nc_sid=09cbfe&amp;amp;_nc_ohc=V37V_HMOZcAAX9svxMp&amp;amp;_nc_ht=scontent.ffuk2-1.fna&amp;amp;oh=00_AT9RU0KJxmaBe4xCLTOrajbJe68NpZLU0Dy5BYEgmmgdrQ&amp;amp;oe=62D98BDB&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;1984年生まれ佐賀県出身。主にサーバーサイドや機械学習界隈に生息しています。数学好きをこじらせて数学勉強会を開いたり、機械学習の本を執筆したりしていました。数学が得意だとは言っていない。自慢は英語がしゃべれるところです！&lt;/p&gt; &lt;h3&gt;MVPやPoCの開発現場（仮）&lt;/h3&gt; &lt;h4&gt;甲斐あずさ / アークエルテクノロジーズ &lt;a href=&quot;https://twitter.com/aakel_pr&quot; rel=&quot;nofollow&quot;&gt;@aakel_pr&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://assets.st-note.com/production/uploads/images/66326704/picture_pc_bd0a456fa007485029cac5cf22b92a34.png&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;AAKEL Technologies/マネージャ &lt;br&gt; 2016年から石油精製・化学メーカー向けにAWS基盤設計・構築プロジェクトに多数参画。最近は盆栽が趣味。&lt;/p&gt; &lt;h3&gt;IaC化のn個のポイント&lt;/h3&gt; &lt;h4&gt;山下達也 / Fusic &lt;a href=&quot;https://twitter.com/tachan1414&quot; rel=&quot;nofollow&quot;&gt;@tachan1414&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1528745710996586497/TyUlBavt_400x400.jpg&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;株式会社Fusicでインフラをよく触る系エンジニアをやっています。 新卒では東京の会社で社内アプリケーションの開発等に従事し、2020年からFusicに入社してAWS関連案件をよくやっています。 2022 APN AWS Top Engineersに選出されました。&lt;/p&gt; &lt;h3&gt;AWSのマネージドサービスを活用して作るブロックチェーンAPI&lt;/h3&gt; &lt;h4&gt;安土茂亨 / chaintope &lt;a href=&quot;https://twitter.com/techmedia_think&quot; rel=&quot;nofollow&quot;&gt;@techmedia_think&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1326849590872567808/0empdBpG_400x400.jpg&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;株式会社chaintopeでエンタープライズ向けのブロックチェーンの開発を行っています。 しばらくP2Pノードやライブラリの開発を専門にやってきたので、最近AWSのリハビリ中です。&lt;/p&gt; &lt;h3&gt;浜松のコミュニティとスタートアップ&lt;/h3&gt; &lt;h4&gt;松井 英俊 / スタートアップテクノロジー &lt;a href=&quot;https://twitter.com/hide04241990&quot; rel=&quot;nofollow&quot;&gt;@hide04241990&lt;/a&gt;&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1533148480818286592/VcqgUzNZ_400x400.jpg&quot; width=&quot;300&quot;&gt;&lt;/p&gt; &lt;p&gt;株式会社スタートアップテクノロジー/テックリード&lt;br&gt; 自動車製造業や販売、建築、土木、スタートアップなどの業種での経験を経て、2017年頃からWebやクラウドの技術を使った開発業務に従事。AWS関連の記事の執筆やコロナウイルス対策のシビックテック、JAWS-UGのイベントの運営等に携わる。2021年6月より AWS Serverless Hero。&lt;/p&gt; &lt;h2&gt;ハッシュタグ&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/hashtag/AWSStartup&quot; rel=&quot;nofollow&quot;&gt;#AWSStartup&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/AWSStartupFuk&quot; rel=&quot;nofollow&quot;&gt;#AWSStartupFuk&lt;/a&gt;&lt;/p&gt; &lt;p&gt;ハッシュタグをチェックすると、発表内容に対する追加情報を得られたり、参加していない方にも現地の雰囲気が伝わります。参加者の皆さんは、是非、上記ハッシュタグを使って Twitter や Facebook などへ発信をお願いします！&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;本イベントは現地開催とオンラインのハイブリッド開催予定です。 現地参加の方は新型コロナウイルス (COVID-19) 感染対策のため、イベント参加時中は必ずマスクを着用のご協力をお願い致します。なお、発熱や咳、喉の痛みなど、風邪の症状がある場合、参加をご遠慮ください。&lt;/p&gt; &lt;p&gt;その他 COVID-19 対策につきましては自治体が定める&lt;a href=&quot;https://www.pref.fukuoka.lg.jp/contents/covid-19-cooperation-event.html&quot; rel=&quot;nofollow&quot;&gt;イベントのガイドライン&lt;/a&gt;に従います。&lt;/p&gt; &lt;p&gt;COVID-19 感染状況によって、本イベントは中止となる場合があります。 最新の情報はこちらに掲載いたしますので、参加前に必ずご確認ください。&lt;/p&gt; &lt;h2&gt;開催報告寄稿枠 について&lt;/h2&gt; &lt;p&gt;開催報告記事を &lt;a href=&quot;https://aws.amazon.com/jp/blogs/startup/&quot; rel=&quot;nofollow&quot;&gt;AWS Startup ブログ&lt;/a&gt; で公開しておりますが、こちらを寄稿していただける方を募集しております。&lt;/p&gt; &lt;p&gt;内容は個人ブログや自社ブログの転載も可能ですので、AWS のブログを活用して少しでも露出を増やしたい方の応募お待ちしております。&lt;/p&gt; &lt;p&gt;参考：&lt;a href=&quot;https://aws.amazon.com/jp/blogs/startup/event-report-tech-meetup-online-3/&quot; rel=&quot;nofollow&quot;&gt;【開催報告】AWS Startup Tech Meetup Online #3&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;イベントのスピーカーの公募&lt;/h2&gt; &lt;p&gt;AWS Startup Community ではイベントで話して頂ける方を通年で募集しています。 応募は &lt;a href=&quot;https://forms.gle/2APDmwLK9wb4bwjx9&quot; rel=&quot;nofollow&quot;&gt;こちらのフォーム&lt;/a&gt; よりお願い致します！！&lt;/p&gt; &lt;h2&gt;コミュニティへの参加&lt;/h2&gt; &lt;p&gt;AWS Startup Community ではコミュニティスペースとして &lt;a href=&quot;https://discord.com/invite/MzSKmvCKeY&quot; rel=&quot;nofollow&quot;&gt;Discord&lt;/a&gt; を利用しています。 Meetup だけでなくコチラにもご参加頂ければと思います。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://aws-startup-community.connpass.com/event/249802/'/>
+    <published>
+      2022-10-09T22:58:09+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://engineeringskype.connpass.com/event/262831/
@@ -452,53 +491,6 @@
     <link rel='alternate' type='text/html' href='https://c-sagyoba-benkyoukai.connpass.com/event/261467/'/>
     <published>
       2022-10-07T11:15:54+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://redmine-patch.connpass.com/event/262642/
-    </id>
-    <title>
-      Redmineパッチ会オンライン #26
-    </title>
-    <summary>
-      Redmine本体を改善していく会
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;Redmine本体の改善をできる人を増やし、Redmineパッチ会を継続的に行っていけることを目的として、2020年7月から基本毎月オンライン開催していきます。&lt;/p&gt; &lt;h4&gt;参加要件&lt;/h4&gt; &lt;p&gt;Redmineの改善に興味ある方であればどなたでも。&lt;br&gt; 参加者はみんながみんな必ずしもRuby・Railsに精通しているわけではなく、それぞれのできる範囲で少しずつ成長を重ねながらRedmineの改善に取り組んでいます。たとえば、プログラミングせずに画面の文言変更でもパッチは送れます。 他にも、一緒に仕様を考えて、本家にチケットを作成するだけでもやれることはあります。（Ruby・Railsのプログラミング経験がある方は大歓迎です）&lt;/p&gt; &lt;p&gt;初参加の場合、見学からでもお気軽にどうぞ(^^ 「見学・入門者枠」で申し込んでいただけたら運営がフォローしますのでご安心ください。&lt;/p&gt; &lt;h4&gt;イベントの基本的な流れ&lt;/h4&gt; &lt;p&gt;参加申し込みいただいた方にはパッチ会用のDiscordと情報共有のためのScrapboxのURLをお知らせします。 イベント当日までの基本的な流れは以下のとおりです。&lt;/p&gt; &lt;h5&gt;イベント前日まで&lt;/h5&gt; &lt;p&gt;「常連枠」で申し込みいただいた方は以下の準備をお願いします。&lt;/p&gt; &lt;ol&gt; &lt;li&gt;パッチ会Discordのテキストチャンネル上でイベント当日に着手するタスクを他の常連枠メンバーと相談する（グループを組むのも、1人だけでやるのもOK）&lt;/li&gt; &lt;li&gt;環境を準備しておく（環境がなくてもVSCodeのLive Shareでモブプロのように参加できます）&lt;/li&gt; &lt;/ol&gt; &lt;h5&gt;イベント当日&lt;/h5&gt; &lt;ol&gt; &lt;li&gt;パッチ会Discordのボイスチャンネルに集合する&lt;/li&gt; &lt;li&gt;運営から「見学・入門者枠」で申し込みいただいた方向けにガイダンス&lt;/li&gt; &lt;li&gt;自己紹介＆近況報告&lt;/li&gt; &lt;li&gt;タスクごとにチームに分かれて作業（＋見学・入門者へのフォロー）&lt;/li&gt; &lt;li&gt;合流してやったことの共有、ふりかえり&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;パッチ会のプロジェクトをGitHubで公開しています。&lt;br&gt; &lt;a href=&quot;https://github.com/redmine-patch-meetup/redmine-dev-mirror/projects/1&quot; rel=&quot;nofollow&quot;&gt;https://github.com/redmine-patch-meetup/redmine-dev-mirror/projects/1&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://redmine-patch.connpass.com/event/262642/'/>
-    <published>
-      2022-10-06T22:33:16+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://mito-web-engineer.connpass.com/event/262468/
-    </id>
-    <title>
-      Mito.dev #37 もくもく会
-    </title>
-    <summary>
-      茨城・水戸近郊のエンジニアが集まりもくもくする会。
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;茨城・水戸近郊のエンジニアが集まりもくもくする会です。&lt;/p&gt;
-      &lt;ul&gt; &lt;li&gt;茨城で数少ないエンジニア仲間を作りたい&lt;/li&gt;
-      &lt;li&gt;集中してコードを書きたい&lt;/li&gt; &lt;li&gt;本を読みたい&lt;/li&gt;
-      &lt;li&gt;異業種からエンジニア転職考えて勉強中&lt;/li&gt;
-      &lt;li&gt;学生だけど、働くエンジニアにあってみたい&lt;/li&gt;
-      &lt;li&gt;リモートワーカーに話を聞いてみたい&lt;/li&gt; &lt;li&gt;LTの練習がしたい&lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;などなど、気軽にご参加ください。&lt;/p&gt;
-      &lt;h2&gt;新型コロナウィルス対策について&lt;/h2&gt;
-      &lt;p&gt;新型コロナウィルス対策のため当日はマスクの着用をお願いします。&lt;br&gt;
-      また、席間隔を開けるため通常より定員を絞っています（10名 =&amp;gt; 8名）。 &lt;/p&gt;
-      &lt;h2&gt;LT・テックトークについて&lt;/h2&gt;
-      &lt;p&gt;もくもく会の中休みとして、LT希望者がいる場合はLTを開催します。もし、LT希望者がいない場合は、最近の気になったテック系ニュースや、お気に入りのツールを紹介するテックトークを開催します（&lt;a href=&quot;https://www.youtube.com/playlist?list=PLKbaztxP2P4jpdF0P5YbJNJwFabB-pksK&quot; rel=&quot;nofollow&quot;&gt;開催イメージ&lt;/a&gt;）。テックトークで資料等を準備する必要はありません。気軽にご参加ください。&lt;/p&gt; &lt;h2&gt;当日のタイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:50 - 13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;受付&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 13:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Slackにやること&amp;amp;自己紹介投稿&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:15 - 15:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT or テックトーク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:40 - 17:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;もくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:45 - 18:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;やったこと共有 &amp;amp; 締め&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;18:00 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;懇親会（希望者いれば）&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;p&gt;Mito.devのSlackワークスペースに参加 - &lt;a href=&quot;https://join.slack.com/t/mito-engineer/shared_invite/enQtNzI3OTQ5NDc5Njg3LWFiZWI4MTk3OTMxMzQxNjkyNGI2MDU1MDFmNmJmYWQ3ZjM1ZTYwYjI4YTQ3OTM0NDE3Zjc0OWE5Mjc4ZTE5Yzg&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;からご参加ください&lt;/p&gt; &lt;p&gt;当日のご連絡はSlackで行います。&lt;/p&gt; &lt;h2&gt;ご用意いただくもの&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;会場費（レンタルスペース利用料 参加人数で割るので前後します）&lt;/li&gt; &lt;li&gt;PC&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;懇親会&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;もくもく会終了後、近くの居酒屋で希望者で懇親会を予定しています。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;p&gt;会場に駐車場がありません。 お車でご来場の方は近くの有料駐車場に駐車してください。&lt;br&gt; ・パラカ水戸南町第2 終日最大500円&lt;br&gt; ・パラカ水戸南町第2 終日最大600円 &lt;br&gt; ・リパーク水戸南町3丁目第2 終日最大600円&lt;br&gt; ・タイムズ水戸泉町 終日最大600円 &lt;/p&gt; &lt;p&gt;何かご質問などあれば、 主催者(&lt;a href=&quot;https://twitter.com/KawamataRyo&quot; rel=&quot;nofollow&quot;&gt;@KawamataRyo&lt;/a&gt; &lt;a href=&quot;http://twitter.com/b7472&quot; rel=&quot;nofollow&quot;&gt;@b7472&lt;/a&gt;)までお気軽にお問い合わせください。&lt;/p&gt; &lt;h2&gt;イベントの様子&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://mito-web-engineer.connpass.com/event/188079/&quot; rel=&quot;nofollow&quot;&gt;https://mito-web-engineer.connpass.com/event/188079/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;■参加された方のやったこと一覧&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;・Kotlinを完全理解していく ・Nuxt入門！〜 フロントチームとちゃんとお話できるまで 〜 ・「Wordpress × Docker × VSC」環境の相談 ・azureのMobile Appでアプリを作成する。 ・プロを目指す人のためのRuby入門を読み進める！ ・PWAアップでカメラを起動して、ISBNを読み取るアプリを作る ・LTの準備(Strapi + GraphQLでNuxt.jsからAPI通信) ・Ruby、Railsの基礎の勉強を進める（主にprogate) ・前回作ったReactチュートリアルの成果をDocker化したので、それをAWSのECSにデプロイしてみる。 ・React + TypescriptでWeb製作 ・ラズパイ での電子工作 ・プレゼンスライドの準備 ・組み込み ・機械学習の勉強 ・資格勉強 ・副業 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h2&gt;主催者紹介&lt;/h2&gt; &lt;h3&gt;かわまた（@RyoKawamata）&lt;/h3&gt; &lt;p&gt;消防士から三十路間近でwebエンジニアに転職。一児の父。現在ひたちなか市からフルリモートで就業中。&lt;br&gt; Ruby, JavaScript, TypeScript, Vue.js, Firebaseが好き。&lt;br&gt; 詳しい自己紹介は&lt;a href=&quot;https://note.mu/ryo_kawamata/n/n4fc0fa900314&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;なっぱ(Shuhei Yamashita)&lt;/h3&gt; &lt;p&gt;EC特化でエンジニアを続けてきた32歳。茨城県水戸市でフルリモートのSREをやっている。 最近のブームはRust, Golang, TypeScriptあたり。趣味は料理。 茨城のエンジニア界隈を盛り上げていきましょう！！&lt;/p&gt; &lt;h2&gt;関連技術（参加者がもくもくしてた技術）&lt;/h2&gt; &lt;p&gt;JavaScript, Vue.js, React, Firebase, TypeScript, .NET, AWS, Python, Ruby, C#, ESP32, FreeRTOS, Hasura&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://mito-web-engineer.connpass.com/event/262468/'/>
-    <published>
-      2022-10-06T21:37:01+09:00
     </published>
   </entry>
 </feed>
