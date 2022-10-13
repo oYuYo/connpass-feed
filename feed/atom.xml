@@ -9,308 +9,27 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-10-12T01:22:51+00:00
+    2022-10-13T01:13:33+00:00
   </updated>
   <entry>
     <id>
-      https://mame-coffee-programing.connpass.com/event/263071/
+      https://connpass.com/event/230468/
     </id>
     <title>
-      オンラインもくもく会【コーヒー飲みながら参加しませんか？】88回目
+      Rubyとハンダ付けからはじめる、自作キーボード入門！
     </title>
     <summary>
-      オンラインでもくもく勉強しませんか？入退室自由、ビデオオフでもOK※コーヒーは必須ではありません
+      キーボードの仕組みを学び、スクリプト言語「Ruby」によるマイコン制御を体験しよう！
     </summary>
     <content type='html' xml:lang='ja'>
-      &lt;h1&gt;オンラインで一緒にもくもく勉強しませんか？&lt;/h1&gt;
-      &lt;p&gt;〜毎週日曜日のお昼からは一緒にもくもく会をしませんか？〜&lt;/p&gt;
-      &lt;p&gt;1人でやるよりもみんなでやった方が集中できるはず！
-      2020年の12月から始めたオンライン開催のもくもく会です。&lt;/p&gt;
-      &lt;p&gt;1人だとだらけてしまう・・。でも大人数は少し気が引けるし・・。 そんな方でも安心してご参加いただけるかと思います。
-      強制的に勉強する環境を作っちゃいましょう！&lt;/p&gt;
-      &lt;p&gt;もちろん、ビデオオフでも問題ありませんし、ゆるゆるのもくもく会なのでお気軽にご参加いただけます！
-      コーヒーも自由です笑&lt;/p&gt; &lt;p&gt;参加する方も本当に様々で幅広い領域や経験の方がいらっしゃいます！&lt;/p&gt;
-      &lt;p&gt;質問も自由にしていただいて構いません。&lt;/p&gt; &lt;p&gt;完全無料かつ勧誘などもありませんのでご安心ください。
-      大学の課題をするでもよし、家計簿つけるという溜まった作業をするのもよし！ バリバリのハッカーの方も
-      Progateでつまづいている初心者の方もお気軽にご参加ください。&lt;/p&gt;
-      &lt;p&gt;入退室自由です。ご都合の良いタイミングでご参加いただければと思います。&lt;/p&gt;
-      &lt;p&gt;参加申込後、各種リンクをお知らせいたします。&lt;/p&gt;
-      &lt;p&gt;当日はGoogleMeetを利用しますのでGoogleアカウントをご用意ください。&lt;/p&gt;
-      &lt;p&gt;ではレッツもくもく〜♪&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt;
-      &lt;p&gt;１．「このイベントに申し込む」ボタンから参加申込&lt;br&gt; ２．このイベントページに戻る&lt;br&gt;
-      ３．「参加者への情報」欄からGoogle MeetとSlackのリンクをクリック&lt;/p&gt;
-      &lt;p&gt;※ご注意※&lt;br&gt; Google・Slackのアカウント名を事前にご確認ください。&lt;br&gt;
-      特に本名を公開したくない方は、名前変更、もしくは新規アカウントを作成いただくことをお勧めいたします。&lt;/p&gt;
-      &lt;h2&gt;当日の大まかなスケジュール&lt;/h2&gt; &lt;p&gt;13:00
-      自己紹介・今日やることの共有(Slackにて)&lt;br&gt; 13:10 開始挨拶〜もくもくタイム前半戦&lt;br&gt; 15:30
-      雑談タイム&lt;br&gt; 16:00 もくもくタイム後半戦&lt;br&gt; 17:30 報告会・雑談&lt;br&gt; 18:00
-      自由退出・おしゃべりタイム（オンライン飲み会に近い？？）&lt;/p&gt; &lt;h2&gt;もくもく会参考キーワード&lt;/h2&gt;
-      &lt;p&gt;JavaScript(React.js, Vue.js) html, css, scss, Bootstrap
-      Java(Spring), Kotlin Swift, C#, Unity, C++ Ruby(Ruby on Rails) PHP
-      (Laravel)WordPress Python(Django) もくもく会 オンライン まったり 初心者歓迎&lt;/p&gt;
+      &lt;h1&gt;&lt;strong&gt;💎Rubyではじめる自作キーボード&lt;/strong&gt;&lt;/h1&gt;
+      &lt;p&gt;しまねソフト研究開発センターでは、IoTシステム開発に必要なマイコンや組込みプログラミングを基礎から学ぶ機会として、「&lt;a
+      href=&quot;https://github.com/picoruby/picoruby&quot;
+      rel=&quot;nofollow&quot;&gt;PicoRuby&lt;/a&gt;」を使ったキーボードファームウェアの仕組みである「&lt;a href=&quot;https://github.com/picoruby/prk_firmware&quot; rel=&quot;nofollow&quot;&gt;PRK Firmware&lt;/a&gt;」を用いて、自作キーボードの製作を通じてRubyによるハードウェア制御を学ぶハンズオンを開催します！&lt;br&gt;&lt;/p&gt; &lt;p&gt;ハンズオンでは、自作キーボード入門キット「PicoRuby MacroPad（設計: @eswai 氏）」の組み立て、「PicoRuby」と「PRK Firmware」を用いたマイコンによるハードウェア制御を学ぶとともに、Rubyによるマイコンプログラミングを体感します！ &lt;br&gt; 今回のカリキュラムには、マイコンのハンダ付けから組み立て、「PRK Firmware」の書き込み・ビルドに至るまで、キーボードの仕組みを「知る」「学ぶ」機会となっています。 さらに「PicoRuby」で独自のキーマップを作成するなど、Rubyスクリプトで自作キーボードのカスタマイズを行います。&lt;br&gt;&lt;/p&gt; &lt;p&gt;なお、今回は会場にて、講師からハンズオン形式で学ぶ講座となります。&lt;br&gt; プログラミング初心者の方、ハンダ付けの経験が無い方でも、この機会に是非ともご参加ください！&lt;br&gt;&lt;/p&gt; &lt;p&gt;※「&lt;a href=&quot;https://github.com/picoruby/picoruby&quot; rel=&quot;nofollow&quot;&gt;PicoRuby&lt;/a&gt;」は、ワンチップマイコン向けRubyインタプリタ実装です。&lt;br&gt; ※「&lt;a href=&quot;https://github.com/picoruby/prk_firmware&quot; rel=&quot;nofollow&quot;&gt;PRK Firmware&lt;/a&gt;」は、PicoRubyによるキーボードファームウェアです。&lt;br&gt;&lt;/p&gt; &lt;div align=&quot;center&quot;&gt; &lt;img alt=&quot;PicoRuby&quot; src=&quot;https://www.s-itoc.jp/images/original/2021110822135577285f6ac6d.png&quot; width=&quot;45%&quot;&gt; &lt;img alt=&quot;PicoRuby&quot; src=&quot;https://www.s-itoc.jp/images/original/202111082214354978c0511bb.png&quot; width=&quot;45%&quot;&gt; &lt;/div&gt; &lt;p&gt;※本ハンズオンでは、LED（発光ダイオード）の実装は行いません。 &lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;👤 参加対象&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;「&lt;strong&gt;島根県内のIT企業にお勤めの方&lt;/strong&gt;」または「&lt;strong&gt;島根県内にお住まいの方&lt;/strong&gt;」&lt;br&gt;&lt;/p&gt; &lt;h2&gt;想定スキル&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;プログラミングのご経験がある方（開発言語は問いません！）&lt;/li&gt; &lt;li&gt;ハンダ付けのご経験がない方（未経験者も大歓迎！）&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;こんな方にオススメ！&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyを使った組込みプログラミングに興味がある方&lt;/li&gt; &lt;li&gt;マイコンを使用したハードウェア制御に興味関心のある方&lt;/li&gt; &lt;li&gt;IoT機器の製品開発に興味関心のある方&lt;/li&gt; &lt;li&gt;上記3点に興味関心のあるRubyエンジニアの方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;📆 日時&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;2021年12月4日（土）13:30〜16:30［開場 13:00］&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;🗓️ カリキュラム&lt;/strong&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Rubyおよびキーボードファームウェアの基礎&lt;/li&gt; &lt;li&gt;ハードウェア構成の説明（ハードウェアの基礎知識、マイコンの説明）&lt;/li&gt; &lt;li&gt;開発環境の説明・セットアップ（ハンズオンで使用する開発環境の説明）&lt;/li&gt; &lt;li&gt;自作キーボードキットのハンダ付け、組み立て（電気回路、パーツの説明）&lt;/li&gt; &lt;li&gt;マイコンにおける入出力ピンの動作説明（GPIO等汎用ピンの動作説明）&lt;/li&gt; &lt;li&gt;ファームウェアのビルド・書き込み（PRK Firmwareの説明）&lt;/li&gt; &lt;li&gt;Rubyスクリプトによる自作キーボードの機能拡張（Rubyで独自キーマップ作成）&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※カリキュラムは、予告なく変更する場合がございます。&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;🌍 会場&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://www.s-itoc.jp/about_us/2&quot; rel=&quot;nofollow&quot;&gt;しまねソフト研究開発センター&lt;/a&gt;（島根県松江市学園南1-2-1 くにびきメッセ4F）&lt;br&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;新型コロナウィルス感染拡大状況によって、オンライン開催に変更する場合がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;オンライン開催となった場合、参加申込をいただいた方へ、予め参加方法をお知らせいたします。&lt;br&gt;&lt;/li&gt; &lt;li&gt;オンライン開催となった場合、カリキュラムの変更を行う場合がございます。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;🎤 講師&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;&lt;img alt=&quot;画像&quot; src=&quot;https://avatars.githubusercontent.com/u/8454208?v=4&quot; width=&quot;150&quot;&gt;&lt;br&gt; &lt;a href=&quot;https://www.monstar-lab.com/&quot; rel=&quot;nofollow&quot;&gt;株式会社モンスターラボ 島根開発拠点&lt;/a&gt; &lt;br&gt; &lt;strong&gt;羽角 均&lt;/strong&gt; 氏 &lt;br&gt;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/picoruby/prk_firmware&quot; rel=&quot;nofollow&quot;&gt;PRK Firmware&lt;/a&gt;および&lt;a href=&quot;https://github.com/picoruby/picoruby&quot; rel=&quot;nofollow&quot;&gt;PicoRuby&lt;/a&gt;の作者。&lt;a href=&quot;https://github.com/mrubyc/mrubyc&quot; rel=&quot;nofollow&quot;&gt;mruby/c&lt;/a&gt;コミッター。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;💰 参加費&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;無料&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;👥 定員&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;10名（先着順）&lt;br&gt; ※定員になり次第、申込受付を締め切りとさせていただきます。予めご了承ください。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;📌 必要な事前準備について&lt;/strong&gt;&lt;/h1&gt; &lt;h2&gt;PC・必要機材&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;ノートPC&lt;/strong&gt;（Windows・macOSは問いません）をご持参ください。&lt;/li&gt; &lt;li&gt;&lt;strong&gt;ご自身のノートPCと接続可能なmicroUSB Type-Bケーブル（充電専用のケーブルではなく、データ通信ができるもの）&lt;/strong&gt;を、必ず1本ご持参ください。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;会場で準備しているもの&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;自作キーボードキット（基板・キーキャップ・キースイッチを含む）&lt;/li&gt; &lt;li&gt;マイコン（RaspberryPi Pico）&lt;/li&gt; &lt;li&gt;ドライバー&lt;/li&gt; &lt;li&gt;ニッパー&lt;/li&gt; &lt;li&gt;ハンダ付けセット（ハンダ／ハンダごて／ハンダごて台）&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;ハンダごて使用における注意事項&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;ハンズオンでは、高温のハンダごてを使用します。&lt;/li&gt; &lt;li&gt;ハンダごて使用にあたって、火傷には十分ご注意ください。&lt;/li&gt; &lt;li&gt;火傷や怪我などがあっても、当財団では責任を負いかねますこと、ご了承ください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;⌛ 申込締切&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;2021年11月30日（火）17:00まで&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;💻 個人情報の取扱について&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;個人情報については、本講座の運営に必要な情報のみ利用するもので、その他の目的には一切使用いたしません。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;⚠️ 注意事項&lt;/strong&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;開催報告のため、開催しているハンズオンの様子は「動画」および「静止画」を撮影します。&lt;/li&gt; &lt;li&gt;ご参加いただく方は、ハンズオンの「動画」および「静止画」の撮影、録音は禁止とさせていただきます。&lt;/li&gt; &lt;li&gt;ご参加いただく方には、島根県内におけるIoT技術の導入・普及・発展に向けたフォローアップを目的として、ハンズオン終了後に調査・評価アンケート等の協力のご連絡をさせていただく場合がございます。予めご了承ください。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;新型コロナウィルス感染症対策について&lt;/h2&gt; &lt;p&gt;ご参加いただく方は、以下の予防対策にご協力をお願いします。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;会場内では、常にマスクをご着用ください。&lt;/li&gt; &lt;li&gt;当日に発熱や体調不良などがある場合は、ご来場をお控えください。&lt;/li&gt; &lt;li&gt;食べ物のお持ち込みはお控えください。&lt;/li&gt; &lt;li&gt;ペットボトルなど蓋のできる飲み物はお持ち込みいただけます。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;主催&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://www.s-itoc.jp/&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://www.s-itoc.jp/theme/sn-default/images/logo.png&quot; width=&quot;300&quot;&gt; &lt;/a&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;お問い合わせ先&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;公益財団法人しまね産業振興財団 &lt;br&gt; しまねソフト研究開発センター &lt;br&gt; Phone：0852-61-2225 &lt;br&gt; Email：itoc@s-itoc.jp &lt;br&gt; 担当：渡部 &lt;br&gt;&lt;/p&gt;
     </content>
-    <link rel='alternate' type='text/html' href='https://mame-coffee-programing.connpass.com/event/263071/'/>
+    <link rel='alternate' type='text/html' href='https://connpass.com/event/230468/'/>
     <published>
-      2022-10-11T23:00:50+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://connpass.com/event/263052/
-    </id>
-    <title>
-      プログラミング&amp;もくもく会(勉強会) in 高崎オーパ ★プログラミング初心者大歓迎！★
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;こんにちは！&lt;/p&gt;
-      &lt;p&gt;群馬県ではなかなかITやプログラミング系の勉強会が少ないなと思いまして、このような勉強会を開かせていただきました！
-      HTMLやCSS・PHP・Java・Ruby・Reactなどプログラミングの勉強であれば何でもOKです！（主催者はRubyonRailsやReact・PHP辺りの勉強をするかと思います。）&lt;/p&gt; &lt;p&gt;「もくもく会」とは各自が好きな自習に必要なものを持ち込んで、それぞれが勉強していく形になります。&lt;/p&gt; &lt;p&gt;ですので、勉強会といっても何か共通の課題やテーマに沿って勉強する形ではないのでご注意ください！&lt;/p&gt; &lt;p&gt;基本自習スタイルの勉強会ですが、途中で雑談したりもOKです！この辺りは柔軟にしていければなと思っております^^&lt;/p&gt; &lt;p&gt;なかなか会社や学校以外で、一緒にプログラミングの勉強ができる人と知り合いになれる機会は少ないと思いますので、そういった出会いの場所としてもなっていければいいなと思っております。&lt;/p&gt; &lt;h3&gt;開催概要&lt;/h3&gt; &lt;p&gt;【日時】5/7(土) 10:00-12:00&lt;/p&gt; &lt;p&gt;【費用】場所代：税込550円〜（自己負担）&lt;br&gt; ＊勉強会自体は2時間を予定しておりますのでHACOの料金体系により550円となっております。 2時間以上いる場合、料金はそれ以上発生いたしますのでご注意ください。 具体的な料金体系が気になる方は下記のHACO ホームページをご覧ください。&lt;/p&gt; &lt;p&gt;【場所】HACO 高崎オーパ店&lt;/p&gt; &lt;p&gt;【場所URL】 &lt;a href=&quot;https://haco.lala.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://haco.lala.co.jp/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;【定員】3名&lt;/p&gt; &lt;h3&gt;感染症予防のご協力のお願い&lt;/h3&gt; &lt;p&gt;当日や直前に発熱や風邪などの症状（咳など）がある場合、参加を控えるようお願いします。&lt;/p&gt; &lt;p&gt;参加の際はマスクの着用をお願いします。&lt;/p&gt; &lt;h3&gt;その他&lt;/h3&gt; &lt;p&gt;・宗教の勧誘や営業活動など禁止とさせていただきます。&lt;/p&gt; &lt;p&gt;・当日ご連絡なく不参加の方、キャンセルを繰り返される方は以後参加をお断りする場合があります。&lt;/p&gt; &lt;p&gt;・周りのかたへ迷惑行為を行った場合はその場でご退室頂きます。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://connpass.com/event/263052/'/>
-    <published>
-      2022-10-11T19:52:29+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/263042/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #140 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応20人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/263042/'/>
-    <published>
-      2022-10-11T19:00:47+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://andpad.connpass.com/event/260735/
-    </id>
-    <title>
-      RubyKaigi 2022 After Talks
-    </title>
-    <summary>
-      Sansan株式会社 × クリエイティブサーベイ株式会社 × 株式会社アンドパッド
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;※オペレーションミスで本イベントの&lt;a
-      href=&quot;https://andpad.connpass.com/event/259647/&quot;
-      rel=&quot;nofollow&quot;&gt;公開済みconnpassページ&lt;/a&gt;が中止になってしまったので作り直しを行いました。&lt;br&gt; 実際のイベントは中止ではありません！中止する気はまったくありません！！驚かせてしまって、ごめんなさい！！&lt;br&gt; すでに申し込みをいただいた方、お手数をおかけし大変申し訳ありません。再度こちらのページよりお申し込みをお願い致します。&lt;/p&gt; &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt; Sansan株式会社、クリエイティブサーベイ株式会社、株式会社アンドパッドが合同で開催するエンジニア向けオンラインイベントです。 &lt;/font&gt;&lt;br&gt;&lt;/p&gt; &lt;h2&gt;【Sansan｜クリエイティブサーベイ｜アンドパッド】によるRubyKaigiスポンサー3社によるアフタートークイベント開催！！&lt;/h2&gt; &lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt; 9月8日〜9月10日に開催された RubyKaigi 2022 スポンサー企業3社からエンジニアが集まり、各社の社員によるRuby関連技術やRubyKaigi 2022に関するショートプレゼンテーションをお届けするほか、特別講演としてRubyKaigiチーフオーガナイザーである松田 明氏にもご登壇いただきます。&lt;br&gt; RubyKaigi 2022イベントを振り返るパネルディスカッションでは、RubyKaigiオフライン初参加となるSansan の Eight基盤チームリーダー 坂田 大祈氏、クリエイティブサーベイCTOの鈴木 康寛氏、アンドパッド執行役員 VPoTの古橋 一真（秒速@284km）、RubyKaigiチーフオーガナイザーの松田 明氏をパネラーに迎え、それぞれの立場で参加したRubyKaigi 2022について感想トークをお届けする予定です。 &lt;/font&gt;&lt;/p&gt; &lt;p&gt;・イベントの感想・実況は、Twitterで &lt;a href=&quot;https://twitter.com/search?q=%23rubykaigi_after_talks&amp;amp;src=typed_query&amp;amp;f=live&quot; rel=&quot;nofollow&quot;&gt;#rubykaigi_after_talks&lt;/a&gt; ハッシュタグを利用してご投稿ください。&lt;br&gt; ・登壇者への質問はSlidoを利用する予定です。&lt;/p&gt; &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Ruby関連技術に興味のある方&lt;/li&gt; &lt;li&gt;RubyKaigi 2022 の内容をキャッチアップしたい方&lt;/li&gt; &lt;li&gt;RubyKaigiに行きたかったけど行けなかった方&lt;/li&gt; &lt;li&gt;わいわい盛り上がりたい方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;詳細&lt;/h1&gt; &lt;p&gt;2022年10月12日（水）19:00開始　20:45 終了予定&lt;/p&gt; &lt;p&gt;YouTube Liveでの配信を予定しています。&lt;br&gt; イベント当日に視聴URLをお送りいたします。&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Opening&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;新卒がRubyKaigiから学んだこと&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Sansan 大久保 滉太&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;フルリモート経験しかないエンジニアがはじめてのRubyKaigiにオンサイトで参加してみた&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クリエイティブサーベイ 是枝 達也&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Toward a happy symbiosis with RuboCop&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンドパッド 髙田 雄大&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;特別講演「RubyKaigi 2022をふりかえって」&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンドパッド 技術顧問 松田 明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;パネルディスカッション(30min)&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンドパッド HRBP 米山 諒&lt;br&gt;Sansan 坂田 大祈&lt;br&gt;クリエイティブサーベイCTO 鈴木 康寛&lt;br&gt;アンドパッド VPoT 古橋 一真（秒速@284km）&lt;br&gt;アンドパッド 技術顧問 松田 明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Closing&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;登壇者＆モデレーター&lt;/h1&gt; &lt;h2&gt;ショートプレゼンテーション&lt;/h2&gt; &lt;h3&gt;大久保 滉太 &lt;a href=&quot;https://twitter.com/kotaohkubo&quot; rel=&quot;nofollow&quot;&gt;@kotaohkubo&lt;/a&gt;&lt;br&gt;Sansan株式会社 / Eight Engineering Unit Product Devグループ&lt;/h3&gt; &lt;p&gt;2022年にSansanに新卒入社。大学時代でのプログラミングスクールの営業インターンをきっかけに、長期インターンとしてエンジニアのキャリアをスタート。APIやWebサイトの開発をRubyやJava, JSを用いて2.5年ほど経験後、正社員として「キャリアプロフィール Eight」のダイレクト採用プラットフォーム「Eight Career Design」事業のバックエンドエンジニアとして推進に従事している。&lt;/p&gt; &lt;h4&gt;登壇タイトル：新卒がRubyKaigiから学んだこと&lt;/h4&gt; &lt;p&gt;Sansanのバックエンドエンジニアとして入社し、普段Rubyを使って開発しています。 Ruby committerの方との交流やRubyKaigiなどのオフライン大型イベントは初めて参加するので、感じたことや学んだことをお話できればと思います。 &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h3&gt;是枝 達也&lt;br&gt;クリエイティブサーベイ株式会社 / DevOps Divison グループ&lt;/h3&gt; &lt;p&gt;名古屋大学大学院博士課程単位取得満期退学。大学院時代は生物化学の研究に取り組む。IT関係のwebベンチャーに新卒入社し、RubyとAWSを用いたSaaS開発・データ分析基盤の構築・アプリケーション監視基盤の構築に携わる。その後、クリエイティブサーベイにバックエンドエンジニアとしてジョイン。&lt;/p&gt; &lt;h4&gt;登壇タイトル：フルリモート経験しかないエンジニアがはじめてのRubyKaigiにオンサイトで参加してみた&lt;/h4&gt; &lt;p&gt;クリエイティブサーベイにバックエンドエンジニアとして入社し、神戸から東京の会社でリモートワークで働いています。今回は遠隔地勤務の良さや不便に感じていることを話します。また私自身コロナ下でエンジニアとしてのキャリアをスタートさせたため、これまでエンジニアイベントにはオンラインでしか参加できませんでした。今回RubyKaigiにオフサイトイベントとして初めて参加した感想をお話できればと思います。 &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h3&gt;髙田 雄大 &lt;a href=&quot;https://twitter.com/ydah_&quot; rel=&quot;nofollow&quot;&gt;@ydah_&lt;/a&gt;&lt;br&gt;株式会社アンドパッド / ソフトウェアエンジニア&lt;/h3&gt; &lt;p&gt;新卒で入社した大阪のシステムの受託開発会社を経て、2021年12月に株式会社アンドパッドにソフトウェアエンジニアとして入社。ANDPAD検査のバックエンドの開発を担当している。&lt;br&gt; 一児の父。クラフトビールと珈琲が好き。OSS開発に人生の大半を捧げるハッカー。そしてRubyist。&lt;br&gt; ブログ記事：&lt;a href=&quot;https://tech.andpad.co.jp/entry/2022/08/25/100000&quot; rel=&quot;nofollow&quot;&gt;Rubyでrescueしたらグローバルなオブジェクトを破壊してたよって話&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;登壇タイトル：Toward a happy symbiosis with RuboCop (仮)&lt;/h4&gt; &lt;p&gt;RubyKaigi 2022ではRuboCopの話が2セッションありますね。とても楽しみです。私はアンドパッドで横断的な取り組みとして、RuboCopの改善を進めてきました。どのようにRuboCopの環境を整えてRuboCopと共生してきたかについてお話できればと思っています。また改善活動の中で、RuboCopへContributionをするようになりました。その活動報告も少しできればと思います。 &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;特別講演&lt;/h2&gt; &lt;h3&gt;松田 明 &lt;a href=&quot;https://twitter.com/a_matsuda&quot; rel=&quot;nofollow&quot;&gt;@a_matsuda&lt;/a&gt;&lt;br&gt;株式会社アンドパッド 技術顧問&lt;/h3&gt; &lt;p&gt;RubyKaigiのチーフオーガナイザー&lt;/p&gt; &lt;h4&gt;登壇タイトル：RubyKaigi 2022をふりかえって&lt;/h4&gt; &lt;p&gt;RubyKaigi 2022を、主催者の視点でふりかえります。 &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;パネルディスカッション&lt;/h2&gt; &lt;h2&gt;モデレーター：米山 諒 &lt;a href=&quot;https://twitter.com/yulii&quot; rel=&quot;nofollow&quot;&gt;@yulii&lt;/a&gt;&lt;br&gt;株式会社アンドパッド 組織戦略部 部長&lt;/h2&gt; &lt;p&gt;早稲田大学大学院在学中、創業期のビズリーチにインターンとして参加。2011年4月、リクルートに入社し、プロデューサーとして新規事業の立ち上げ、事業運営責任者を務める。フリーランスとして複数社のスタートアップを支援後、株式会社LiBを創業し取締役CTOに。現在はアンドパッドの組織戦略部の部長として、開発本部の組織戦略にコミットしている。&lt;/p&gt; &lt;p&gt;参考記事：&lt;a href=&quot;https://www.wantedly.com/companies/andpad/post_articles/391067&quot; rel=&quot;nofollow&quot;&gt;ビズリーチ、リクルート、LiB創業CTOを経験したBIZ✕TECHのエキスパートがアンドパッドで仕掛ける「組織戦略」&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;パネラー：坂田 大祈&lt;br&gt;Sansan株式会社 Eight Engineering Unit Platform Devグループ&lt;/h3&gt; &lt;p&gt;Sansan株式会社 Eight事業部 サーバーサイドエンジニア。 高校卒業後、情報系の専門学校に進学。学生時代はコンピュータシステムや周辺技術の基礎について学びながら、大手通信教育サービスのWebサービスの開発にアルバイトとして従事。2019年に専門学校を卒業後、新卒でSansan株式会社に入社。日々Eightの価値向上のために開発を行っている。&lt;/p&gt; &lt;h3&gt;パネラー：鈴木 康寛(Suzuki Yasunori) &lt;a href=&quot;https://twitter.com/yasuzukisan&quot; rel=&quot;nofollow&quot;&gt;@yasuzukisan&lt;/a&gt;&lt;br&gt;クリエイティブサーベイ株式会社 CTO&lt;/h3&gt; &lt;p&gt;2013年 Sansan株式会社に入社。個人向け名刺アプリEightのRailsを用いたサーバーサイドのWebアプリケーション開発に従事する。&lt;br&gt; その後、Eightの基本的な機能であるつながり処理の改善やビジネスネットワークの第一歩となるフィード機能のプロトタイプ開発、構築を行い、ニュース配信機能やレコメンド機能改良等の開発を先導し、自らも実装に参画した。&lt;br&gt; その後、Eightの開発責任者、新規プロダクトのマネージャーを歴任し、2022年クリエイティブサーベイ社のCTOに就任。&lt;/p&gt; &lt;h3&gt;パネラー：古橋 一真 &lt;a href=&quot;https://twitter.com/284km&quot; rel=&quot;nofollow&quot;&gt;@284km&lt;/a&gt;&lt;br&gt;株式会社アンドパッド 執行役員 VPoT&lt;/h3&gt; &lt;p&gt;フィードフォース、Speeeを経て2020年12月アンドパッド入社。 Webでは秒速@284kmとしてRuby界隈で活動中。&lt;/p&gt; &lt;p&gt;参考記事：&lt;a href=&quot;https://engineer-lab.findy-code.io/284km-andpad&quot; rel=&quot;nofollow&quot;&gt;RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;パネラー：松田 明 &lt;a href=&quot;https://twitter.com/a_matsuda&quot; rel=&quot;nofollow&quot;&gt;@a_matsuda&lt;/a&gt;&lt;br&gt;株式会社アンドパッド 技術顧問&lt;/h3&gt; &lt;p&gt;RubyKaigiのチーフオーガナイザー&lt;/p&gt; &lt;h1&gt;日時が合わない方へ&lt;/h1&gt; &lt;p&gt;オンラインでお話ししませんか？ぜひご連絡ください。&lt;br&gt;&lt;/p&gt; &lt;h4&gt;Sansan株式会社&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://timerex.net/s/sansan_digitization/39e82561&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談エントリーDigitization部 部長&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://timerex.net/s/sansan_digitization/b379f10e&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談エントリーDigitization部 エンジニア&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://meety.net/matches?q=%2333tech&amp;amp;oeo=false&quot; rel=&quot;nofollow&quot;&gt;Meety：#33tech&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;クリエイティブサーベイ株式会社&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://meety.net/matches/SVusDVynyyEe&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談Meety_CTO&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://meety.net/matches/hYyTwRIeLJDp&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談Meety_エンジニア&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;アンドパッド&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://hrmos.co/pages/andpad/jobs/0000074/apply&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談エントリー&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/projects/177378&quot; rel=&quot;nofollow&quot;&gt;Wantedly：Railsエンジニア&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;共催企業&lt;/h1&gt; &lt;h2&gt;&lt;a href=&quot;https://jp.corp-sansan.com/&quot; rel=&quot;nofollow&quot;&gt;Sansan株式会社&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;「出会いからイノベーションを生み出す」をミッションとして掲げ、働き方を変えるDXサービスを提供しています。主なサービスとして、営業DXサービス「Sansan」やキャリアプロフィール「Eight」、インボイス管理サービス「Bill One」、クラウド契約業務サービス「Contract One」を国内外で提供しています。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://jp.corp-sansan.com/engineering/recruit/&quot; rel=&quot;nofollow&quot;&gt;採用情報&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://buildersbox.corp-sansan.com/&quot; rel=&quot;nofollow&quot;&gt;Sansan Tech Blog&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;a href=&quot;https://jp.creativesurvey.com/&quot; rel=&quot;nofollow&quot;&gt;クリエイティブサーベイ株式会社&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;当社は【ビジネスと顧客 人と人をつなぐNo.1アンケート・プラットフォームになる】ことを目指した法人向けのSaaSサービス「CREATIVE SURVEY」を提供しています。秀逸なUIやセキュリティの高さが評価され、従業員1,000名を超える大企業を中心に導入企業を拡大しており、現在導入社数は100社超。アンケートの枠を超え新しい領域にチャレンジしています。&lt;br&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://jp.creativesurvey.com/company/recruit/&quot; rel=&quot;nofollow&quot;&gt;採用ページ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;a href=&quot;https://andpad.co.jp/&quot; rel=&quot;nofollow&quot;&gt;株式会社アンドパッド&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;「ANDPAD」は現場の効率化から経営改善まで一元管理していただけるシェアNo.1※クラウド型建設プロジェクト管理サービスです。2016年のサービスリリース以来、直感的で使いやすさにこだわった開発と導入・活用への徹底したサポートで利用社数13万社を超えております。(2021年11月現在)&lt;br&gt; ※「クラウド型施工管理サービスの市場動向とベンダーシェア」（デロイト トーマツ ミック経済研究所調べ）&lt;br&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://engineer.andpad.co.jp/&quot; rel=&quot;nofollow&quot;&gt;エンジニア採用サイト&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://tech.andpad.co.jp/&quot; rel=&quot;nofollow&quot;&gt;ANDPAD Tech Blog&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;イベント内容が変更になる可能性があります。&lt;br&gt; イベントのレポートを後日公開させていただく可能性があります。&lt;br&gt; 出演者および参加者への営業活動など勧誘行為はお控えください。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://andpad.connpass.com/event/260735/'/>
-    <published>
-      2022-10-11T16:20:34+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://rakus.connpass.com/event/259685/
-    </id>
-    <title>
-      【LT残4枠！】自動化大好きエンジニアLT会 - vol.9
-    </title>
-    <summary>
-      自動化大好きエンジニア集合！自動化による開発の効率化や品質向上について語らいましょう！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;テーマは「自動化」！（ライトニングトーク：1人5分～10分程度）&lt;/h2&gt;
-      &lt;p&gt;今回のLT（ライトニングトーク）は &lt;strong&gt;自動化&lt;/strong&gt;
-      をテーマに行います！&lt;br&gt;
-      開催第9回を迎える人気LT会です！皆さまいつもご登壇＆ご視聴誠にありがとうございます🙇‍♀️&lt;/p&gt;
-      &lt;p&gt;自動化にまつわることであれば何でもOKのLT会です！&lt;br&gt;
-      自動化（オートメーション／Automation）って聞くと胸がときめくそこの貴方！ぜひご検討ください！ &lt;/p&gt;
-      &lt;p&gt;LT未経験の方も大歓迎です！&lt;br&gt;
-      LT発表希望の方は、LT発表枠より申込み登録をお願いいたします。&lt;br&gt; もちろん、視聴のご参加もお待ちしております！
-      &lt;/p&gt; &lt;p&gt;&lt;strong&gt;【発表テーマ例】 &lt;/strong&gt;&lt;/p&gt;
-      &lt;ul&gt; &lt;li&gt;コードレビュー自動化（GitHub、GitLab)&lt;/li&gt;
-      &lt;li&gt;テスト自動化（JUnit、PHPUnit、Serverspec、RSpec）&lt;/li&gt;
-      &lt;li&gt;E2Eテスト（Selenium、Puppeteer）&lt;/li&gt;
-      &lt;li&gt;サーバ構成自動化（AWS、GCP、Azure、Terraform）&lt;/li&gt;
-      &lt;li&gt;リリース自動化（Jenkins、Ansible、Chef）&lt;/li&gt;
-      &lt;li&gt;チェックリスト自動化&lt;/li&gt; &lt;li&gt;DevOps&lt;/li&gt;
-      &lt;li&gt;CI/CD（継続的インテグレーション/継続的デリバリー）&lt;/li&gt;
-      &lt;li&gt;パフォーマンス検証自動化（JMeter）&lt;/li&gt;
-      &lt;li&gt;キーワード（Java、PHP、Python、Ruby、JavaScript、TypeScript）&lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;などなど &lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;【過去の発表テーマ】&lt;/strong&gt; &lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://rakus.connpass.com/event/217909/&quot;
-      rel=&quot;nofollow&quot;&gt;自動化大好きエンジニアLT会 - vol.4&lt;/a&gt;&lt;ul&gt;
-      &lt;li&gt;Ansibleによる構築作業自動化 （インフラ観点事例の一考察）&lt;/li&gt;
-      &lt;li&gt;Cypressでサクッと始めるE2Eテスト&lt;/li&gt; &lt;li&gt;SonarCloudをGitHub
-      Actionsで自動化して品質が見えるようになった&lt;/li&gt;
-      &lt;li&gt;コーポレートエンジニアが様々な問い合わせや依頼のチケット化を自動化した話&lt;/li&gt; &lt;/ul&gt;
-      &lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://rakus.connpass.com/event/224448/&quot;
-      rel=&quot;nofollow&quot;&gt;自動化大好きエンジニアLT会 - vol.5&lt;/a&gt;&lt;ul&gt;
-      &lt;li&gt;terraform plan 結果の検証を自動化するぞ！&lt;/li&gt;
-      &lt;li&gt;CodePipelineでアプリケーションデプロイを自動化した話&lt;/li&gt;
-      &lt;li&gt;Python製BDDツールを使ってテストを自動化してみた&lt;/li&gt;
-      &lt;li&gt;AWSでCI/CDコンテナ構築を自動化した話&lt;/li&gt;
-      &lt;li&gt;Seleniumを使って野暮ったいチェックを自動化したお話&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://rakus.connpass.com/event/234230/&quot;
-      rel=&quot;nofollow&quot;&gt;自動化大好きエンジニアLT会 - vol.6&lt;/a&gt;&lt;ul&gt;
-      &lt;li&gt;仮想基盤でのVM大量生産を自動化してみた&lt;/li&gt;
-      &lt;li&gt;マルチアカウントのCloudFormation確認作業自動化 &lt;/li&gt;
-      &lt;li&gt;Rundeckの強みを活かした即時実行ジョブを考える&lt;/li&gt;
-      &lt;li&gt;このタスク、忘れないうちにNotionに登録しておいて&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://rakus.connpass.com/event/245663/&quot;
-      rel=&quot;nofollow&quot;&gt;自動化大好きエンジニアLT会 - vol.7&lt;/a&gt;&lt;ul&gt;
-      &lt;li&gt;障害対応を自動化した話&lt;/li&gt; &lt;li&gt;Terraform
-      Plan/Apply結果の自動通知&lt;/li&gt; &lt;li&gt;Ansible実行を1/3に高速化した話&lt;/li&gt;
-      &lt;li&gt;Airflowはすごいぞ！&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://rakus.connpass.com/event/255781/&quot;
-      rel=&quot;nofollow&quot;&gt;自動化大好きエンジニアLT会 - vol.8&lt;/a&gt;&lt;ul&gt;
-      &lt;li&gt;Git未経験者がGitHub Actionsでもがいた話&lt;/li&gt; &lt;li&gt;GithubActions
-      + aws-nukeで AWSアカウントのクリーンアップを自動化した話&lt;/li&gt;
-      &lt;li&gt;GoogleAppsScriptでチームの目標通知を自動化した話&lt;/li&gt; &lt;/ul&gt;
-      &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;などなど&lt;/p&gt; &lt;p&gt;&lt;strong&gt;
-      ゆるく、オープンなイベントですので、興味をもった方はどなたでもご参加下さい！ &lt;/strong&gt;&lt;/p&gt;
-      &lt;h3&gt;こんな方におすすめ&lt;/h3&gt;
-      &lt;p&gt;自動化ノウハウや開発効率化、品質向上を実現したエピソードをシェア／情報収集したいエンジニアの皆さん &lt;/p&gt;
-      &lt;h2&gt;開催概要&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日時: 2022/11/2(水)
-      19:00-21:00&lt;ul&gt; &lt;li&gt;Zoomへの入室は10分前からとなります。 &lt;/li&gt;
-      &lt;li&gt;途中参加・退室OKです。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;会場:
-      オンライン（Zoom）&lt;ul&gt;
-      &lt;li&gt;Connpassのメッセージ機能で開催前にURLを通知いたします。&lt;/li&gt; &lt;/ul&gt;
-      &lt;/li&gt; &lt;li&gt;参加費: 無料&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;※イベント参加人数が少ない場合など、中止とする場合がございますのでご了承ください。&lt;/p&gt;
-      &lt;h2&gt;募集枠&lt;/h2&gt; &lt;h3&gt;LT発表枠&lt;/h3&gt;
-      &lt;p&gt;ライトニングトークを行っていただきます。 &lt;/p&gt;
-      &lt;p&gt;申込時に仮でもいいので発表タイトルと希望の発表順をご回答ください。&lt;br&gt;
-      申込時に回答し忘れた方はConnpassイベントページのコメントにてご連絡ください。&lt;/p&gt;
-      &lt;p&gt;なお、発表順序はご相談させていただく場合があります。&lt;/p&gt; &lt;blockquote&gt;
-      &lt;h4&gt;唯一無二のLTのはじめ方&lt;/h4&gt;
-      &lt;p&gt;準備やネタの用意よりも先にまずは申し込みましょう。&lt;/p&gt;
-      &lt;p&gt;ネタではなく申し込まないと永遠に発表する機会は訪れません。最初の一歩の「えいやっ」が大事。&lt;/p&gt;
-      &lt;p&gt;参考：&lt;a
-      href=&quot;https://qiita.com/moomooya/items/45398e06f189d4a26227&quot;
-      rel=&quot;nofollow&quot;&gt;ライトニングトーク準備の参考資料まとめ&lt;/a&gt;&lt;/p&gt;
-      &lt;/blockquote&gt; &lt;h4&gt;注意事項&lt;/h4&gt; &lt;ul&gt;
-      &lt;li&gt;発表練習はありませんので、ご自身の発表時間前にはZoomへご入室をお願いします。 &lt;/li&gt;
-      &lt;li&gt;事前の資料共有は不要です。当日に向けてご準備をお願いします！&lt;/li&gt; &lt;/ul&gt;
-      &lt;h3&gt;一般参加枠&lt;/h3&gt; &lt;p&gt;賑やかしをお願いします。&lt;br&gt;
-      アウトプットしてもいいんですよ。 &lt;/p&gt; &lt;ul&gt; &lt;li&gt;Twitterでの実況&lt;/li&gt;
-      &lt;li&gt;Togetterへのツイートまとめ&lt;/li&gt;
-      &lt;li&gt;Qiitaやブログでのイベントレポート&lt;/li&gt; &lt;li&gt;その他&lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;いずれかのどれかでもいいですし、複数やっていただけると感謝で涙が流れます。&lt;/p&gt;
-      &lt;h2&gt;LTのレギュレーション&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;発表時間
-      &lt;strong&gt;5分 or 10分&lt;/strong&gt;&lt;ul&gt;
-      &lt;li&gt;お申込み時に発表時間を回答ください。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;
-      &lt;li&gt;内容が「自動化」に関連していること&lt;/li&gt;
-      &lt;li&gt;公序良俗に反する内容ではないこと&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;発表人数にもよりますが「質疑応答はチャット/Twitterにて」になるかもしれません。&lt;br&gt;
-      機器トラブルなどの場合は順序を入れ替えて対応いたします。落ち着いて対処していきましょう。 &lt;/p&gt;
-      &lt;p&gt;当日登壇できない方は、事前に動画を送付いただければ運営側で放映も可能です！&lt;br&gt; お気軽にご相談ください。
-      &lt;/p&gt; &lt;h2&gt;発表テーマ&lt;/h2&gt; &lt;table&gt; &lt;thead&gt;
-      &lt;tr&gt; &lt;th&gt;No.&lt;/th&gt; &lt;th&gt;時間目安&lt;/th&gt;
-      &lt;th&gt;発表時間&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt;
-      &lt;th&gt;タイトル&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
-      &lt;tr&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt; &lt;td&gt;司会&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;1&lt;/td&gt; &lt;td&gt;19:10&lt;/td&gt;
-      &lt;td&gt;10分&lt;/td&gt; &lt;td&gt;&lt;a
-      href=&quot;https://connpass.com/user/geoemon2k/&quot;
-      rel=&quot;nofollow&quot;&gt;ijikeman&lt;/a&gt;さん&lt;/td&gt;
-      &lt;td&gt;未定(Jenkins + Kubernetesの話を予定)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;2&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://connpass.com/user/eyasuyuki/&quot;
-      rel=&quot;nofollow&quot;&gt;eyasuyuki&lt;/a&gt;さん&lt;/td&gt;
-      &lt;td&gt;キーワード駆動っぽいテストができるツールを開発した話&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;3&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;5分&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://connpass.com/user/HiromuNakamura/&quot;
-      rel=&quot;nofollow&quot;&gt;po3rin&lt;/a&gt;さん&lt;/td&gt;
-      &lt;td&gt;Elastic Cloudにスケールインがないので自動化&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;10分&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://connpass.com/user/MihoMatsushima/&quot;
-      rel=&quot;nofollow&quot;&gt;mihoshima&lt;/a&gt;さん&lt;/td&gt;
-      &lt;td&gt;ドキュメントCICDパイプラインを作りました&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt; &lt;td&gt;20:00&lt;/td&gt; &lt;td&gt;10分&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://connpass.com/user/yuta_for/&quot;
-      rel=&quot;nofollow&quot;&gt;yuta_for&lt;/a&gt;さん&lt;/td&gt;
-      &lt;td&gt;Datadogの設定をコード管理してGitHubActionsで変更できるようにした話&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;6&lt;/td&gt; &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;10分&lt;/td&gt; &lt;td&gt;&lt;a
-      href=&quot;https://connpass.com/user/MYamashii/&quot;
-      rel=&quot;nofollow&quot;&gt;Masato Yamashita&lt;/a&gt;さん&lt;/td&gt;
-      &lt;td&gt;はてなブログ作成から投稿までをGitHub Actionsで自動化する&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td&gt;7&lt;/td&gt; &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;募集中&lt;/td&gt; &lt;td&gt;募集中&lt;/td&gt; &lt;td&gt;募集中&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;8&lt;/td&gt; &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;募集中&lt;/td&gt; &lt;td&gt;募集中&lt;/td&gt; &lt;td&gt;募集中&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;9&lt;/td&gt; &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;募集中&lt;/td&gt; &lt;td&gt;募集中&lt;/td&gt; &lt;td&gt;募集中&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10&lt;/td&gt; &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;募集中&lt;/td&gt; &lt;td&gt;募集中&lt;/td&gt; &lt;td&gt;募集中&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt; &lt;td&gt;司会&lt;/td&gt; &lt;td&gt;クロージング&lt;/td&gt;
-      &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;登壇者情報 詳細&lt;/h2&gt;
-      &lt;h3&gt;No1. &lt;a href=&quot;https://connpass.com/user/geoemon2k/&quot;
-      rel=&quot;nofollow&quot;&gt;ijikeman&lt;/a&gt;さん／株式会社ラクス&lt;/h3&gt;
-      &lt;p&gt;3DグラフィックやWEBデザインを仕事にしたくレンタルサーバ会社に入社したもののインフラエンジニアが1人だった為、仕方なくサーバエンジニアとして従事。&lt;br&gt; 以降前職も含め16年間のレンタルサーバ業界に見切りをつけ、Saas提供会社であるラクスにインフラエンジニアとして入社。&lt;br&gt; 社内の業務の大量のマニュアルオペレーションや煩雑な環境を整理し、自動化やコード化等によって業務効率化やOpsのDev化に邁進中！&lt;br&gt; 2児の父親として子育てに加え、今年からの野菜の育成にも挑戦中。 &lt;/p&gt; &lt;h3&gt;No5. &lt;a href=&quot;https://connpass.com/user/yuta_for/&quot; rel=&quot;nofollow&quot;&gt;yuta_for&lt;/a&gt;さん／株式会社キュービック&lt;/h3&gt; &lt;p&gt;新卒で独立系のSIer企業に入社、ネットワーク案件中心にインフラ業務に従事。&lt;br&gt; 5年ほど働いたがインフラエンジニアとしてよりスキルがつけられるような仕事を経験したいと考え、&lt;br&gt; ベンチャー企業に転職。&lt;br&gt; 入社してまもなく会社の財務状況が厳しいからと言われて１年未満で退職。&lt;br&gt; 再度転職活動を始めて現職に至る。&lt;br&gt; 日本語と英語のテックブログを並行して執筆中。 &lt;/p&gt; &lt;hr&gt; &lt;table style=&quot;border: solid 2px red;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;div style=&quot;font-size: 150%; font-weight: bold; color: red;&quot;&gt;注意事項&lt;/div&gt; &lt;p&gt;・当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/p&gt; &lt;p&gt;・他の参加者の方の妨げになるような行為は禁止、運営側の判断でご退出をお願いする場合があります。&lt;/p&gt; &lt;p&gt;・ブログやSNS等で当イベントに関する発信を行う際は、公序良俗に反する内容のないよう、ご協力をお願いします。&lt;/p&gt; &lt;p&gt;・当イベントはオンライン開催のため、通信状況によって音声や映像の乱れがある場合がございます。&lt;/p&gt; &lt;p&gt;・配信トラブル時のアナウンスは&lt;a href=&quot;https://twitter.com/DevRakus&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;より行います。&lt;/p&gt; &lt;p&gt;・当日のイベント風景を録画させていただいております。内容は後日レポート記事やSNS掲載又は、会員限定の動画配信される場合がありますのでご了承ください。&lt;/p&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/259685/'/>
-    <published>
-      2022-10-11T12:42:45+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://love-kotlin.connpass.com/event/262206/
-    </id>
-    <title>
-      集まれKotlin好き！Kotlin愛好会 vol.39 @オンライン
-    </title>
-    <summary>
-      みんなで楽しくオンラインでワイワイ！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
-      Live)で開催いたします。 よい機会ですので、普段参加出来ない地方の方々など幅広い参加を募集いたします！&lt;/p&gt;
-      &lt;h2&gt;イベント概要&lt;/h2&gt;
-      &lt;p&gt;Kotlin好きで集まって、飲み物片手にKotlinについて語り合い、愛でましょう！！！&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;Kotlinからプログラミングを始めた方&lt;/li&gt;
-      &lt;li&gt;Java時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（JaveScript, Ruby,
-      etc...）をやりながらKotlinを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;Kotlin全般に関するお話や、AndroidやサーバーサイドにおいてKotlinを活用するお話をする
-      &quot;Kotlin談義&quot;（絶賛登壇者募集中！資料ナシでもOK）、そしてKotlin仲間をつくる懇親会で楽しみましょう〜
-      ^^/&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt;
-      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;jollyjoester&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;masaruhr&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■主催プロフィール&lt;/h2&gt; &lt;p&gt;七島 偉之 (@jollyjoester)&lt;/p&gt; &lt;p&gt;みんなでもっとKotlinを楽しめるようなネタを探してます！ かんぱいやー（勉強会で乾杯をする人）として、乾杯の力でKotlin好きの輪を広めています。&lt;/p&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live TBD &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://love-kotlin.connpass.com/event/262206/'/>
-    <published>
-      2022-10-11T12:38:21+09:00
+      2022-10-12T20:29:29+09:00
     </published>
   </entry>
   <entry>
@@ -444,7 +163,7 @@
       href=&quot;https://connpass.com/user/bun0325/&quot;
       rel=&quot;nofollow&quot;&gt;bunta fujikawa&lt;/a&gt;さん&lt;/td&gt;
       &lt;td&gt;承認を意識したコードレビュー&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;-&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt; &lt;td&gt;21:00&lt;/td&gt; &lt;td&gt;-&lt;/td&gt;
       &lt;td&gt;司会&lt;/td&gt; &lt;td&gt;クロージング&lt;/td&gt; &lt;/tr&gt;
       &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;登壇者情報 詳細&lt;/h2&gt; &lt;h3&gt;No.1
       &lt;a href=&quot;https://connpass.com/user/shohei_shimizu/&quot;
@@ -468,81 +187,229 @@
     </content>
     <link rel='alternate' type='text/html' href='https://rakus.connpass.com/event/257623/'/>
     <published>
-      2022-10-11T11:59:33+09:00
+      2022-10-12T20:26:50+09:00
     </published>
   </entry>
   <entry>
     <id>
-      https://speee.connpass.com/event/262969/
+      https://coderdojoowari.connpass.com/event/253675/
     </id>
     <title>
-      OSS Gateミートアップ for Red Data Tools by Speee
+      第67回 CoderDojo Owari
     </title>
     <summary>
+      2022年10月開催
     </summary>
     <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;「Rubyでデータ処理できるようにするプロジェクト」&lt;a
-      href=&quot;https://red-data-tools.github.io/ja/&quot;
-      rel=&quot;nofollow&quot;&gt;Red Data Tools&lt;/a&gt;の開発をする集まりです。すでにRed
-      Data Toolsの開発に参加している人はもちろん、これからRed Data
-      Toolsの開発に参加したい（Rubyでデータ処理できるようにしたい！）人向けの集まりです。&lt;/p&gt;
-      &lt;p&gt;参加にあたって特に事前知識は必要ありません。必要であれば集まりの中で随時説明するからです。&lt;/p&gt;
-      &lt;p&gt;この集まりは「OSSの開発に参加する人を継続的に増やす取り組み」&lt;a
-      href=&quot;https://oss-gate.github.io/&quot;
-      rel=&quot;nofollow&quot;&gt;OSS Gate&lt;/a&gt;の一環です。Red Data
-      Toolsが開発するツールはすべてOSSです。&lt;/p&gt; &lt;p&gt;以下は参考URLです。&lt;/p&gt;
-      &lt;ul&gt; &lt;li&gt;Red Data Toolsについての説明：&lt;ul&gt; &lt;li&gt;&lt;a
-      href=&quot;https://slide.rabbit-shocker.org/authors/kou/data-science-rb/&quot; rel=&quot;nofollow&quot;&gt;RubyもApache Arrowでデータ処理言語の仲間入り&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://www.clear-code.com/blog/2017/5/22.html&quot; rel=&quot;nofollow&quot;&gt;↑の補足記事&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;チャット（事前にオンラインで相談できる）：&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://gitter.im/red-data-tools/ja&quot; rel=&quot;nofollow&quot;&gt;red-data-tools/ja - Gitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Twitterのハッシュタグ&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/oss_gate&quot; rel=&quot;nofollow&quot;&gt;#oss_gate&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;OSS Gateについての説明：&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://oss-gate.github.io/announce/update/2015/12/17/welcome-to-oss-gate.html&quot; rel=&quot;nofollow&quot;&gt;OSS Gateへようこそ！&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;p&gt;事前にGitHubのアカウントを取得しておいてください。 可能でしたら、&lt;a href=&quot;https://red-data-tools.github.io/ja/&quot; rel=&quot;nofollow&quot;&gt;Red Data Toolsのプロジェクトページ&lt;/a&gt;に目を通しておいて頂けると幸いです。&lt;/p&gt; &lt;h2&gt;当日持ってくるもの&lt;/h2&gt; &lt;p&gt;Red Data Toolsの開発に使えるノートパソコンを持ってきてください。「Red Data Toolsの開発に使えるノートパソコン」というのは次のようなノートパソコンです。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;バージョン管理システム（Git）をインストール済み&lt;/li&gt; &lt;li&gt;GitHubにログインできる状態になっている&lt;/li&gt; &lt;li&gt;開発に使うプログラミング言語の処理系（RubyインタプリターやC++コンパイラーなど）をインストール済み&lt;/li&gt; &lt;li&gt;開発に使うエディターをインストール済み&lt;/li&gt; &lt;li&gt;などなど&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;準備で困った・不安なことがあるという人は&lt;a href=&quot;https://gitter.im/red-data-tools/ja&quot; rel=&quot;nofollow&quot;&gt;チャット&lt;/a&gt;で相談してください。&lt;/p&gt; &lt;h2&gt;目標&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;ワークショップ中に実際にRed Data Toolsに関連するOSSの開発に参加する&lt;/li&gt; &lt;li&gt;ワークショップ後も継続してRed Data Toolsに関連するOSSの開発に参加できそうな気持ちになる&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;会場詳細&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日程：2022年10月21日(金)&lt;/li&gt; &lt;li&gt;時間：10:00~21:30&lt;/li&gt; &lt;li&gt;場所：&lt;a href=&quot;https://gitter.im/red-data-tools/ja/&quot; rel=&quot;nofollow&quot;&gt;https://gitter.im/red-data-tools/ja/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+      &lt;h1&gt;10月は16日開催&lt;/h1&gt; &lt;p&gt;施設予約の空きの関係で、10/16 開催です。&lt;/p&gt;
+      &lt;h1&gt;念のため、最終の定員は開催1週間前頃に決定します&lt;/h1&gt; &lt;ul&gt;
+      &lt;li&gt;現地のニンジャの参加人数は、感染が広がって制限が再開された時を考えて、前の週まで20名と設定します。&lt;/li&gt;
+      &lt;li&gt;緊急事態宣言が解除され、2021年11月から生涯学習センターの定員制限が撤廃されました。今月も今の状況が続けば
+      &lt;strong&gt;定員を30名まで増やします&lt;/strong&gt; 。開催1週間〜直前までに決定します。
+      &lt;strong&gt;キャンセル待ちの方はそのままお待ちください&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;PC持込・PC貸出の人数は申し込み状況に応じて変動しますので、予めご了承ください。&lt;/li&gt;
+      &lt;li&gt;定員がいっぱいでもキャンセル待ちに登録できます。&lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;メンター・サポーター急募 (メンター特典有り)&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;定員制限が無くなれば、本当は忍者の定員を40名まで増やせます。&lt;/li&gt;
+      &lt;li&gt;メンターが足らないため30名ほどが限度です。ITに詳しくなくても、パソコンを触るのにアレルギーがなかったら大丈夫です！忍者と一緒に覚えていけます。&lt;/li&gt; &lt;li&gt;メンターをしていただける保護者の方であれば、 &lt;strong&gt;満員でもニンジャを参加させられます！&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;希望者はぜひ、お問い合わせページより、お問い合わせください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.org/contact&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/contact&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;保護者の同伴1名可 (2022年10月)&lt;/h2&gt; &lt;p&gt;三密状態を防ぐため、定員を制限しています。&lt;/p&gt; &lt;p&gt;保護者の方の付添1名のみ可とすることになりました。&lt;/p&gt; &lt;p&gt;プログラミングや発表の様子をぜひ隣でみてあげてください。&lt;/p&gt; &lt;p&gt;それ以外の付添の方については、入室をご遠慮頂きます。&lt;/p&gt; &lt;p&gt;生涯学習センター内での待機もご遠慮頂く必要がございます。駐車場の車の中、外などの三密にならない場所にて待機、もしくは送迎をお願いいたします。&lt;/p&gt; &lt;p&gt;代わりに、会場の様子を Zoom や限定公開の YouTube Live にてライブ配信いたします。&lt;/p&gt; &lt;p&gt;ライブ配信は一般公開はいたしません。視聴 URL は Connpass のメールにてお送りいたします。&lt;/p&gt; &lt;h1&gt;はじめに&lt;/h1&gt; &lt;p&gt;CoderDojo Owari は、7〜17歳の子どもを対象にした非営利のプログラミング道場です。CoderDojo の活動は2011年にアイルランドで始まり、世界では112カ国・2,200の道場、日本では全国に208以上の道場があります (2022年6月時点)。&lt;/p&gt; &lt;p&gt;子どもにより良い環境で、自発的に、なおかつ無料でプログラミングに触れる機会を提供するために始まりました。&lt;/p&gt; &lt;p&gt;活動の詳細は CoderDojo Owari ウェブサイトよりご覧いただけます。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://CoderDojoOwari.org&quot; rel=&quot;nofollow&quot;&gt;https://CoderDojoOwari.org&lt;/a&gt;&lt;/p&gt; &lt;p&gt;※全国の CoderDojo も CoderDojo Foundation とは独立した任意団体ボランティアグループより運営されています。&lt;/p&gt; &lt;p&gt;Some Champions of CoderDojo Owari are fluent in English. English speaking Ninjas Mentors and Supporters are also welcome to this Dojo. We provide scratch programming. Please come along! &lt;a href=&quot;https://coderdojoowari.org/en&quot; rel=&quot;nofollow&quot;&gt;Contact us&lt;/a&gt; if you have some question.&lt;/p&gt; &lt;h2&gt;小学生 (しょうがくせい) は保護者 (ほごしゃ) が申し込んでください&lt;/h2&gt; &lt;p&gt;小学生の方は、保護者 (ほごしゃ) による申し込みをお願いします。定員がいっぱいでもキャンセル待ちに登録できます。&lt;/p&gt; &lt;h2&gt;Scratch アカウント作成のおすすめ&lt;/h2&gt; &lt;p&gt;Scratch では、オンラインアカウントを作成すると自分で作った作品をネット上に保存することができます。&lt;/p&gt; &lt;p&gt;もしよろしければ、以下の動画を参考に当日までにアカウントを作成しておいてください。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.org/news/make-scratch-account/&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/news/make-scratch-account/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;新型コロナウイルス感染症対策：岩倉市生涯学習センター、現地での参加に関して&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;当道場が&lt;a href=&quot;https://coderdojoowari.org/news/coronavirus-rules/&quot; rel=&quot;nofollow&quot;&gt;定めた新型コロナウイルス感染症対策のルールに基づき&lt;/a&gt;、直前においても現地開催をキャンセルしてオンライン開催になる場合があります。&lt;/li&gt; &lt;li&gt;開催時間2時間前に開催可否の連絡を Connpass を通じてメールで連絡します。&lt;/li&gt; &lt;li&gt;現地開催では、ニンジャ・メンター全員が非接触体温計による検温、体調チェックを行います、37.5℃以上の方、ご自身や濃厚接触者で家族に体調が悪い方がいらっしゃれば、現地参加をお断りし、オンライン参加をお願いします。&lt;/li&gt; &lt;li&gt;岩倉市内で学校閉鎖がなく、岩倉市生涯学習センターが開館していれば、開催予定です。&lt;/li&gt; &lt;li&gt;熱中症対策として水筒など飲み物を忘れないでください&lt;/li&gt; &lt;li&gt;感染症予防対策を徹底し、当日の会場レイアウトは、ニンジャの間隔を十分に空けて行う予定です。&lt;/li&gt; &lt;li&gt;開催時に感染者・濃厚接触者が出た場合、参加者リストと連絡先を、保護者の方の許可を得て、生涯学習センター・岩倉市・保健所などの各機関に提出する場合があります。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;オンラインハイブリット開催&lt;/h2&gt; &lt;p&gt;送迎ができなかったり、ご心配な方向けに、オンライン参加も同時に開催します。&lt;/p&gt; &lt;p&gt;オンラインの進行は別々に行い、発表の時間だけ、現地の人とオンラインの人で一緒にできるようする予定です。&lt;/p&gt; &lt;p&gt;実験的な試みです、失敗するかもしれませんが、ぜひ、こちらの参加もご検討ください。&lt;/p&gt; &lt;h2&gt;新型コロナウイルス関連&lt;/h2&gt; &lt;p&gt;その他は当道場の方針を御覧ください。&lt;/p&gt; &lt;p&gt;新型コロナウイルスに対する方針&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.org/news/coronavirus-rules/&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/news/coronavirus-rules/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;PC 貸出 &amp;amp; 電子工作機器貸出について&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;ノートパソコンをお持ちの方は、持参していただくようお願いいたします。&lt;/li&gt; &lt;li&gt;貸出PC は2台保有しています。&lt;/li&gt; &lt;li&gt;halocode は3台保有しています。貸出希望の方は当日に教えてください。&lt;/li&gt; &lt;li&gt;micro:bit は5台保有しています。貸出希望の方は当日に教えてください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;PC貸出可能台数は、PCを所有しているメンターが参加できるかどうかに関わってくるため、開催1ヶ月前に決定いたします。&lt;/p&gt; &lt;p&gt;恐れ入りますが、PC貸出できるメンターが参加不可になった場合、 &lt;strong&gt;申し込み順が遅い方からキャンセル&lt;/strong&gt; させて頂く場合があります。予めご了承願います。&lt;/p&gt; &lt;p&gt;より多くの貸出ができるよう、当日だけでも貸していただける方、寄付していただけるスポンサーを常に募集しています。個人・法人は問いません。&lt;/p&gt; &lt;h1&gt;CoderDojo Owari で提供しているカリキュラム&lt;/h1&gt; &lt;p&gt;CoderDojo 尾張では下記のコースを実施予定です。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://code.org/&quot; rel=&quot;nofollow&quot;&gt;Hour of Code&lt;/a&gt; : 年少者向けに、ゲーム感覚でプログラミングの理解をするためのオンラインコースです。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://scratch.mit.edu/&quot; rel=&quot;nofollow&quot;&gt;Scratch&lt;/a&gt; : 学習用プログラミング言語。ゲーム、物語、アートなどの作品を作ることができます。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.makeblock.com/jp/steam-kits/halocode&quot; rel=&quot;nofollow&quot;&gt;halocode&lt;/a&gt;: Makeblock 社の学習用 WiFi 内蔵シングルボードです。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://microbit.org/ja/&quot; rel=&quot;nofollow&quot;&gt;micro:bit&lt;/a&gt;：学習用マイコンボード。いろいろなデバイスやセンサーにつなげてプログラミングをすることができます。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.viscuit.com/&quot; rel=&quot;nofollow&quot;&gt;Viscuit&lt;/a&gt;: お絵かき間隔で小学校低学年からプログラミングが楽しめる学習用ビジュアルプログラミングツール。タブレット (iPad &amp;amp; Android) でプログラミングしやすいツールです。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.hackforplay.xyz/&quot; rel=&quot;nofollow&quot;&gt;HackforPlay&lt;/a&gt;: ロールプレイングゲームを自分で改造し、ゲームを作りながらプログラミングを学べるシステムです。&lt;/li&gt; &lt;li&gt;テキストプログラミング：Python, Javascript, PHP, Ruby on Rails など&lt;/li&gt; &lt;li&gt;Webサイト制作&lt;/li&gt; &lt;li&gt;動画制作&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;概要&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;項目&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;日付&lt;/td&gt; &lt;td&gt;2022年10月16日 (日)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;時間&lt;/td&gt; &lt;td&gt;10:00〜12:00 (開場 9:45)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;費用&lt;/td&gt; &lt;td&gt;無料&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;場所&lt;/td&gt; &lt;td&gt;岩倉市生涯学習センター 研修室1・2 (&lt;a href=&quot;http://www.iwsgc.or.jp/&quot; rel=&quot;nofollow&quot;&gt;Webサイト&lt;/a&gt;]&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;住所&lt;/td&gt; &lt;td&gt;〒482-0043 愛知県岩倉市本町神明西２０ (&lt;a href=&quot;https://goo.gl/maps/De56vxhPvQp&quot; rel=&quot;nofollow&quot;&gt;Google Map&lt;/a&gt;)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;アクセス&lt;/td&gt; &lt;td&gt;名鉄犬山線 岩倉駅 徒歩２分。 (&lt;a href=&quot;https://photos.app.goo.gl/ri3EF87LJSFMNa5UA&quot; rel=&quot;nofollow&quot;&gt;駅改札からの写真案内&lt;/a&gt;)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;駐車場&lt;/td&gt; &lt;td&gt;隣接する立体駐車場 (サクランド岩倉) の利用者は2時間まで無料。その後は30分100円（終日利用は800円）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;駐輪場&lt;/td&gt; &lt;td&gt;120円 50台（岩倉市生涯学習センター自転車駐車場 専用スペース） 利用者は入場から4時間まで無料の自転車駐車場サービス券を事務室でお渡し&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;スケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:45&lt;/td&gt; &lt;td&gt;開場 &amp;amp; 受付開始&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:00&lt;/td&gt; &lt;td&gt;スタート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:00&lt;/td&gt; &lt;td&gt;初めての学生さんはオリエンテーション。2回目以降の Ninja (生徒) さんは、プロジェクトにとりかかってもらいます&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;11:30&lt;/td&gt; &lt;td&gt;発表&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;12:00&lt;/td&gt; &lt;td&gt;終わり &amp;amp; 片付け&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;ul&gt; &lt;li&gt;保護者・お連れの方の同伴は可能ですが、集中できない場合は移動をお願いする場合がございます。&lt;/li&gt; &lt;li&gt;生涯学習センターには未就学児のお子さまが遊ぶスペースがございます&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;参加方法&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Connpass にユーザー登録をし、上記から参加登録を行ってください。&lt;/li&gt; &lt;li&gt;携帯電話・スマホでPCメールからのメール受信を拒否されている方は、メールが届きませんので解除をしてください。(「@connpass.com」「@coderdojoowari.org」の2ドメイン)&lt;/li&gt; &lt;li&gt;お子さま1人に対して1アカウントを作成して頂く必要があります。&lt;/li&gt; &lt;li&gt;CoderDojo では、生徒さんを Ninja (忍者) と呼びます。&lt;/li&gt; &lt;li&gt;Mentor (メンター) と Supporter (サポーター) の説明は下記に記載。未成年でも自分ができると思う方は、お手伝いで参加可能です。&lt;/li&gt; &lt;li&gt;&lt;strong&gt;ほごしゃ&lt;/strong&gt;： 小学生のお子さまは、保護者の方と一緒に来てください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;よくある質問&lt;/h1&gt; &lt;p&gt;ウェブサイトに「よくある質問」ページを作成しています。合わせてご覧ください。 &lt;a href=&quot;https://coderdojoowari.org/about/faq/&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/about/faq/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;申込先&lt;/h1&gt; &lt;p&gt;申込は Connpass で行っています&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.connpass.com/event/253675/&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.connpass.com/event/253675/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;必要な持物&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;無線LAN につなぐことができるノートパソコン、Chromebook などのネットワークパソコン、iPad などのタブレット&lt;ul&gt; &lt;li&gt;試験的にPC貸出を行っております。その際は必ず貸出の参加枠で申し込んでください。 (より多くの貸出ができるよう寄付や支援していただけるスポンサーを募集しています)&lt;/li&gt; &lt;li&gt;スマートホンだけでは&lt;strong&gt;参加できません&lt;/strong&gt;。iPad などのタブレットは Scratch Jr. や Viscuit で参加できます。&lt;/li&gt; &lt;li&gt;Chromebook (CloudReady) では、Scratch, micro:bit, で参加できます &lt;/li&gt; &lt;li&gt;古すぎるパソコンではうまくプログラミングできない場合があります。予めご了承ください。&lt;/li&gt; &lt;li&gt;Scratch をご利用の方はネットが使えないときなどのために&lt;a href=&quot;https://scratch.mit.edu/scratch2download/&quot; rel=&quot;nofollow&quot;&gt;オフライン版&lt;/a&gt;をダウンロードしてきてください。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;筆記用具 (えんぴつ・消しゴム・メモ用紙)&lt;/li&gt; &lt;li&gt;&lt;strong&gt;初心者・はじめての方&lt;/strong&gt;: 可能であれば &lt;a href=&quot;https://code.org/&quot; rel=&quot;nofollow&quot;&gt;Code.org&lt;/a&gt; でアカウントを作成してください&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scratch コース&lt;/strong&gt;: 可能であれば &lt;a href=&quot;https://scratch.mit.edu/&quot; rel=&quot;nofollow&quot;&gt;Scratch アカウント&lt;/a&gt; を作成してください&lt;/li&gt; &lt;li&gt;[オプション] 水筒等お飲み物か自販機で飲み物を買うお小遣い (特に夏などの暑かったり乾燥している日)&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;おことわり&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;ボランティア行事保険に加入しているため、入場時、参加者・同伴者の氏名の記入をお願いします。&lt;/li&gt; &lt;li&gt;CoderDojo 当日は、イベントの内容の写真・ビデオ撮影をさせていただきます。&lt;/li&gt; &lt;li&gt;撮影した内容は、Creative Commons ライセンスで再利用可能な状態で公開いたします&lt;/li&gt; &lt;li&gt;参加者は原則、写真撮影・ビデオ撮影 OK という認識でおります。&lt;/li&gt; &lt;li&gt;もしも写真撮影・ビデオ撮影が NG な方は申し出てください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;スポンサーや寄付のお願い&lt;/h1&gt; &lt;p&gt;CoderDojo Owari では、無料で運営するために、スポンサーや寄付を受け付けます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;個人スポンサー: (目安は 1回500円 or 年間 3000円)&lt;/li&gt; &lt;li&gt;団体・法人: 1口1万円/年&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;団体・法人スポンサーの方は、毎回の CoderDojo 開催時に、1口につき、チラシをA4サイズまで、1種類を配布することが出来ます。ただしチラシの印刷、期日までに事務局への郵送か現地への配布をお願いします。&lt;/p&gt; &lt;p&gt;寄付は、会場費、印刷代、備品代、ウェブサイトの運営費、おかし代などに使われます。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;無料で継続して開催するため&lt;/strong&gt;皆様のご協力をお願い致します。&lt;/p&gt; &lt;h1&gt;サポート会員・メンターの募集&lt;/h1&gt; &lt;p&gt;CoderDojo Owari では、運営サポーターを募集しています。&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;種類&lt;/th&gt; &lt;th&gt;やってもらいたいこと&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;メンター&lt;/td&gt; &lt;td&gt;Ninja (生徒) のサポート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;サポーター&lt;/td&gt; &lt;td&gt;受付、告知ページの作成、ブログ、写真撮影などの運営補佐&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;ul&gt; &lt;li&gt;メンターさんは Hour of Code や Scratch の基礎知識が必要です。&lt;/li&gt; &lt;li&gt;サポート会員さんは、お手伝いしてもらえることがあればなんでもお願いしたいという方です。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;CoderDojo は、全員が非営利で運営しているグループです。また、参加者・運営者の垣根をできるだけ低く、運営していきたいと思っています。&lt;/p&gt; &lt;p&gt;子どもに教えると同時に、自分への学びにもつながるやりがいのある活動です。&lt;/p&gt; &lt;p&gt;メンターのトレーニングも適宜行っていく予定です。メンターになってみたいという方のサポーターとしてのご参加も歓迎します。&lt;/p&gt; &lt;h2&gt;メンターとは&lt;/h2&gt; &lt;p&gt;Mentor (メンター)とは、英語で「指導者」という意味です。ただしメンターは、Ninja に詰め込むだけの教育をする「先生」ではありません。&lt;/p&gt; &lt;p&gt;Ninja に自発的にセッションを進めてもらえるように隣に寄り添って補佐していただきます。&lt;/p&gt; &lt;p&gt;メンターは授業の準備はほとんど必要ありません。 Hour of Code の内容や Scratch の基本的な操作方法が分かるかたであればどなたでもなることが出来ます。&lt;/p&gt; &lt;p&gt;メンター参加希望者の方で、今まで CoderDojo Owari や他の CoderDojo に一度もメンターやサポーターとして参加していない方は、&lt;strong&gt;必ず 事前に CoderDojo Owari までご連絡ください&lt;/strong&gt;、もしくは我々から連絡させていただきます。&lt;/p&gt; &lt;p&gt;今まで、一度もサポーターやメンター経験のない方は、サポーターとしての参加をお願いすることがございます。&lt;/p&gt; &lt;h2&gt;サポーターとは&lt;/h2&gt; &lt;p&gt;サポーターとは、メンターになりたいと思いお手伝いしながらメンターを目指したい人やメンターにはなるつもりはないけれど、当グループのお手伝いをしたいと思う方です。当グループでは常にサポーターも募集しています。&lt;/p&gt; &lt;p&gt;サポーター参加希望者で、今まで一度も CoderDojo に参加したことがない方は、一度お問合わせください。&lt;/p&gt; &lt;p&gt;詳しくは、お問合わせください。&lt;/p&gt; &lt;h2&gt;お問い合わせ先&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.org/contact&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/contact&lt;/a&gt;&lt;/p&gt;
     </content>
-    <link rel='alternate' type='text/html' href='https://speee.connpass.com/event/262969/'/>
+    <link rel='alternate' type='text/html' href='https://coderdojoowari.connpass.com/event/253675/'/>
     <published>
-      2022-10-11T09:36:49+09:00
+      2022-10-12T19:04:53+09:00
     </published>
   </entry>
   <entry>
     <id>
-      https://rindokurb.connpass.com/event/262968/
+      https://kauche.connpass.com/event/258899/
     </id>
     <title>
-      りんどく.rb #79
+      【MVPのアンチパターン大公開！】急成長プロダクトの絶対に避けたい3つの失敗談から学ぶMVPの作り方
     </title>
     <summary>
-      チェリー本2版 第79回
+      【Mobility Technologies x カウシェ】合同イベント
     </summary>
     <content type='html' xml:lang='ja'>
-      &lt;h2&gt;りんどく.rbとは&lt;/h2&gt; &lt;p&gt;RubyやRuby on
-      Railsに関する技術書を輪読会形式で読むコミュニティです。&lt;br&gt;
-      基本的に火・金曜日の朝8:00〜9:00に開催します。&lt;br&gt;
-      必ずしも毎回参加しなくて大丈夫ですし、途中参加・途中退室、ラジオ参加(発言はせず聞いているだけ)も大歓迎です！！&lt;/p&gt;
-      &lt;p&gt;朝の時間を有効活用して、一緒に知識と技術を深めましょう！&lt;/p&gt;
-      &lt;p&gt;▼立ち上げの経緯&lt;br&gt; &lt;a
-      href=&quot;https://fuga-ch85.hatenablog.com/entry/2021/12/14/002128&quot;
-      rel=&quot;nofollow&quot;&gt;Rubyの技術書を輪読する”りんどく.rb”を立ち上げます - No day younger
-      than today&lt;/a&gt;&lt;/p&gt; &lt;p&gt;▼りんどく.rbのご案内&lt;br&gt; &lt;a
-      href=&quot;https://speakerdeck.com/fugakkbn/introduction-to-rindokurb&quot; rel=&quot;nofollow&quot;&gt;introduction-to-rindokurb - Speaker Deck&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;参加資格&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyが好きなこと&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;以上！！&lt;br&gt; 初心者〜ベテランまで、どなたでも歓迎します。&lt;/p&gt; &lt;h2&gt;現在輪読中の書籍・章&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERuby%E5%85%A5%E9%96%80-%E6%94%B9%E8%A8%822%E7%89%88-%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98%E3%81%8B%E3%82%89%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%BB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%8A%80%E6%B3%95%E3%81%BE%E3%81%A7-Software-Design/dp/4297124378/ref=sr_1_2_sspa?crid=3QOGFENWMIHOF&amp;amp;keywords=%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEruby%E5%85%A5%E9%96%80+%E6%94%B9%E8%A8%822%E7%89%88&amp;amp;qid=1641908422&amp;amp;sprefix=%E3%83%97%E3%83%AD%E3%82%92%E3%82%81%2Caps%2C193&amp;amp;sr=8-2-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPTDg5NjhTM1U5UlUmZW5jcnlwdGVkSWQ9QTA3NTY0NTIzVVNaUVdLTFhURFpSJmVuY3J5cHRlZEFkSWQ9QVJRRjRQV1Q2MVJWMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&quot; rel=&quot;nofollow&quot;&gt;プロを目指す人のためのRuby入門[改訂2版] 言語仕様からテスト駆動開発・デバッグ技法まで（著：伊藤 淳一）&lt;/a&gt;&lt;/p&gt; &lt;p&gt;10 章の例題に新しいエフェクトを追加するにあたり、各自のコードを共有しながらわいわいします！ 最後には著者の伊藤淳一さんからお手本コードで解説していただく予定です。&lt;/p&gt; &lt;p&gt;※&lt;strong&gt;改訂2版&lt;/strong&gt;を輪読します。これから購入される方は&lt;strong&gt;表紙のさくらんぼが2つ&lt;/strong&gt;のものを目印にお買い求めください。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;h3&gt;8:00〜8:10 自己紹介&lt;/h3&gt; &lt;p&gt;簡単に自己紹介をしていただきます。&lt;/p&gt; &lt;h3&gt;8:10〜8:50 輪読タイム&lt;/h3&gt; &lt;p&gt;節単位でランダムに1人指名して、音読します。&lt;br&gt; サンプルコードがあればモブプロしながら理解を深めます。&lt;br&gt; 質問や疑問は適宜してもらって大丈夫です。&lt;/p&gt; &lt;h3&gt;8:50〜9:00 ふりかえり&lt;/h3&gt; &lt;p&gt;この日学んだことや気づいたこと、感想などを書く時間です。&lt;br&gt; 書く場所は別途ご案内します。&lt;/p&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;現在、オンラインでのみ開催しております。&lt;br&gt; 会場は&lt;a href=&quot;https://discord.com/&quot; rel=&quot;nofollow&quot;&gt;Discord&lt;/a&gt;のボイスチャンネルを使用します。&lt;br&gt; &lt;a href=&quot;https://discord.gg/2FYf8jTE2T&quot; rel=&quot;nofollow&quot;&gt;りんどく.rbのDiscordサーバー&lt;/a&gt;への登録をお願いします。&lt;/p&gt; &lt;h2&gt;ツール&lt;/h2&gt; &lt;p&gt;共有ドキュメントとして、&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa&lt;/a&gt;を使用しています。&lt;br&gt; &lt;a href=&quot;https://rindokurb.esa.io/team/invitations/member-76999605482c465674cb207507de69b1&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;から参加登録をお願いします。&lt;/p&gt; &lt;h2&gt;ハッシュタグ&lt;/h2&gt; &lt;p&gt;&lt;code&gt;#りんどくrb&lt;/code&gt;&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;あまり細かいルールを作りたくないので、ご参加いただく際は&lt;strong&gt;みんなが気持ちよく参加できる&lt;/strong&gt;言動を心がけていただくようお願いいたします。&lt;/p&gt;
+      &lt;h1&gt;イベント概要&lt;/h1&gt;
+      &lt;p&gt;本イベントはNo.1*タクシーアプリ『GO』の運営をしている、株式会社Mobility
+      Technologies(MoT)と、シェア買いアプリ『カウシェ』を運営している、株式会社カウシェによる合同イベントです。&lt;/p&gt;
+      &lt;p&gt;プロダクトマネージャーは&lt;strong&gt;
+      業務の99%が困難との戦いであり、それを乗り越えた時の1%の喜びのために働いている。
+      &lt;/strong&gt;と思っています。プロダクトマネージャーにとっての喜び、プロダクトマネージャーだからこそ味わえるやりがいを、両社のプロダクトマネージャーの登壇のもと&lt;strong&gt; MVPのアンチパターン &lt;/strong&gt;をテーマに話していただきます。&lt;/p&gt; &lt;p&gt;これまでの課題や困難な戦いの数々を、どのような方法で解決してきたのか、また両者が失敗から学んだ&lt;strong&gt; アンチパターンの脱却方法 &lt;/strong&gt;など、明日から活用できるそんなハウツーが満載なイベントとなります！ ぜひお気軽にご参加ください。&lt;/p&gt; &lt;p&gt;*data.ai調べ｜タクシー配車関連アプリにおける、日本国内ダウンロード数(App Store/Google Play合算値) 調査期間：2021年7月1日~2022年6月30日&lt;/p&gt; &lt;h4&gt;コンテンツ想定&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;プロダクトのこれまでのあゆみと成長の軌跡&lt;/li&gt; &lt;li&gt;プロダクトにおけるMVPの定義&lt;/li&gt; &lt;li&gt;MVPの3つの失敗（アンチパターンとは）&lt;/li&gt; &lt;li&gt;アンチパターン脱却に向けて取り組んでいること&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;こんな方にオススメ&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;プロダクトマネージャーの方&lt;/li&gt; &lt;li&gt;EMなど、マネジメントレイヤーの方&lt;/li&gt; &lt;li&gt;開発組織や体制に興味のあるエンジニアの方&lt;/li&gt; &lt;li&gt;開発組織のマネジメントレイヤーの方&lt;/li&gt; &lt;li&gt;今後マネジメントレイヤーを目指したいエンジニアの方&lt;/li&gt; &lt;li&gt;ベンチャーの開発組織にご興味のある方&lt;/li&gt; &lt;li&gt;MoT、カウシェの事業やプロダクトに興味のある方&lt;/li&gt; &lt;/ul&gt; &lt;h5&gt;各社テックブログがございます。ぜひご覧ください。&lt;/h5&gt; &lt;p&gt;&lt;a href=&quot;https://lab.mo-t.com/blog&quot; rel=&quot;nofollow&quot;&gt;MoT：テックブログ&lt;/a&gt; &lt;br&gt; &lt;a href=&quot;https://note.com/kauche/m/meb1f972d92dc&quot; rel=&quot;nofollow&quot;&gt;カウシェ：テックブログ&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;開催日時&lt;/h1&gt; &lt;p&gt;10月12日(水) 19:00〜　オンライン開催（Youtube Live 配信）&lt;br&gt; ※視聴URLは、Connpassで参加のお申し込みをしていただきましたら、 　上部の「参加者への情報」でURLを確認してください！&lt;/p&gt; &lt;h3&gt;タイムスケジュール&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:00-19:05&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:05-19:15&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;MoTとカウシェについて&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:15-20:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;パネルディスカッション &lt;br&gt;Q&amp;amp;A&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:00-20:10&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;お知らせ＋エンディング&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※ 当日の進行次第で、タイムスケジュールは変更となる可能性がございます&lt;/p&gt; &lt;h1&gt;登壇者&lt;/h1&gt; &lt;h3&gt;株式会社Mobility Technologies 脇水誠 （Wakimizu Makoto） &lt;a href=&quot;https://twitter.com/Makoto_mkw&quot; rel=&quot;nofollow&quot;&gt;@Makoto_mkw&lt;/a&gt; &lt;br&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt; プロダクトマネジメント部 部長 &lt;/strong&gt; &lt;br&gt;&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;プログラマー・SEとして中小企業向けシステムの受託開発からキャリアをスタートし、2007年より楽天株式会社のトラベル部門にてプロデューサー兼エンジニアとして様々なプロジェクトをリード。 2015年、同部門にてプロダクトマネジメント組織の発足により立ち上げメンバーとしてジョインし、 以降はプロダクトマネージャーとしてwebサイトとスマホアプリを中心にto C向けのプロダクト開発に従事。 2019年に株式会社ディー・エヌ・エーにてタクシー配車アプリMOVのプロダクトを担当し、 2020年4月の事業統合に伴いMoTに転籍しタクシーアプリGOのプロダクトを担当。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h3&gt;株式会社Mobility Technologies 山田 慶（Yamada Kei） &lt;br&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt; プロダクトマネジメント本部 プロダクトマネジメント2グループ プロダクトマネージャー &lt;/strong&gt; &lt;br&gt;&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;IT事業会社にてWEBサービスの開発を経験した後、サービス企画や事業開発に携わる。様々なプロダクトと向き合う内、プロダクトの持つ力や奥深さに惹きつけられるように。その後、DeNAに入社し、プロダクトマネージャーとしてオートモーティブ事業に参画。ハード/ソフトウェアが複雑に絡むプロダクトに悪戦苦闘しながら、日々プロダクトの価値最大化を目指して邁進中。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h3&gt;株式会社カウシェ 近藤 優輝（Kondo Yuki）&lt;a href=&quot;https://twitter.com/konchanxxx&quot; rel=&quot;nofollow&quot;&gt;@konchanxxx&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt; PM &lt;/strong&gt; &lt;br&gt;&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;NTT DATAグループを経て2016年DeNAへ入社。各種ヘルスケアサービスの開発リード、新規サービスのローンチを牽引。 副業を経て2021年3月フルタイムとしてカウシェにジョイン。2021年9月からPdMとして方針策定、企画、開発をリード。趣味はスプラトゥーン、筋トレ、釣り。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h3&gt;株式会社カウシェ 池松 恭平（Ikematsu Kyohei）&lt;/h3&gt; &lt;p&gt;&lt;strong&gt; EM &lt;/strong&gt; &lt;br&gt;&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;東京工業大学で計算工学を専攻。2014年にDeNA入社。チラシアプリのバックエンド開発、シニア向けSNSのPerlからRubyへのシステムリプレイスプロジェクトをリード。その後、ヘルスケアサービスの開発、エンジニアリングマネージャー、クラウド移行業務などを担当。2021年よりカウシェにジョイン。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h1&gt;司会・モデレーター&lt;/h1&gt; &lt;h3&gt;株式会社Mobility Technologies　向井 毅男　&lt;a href=&quot;https://twitter.com/mt_takao&quot; rel=&quot;nofollow&quot;&gt;@mt_takao&lt;/a&gt; &lt;br&gt;&lt;/h3&gt; &lt;p&gt;ベンチャー企業に新卒入社し、営業、制作を経験。ディレクションから、プランニング、実装まで幅広く担当。Web制作に必要なスキルや経験を一通り身につけた後、株式会社ディー・エヌ・エーへ転職。ゲームの運用、新規開発、Webサービスの立ち上げなどに従事。事業統合後は、MoTにて、プロダクトマネージャー兼デザイナーとして活躍。&lt;/p&gt; &lt;h1&gt;コメンテーター&lt;/h1&gt; &lt;h3&gt;株式会社カウシェ PR 原田 七穂（Nao Harada）&lt;a href=&quot;https://twitter.com/n_t_s_x&quot; rel=&quot;nofollow&quot;&gt;＠n_t_s_x&lt;/a&gt; &lt;br&gt;&lt;/h3&gt; &lt;p&gt;大学在学中に越境メディアコマースの起ち上げに関わり、卒業後はキュレーションECサービス「Cart」のPR・マーケティング・法人営業を担当。その後、美容医療のクチコミ・予約アプリの「トリビュー」で法人営業・カスタマーサクセス（toB）を担う。2017年に独立。カウシェには2022年2月よりジョイン。&lt;/p&gt; &lt;h1&gt;主催企業&lt;/h1&gt; &lt;h2&gt;Mobility Technologies（MoT）について　&lt;a href=&quot;https://twitter.com/mot_techtalk&quot; rel=&quot;nofollow&quot;&gt;@mot_techtalk&lt;/a&gt; &lt;br&gt;&lt;/h2&gt; &lt;p&gt;Mobility Technologiesは「移動で人を幸せに。」をミッションに、日本のモビリティ産業をアップデートする様々なITサービスの提供を行っています。 &lt;br&gt; MoT コーポレートページ：&lt;a href=&quot;https://mo-t.com/&quot; rel=&quot;nofollow&quot;&gt;https://mo-t.com/&lt;/a&gt; &lt;br&gt; タクシーアプリ『GO』：&lt;a href=&quot;https://go.mo-t.com/&quot; rel=&quot;nofollow&quot;&gt;https://go.mo-t.com/&lt;/a&gt; &lt;br&gt; 法人向けサービス『GO BUSINESS』：&lt;a href=&quot;https://go.mo-t.com/business/&quot; rel=&quot;nofollow&quot;&gt;https://go.mo-t.com/business/&lt;/a&gt; &lt;br&gt; タクシーデリバリーアプリ『GO Dine』：&lt;a href=&quot;https://go-dine.jp/&quot; rel=&quot;nofollow&quot;&gt;https://go-dine.jp/&lt;/a&gt; &lt;br&gt; 交通事故削減支援サービス『DRIVE CHART』：&lt;a href=&quot;https://drive-chart.com/&quot; rel=&quot;nofollow&quot;&gt;https://drive-chart.com/&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;カウシェについて　&lt;a href=&quot;https://twitter.com/kauche_inc&quot; rel=&quot;nofollow&quot;&gt;@kauche_inc&lt;/a&gt; &lt;br&gt;&lt;/h3&gt; &lt;p&gt;カウシェは、 「世界一楽しいショッピング体験をつくる」 をビジョンに、“誰かと一緒に”を楽しむ、シェア買いアプリ「カウシェ」を運営しています。 「カウシェ」では、友人や家族、またはSNS上の誰かと一緒に購入することで、お得な価格で購入することができ、コミュニケーションを取りながらショッピングを楽しむことができます。 &lt;br&gt; カウシェ コーポレートページ：&lt;a href=&quot;https://about.kauche.com/&quot; rel=&quot;nofollow&quot;&gt;https://about.kauche.com/&lt;/a&gt; &lt;br&gt; カウシェ 採用情報：&lt;a href=&quot;https://enjoy-working.kauche.com/&quot; rel=&quot;nofollow&quot;&gt;https://enjoy-working.kauche.com/&lt;/a&gt; &lt;br&gt; Product Team 採用情報：&lt;a href=&quot;https://enjoy-working.kauche.com/product&quot; rel=&quot;nofollow&quot;&gt;https://enjoy-working.kauche.com/product&lt;/a&gt; &lt;br&gt; カウシェ エンジニア採用一覧：&lt;a href=&quot;https://hrmos.co/pages/kauche/jobs?category=1651850778703626240&quot; rel=&quot;nofollow&quot;&gt;https://hrmos.co/pages/kauche/jobs?category=1651850778703626240&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;行動規範について&lt;/h1&gt; &lt;p&gt;当イベントは、参加者と情報を共有するための場です。そのため、主催者を含む全ての参加者は行動規範に同意していただく必要があります。ご理解ご協力をお願いいたします。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;イベントの趣旨と反する行為はしないよう努めてください。&lt;/li&gt; &lt;li&gt;参加目的が不適切だと判断した場合は、主催者側で参加をキャンセルさせていただく場合があります。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;何か困ったことなどございましたら、当イベントページの「イベントへのお問い合わせ」からご連絡ください。&lt;/p&gt; &lt;h3&gt;プライバシーポリシー&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://hrmos.co/pages/1296301805240844288/treatment&quot; rel=&quot;nofollow&quot;&gt;MoT&lt;/a&gt; &lt;br&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://enjoy-working.kauche.com/events/readme&quot; rel=&quot;nofollow&quot;&gt;カウシェ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※イベントお申込み時にご提供いただいた個人情報は、イベントの運営・管理、イベントの改善又は新規企画のための分析、当社の採用活動等で利用いたします。&lt;/p&gt;
     </content>
-    <link rel='alternate' type='text/html' href='https://rindokurb.connpass.com/event/262968/'/>
+    <link rel='alternate' type='text/html' href='https://kauche.connpass.com/event/258899/'/>
     <published>
-      2022-10-11T09:25:05+09:00
+      2022-10-12T17:56:51+09:00
     </published>
   </entry>
   <entry>
     <id>
-      https://tryrubydoc.connpass.com/event/262937/
+      https://drecom.connpass.com/event/260346/
     </id>
     <title>
-      TryRubyDoc.14
+      Drecom Tech Day
     </title>
     <summary>
     </summary>
     <content type='html' xml:lang='ja'>
-      &lt;p&gt;&lt;a
-      href=&quot;https://www.ruby-lang.org/ja/documentation/&quot;
-      rel=&quot;nofollow&quot;&gt;Rubyドキュメント&lt;/a&gt;のページを読みながら初心に帰ったつもりで勉強します&lt;/p&gt; &lt;p&gt;Gatherを使っておこないます　＞　&lt;a href=&quot;https://app.gather.town/app/vWVWENYxnvzDP6zU/TryRubyDoc&quot; rel=&quot;nofollow&quot;&gt;会場&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&quot;他言語からのRuby入門&quot;を読む予定です(続き)&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.ruby-lang.org/ja/documentation/ruby-from-other-languages/&quot; rel=&quot;nofollow&quot;&gt;https://www.ruby-lang.org/ja/documentation/ruby-from-other-languages/&lt;/a&gt;&lt;/p&gt;
+      &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;当日会場はこちら！→【準備中】 &lt;br&gt;Drecom Tech
+      Dayは、株式会社ドリコムのサーバ、インフラ、SRE技術を中心とした情報共有会です。 &lt;br&gt;
+      ドリコムの最前線でサーバ、インフラ、SRE に従事するエンジニアによる発表が行われます。
+      &lt;br&gt;ドリコムやサーバ、インフラ、SRE技術に興味のある方はどなたでもご参加いただけます。&lt;/p&gt;
+      &lt;h1&gt;Drecom Tech&lt;/h1&gt; &lt;p&gt;ドリコムでは 開発や技術に関する情報発信を行っています。
+      ぜひ、テックブログや YouTube 動画を御覧ください！&lt;br&gt; Tech Inside Drecom (テックブログ): &lt;a
+      href=&quot;http://tech.drecom.co.jp/&quot;
+      rel=&quot;nofollow&quot;&gt;http://tech.drecom.co.jp/&lt;/a&gt; &lt;br&gt;
+      YouTube: &lt;a
+      href=&quot;https://www.youtube.com/channel/UCNvJ4WeZxij3QvbqpiUrYFA&quot;
+      rel=&quot;nofollow&quot;&gt;https://www.youtube.com/channel/UCNvJ4WeZxij3QvbqpiUrYFA&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;配信方法&lt;/h1&gt; &lt;p&gt;YouTube Live で行われます。 今回、配信した内容は後日アーカイブでも配信いたします。 &lt;br&gt; また、当日の Q&amp;amp;A は &lt;a href=&quot;http://sli.do&quot; rel=&quot;nofollow&quot;&gt;sli.do&lt;/a&gt; を中心に受け付けますのでぜひご利用ください。&lt;/p&gt; &lt;p&gt;当日会場はコチラです。→ &lt;a href=&quot;https://youtu.be/2GDvw1t5TzM&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/2GDvw1t5TzM&lt;/a&gt; &lt;br&gt;&lt;a href=&quot;http://sli.do&quot; rel=&quot;nofollow&quot;&gt;sli.do&lt;/a&gt; はコチラ！→ &lt;a href=&quot;https://app.sli.do/event/5M3Et88JHTap4i7NrKs61a&quot; rel=&quot;nofollow&quot;&gt;https://app.sli.do/event/5M3Et88JHTap4i7NrKs61a&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;&lt;b&gt;time&lt;/b&gt;&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;session&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;speaker &lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00~13:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:05~13:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;マネージドDBのパフォーマンス測定&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;吉岡ひろき&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:30~13:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;ドリコムに暮らすエンジニア達の生態（仮）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;安藤尚之&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:55~14:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;‐&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:00~14:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;会社紹介&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;HR&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:10~14:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;タイトル未定（plant (golang基盤) ,Elixir,GCP関連）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;橘田隼一&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:35~15:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;タイトル未定（ブロックチェーンまたはzig関連を予定）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00~15:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;コンテナで始める柔軟なAWS Lambda生活&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;佐々木誠治&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:10~15:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;サービスのインシデントを解決するには&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;平石陽介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:20~15:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;‐&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※発表順は仮です。 タイムテーブルは 13:00~15:30 の間で予告なく変更される可能性があります、ご了承ください。&lt;/p&gt; &lt;h1&gt;発表者&lt;/h1&gt; &lt;h2&gt;吉岡ひろき&lt;/h2&gt; &lt;p&gt;Web業界出身のサーバーサイドエンジニア。&lt;br&gt; 主にRailsアプリ開発のエンジニアリーダーを務めてきました。&lt;br&gt; &lt;a href=&quot;https://twitter.com/irohiroki&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/irohiroki&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;安藤尚之&lt;/h2&gt; &lt;p&gt;2020年1月 ドリコムに中途入社。&lt;br&gt; コードを書く仕事から始まり、紆余曲折を経て今はプロデューサーやってます。&lt;br&gt; 多摩美大入学から10年近く演劇に人生を捧げてきたのに突然エンジニアになってみた系エンジニア。&lt;br&gt;&lt;/p&gt; &lt;h2&gt;橘田隼一&lt;/h2&gt; &lt;p&gt;2017年ドリコム入社。プロダクトオーナー1年生。&lt;br&gt; RubyとElixir界隈に出没する錬金術師。&lt;br&gt; &lt;a href=&quot;https://twitter.com/hayabusa333&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/hayabusa333&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;Smith&lt;/h2&gt; &lt;p&gt;使い勝手の良いジェネラリストのような職務経歴。&lt;br&gt; 最近やってる仕事は DApps と関連サービス一式を作って運用すること。&lt;br&gt; &lt;a href=&quot;https://twitter.com/do_low&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/do_low&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;佐々木誠治&lt;/h2&gt; &lt;p&gt;21卒SRE AWS/Elixir/Ruby/Pythonあたりをよく触っています。&lt;br&gt; ガジェット沼。&lt;br&gt;&lt;/p&gt; &lt;h2&gt;平石陽介&lt;/h2&gt; &lt;p&gt;Infrastructure as Code大好きなSRE。&lt;br&gt; 最近はgolangプログラマーもやってます。&lt;br&gt; &lt;a href=&quot;https://twitter.com/y05_net&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/y05_net&lt;/a&gt;&lt;/p&gt;
     </content>
-    <link rel='alternate' type='text/html' href='https://tryrubydoc.connpass.com/event/262937/'/>
+    <link rel='alternate' type='text/html' href='https://drecom.connpass.com/event/260346/'/>
     <published>
-      2022-10-10T22:03:40+09:00
+      2022-10-12T12:07:03+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://steeq.connpass.com/event/260667/
+    </id>
+    <title>
+      【LT発表者募集】新潟WEBアプリケーション勉強会 Vol.2
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;【日時】10月15日（土）14:00～17:00&lt;br&gt;
+      【場所】Prototype cafe（プロトタイプカフェ）&lt;br&gt; 【住所】新潟県新潟市中央区⻄堀通⼆番町778番地
+      ⻄堀シャルム201号室&lt;br&gt; 【参加費】無料&lt;br&gt; &lt;br&gt; スティーク株式会社と合同会社Prototype
+      Cafeの共催で「WEBアプリケーション開発」についての勉強会を行います。&lt;br&gt;
+      フロントエンド、バックエンド、UI/UX、サービス設計、モバイルアプリ、ECサイト、その他「WEBアプリケーション開発」に携わっている方や、勉強中の方、学生、知識がないけど興味があるという方など、どなたでも参加大歓迎です。&lt;br&gt; 「WEBアプリケーション開発」についての情報収集や交流をしたい方は、是非お気軽にご参加ください。 &lt;br&gt; 2回目となる今回もLT発表者を募集し、LTと交流会をメインに進行していきます。 LTの内容についてはどんな内容でもOKです。 初学者の方や未経験の方も大歓迎！ &lt;br&gt; 例えば、、 &lt;br&gt;&lt;br&gt; Ruby(Ruby on Rails, Sinatra)&lt;br&gt; PHP (Laravel, CakePHP, FuelPHP), WordPress&lt;br&gt; Python(Django)&lt;br&gt; Swift, Objective-C, C#, Unity, C++&lt;br&gt; JavaScript(jQuery, AngularJS, React.js, Node.js, Vue.js)&lt;br&gt; html, css, slim, haml, scss, Bootstrap&lt;br&gt; Java(Struts, Spring Boot, Play Framework), Kotlin, Scala, Groovy&lt;br&gt; Go, Elixir&lt;br&gt; Vagrant, Docker, Git, Linux, Mac, Windows, iOS, Android&lt;br&gt; Arduino, Raspberry Pi, C&lt;br&gt; Adobe Illustrator, Adobe Photoshop, Adobe Xd&lt;br&gt; &lt;br&gt; などなど。 &lt;br&gt; 他にもディレクションやマネージメントなど言語やツールに関わること以外のことでもOKです。&lt;/p&gt; &lt;h1&gt;タイムスケジュール（未定）&lt;/h1&gt; &lt;p&gt;LT発表者のご参加、待ちしております！&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;React 状態管理 redux-saga と recoil ちょっと使ってみた (yukilab)&lt;/li&gt; &lt;li&gt;shopifyのStorefront APIを活用したアプリケーション開発 (adachi）&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;ソフトドリンク・アルコールなど持ち込みは可能ですし、飲食もOKです。 多少のお菓子やドリンクは運営で用意します。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://steeq.connpass.com/event/260667/'/>
+    <published>
+      2022-10-12T10:35:51+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mame-coffee-programing.connpass.com/event/263071/
+    </id>
+    <title>
+      オンラインもくもく会【コーヒー飲みながら参加しませんか？】88回目
+    </title>
+    <summary>
+      オンラインでもくもく勉強しませんか？入退室自由、ビデオオフでもOK※コーヒーは必須ではありません
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;オンラインで一緒にもくもく勉強しませんか？&lt;/h1&gt;
+      &lt;p&gt;〜毎週日曜日のお昼からは一緒にもくもく会をしませんか？〜&lt;/p&gt;
+      &lt;p&gt;1人でやるよりもみんなでやった方が集中できるはず！
+      2020年の12月から始めたオンライン開催のもくもく会です。&lt;/p&gt;
+      &lt;p&gt;1人だとだらけてしまう・・。でも大人数は少し気が引けるし・・。 そんな方でも安心してご参加いただけるかと思います。
+      強制的に勉強する環境を作っちゃいましょう！&lt;/p&gt;
+      &lt;p&gt;もちろん、ビデオオフでも問題ありませんし、ゆるゆるのもくもく会なのでお気軽にご参加いただけます！
+      コーヒーも自由です笑&lt;/p&gt; &lt;p&gt;参加する方も本当に様々で幅広い領域や経験の方がいらっしゃいます！&lt;/p&gt;
+      &lt;p&gt;質問も自由にしていただいて構いません。&lt;/p&gt; &lt;p&gt;完全無料かつ勧誘などもありませんのでご安心ください。
+      大学の課題をするでもよし、家計簿つけるという溜まった作業をするのもよし！ バリバリのハッカーの方も
+      Progateでつまづいている初心者の方もお気軽にご参加ください。&lt;/p&gt;
+      &lt;p&gt;入退室自由です。ご都合の良いタイミングでご参加いただければと思います。&lt;/p&gt;
+      &lt;p&gt;参加申込後、各種リンクをお知らせいたします。&lt;/p&gt;
+      &lt;p&gt;当日はGoogleMeetを利用しますのでGoogleアカウントをご用意ください。&lt;/p&gt;
+      &lt;p&gt;ではレッツもくもく〜♪&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt;
+      &lt;p&gt;１．「このイベントに申し込む」ボタンから参加申込&lt;br&gt; ２．このイベントページに戻る&lt;br&gt;
+      ３．「参加者への情報」欄からGoogle MeetとSlackのリンクをクリック&lt;/p&gt;
+      &lt;p&gt;※ご注意※&lt;br&gt; Google・Slackのアカウント名を事前にご確認ください。&lt;br&gt;
+      特に本名を公開したくない方は、名前変更、もしくは新規アカウントを作成いただくことをお勧めいたします。&lt;/p&gt;
+      &lt;h2&gt;当日の大まかなスケジュール&lt;/h2&gt; &lt;p&gt;13:00
+      自己紹介・今日やることの共有(Slackにて)&lt;br&gt; 13:10 開始挨拶〜もくもくタイム前半戦&lt;br&gt; 15:30
+      雑談タイム&lt;br&gt; 16:00 もくもくタイム後半戦&lt;br&gt; 17:30 報告会・雑談&lt;br&gt; 18:00
+      自由退出・おしゃべりタイム（オンライン飲み会に近い？？）&lt;/p&gt; &lt;h2&gt;もくもく会参考キーワード&lt;/h2&gt;
+      &lt;p&gt;JavaScript(React.js, Vue.js) html, css, scss, Bootstrap
+      Java(Spring), Kotlin Swift, C#, Unity, C++ Ruby(Ruby on Rails) PHP
+      (Laravel)WordPress Python(Django) もくもく会 オンライン まったり 初心者歓迎&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mame-coffee-programing.connpass.com/event/263071/'/>
+    <published>
+      2022-10-11T23:00:50+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://connpass.com/event/263052/
+    </id>
+    <title>
+      プログラミング&amp;もくもく会(勉強会) in 高崎オーパ ★プログラミング初心者大歓迎！★
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;こんにちは！&lt;/p&gt;
+      &lt;p&gt;群馬県ではなかなかITやプログラミング系の勉強会が少ないなと思いまして、このような勉強会を開かせていただきました！
+      HTMLやCSS・PHP・Java・Ruby・Reactなどプログラミングの勉強であれば何でもOKです！（主催者はRubyonRailsやReact・PHP辺りの勉強をするかと思います。）&lt;/p&gt; &lt;p&gt;「もくもく会」とは各自が好きな自習に必要なものを持ち込んで、それぞれが勉強していく形になります。&lt;/p&gt; &lt;p&gt;ですので、勉強会といっても何か共通の課題やテーマに沿って勉強する形ではないのでご注意ください！&lt;/p&gt; &lt;p&gt;基本自習スタイルの勉強会ですが、途中で雑談したりもOKです！この辺りは柔軟にしていければなと思っております^^&lt;/p&gt; &lt;p&gt;なかなか会社や学校以外で、一緒にプログラミングの勉強ができる人と知り合いになれる機会は少ないと思いますので、そういった出会いの場所としてもなっていければいいなと思っております。&lt;/p&gt; &lt;h3&gt;開催概要&lt;/h3&gt; &lt;p&gt;【日時】5/7(土) 10:00-12:00&lt;/p&gt; &lt;p&gt;【費用】場所代：税込550円〜（自己負担）&lt;br&gt; ＊勉強会自体は2時間を予定しておりますのでHACOの料金体系により550円となっております。 2時間以上いる場合、料金はそれ以上発生いたしますのでご注意ください。 具体的な料金体系が気になる方は下記のHACO ホームページをご覧ください。&lt;/p&gt; &lt;p&gt;【場所】HACO 高崎オーパ店&lt;/p&gt; &lt;p&gt;【場所URL】 &lt;a href=&quot;https://haco.lala.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://haco.lala.co.jp/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;【定員】3名&lt;/p&gt; &lt;h3&gt;感染症予防のご協力のお願い&lt;/h3&gt; &lt;p&gt;当日や直前に発熱や風邪などの症状（咳など）がある場合、参加を控えるようお願いします。&lt;/p&gt; &lt;p&gt;参加の際はマスクの着用をお願いします。&lt;/p&gt; &lt;h3&gt;その他&lt;/h3&gt; &lt;p&gt;・宗教の勧誘や営業活動など禁止とさせていただきます。&lt;/p&gt; &lt;p&gt;・当日ご連絡なく不参加の方、キャンセルを繰り返される方は以後参加をお断りする場合があります。&lt;/p&gt; &lt;p&gt;・周りのかたへ迷惑行為を行った場合はその場でご退室頂きます。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://connpass.com/event/263052/'/>
+    <published>
+      2022-10-11T19:52:29+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://classtech.connpass.com/event/263042/
+    </id>
+    <title>
+      毎週Ruby, Railsもくもく会 #140 オンライン 駆け出しエンジニアも歓迎！
+    </title>
+    <summary>
+      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
+      &lt;p&gt;こんにちは。&lt;/p&gt;
+      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
+      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
+      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
+      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
+      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
+      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
+      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
+      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
+      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
+      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
+      &lt;p&gt;一応20人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
+      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
+      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
+      href=&quot;https://twitter.com/DAI199&quot;
+      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
+      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
+      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
+      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/263042/'/>
+    <published>
+      2022-10-11T19:00:47+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://andpad.connpass.com/event/260735/
+    </id>
+    <title>
+      RubyKaigi 2022 After Talks
+    </title>
+    <summary>
+      Sansan株式会社 × クリエイティブサーベイ株式会社 × 株式会社アンドパッド
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;※オペレーションミスで本イベントの&lt;a
+      href=&quot;https://andpad.connpass.com/event/259647/&quot;
+      rel=&quot;nofollow&quot;&gt;公開済みconnpassページ&lt;/a&gt;が中止になってしまったので作り直しを行いました。&lt;br&gt; 実際のイベントは中止ではありません！中止する気はまったくありません！！驚かせてしまって、ごめんなさい！！&lt;br&gt; すでに申し込みをいただいた方、お手数をおかけし大変申し訳ありません。再度こちらのページよりお申し込みをお願い致します。&lt;/p&gt; &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt; Sansan株式会社、クリエイティブサーベイ株式会社、株式会社アンドパッドが合同で開催するエンジニア向けオンラインイベントです。 &lt;/font&gt;&lt;br&gt;&lt;/p&gt; &lt;h2&gt;【Sansan｜クリエイティブサーベイ｜アンドパッド】によるRubyKaigiスポンサー3社によるアフタートークイベント開催！！&lt;/h2&gt; &lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt; 9月8日〜9月10日に開催された RubyKaigi 2022 スポンサー企業3社からエンジニアが集まり、各社の社員によるRuby関連技術やRubyKaigi 2022に関するショートプレゼンテーションをお届けするほか、特別講演としてRubyKaigiチーフオーガナイザーである松田 明氏にもご登壇いただきます。&lt;br&gt; RubyKaigi 2022イベントを振り返るパネルディスカッションでは、RubyKaigiオフライン初参加となるSansan の Eight基盤チームリーダー 坂田 大祈氏、クリエイティブサーベイCTOの鈴木 康寛氏、アンドパッド執行役員 VPoTの古橋 一真（秒速@284km）、RubyKaigiチーフオーガナイザーの松田 明氏をパネラーに迎え、それぞれの立場で参加したRubyKaigi 2022について感想トークをお届けする予定です。 &lt;/font&gt;&lt;/p&gt; &lt;p&gt;・イベントの感想・実況は、Twitterで &lt;a href=&quot;https://twitter.com/search?q=%23rubykaigi_after_talks&amp;amp;src=typed_query&amp;amp;f=live&quot; rel=&quot;nofollow&quot;&gt;#rubykaigi_after_talks&lt;/a&gt; ハッシュタグを利用してご投稿ください。&lt;br&gt; ・登壇者への質問はSlidoを利用する予定です。&lt;/p&gt; &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Ruby関連技術に興味のある方&lt;/li&gt; &lt;li&gt;RubyKaigi 2022 の内容をキャッチアップしたい方&lt;/li&gt; &lt;li&gt;RubyKaigiに行きたかったけど行けなかった方&lt;/li&gt; &lt;li&gt;わいわい盛り上がりたい方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;詳細&lt;/h1&gt; &lt;p&gt;2022年10月12日（水）19:00開始　20:45 終了予定&lt;/p&gt; &lt;p&gt;YouTube Liveでの配信を予定しています。&lt;br&gt; イベント当日に視聴URLをお送りいたします。&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Opening&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;新卒がRubyKaigiから学んだこと&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Sansan 大久保 滉太&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;フルリモート経験しかないエンジニアがはじめてのRubyKaigiにオンサイトで参加してみた&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クリエイティブサーベイ 是枝 達也&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Toward a happy symbiosis with RuboCop&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンドパッド 髙田 雄大&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;特別講演「RubyKaigi 2022をふりかえって」&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンドパッド 技術顧問 松田 明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;パネルディスカッション(30min)&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンドパッド HRBP 米山 諒&lt;br&gt;Sansan 坂田 大祈&lt;br&gt;クリエイティブサーベイCTO 鈴木 康寛&lt;br&gt;アンドパッド VPoT 古橋 一真（秒速@284km）&lt;br&gt;アンドパッド 技術顧問 松田 明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Closing&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;登壇者＆モデレーター&lt;/h1&gt; &lt;h2&gt;ショートプレゼンテーション&lt;/h2&gt; &lt;h3&gt;大久保 滉太 &lt;a href=&quot;https://twitter.com/kotaohkubo&quot; rel=&quot;nofollow&quot;&gt;@kotaohkubo&lt;/a&gt;&lt;br&gt;Sansan株式会社 / Eight Engineering Unit Product Devグループ&lt;/h3&gt; &lt;p&gt;2022年にSansanに新卒入社。大学時代でのプログラミングスクールの営業インターンをきっかけに、長期インターンとしてエンジニアのキャリアをスタート。APIやWebサイトの開発をRubyやJava, JSを用いて2.5年ほど経験後、正社員として「キャリアプロフィール Eight」のダイレクト採用プラットフォーム「Eight Career Design」事業のバックエンドエンジニアとして推進に従事している。&lt;/p&gt; &lt;h4&gt;登壇タイトル：新卒がRubyKaigiから学んだこと&lt;/h4&gt; &lt;p&gt;Sansanのバックエンドエンジニアとして入社し、普段Rubyを使って開発しています。 Ruby committerの方との交流やRubyKaigiなどのオフライン大型イベントは初めて参加するので、感じたことや学んだことをお話できればと思います。 &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h3&gt;是枝 達也&lt;br&gt;クリエイティブサーベイ株式会社 / DevOps Divison グループ&lt;/h3&gt; &lt;p&gt;名古屋大学大学院博士課程単位取得満期退学。大学院時代は生物化学の研究に取り組む。IT関係のwebベンチャーに新卒入社し、RubyとAWSを用いたSaaS開発・データ分析基盤の構築・アプリケーション監視基盤の構築に携わる。その後、クリエイティブサーベイにバックエンドエンジニアとしてジョイン。&lt;/p&gt; &lt;h4&gt;登壇タイトル：フルリモート経験しかないエンジニアがはじめてのRubyKaigiにオンサイトで参加してみた&lt;/h4&gt; &lt;p&gt;クリエイティブサーベイにバックエンドエンジニアとして入社し、神戸から東京の会社でリモートワークで働いています。今回は遠隔地勤務の良さや不便に感じていることを話します。また私自身コロナ下でエンジニアとしてのキャリアをスタートさせたため、これまでエンジニアイベントにはオンラインでしか参加できませんでした。今回RubyKaigiにオフサイトイベントとして初めて参加した感想をお話できればと思います。 &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h3&gt;髙田 雄大 &lt;a href=&quot;https://twitter.com/ydah_&quot; rel=&quot;nofollow&quot;&gt;@ydah_&lt;/a&gt;&lt;br&gt;株式会社アンドパッド / ソフトウェアエンジニア&lt;/h3&gt; &lt;p&gt;新卒で入社した大阪のシステムの受託開発会社を経て、2021年12月に株式会社アンドパッドにソフトウェアエンジニアとして入社。ANDPAD検査のバックエンドの開発を担当している。&lt;br&gt; 一児の父。クラフトビールと珈琲が好き。OSS開発に人生の大半を捧げるハッカー。そしてRubyist。&lt;br&gt; ブログ記事：&lt;a href=&quot;https://tech.andpad.co.jp/entry/2022/08/25/100000&quot; rel=&quot;nofollow&quot;&gt;Rubyでrescueしたらグローバルなオブジェクトを破壊してたよって話&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;登壇タイトル：Toward a happy symbiosis with RuboCop (仮)&lt;/h4&gt; &lt;p&gt;RubyKaigi 2022ではRuboCopの話が2セッションありますね。とても楽しみです。私はアンドパッドで横断的な取り組みとして、RuboCopの改善を進めてきました。どのようにRuboCopの環境を整えてRuboCopと共生してきたかについてお話できればと思っています。また改善活動の中で、RuboCopへContributionをするようになりました。その活動報告も少しできればと思います。 &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;特別講演&lt;/h2&gt; &lt;h3&gt;松田 明 &lt;a href=&quot;https://twitter.com/a_matsuda&quot; rel=&quot;nofollow&quot;&gt;@a_matsuda&lt;/a&gt;&lt;br&gt;株式会社アンドパッド 技術顧問&lt;/h3&gt; &lt;p&gt;RubyKaigiのチーフオーガナイザー&lt;/p&gt; &lt;h4&gt;登壇タイトル：RubyKaigi 2022をふりかえって&lt;/h4&gt; &lt;p&gt;RubyKaigi 2022を、主催者の視点でふりかえります。 &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;パネルディスカッション&lt;/h2&gt; &lt;h2&gt;モデレーター：米山 諒 &lt;a href=&quot;https://twitter.com/yulii&quot; rel=&quot;nofollow&quot;&gt;@yulii&lt;/a&gt;&lt;br&gt;株式会社アンドパッド 組織戦略部 部長&lt;/h2&gt; &lt;p&gt;早稲田大学大学院在学中、創業期のビズリーチにインターンとして参加。2011年4月、リクルートに入社し、プロデューサーとして新規事業の立ち上げ、事業運営責任者を務める。フリーランスとして複数社のスタートアップを支援後、株式会社LiBを創業し取締役CTOに。現在はアンドパッドの組織戦略部の部長として、開発本部の組織戦略にコミットしている。&lt;/p&gt; &lt;p&gt;参考記事：&lt;a href=&quot;https://www.wantedly.com/companies/andpad/post_articles/391067&quot; rel=&quot;nofollow&quot;&gt;ビズリーチ、リクルート、LiB創業CTOを経験したBIZ✕TECHのエキスパートがアンドパッドで仕掛ける「組織戦略」&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;パネラー：坂田 大祈&lt;br&gt;Sansan株式会社 Eight Engineering Unit Platform Devグループ&lt;/h3&gt; &lt;p&gt;Sansan株式会社 Eight事業部 サーバーサイドエンジニア。 高校卒業後、情報系の専門学校に進学。学生時代はコンピュータシステムや周辺技術の基礎について学びながら、大手通信教育サービスのWebサービスの開発にアルバイトとして従事。2019年に専門学校を卒業後、新卒でSansan株式会社に入社。日々Eightの価値向上のために開発を行っている。&lt;/p&gt; &lt;h3&gt;パネラー：鈴木 康寛(Suzuki Yasunori) &lt;a href=&quot;https://twitter.com/yasuzukisan&quot; rel=&quot;nofollow&quot;&gt;@yasuzukisan&lt;/a&gt;&lt;br&gt;クリエイティブサーベイ株式会社 CTO&lt;/h3&gt; &lt;p&gt;2013年 Sansan株式会社に入社。個人向け名刺アプリEightのRailsを用いたサーバーサイドのWebアプリケーション開発に従事する。&lt;br&gt; その後、Eightの基本的な機能であるつながり処理の改善やビジネスネットワークの第一歩となるフィード機能のプロトタイプ開発、構築を行い、ニュース配信機能やレコメンド機能改良等の開発を先導し、自らも実装に参画した。&lt;br&gt; その後、Eightの開発責任者、新規プロダクトのマネージャーを歴任し、2022年クリエイティブサーベイ社のCTOに就任。&lt;/p&gt; &lt;h3&gt;パネラー：古橋 一真 &lt;a href=&quot;https://twitter.com/284km&quot; rel=&quot;nofollow&quot;&gt;@284km&lt;/a&gt;&lt;br&gt;株式会社アンドパッド 執行役員 VPoT&lt;/h3&gt; &lt;p&gt;フィードフォース、Speeeを経て2020年12月アンドパッド入社。 Webでは秒速@284kmとしてRuby界隈で活動中。&lt;/p&gt; &lt;p&gt;参考記事：&lt;a href=&quot;https://engineer-lab.findy-code.io/284km-andpad&quot; rel=&quot;nofollow&quot;&gt;RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;パネラー：松田 明 &lt;a href=&quot;https://twitter.com/a_matsuda&quot; rel=&quot;nofollow&quot;&gt;@a_matsuda&lt;/a&gt;&lt;br&gt;株式会社アンドパッド 技術顧問&lt;/h3&gt; &lt;p&gt;RubyKaigiのチーフオーガナイザー&lt;/p&gt; &lt;h1&gt;日時が合わない方へ&lt;/h1&gt; &lt;p&gt;オンラインでお話ししませんか？ぜひご連絡ください。&lt;br&gt;&lt;/p&gt; &lt;h4&gt;Sansan株式会社&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://timerex.net/s/sansan_digitization/39e82561&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談エントリーDigitization部 部長&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://timerex.net/s/sansan_digitization/b379f10e&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談エントリーDigitization部 エンジニア&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://meety.net/matches?q=%2333tech&amp;amp;oeo=false&quot; rel=&quot;nofollow&quot;&gt;Meety：#33tech&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;クリエイティブサーベイ株式会社&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://meety.net/matches/SVusDVynyyEe&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談Meety_CTO&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://meety.net/matches/hYyTwRIeLJDp&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談Meety_エンジニア&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;アンドパッド&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://hrmos.co/pages/andpad/jobs/0000074/apply&quot; rel=&quot;nofollow&quot;&gt;カジュアル面談エントリー&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/projects/177378&quot; rel=&quot;nofollow&quot;&gt;Wantedly：Railsエンジニア&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;共催企業&lt;/h1&gt; &lt;h2&gt;&lt;a href=&quot;https://jp.corp-sansan.com/&quot; rel=&quot;nofollow&quot;&gt;Sansan株式会社&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;「出会いからイノベーションを生み出す」をミッションとして掲げ、働き方を変えるDXサービスを提供しています。主なサービスとして、営業DXサービス「Sansan」やキャリアプロフィール「Eight」、インボイス管理サービス「Bill One」、クラウド契約業務サービス「Contract One」を国内外で提供しています。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://jp.corp-sansan.com/engineering/recruit/&quot; rel=&quot;nofollow&quot;&gt;採用情報&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://buildersbox.corp-sansan.com/&quot; rel=&quot;nofollow&quot;&gt;Sansan Tech Blog&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;a href=&quot;https://jp.creativesurvey.com/&quot; rel=&quot;nofollow&quot;&gt;クリエイティブサーベイ株式会社&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;当社は【ビジネスと顧客 人と人をつなぐNo.1アンケート・プラットフォームになる】ことを目指した法人向けのSaaSサービス「CREATIVE SURVEY」を提供しています。秀逸なUIやセキュリティの高さが評価され、従業員1,000名を超える大企業を中心に導入企業を拡大しており、現在導入社数は100社超。アンケートの枠を超え新しい領域にチャレンジしています。&lt;br&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://jp.creativesurvey.com/company/recruit/&quot; rel=&quot;nofollow&quot;&gt;採用ページ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;a href=&quot;https://andpad.co.jp/&quot; rel=&quot;nofollow&quot;&gt;株式会社アンドパッド&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;「ANDPAD」は現場の効率化から経営改善まで一元管理していただけるシェアNo.1※クラウド型建設プロジェクト管理サービスです。2016年のサービスリリース以来、直感的で使いやすさにこだわった開発と導入・活用への徹底したサポートで利用社数13万社を超えております。(2021年11月現在)&lt;br&gt; ※「クラウド型施工管理サービスの市場動向とベンダーシェア」（デロイト トーマツ ミック経済研究所調べ）&lt;br&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://engineer.andpad.co.jp/&quot; rel=&quot;nofollow&quot;&gt;エンジニア採用サイト&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://tech.andpad.co.jp/&quot; rel=&quot;nofollow&quot;&gt;ANDPAD Tech Blog&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;イベント内容が変更になる可能性があります。&lt;br&gt; イベントのレポートを後日公開させていただく可能性があります。&lt;br&gt; 出演者および参加者への営業活動など勧誘行為はお控えください。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://andpad.connpass.com/event/260735/'/>
+    <published>
+      2022-10-11T16:20:34+09:00
     </published>
   </entry>
 </feed>
