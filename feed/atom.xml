@@ -9,8 +9,132 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-10-28T01:11:30+00:00
+    2022-10-29T00:58:59+00:00
   </updated>
+  <entry>
+    <id>
+      https://tonihome.connpass.com/event/260898/
+    </id>
+    <title>
+      【もくもく＆LT (テーマフリー)】オフライン会｜とにかくほめる！マウントなしのLT会
+    </title>
+    <summary>
+      ほめあってLT経験値をUP!
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;とにかくほめる！マウントなしのLT会&lt;/h1&gt;
+      &lt;p&gt;ゆるく楽しくアウトプットができるLT会！&lt;/p&gt; &lt;h2&gt;▼目的&lt;/h2&gt;
+      &lt;ul&gt; &lt;li&gt;アウトプットで参加者全員の知識を広める&lt;/li&gt;
+      &lt;li&gt;エンジニアの横のつながりを深める&lt;/li&gt;
+      &lt;li&gt;LT経験者を増やしエンジニアの発信を促進する&lt;/li&gt; &lt;/ul&gt;
+      &lt;h4&gt;こんな方におすすめ&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;LTでモチベを上げたい人
+      &lt;/li&gt; &lt;li&gt;LTに挑戦してみたいけどまだ勇気が出ない &lt;/li&gt;
+      &lt;li&gt;横のつながりを作りたい人 &lt;/li&gt; &lt;li&gt;アウトプットの場が欲しい &lt;/li&gt;
+      &lt;li&gt;好きなイケてる技術を発表したい人 &lt;/li&gt; &lt;li&gt;とにかくほめられたい人 &lt;/li&gt;
+      &lt;/ul&gt; &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;h2&gt;▼今回のテーマ&lt;/h2&gt;
+      &lt;p&gt;テーマはフリーです！
+      学習した内容のアウトプットや、新しい知識の収穫、LT力アップなどを目的とした、LT参加/ほめ参加お待ちしております！&lt;/p&gt;
+      &lt;h1&gt;当日のプログラム&lt;/h1&gt; &lt;p&gt;LTは1人10分。（発表7分、質疑応答3分）&lt;/p&gt;
+      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
+      align=&quot;center&quot;&gt;　時間　　&lt;/th&gt; &lt;th
+      align=&quot;left&quot;&gt;　　　　タイトル　　　　&lt;/th&gt; &lt;th
+      align=&quot;left&quot;&gt;　　　　内容　　　　&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
+      &lt;tbody&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;13:00&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;集合&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;概要説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;13:05&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;自己紹介&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;アイスブレイク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;13:30&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;もくもく会スタート&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;各自もくもく&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;〜&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;16:00&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;LTスタート&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;※順番は仮&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;&lt;code&gt;10分(質問含む)&lt;/code&gt;&lt;/td&gt;
+      &lt;td
+      align=&quot;left&quot;&gt;&lt;strong&gt;題名&lt;/strong&gt;&lt;/td&gt;
+      &lt;td
+      align=&quot;left&quot;&gt;　&lt;strong&gt;スピーカー&lt;/strong&gt;　&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT①&lt;/td&gt;
+      &lt;td align=&quot;left&quot;&gt;個人開発のよくある落とし穴9選（追記Ver.）&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;なる&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;LT②&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;Salesforce関連&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;あるたん&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;LT③&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;Python3.11の特徴&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;shimakaze&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td align=&quot;center&quot;&gt;LT④&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;最近興味を持っている面白い海外サービス&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;低カロ西村&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;LT⑤&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;17:20&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;交流会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;17:30&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;自由解散&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
+      &lt;/table&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;東京都品川区西五反田1-32-2
+      五反田ALCOVE3階&lt;/p&gt; &lt;h4&gt;会場提供企業&lt;/h4&gt; &lt;p&gt;&lt;a
+      href=&quot;https://www.hear.co.jp/&quot;
+      rel=&quot;nofollow&quot;&gt;HeaR株式会社様&lt;/a&gt;&lt;/p&gt;
+      &lt;h2&gt;▼ルール&lt;/h2&gt;
+      &lt;p&gt;みんなで気持ちよく実りあるLT会にするために守って欲しいルールです！ご協力ください。&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;とにかくホメる &lt;/li&gt; &lt;li&gt;技術マウントを取らない&lt;/li&gt;
+      &lt;li&gt;他の人のLTはちゃんと聞いてリアクション（みんなのやる気を高めましょう！）&lt;/li&gt;
+      &lt;li&gt;リアクションはマイクオン、コメント、質問、ホメること。批判は無しです。（できるだけミュートにしないで！）&lt;/li&gt;
+      &lt;li&gt;とにかく褒める、お互いに褒め合ってLT経験値をUPさせていきましょう！&lt;/li&gt;
+      &lt;li&gt;セールスやスカウトなどの勧誘および営業活動、ハラスメント行為などは禁止&lt;/li&gt;
+      &lt;li&gt;SNSへの投稿は自由ですが、写真・動画投稿時の顔出し可否の確認など、プライバシーへのご配慮をお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;当日遅れる/質問等は&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;こちらにDM&lt;/a&gt;下さい&lt;/p&gt; &lt;h3&gt;LT例&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;OAuthと仲良くなる！&lt;/li&gt; &lt;li&gt;個人開発のアイデアの出し方&lt;/li&gt; &lt;li&gt;Nimというプログラミング言語について&lt;/li&gt; &lt;li&gt;FW抜きでサイト制作してた話&lt;/li&gt; &lt;li&gt;みんなの得意技を自動抽出・可視化してみた！&lt;/li&gt; &lt;li&gt;pcapファイルの解析ツールネタ&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;タメになる内容であればなんでもOKです！&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;▼主催者&lt;/h2&gt; &lt;h3&gt;ファシリテート：&lt;strong&gt;あるたん&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/ririri_3132&quot; rel=&quot;nofollow&quot;&gt;@ririri_3132&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;オフショア、Webシステム開発などの複数プロジェクトを経験。&lt;br&gt; 現在はPL/PMOなどプロジェクトマネジメント業務に励む。PMPホルダー。&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1506248327750651907/hoUE5fDO_400x400.jpg&quot; width=&quot;100px&quot;&gt;&lt;/p&gt; &lt;h3&gt;ほめ主催：&lt;strong&gt;なる&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;@1026NT&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;フリーランスエンジニア.&lt;br&gt; RubyやVueで開発したり、1人でアプリの管理をしたり、採用を任されたりしてる。&lt;br&gt; &lt;a href=&quot;https://www.ideee.tech/about?utm_source=connpass&amp;amp;utm_medium=event_page&amp;amp;utm_id=2022/1/30&quot; rel=&quot;nofollow&quot;&gt;（アイデアとエンジニアのマッチングアプリ）ideee&lt;/a&gt;の代表&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1475381494613180418/DVFdhV2n_400x400.jpg&quot; width=&quot;100px&quot;&gt;&lt;/p&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;h4&gt;会場場所詳細&lt;/h4&gt; &lt;p&gt;少し分かりづらいですが、黄色いビルの3階です！&lt;/p&gt; &lt;p&gt;東京都品川区西五反田1-32-2 五反田ALCOVE3階&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://gyazo.com/a03eb17918b7e3f3e278338672768f01&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;Image from Gyazo&quot; src=&quot;https://i.gyazo.com/a03eb17918b7e3f3e278338672768f01.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://gyazo.com/2748e873a26c0f7d6452977b1ba52511&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;Image from Gyazo&quot; src=&quot;https://i.gyazo.com/2748e873a26c0f7d6452977b1ba52511.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://tonihome.connpass.com/event/260898/'/>
+    <published>
+      2022-10-28T21:05:47+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://sendairb.connpass.com/event/262282/
+    </id>
+    <title>
+      [オンライン開催]Sendai.rb #35
+    </title>
+    <summary>
+      Ruby技術者認定試験を解いてみよう
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;&lt;strong&gt;仙台周辺のRubyistが集まってワイワイするコミュニティ、Sendai.rbの第35回です！オンライン開催ですので、遠方の方のご参加もお待ちしております！&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;見学だけもOKです。ディスカッションは苦手だけど雰囲気は知りたい、という方もぜひお気軽にどうぞ 😃&lt;/p&gt; &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;今回は、Ruby技術者認定試験にチャレンジです。&lt;/p&gt; &lt;p&gt;みんなでワイワイと話しながら、試験問題を解いてみましょう。&lt;/p&gt; &lt;p&gt;新しい気付きや発見が見つかるかも！&lt;/p&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://zoom.us&quot; rel=&quot;nofollow&quot;&gt;Zoom&lt;/a&gt; を用いたオンラインでの開催を予定しています。 参加用URLは参加申し込みいただいた方へconnpassのメッセージでお送りします。 メッセージの送付は開始時間の15分~30分前を予定しています。&lt;/p&gt; &lt;p&gt;※参加URLは、メッセージ送付に併せて当イベントページの「参加者への情報」欄にも掲載いたします。イベント開始15分前になってもメッセージが届かない場合は、そちらをご確認ください。&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;ルームオープン&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:00 ~ 20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;スタッフ紹介、イベントの説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:10 ~ 20:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;演習問題&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:50 ~ 21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;お願い&lt;/h1&gt; &lt;h3&gt;CoC&lt;/h3&gt; &lt;p&gt;Sendai.rbでは、イベントの参加者全員が楽しく、安全に集える場を維持するために行動規範を策定しています。&lt;br&gt; &lt;a href=&quot;https://esa-pages.io/p/sharing/13299/posts/6/11c7cd2a3876ee3ef3a3.html&quot; rel=&quot;nofollow&quot;&gt;こちらのページの内容&lt;/a&gt;を必ず一読いただき、ご理解いただいた上でご参加ください。&lt;/p&gt; &lt;p&gt;今回は画面共有機能を利用する場合があります。予め画面共有が可能なセキュリティ設定を行った上でご参加いただけますようお願いします。&lt;/p&gt; &lt;h3&gt;ディスカッションについて&lt;/h3&gt; &lt;p&gt;イベント後半はディスカッションが中心となります。タイピング速度に自信のある方はチャットのみでの参加も可能ですが、声出し可能な方の参加が望ましいです（ボイチェンはOK、バ美肉もOKです）。&lt;/p&gt; &lt;h1&gt;📢Slackチャンネルについて&lt;/h1&gt; &lt;p&gt;ruby-jpのSlackグループに#sendairbチャンネルがあります。&lt;br&gt; イベント当日の簡単な資料共有をはじめ、参加者どうしのコミュニケーションに使いたいと思っていますので、ぜひご参加ください！&lt;/p&gt; &lt;p&gt;ruby-jpのSlackグループに未参加の方は&lt;a href=&quot;https://ruby-jp.github.io/&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;からどうぞ。(ruby-jpの行動規範も必ずご確認ください)&lt;br&gt; このSlackグループには国内のRubyistがたくさん集まっているので、Sendai.rb以外でのコミュニケーションもぜひ楽しんでください😊&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://sendairb.connpass.com/event/262282/'/>
+    <published>
+      2022-10-28T14:58:08+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mrubyworkshop.connpass.com/event/262431/
+    </id>
+    <title>
+      ノンプログラミングPlatoで楽々始めるIoT in 福岡
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;&lt;strong&gt;💎ノンプログラミングだけど使えるIoT&lt;/strong&gt;&lt;/h1&gt;
+      &lt;p&gt;福岡県Rubyコンテンツ振興会議は軽量Rubyフォーラムの協力を得て、IoT技術による新たな製品・サービス創出や課題解決を推進するため、軽量Ruby（mruby）で開発されたIoTフレームワーク「&lt;a href=&quot;http://plato.click/&quot; rel=&quot;nofollow&quot;&gt;Plato（プラトン）&lt;/a&gt;」を使って、温湿度・加速度・GPS・BLE5.0通信機能を内蔵するセンサデバイスを用いたIoTアプリ開発を体験するハンズオンを開催します！&lt;br&gt;&lt;/p&gt; &lt;p&gt;このハンズオンでは、Rubyの組込システム開発言語「&lt;a href=&quot;https://mruby.org/&quot; rel=&quot;nofollow&quot;&gt;mruby&lt;/a&gt;」と「&lt;a href=&quot;https://www.s-itoc.jp/mrubyc&quot; rel=&quot;nofollow&quot;&gt;mruby/c&lt;/a&gt;」で開発された「&lt;a href=&quot;http://plato.click/&quot; rel=&quot;nofollow&quot;&gt;Plato&lt;/a&gt;」を使って、温湿度や加速度・GPSなどの各種センサーを搭載したセンサデバイスを用いたIoTアプリ開発を体験します！ &lt;br&gt; 今回のカリキュラムには、センサデータを定期送信するIoTアプリをGUIからドラッグ＆ドロップで開発するとともに、センサ値によって分岐処理を行うなど、IoTアプリ開発の基本を「知る」「学ぶ」機会となっています。&lt;br&gt;&lt;/p&gt; &lt;p&gt;なお、今回は参加者は会場にて、ハンズオン形式で学ぶ講座となります。&lt;br&gt; プログラミング初心者の方でも、IoTアプリ開発に関心のある方は、是非ともこの機会にご参加ください！&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;div align=&quot;center&quot;&gt; &lt;img alt=&quot;img_plato1&quot; src=&quot;https://www.s-itoc.jp/images/original/20220802154413540068bd916.png &quot; width=&quot;100%&quot;&gt; &lt;/div&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;div align=&quot;center&quot;&gt; &lt;img alt=&quot;img_plato1&quot; src=&quot;https://www.s-itoc.jp/images/original/202207251442339220f774c24.jpg&quot; width=&quot;100%&quot;&gt; &lt;/div&gt; &lt;p&gt;&lt;br&gt; ※Platoは、2018年度「&lt;a href=&quot;https://rubybiz.jp/prize_2018.html&quot; rel=&quot;nofollow&quot;&gt;第4回 RubyBiz Granprix&lt;/a&gt;」で&lt;strong&gt;Device technology賞&lt;/strong&gt;, 2019年度「&lt;a href=&quot;https://www.digitalfukuoka.jp/event_reports/20?locale=ja&quot; rel=&quot;nofollow&quot;&gt;第12回 フクオカRuby大賞&lt;/a&gt;」で&lt;strong&gt;優秀賞&lt;/strong&gt;を受賞しています。&lt;br&gt;&lt;/p&gt; &lt;p&gt;Platoの動作ちらみはこちらから &lt;a href=&quot;https://www.scsk-kyushu.co.jp/service/mruby/plato.html&quot; rel=&quot;nofollow&quot;&gt;https://www.scsk-kyushu.co.jp/service/mruby/plato.html&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;👤 参加対象&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;「&lt;strong&gt;福岡県内のIT企業にお勤めの方&lt;/strong&gt;」または「&lt;strong&gt;福岡県内にお住まいの方&lt;/strong&gt;」&lt;br&gt;&lt;/p&gt; &lt;h2&gt;こんな方にオススメ！&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;プログラミング経験が無くてもIoTアプリ開発に関心のある方。&lt;/li&gt; &lt;li&gt;IoTアプリやセンサデバイスによって解決したい課題をお持ちの方。&lt;/li&gt; &lt;li&gt;Ruby（mrubyとmruby/cを含む）を使ったIoTアプリ開発に関心がある方。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;想定スキル&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;プログラミング経験が無い方も大丈夫！ &lt;br&gt; -- ノンプログラミングでIoTアプリを開発できます。&lt;/li&gt; &lt;li&gt;IoTアプリ開発が未経験の方も大歓迎！ &lt;br&gt; -- フレームワークとセンサデバイスで開発できます。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;📆 日時&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;2022年11月8日（火）15:30〜17:30［開場 15:00］&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;📖 カリキュラム&lt;/strong&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;IoTフレームワーク「Plato」の説明&lt;/li&gt; &lt;li&gt;Platoとセンサデバイスを用いたGUIによるIoTアプリの開発&lt;/li&gt; &lt;li&gt;Platoとセンサデバイスを用いた条件指定や処理分岐によるIoTアプリの開発&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※カリキュラムは、予告なく変更する場合がございます。&lt;/p&gt; &lt;h2&gt;IoTアプリの一例&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;温湿度センサを用いた施設・店舗の点検管理アプリ&lt;br&gt;&lt;/li&gt; &lt;li&gt;放牧牛の位置情報を把握・可視化アプリ&lt;br&gt;&lt;/li&gt; &lt;li&gt;鳥獣害対策の罠における捕獲検出&amp;amp;通知アプリ&lt;br&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;🌍 会場&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;http://frac.jp/&quot; rel=&quot;nofollow&quot;&gt;福岡県Ruby・コンテンツ産業振興センター 8Fセミナールーム&lt;/a&gt;（福岡県福岡市博多区千代１丁目２０−３１）&lt;br&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;新型コロナウィルス感染拡大状況によって、オンライン開催に変更する場合がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;オンライン開催となった場合、参加申込をいただいた方へ、予め参加方法をお知らせいたします。&lt;br&gt;&lt;/li&gt; &lt;li&gt;オンライン開催となった場合、カリキュラムの変更を行う場合がございます。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;🎤 講師&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;&lt;img alt=&quot;画像&quot; src=&quot;https://connpass-tokyo.s3.amazonaws.com/user/384291/c9c35af74e4d464eae25e8368e26e7d5.jpg&quot; width=&quot;150&quot;&gt;&lt;br&gt; &lt;a href=&quot;https://www.scsk-kyushu.co.jp/&quot; rel=&quot;nofollow&quot;&gt;SCSK九州株式会社&lt;/a&gt; &lt;br&gt; mrubyエバンジェリスト / 九州産業大学理工学部非常勤講師 &lt;br&gt; &lt;strong&gt;三牧 弘司&lt;/strong&gt; 氏 &lt;br&gt;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;SCSK九州株式会社にて長年組込みシステム開発に従事するとともに、mrubyの開発当初から参画し、現在はmrubyエバンジェリストとして活躍中。mruby啓蒙活動として各種セミナーやmrubyハンズオンを数多く実施。mrubyが動作するマイコンボード&lt;a href=&quot;https://enzi.cc/&quot; rel=&quot;nofollow&quot;&gt;Enzi&lt;/a&gt;の開発やルネサス製のマイコンボードGR-Peachへのmruby移植、M5Stackへのmrubyポーティングなど多数の開発実績あり。さらに、mruby IoTフレームワークPlatoの開発では、主にIDEシミュレータを担当。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;💰 参加費&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;無料&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;👥 定員&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;会場　9名（先着順）&lt;br&gt; ※定員になり次第、申込受付を締め切りとさせていただきます。予めご了承ください。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;📍 必要な事前準備について&lt;/strong&gt;&lt;/h1&gt; &lt;h2&gt;PC・開発環境&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;ノートPC&lt;/strong&gt;（Windows10 または macOS X）をご持参ください。&lt;br&gt; -- 事前にPlatoなど必要なソフトウェアをインストールして頂きます。&lt;br&gt; -- 別途、Platoのインストール手順をご連絡いたします。&lt;br&gt; -- ソフトウェアをインストールしますので、管理者権限のあるPCをご用意ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;必要なPCのスペックとして、以下のとおりになります。&lt;br&gt; -- ［OS］Windows 10 または macOS X&lt;br&gt; -- ［ブラウザ］Google Chromeのインストールが完了していること&lt;br&gt; -- ［その他］Bluetooth 4.2 が利用可能であること&lt;br&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;会場で準備しているもの&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Platoセンサデバイス（※講座終了後、返却いただきます）&lt;/li&gt; &lt;li&gt;インターネット通信環境（Wi-Fi）&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;⌛ 申込締切&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;2022年11月7日（月）17:00まで&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;💻 個人情報の取扱について&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;個人情報については、以下の目的のみ利用するもので、その他の目的には一切使用いたしません。&lt;br&gt; （1）本講座の実施にあたり、参加に必要な情報提供や当日受付に関する円滑な運営のため。&lt;br&gt; （2）当財団が主催・共催するセミナー・イベント、各種助成金の情報提供のため。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;⚠️ 注意事項&lt;/strong&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;ご参加いただく方は、ハンズオンの「動画」および「静止画」の撮影、録音は禁止とさせていただきます。&lt;/li&gt; &lt;li&gt;ご参加いただく方には、福岡県内におけるIoT技術の導入・普及・発展に向けたフォローアップを目的として、ハンズオン終了後に調査・評価アンケート等の協力のご連絡をさせていただく場合がございます。予めご了承ください。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;新型コロナウィルス感染症対策について&lt;/h2&gt; &lt;p&gt;ご参加いただく方は、以下の予防対策にご協力をお願いします。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;来場された際、受付で検温・手指の消毒にご協力ください。&lt;/li&gt; &lt;li&gt;会場内では、常時マスクの着用にご協力ください。&lt;/li&gt; &lt;li&gt;当日に発熱や体調不良などがある場合は、ご来場をお控えください。&lt;/li&gt; &lt;li&gt;食べ物のお持ち込みはお控えください。&lt;/li&gt; &lt;li&gt;ペットボトルなど蓋のできる飲み物はお持ち込みいただけます。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;主催&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://www.digitalfukuoka.jp/?locale=ja&quot; rel=&quot;nofollow&quot;&gt;福岡県Ruby・コンテンツビジネス振興会議 &lt;/a&gt;&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;お問い合わせ先&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;メール ：特定非営利活動法人　軽量Rubyフォーラム&lt;/p&gt; &lt;p&gt;h.ishii@mruby.org&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mrubyworkshop.connpass.com/event/262431/'/>
+    <published>
+      2022-10-28T11:20:41+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://rindokurb.connpass.com/event/264707/
@@ -166,94 +290,6 @@
   </entry>
   <entry>
     <id>
-      https://tonihome.connpass.com/event/260898/
-    </id>
-    <title>
-      【残り1枠】【もくもく＆LT (テーマフリー)】オフライン会｜とにかくほめる！マウントなしのLT会
-    </title>
-    <summary>
-      ほめあってLT経験値をUP!
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;とにかくほめる！マウントなしのLT会&lt;/h1&gt;
-      &lt;p&gt;ゆるく楽しくアウトプットができるLT会！&lt;/p&gt; &lt;h2&gt;▼目的&lt;/h2&gt;
-      &lt;ul&gt; &lt;li&gt;アウトプットで参加者全員の知識を広める&lt;/li&gt;
-      &lt;li&gt;エンジニアの横のつながりを深める&lt;/li&gt;
-      &lt;li&gt;LT経験者を増やしエンジニアの発信を促進する&lt;/li&gt; &lt;/ul&gt;
-      &lt;h4&gt;こんな方におすすめ&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;LTでモチベを上げたい人
-      &lt;/li&gt; &lt;li&gt;LTに挑戦してみたいけどまだ勇気が出ない &lt;/li&gt;
-      &lt;li&gt;横のつながりを作りたい人 &lt;/li&gt; &lt;li&gt;アウトプットの場が欲しい &lt;/li&gt;
-      &lt;li&gt;好きなイケてる技術を発表したい人 &lt;/li&gt; &lt;li&gt;とにかくほめられたい人 &lt;/li&gt;
-      &lt;/ul&gt; &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;h2&gt;▼今回のテーマ&lt;/h2&gt;
-      &lt;p&gt;テーマはフリーです！
-      学習した内容のアウトプットや、新しい知識の収穫、LT力アップなどを目的とした、LT参加/ほめ参加お待ちしております！&lt;/p&gt;
-      &lt;h1&gt;当日のプログラム&lt;/h1&gt; &lt;p&gt;LTは1人10分。（発表7分、質疑応答3分）&lt;/p&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;center&quot;&gt;　時間　　&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;　　　　タイトル　　　　&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;　　　　内容　　　　&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;13:00&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;集合&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;概要説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;13:05&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;自己紹介&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;アイスブレイク&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;13:30&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;もくもく会スタート&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;各自もくもく&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;〜&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;16:00&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;LTスタート&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;※順番は仮&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;&lt;code&gt;10分(質問含む)&lt;/code&gt;&lt;/td&gt;
-      &lt;td
-      align=&quot;left&quot;&gt;&lt;strong&gt;題名&lt;/strong&gt;&lt;/td&gt;
-      &lt;td
-      align=&quot;left&quot;&gt;　&lt;strong&gt;スピーカー&lt;/strong&gt;　&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT①&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;個人開発のよくある落とし穴9選（追記Ver.）&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;なる&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;LT②&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;Salesforce関連&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;あるたん&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;LT③&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;Python3.11の特徴&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;shimakaze&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;center&quot;&gt;LT④&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;最近興味を持っている面白い海外サービス&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;低カロ西村&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;LT⑤&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;17:20&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;交流会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;17:30&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;自由解散&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
-      &lt;/table&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;東京都品川区西五反田1-32-2
-      五反田ALCOVE3階&lt;/p&gt; &lt;h4&gt;会場提供企業&lt;/h4&gt; &lt;p&gt;&lt;a
-      href=&quot;https://www.hear.co.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;HeaR株式会社様&lt;/a&gt;&lt;/p&gt;
-      &lt;h2&gt;▼ルール&lt;/h2&gt;
-      &lt;p&gt;みんなで気持ちよく実りあるLT会にするために守って欲しいルールです！ご協力ください。&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;とにかくホメる &lt;/li&gt; &lt;li&gt;技術マウントを取らない&lt;/li&gt;
-      &lt;li&gt;他の人のLTはちゃんと聞いてリアクション（みんなのやる気を高めましょう！）&lt;/li&gt;
-      &lt;li&gt;リアクションはマイクオン、コメント、質問、ホメること。批判は無しです。（できるだけミュートにしないで！）&lt;/li&gt;
-      &lt;li&gt;とにかく褒める、お互いに褒め合ってLT経験値をUPさせていきましょう！&lt;/li&gt;
-      &lt;li&gt;セールスやスカウトなどの勧誘および営業活動、ハラスメント行為などは禁止&lt;/li&gt;
-      &lt;li&gt;SNSへの投稿は自由ですが、写真・動画投稿時の顔出し可否の確認など、プライバシーへのご配慮をお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;当日遅れる/質問等は&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;こちらにDM&lt;/a&gt;下さい&lt;/p&gt; &lt;h3&gt;LT例&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;OAuthと仲良くなる！&lt;/li&gt; &lt;li&gt;個人開発のアイデアの出し方&lt;/li&gt; &lt;li&gt;Nimというプログラミング言語について&lt;/li&gt; &lt;li&gt;FW抜きでサイト制作してた話&lt;/li&gt; &lt;li&gt;みんなの得意技を自動抽出・可視化してみた！&lt;/li&gt; &lt;li&gt;pcapファイルの解析ツールネタ&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;タメになる内容であればなんでもOKです！&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;▼主催者&lt;/h2&gt; &lt;h3&gt;ファシリテート：&lt;strong&gt;あるたん&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/ririri_3132&quot; rel=&quot;nofollow&quot;&gt;@ririri_3132&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;オフショア、Webシステム開発などの複数プロジェクトを経験。&lt;br&gt; 現在はPL/PMOなどプロジェクトマネジメント業務に励む。PMPホルダー。&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1506248327750651907/hoUE5fDO_400x400.jpg&quot; width=&quot;100px&quot;&gt;&lt;/p&gt; &lt;h3&gt;ほめ主催：&lt;strong&gt;なる&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;@1026NT&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;フリーランスエンジニア.&lt;br&gt; RubyやVueで開発したり、1人でアプリの管理をしたり、採用を任されたりしてる。&lt;br&gt; &lt;a href=&quot;https://www.ideee.tech/about?utm_source=connpass&amp;amp;utm_medium=event_page&amp;amp;utm_id=2022/1/30&quot; rel=&quot;nofollow&quot;&gt;（アイデアとエンジニアのマッチングアプリ）ideee&lt;/a&gt;の代表&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1475381494613180418/DVFdhV2n_400x400.jpg&quot; width=&quot;100px&quot;&gt;&lt;/p&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;h4&gt;会場場所詳細&lt;/h4&gt; &lt;p&gt;少し分かりづらいですが、黄色いビルの3階です！&lt;/p&gt; &lt;p&gt;東京都品川区西五反田1-32-2 五反田ALCOVE3階&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://gyazo.com/a03eb17918b7e3f3e278338672768f01&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;Image from Gyazo&quot; src=&quot;https://i.gyazo.com/a03eb17918b7e3f3e278338672768f01.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://gyazo.com/2748e873a26c0f7d6452977b1ba52511&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;Image from Gyazo&quot; src=&quot;https://i.gyazo.com/2748e873a26c0f7d6452977b1ba52511.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://tonihome.connpass.com/event/260898/'/>
-    <published>
-      2022-10-26T11:19:40+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
       https://rakuten-sapporo.connpass.com/event/263579/
     </id>
     <title>
@@ -272,54 +308,6 @@
     <link rel='alternate' type='text/html' href='https://rakuten-sapporo.connpass.com/event/263579/'/>
     <published>
       2022-10-26T09:36:35+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://icare.connpass.com/event/261601/
-    </id>
-    <title>
-      【iCARE Dev Meetup #36】Rejected CFP 供養会 2022
-    </title>
-    <summary>
-      ~今年のRuby / Rails系のカンファレンスにrejectされてしまったネタを成仏させよう！~
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;第36回のミートアップは、2022年に開催された、RubyKaigi と Kaigi on Rails でリジェクトされた CFP
-      を中心に、構成された特別バージョンでお送りする予定です。&lt;/p&gt; &lt;p&gt;登壇してみたい方は、Google Form
-      にて、2022/10/31 まで絶賛募集中です。 &lt;a
-      href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeTZQFiDXEtfRSyfOGy7dGJEfUZnsf0cXaWoXi5LDEcld92jQ/viewform&quot; rel=&quot;nofollow&quot;&gt;https://docs.google.com/forms/d/e/1FAIpQLSeTZQFiDXEtfRSyfOGy7dGJEfUZnsf0cXaWoXi5LDEcld92jQ/viewform&lt;/a&gt;&lt;/p&gt; &lt;p&gt;登壇者・登壇内容など詳しい内容は、随時更新予定です。今しばらくお待ちください！&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://icare.connpass.com/event/261601/'/>
-    <published>
-      2022-10-25T14:27:33+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://rindokurb.connpass.com/event/264373/
-    </id>
-    <title>
-      りんどく.rb #83
-    </title>
-    <summary>
-      チェリー本2版 第83回
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;りんどく.rbとは&lt;/h2&gt; &lt;p&gt;RubyやRuby on
-      Railsに関する技術書を輪読会形式で読むコミュニティです。&lt;br&gt;
-      基本的に火・金曜日の朝8:00〜9:00に開催します。&lt;br&gt;
-      必ずしも毎回参加しなくて大丈夫ですし、途中参加・途中退室、ラジオ参加(発言はせず聞いているだけ)も大歓迎です！！&lt;/p&gt;
-      &lt;p&gt;朝の時間を有効活用して、一緒に知識と技術を深めましょう！&lt;/p&gt;
-      &lt;p&gt;▼立ち上げの経緯&lt;br&gt; &lt;a
-      href=&quot;https://fuga-ch85.hatenablog.com/entry/2021/12/14/002128&quot;
-      rel=&quot;nofollow&quot;&gt;Rubyの技術書を輪読する”りんどく.rb”を立ち上げます - No day younger
-      than today&lt;/a&gt;&lt;/p&gt; &lt;p&gt;▼りんどく.rbのご案内&lt;br&gt; &lt;a
-      href=&quot;https://speakerdeck.com/fugakkbn/introduction-to-rindokurb&quot; rel=&quot;nofollow&quot;&gt;introduction-to-rindokurb - Speaker Deck&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;参加資格&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyが好きなこと&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;以上！！&lt;br&gt; 初心者〜ベテランまで、どなたでも歓迎します。&lt;/p&gt; &lt;h2&gt;現在輪読中の書籍・章&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERuby%E5%85%A5%E9%96%80-%E6%94%B9%E8%A8%822%E7%89%88-%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98%E3%81%8B%E3%82%89%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%BB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%8A%80%E6%B3%95%E3%81%BE%E3%81%A7-Software-Design/dp/4297124378/ref=sr_1_2_sspa?crid=3QOGFENWMIHOF&amp;amp;keywords=%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEruby%E5%85%A5%E9%96%80+%E6%94%B9%E8%A8%822%E7%89%88&amp;amp;qid=1641908422&amp;amp;sprefix=%E3%83%97%E3%83%AD%E3%82%92%E3%82%81%2Caps%2C193&amp;amp;sr=8-2-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPTDg5NjhTM1U5UlUmZW5jcnlwdGVkSWQ9QTA3NTY0NTIzVVNaUVdLTFhURFpSJmVuY3J5cHRlZEFkSWQ9QVJRRjRQV1Q2MVJWMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&quot; rel=&quot;nofollow&quot;&gt;プロを目指す人のためのRuby入門[改訂2版] 言語仕様からテスト駆動開発・デバッグ技法まで（著：伊藤 淳一）&lt;/a&gt;&lt;/p&gt; &lt;p&gt;11.3.4「hash パターン」〜&lt;/p&gt; &lt;p&gt;※&lt;strong&gt;改訂2版&lt;/strong&gt;を輪読します。これから購入される方は&lt;strong&gt;表紙のさくらんぼが2つ&lt;/strong&gt;のものを目印にお買い求めください。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;h3&gt;8:00〜8:10 自己紹介&lt;/h3&gt; &lt;p&gt;簡単に自己紹介をしていただきます。&lt;/p&gt; &lt;h3&gt;8:10〜8:50 輪読タイム&lt;/h3&gt; &lt;p&gt;節単位でランダムに1人指名して、音読します。&lt;br&gt; サンプルコードがあればモブプロしながら理解を深めます。&lt;br&gt; 質問や疑問は適宜してもらって大丈夫です。&lt;/p&gt; &lt;h3&gt;8:50〜9:00 ふりかえり&lt;/h3&gt; &lt;p&gt;この日学んだことや気づいたこと、感想などを書く時間です。&lt;br&gt; 書く場所は別途ご案内します。&lt;/p&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;現在、オンラインでのみ開催しております。&lt;br&gt; 会場は&lt;a href=&quot;https://discord.com/&quot; rel=&quot;nofollow&quot;&gt;Discord&lt;/a&gt;のボイスチャンネルを使用します。&lt;br&gt; &lt;a href=&quot;https://discord.gg/2FYf8jTE2T&quot; rel=&quot;nofollow&quot;&gt;りんどく.rbのDiscordサーバー&lt;/a&gt;への登録をお願いします。&lt;/p&gt; &lt;h2&gt;ツール&lt;/h2&gt; &lt;p&gt;共有ドキュメントとして、&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa&lt;/a&gt;を使用しています。&lt;br&gt; &lt;a href=&quot;https://rindokurb.esa.io/team/invitations/member-76999605482c465674cb207507de69b1&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;から参加登録をお願いします。&lt;/p&gt; &lt;h2&gt;ハッシュタグ&lt;/h2&gt; &lt;p&gt;&lt;code&gt;#りんどくrb&lt;/code&gt;&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;あまり細かいルールを作りたくないので、ご参加いただく際は&lt;strong&gt;みんなが気持ちよく参加できる&lt;/strong&gt;言動を心がけていただくようお願いいたします。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://rindokurb.connpass.com/event/264373/'/>
-    <published>
-      2022-10-25T08:59:20+09:00
     </published>
   </entry>
 </feed>
