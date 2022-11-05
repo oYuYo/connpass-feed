@@ -9,8 +9,144 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-11-04T01:06:04+00:00
+    2022-11-05T01:04:28+00:00
   </updated>
+  <entry>
+    <id>
+      https://redmine-patch.connpass.com/event/265634/
+    </id>
+    <title>
+      Redmineパッチ会オンライン #27
+    </title>
+    <summary>
+      Redmine本体を改善していく会
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;Redmine本体の改善をできる人を増やし、Redmineパッチ会を継続的に行っていけることを目的として、2020年7月から基本毎月オンライン開催していきます。&lt;/p&gt; &lt;h4&gt;参加要件&lt;/h4&gt; &lt;p&gt;Redmineの改善に興味ある方であればどなたでも。&lt;br&gt; 参加者はみんながみんな必ずしもRuby・Railsに精通しているわけではなく、それぞれのできる範囲で少しずつ成長を重ねながらRedmineの改善に取り組んでいます。たとえば、プログラミングせずに画面の文言変更でもパッチは送れます。 他にも、一緒に仕様を考えて、本家にチケットを作成するだけでもやれることはあります。（Ruby・Railsのプログラミング経験がある方は大歓迎です）&lt;/p&gt; &lt;p&gt;初参加の場合、見学からでもお気軽にどうぞ(^^ 「見学・入門者枠」で申し込んでいただけたら運営がフォローしますのでご安心ください。&lt;/p&gt; &lt;h4&gt;イベントの基本的な流れ&lt;/h4&gt; &lt;p&gt;参加申し込みいただいた方にはパッチ会用のDiscordと情報共有のためのScrapboxのURLをお知らせします。 イベント当日までの基本的な流れは以下のとおりです。&lt;/p&gt; &lt;h5&gt;イベント前日まで&lt;/h5&gt; &lt;p&gt;「常連枠」で申し込みいただいた方は以下の準備をお願いします。&lt;/p&gt; &lt;ol&gt; &lt;li&gt;パッチ会Discordのテキストチャンネル上でイベント当日に着手するタスクを他の常連枠メンバーと相談する（グループを組むのも、1人だけでやるのもOK）&lt;/li&gt; &lt;li&gt;環境を準備しておく（環境がなくてもVSCodeのLive Shareでモブプロのように参加できます）&lt;/li&gt; &lt;/ol&gt; &lt;h5&gt;イベント当日&lt;/h5&gt; &lt;ol&gt; &lt;li&gt;パッチ会Discordのボイスチャンネルに集合する&lt;/li&gt; &lt;li&gt;運営から「見学・入門者枠」で申し込みいただいた方向けにガイダンス&lt;/li&gt; &lt;li&gt;自己紹介＆近況報告&lt;/li&gt; &lt;li&gt;タスクごとにチームに分かれて作業（＋見学・入門者へのフォロー）&lt;/li&gt; &lt;li&gt;合流してやったことの共有、ふりかえり&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;パッチ会のプロジェクトをGitHubで公開しています。&lt;br&gt; &lt;a href=&quot;https://github.com/redmine-patch-meetup/redmine-dev-mirror/projects/1&quot; rel=&quot;nofollow&quot;&gt;https://github.com/redmine-patch-meetup/redmine-dev-mirror/projects/1&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://redmine-patch.connpass.com/event/265634/'/>
+    <published>
+      2022-11-05T09:35:49+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://recruit-engineer.connpass.com/event/252284/
+    </id>
+    <title>
+      クロスプラットフォーム開発2022 -Flutter・React Nativeの導入と実践-
+    </title>
+    <summary>
+      【TECHHILLS】
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;&lt;br&gt;株式会社リクルートのエンジニア社員が、クルーズ社主催のイベントに参画いたします。&lt;br&gt;
+      ぜひご参加ください！&lt;br&gt;&lt;/p&gt; &lt;h2&gt;イベント内容&lt;/h2&gt;
+      &lt;p&gt;今回はクロスプラットフォーム開発という大テーマで&lt;br&gt;
+      各社が取り組んだ「Flutter」「ReactNative」の導入検証をします！&lt;br&gt; &lt;br&gt;
+      CTOやPM・メンバークラスそれぞれの視点で&lt;br&gt; クロスプラットフォームの導入経緯や技術選定プロセス、&lt;br&gt;
+      開発ノウハウや困ったこと、テスト手法、チームビルディングなど、&lt;br&gt;
+      クロスプラットフォームに関するtipsを得る勉強会です。&lt;br&gt; &lt;br&gt; 【登壇内容(一部)】&lt;br&gt;
+      ネイティブアプリエンジニアがクロスプラットフォーム開発に挑戦した際に苦戦したポイント&lt;br&gt;
+      Flutterへの大規模リプレイスに挑戦した話&lt;br&gt; Flutterで開発初期に導入しておきたいこと&lt;br&gt;
+      日本語ドキュメントが少ないFlutterでどう体系的に知識をつけていったか&lt;br&gt; React
+      Nativeでコンポーネント設計と状態管理に悩んだ話&lt;br&gt; React Native for
+      Webでのアプリ開発の成功と失敗　etc.&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+      &lt;h2&gt;参加方法&lt;/h2&gt;
+      &lt;p&gt;ご参加登録頂いた方へ、オンライン視聴URLをお知らせ致します。&lt;/p&gt;
+      &lt;h2&gt;タイムスケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
+      &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th
+      align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
+      &lt;tbody&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;19:00〜19:10&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;19:10〜19:30&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;menuのReact
+      NativeエンジニアがFlutterに入門してみてわかったこと&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;19:30～19:50&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;年間300万人が利用するファッション通販アプリをFlutterでリプレイスした話&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:50～20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;大規模な「じゃらんnet」アプリを段階的にFlutter化している話&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:10～20:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;まつもとゆきひろ氏モデレーターによるQA&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:30～20:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンケート回答＆終了&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※ タイムスケジュールは変更の可能性があります。&lt;br&gt;&lt;/p&gt; &lt;h2&gt;登壇者&lt;/h2&gt; &lt;h4&gt;林 晃一郎　menu株式会社　アプリ開発チーム EM&lt;br&gt;&lt;/h4&gt; &lt;p&gt;新卒で都内ベンチャー企業へ入社。その後2020年レアゾンHDへ入社し、React Nativeを用いたmenuアプリ開発に従事する。現在は開発の傍ら、アプリ開発チームのマネジメントを行う。&lt;/p&gt; &lt;h4&gt;鈴木 優一　クルーズ株式会社　執行役員 最高技術責任者 / CTO&lt;br&gt;&lt;/h4&gt; &lt;p&gt;1983年生まれ。2008年にモバイルコンテンツプロバイダに入社後、マーケティング部門、システム開発部門でシステム企画・プロジェクトマネジメント業務に従事、2012年クルーズ株式会社に入社。入社後は技術統括部門の責任者として全社の開発平準化や採用技術選定、アーキテクト業務に従事のほか、品質管理部門やCS部門、人材育成部門の運営に携わる。2015年に執行役員就任。現在は最高技術責任者CTOとして、グループのIT技術・セキュリティ分野全般を担当する。&lt;/p&gt; &lt;h4&gt;桐山 圭祐　株式会社リクルート　「じゃらんnet」アプリ Flutter開発　チームリーダー&lt;br&gt;&lt;/h4&gt; &lt;p&gt;2019年にリクルート新卒入社。「じゃらんnet」アプリのFlutter開発チームでリーダーを担当。Flutterを用いた「じゃらんnet」アプリのリプレイス/運用/保守を推進。&lt;/p&gt; &lt;h4&gt;まつもと ゆきひろ　Rubyのぱぱ&lt;br&gt;&lt;/h4&gt; &lt;p&gt;プログラミング言語Rubyの生みの親。株式会社ネットワーク応用通信研究所フェロー、楽天株式会社楽天技術研究所フェロー、Rubyアソシエーション理事長、Heroku チーフアーキテクト、株式会社ZOZOテクノロジーズ技術顧問、Linkers株式会社技術顧問。Ruby開発の功績から島根県松江市名誉市民にも選出される。1995年株式会社トヨタケーラム（現：トヨタシステムズ）在籍時にオブジェクト指向スクリプト言語Rubyを公開し、その後2004年に発表されたRuby on Railsの流行に伴い日本国外にも普及した。&lt;/p&gt; &lt;h2&gt;【中途採用のご案内】リクルートのお仕事にご興味をお持ち頂けた方へ&lt;/h2&gt; &lt;p&gt;「Bloomキャリア登録」のご案内&lt;br&gt; &lt;a href=&quot;https://career-user.blm.co.jp/registration/recruit&quot; rel=&quot;nofollow&quot;&gt;https://career-user.blm.co.jp/registration/recruit&lt;/a&gt; &lt;br&gt; ご自身のキャリアを簡易登録いただくことで、適したポジションやイベントがある場合にご連絡をさせて頂きます。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://recruit-engineer.connpass.com/event/252284/'/>
+    <published>
+      2022-11-04T22:46:20+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://connpass.com/event/263641/
+    </id>
+    <title>
+      エンジニアもくもく会@名古屋駅
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;エンジニアもくもく会@名古屋駅&lt;/h1&gt; &lt;h2&gt;このイベントの説明&lt;/h2&gt;
+      &lt;p&gt;エンジニアのためのもくもく会です。&lt;/p&gt;
+      &lt;p&gt;今回は、水、お茶、レモンティー、コーヒー飲み放題です。&lt;/p&gt;
+      &lt;p&gt;こんな人に向いてます↓↓&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;自宅だと集中できない人&lt;/li&gt; &lt;li&gt;エンジニアと交流したい人&lt;/li&gt;
+      &lt;li&gt;エンジニアへの転職、プログラミングの勉強方法などを相談したい人&lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;日時&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;2022年11月27日
+      9:00~12:30&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;開催場所&lt;/h2&gt;
+      &lt;h3&gt;住所&lt;/h3&gt; &lt;p&gt;愛知県名古屋市中村区名駅3-13-28&lt;/p&gt;
+      &lt;h3&gt;交通手段&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;JR中央本線(名古屋～塩尻) 名古屋駅
+      徒歩2分&lt;/li&gt; &lt;li&gt;名古屋市営地下鉄桜通線 国際センター駅 徒歩2分&lt;/li&gt;
+      &lt;li&gt;名鉄名古屋本線 名鉄名古屋駅 徒歩2分&lt;/li&gt; &lt;li&gt;近鉄名古屋線 近鉄名古屋駅
+      徒歩2分&lt;/li&gt; &lt;li&gt;名古屋市営地下鉄東山線 亀島駅 徒歩2分&lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;持ち物&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;各自作業に必要なもの(PC, 本,
+      ノートなど)&lt;/li&gt; &lt;li&gt;食べ物、飲み物（アルコールはNG）&lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;スケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
+      align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;th
+      align=&quot;center&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
+      &lt;tbody&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;9:00~9:20&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;自己紹介、説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td align=&quot;center&quot;&gt;9:20~12:00&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;作業&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;center&quot;&gt;12:00~12:20&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;作業報告、雑談&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td align=&quot;center&quot;&gt;12:20~12:30&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;片付け&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
+      &lt;/table&gt; &lt;h2&gt;主催者自己紹介&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;1995年愛知生まれ&lt;/li&gt; &lt;li&gt;現在は東京のベンチャー企業の正社員です&lt;/li&gt;
+      &lt;li&gt;Ruby, TypeScript, Python, Rustとか書いてます　&lt;/li&gt;
+      &lt;li&gt;GoとBeegoが気になってます&lt;/li&gt;
+      &lt;li&gt;個人でWebシステムなどの開発を請け負うのが現在の目標です&lt;/li&gt;
+      &lt;li&gt;オレンジ色が好きです&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;最後に&lt;/h2&gt;
+      &lt;p&gt;お気軽にご参加ください！m(&lt;em&gt; &lt;/em&gt;)m&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://connpass.com/event/263641/'/>
+    <published>
+      2022-11-04T22:05:50+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://kobe-sannomiya-dev.connpass.com/event/265510/
+    </id>
+    <title>
+      【三宮.dev】今年を〆るもくもく会
+    </title>
+    <summary>
+      終わったら飲みに行きましょう
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;概要&lt;/h1&gt; &lt;p&gt;年の瀬にもくもくしていきませんか？&lt;/p&gt;
+      &lt;p&gt;今年三宮に新しくできた中央区文化センターの会議室を借りてもくもく会をします！ &lt;/p&gt;
+      &lt;p&gt;もくもく会の後は忘年会に行きます！！！&lt;/p&gt; &lt;h1&gt;対象者&lt;/h1&gt;
+      &lt;p&gt;どなたでも可&lt;/p&gt; &lt;h1&gt;開催場所&lt;/h1&gt; &lt;p&gt;中央区文化センター 会議室
+      1106&lt;/p&gt; &lt;h1&gt;三宮.devとは&lt;/h1&gt;
+      &lt;p&gt;神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです&lt;/p&gt;
+      &lt;p&gt;バックエンド～フロントエンドまで幅広い技術をテーマにしたイベントを企画・開催しています！&lt;/p&gt;
+      &lt;p&gt;毎月のイベントに関する情報などは&lt;a
+      href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;三宮.devのslack&lt;/a&gt;にて発信してますので是非ともご参加ください！&lt;/p&gt; &lt;p&gt;また、勉強会中に得た学びやハンズオンで用いた資料などメンバーが個人的に残しておきたいと思った情報は&lt;a href=&quot;https://scrapbox.io/sannomiya-dev/&quot; rel=&quot;nofollow&quot;&gt;三宮.devのScrapbox&lt;/a&gt; へ自由にアップロード可能としていますので、こちらもご活用ください！&lt;/p&gt; &lt;h1&gt;主催者プロフィール&lt;/h1&gt; &lt;h3&gt;てさお &lt;a href=&quot;https://twitter.com/tettyanman&quot; rel=&quot;nofollow&quot;&gt;@tettyanman&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;神戸で働くエンジニア&lt;br&gt; Ruby, Rustが好き&lt;br&gt; 最近気になっている技術は xR, Blockchain&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;me&quot; src=&quot;https://avatars.githubusercontent.com/tessai9?s=200&quot;&gt;&lt;/p&gt; &lt;h1&gt;slack&lt;/h1&gt; &lt;p&gt;三宮.devのslackあります&lt;br&gt; &lt;a href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;ご興味あればぜひご参加ください！&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;禁止事項、アンチハラスメントポリシー&lt;/h1&gt; &lt;p&gt;当コミュニティでは以下の行為を禁止させていただいております&lt;/p&gt; &lt;ul&gt; &lt;li&gt;勧誘や告知目的での参加&lt;/li&gt; &lt;li&gt;荒らし行為&lt;/li&gt; &lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://kobe-sannomiya-dev.connpass.com/event/265510/'/>
+    <published>
+      2022-11-04T18:30:52+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://rakuten-sapporo.connpass.com/event/263579/
@@ -26,11 +162,45 @@
       &lt;p&gt;This is event information sharing for the upcoming Rakuten
       Technology Conference in Sapporo. -For attending Tokyo conference, please
       check here: &lt;a href=&quot;https://tech.rakuten.co.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;https://tech.rakuten.co.jp/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The theme for this year is &quot;Tech and Green&quot; If you are interested in Rakuten Group&apos;s idea on technology trends and the vision for the future, please join us!&lt;/p&gt; &lt;p&gt;During the event, you will also have an opportunity to hear from Sapporo and Tokyo Rakuten engineers on various topics. Participation is completely free of charge. You are welcome to join us for lunch and a social gathering which will be held after the event. &lt;/p&gt; &lt;p&gt;If you are willing to attend, please fill out the registration form in advance. &lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;a href=&quot;https://tech.rakuten.co.jp/&quot; rel=&quot;nofollow&quot;&gt;楽天テクノロジーカンファレンス2022&lt;/a&gt; 札幌支社の案内となります！&lt;br&gt; 東京 (楽天クリムゾンハウス) での参加をご希望される方は下記ページをご覧ください。&lt;br&gt; &lt;a href=&quot;https://tech.rakuten.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://tech.rakuten.co.jp/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;今年のテーマは「Tech &amp;amp; Green」。楽天グループが考える、テクノロジーのトレンドと未来にご興味をお持ちの皆様、ぜひご参加ください！&lt;br&gt; Keynote Speech以外は札幌支社のメンバー、そして東京で働く楽天エンジニアの方が完全独自のコンテンツで講演させていただく予定です。&lt;/p&gt; &lt;p&gt;懇親会は完全自由です。乾杯だけ参加しても途中退席も大丈夫ですのでお気軽にご参加ください。 ただ、少しでも参加する可能性がある方は、事前準備のため参加時のアンケートの回答をよろしくお願いします。&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;Timetable / タイムスケジュール&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;We&apos;ll update the timetable if needed.&lt;/strong&gt; &lt;br&gt; &lt;strong&gt;タイムスケジュールは決まり次第、随時更新させていただきます&lt;/strong&gt;&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;言語&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;10:00~10:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場・受付&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;10:30~10:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;10:35~11:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;How can we get along with Kubernetes cluster operations?&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Hamano Shota(Rakuten Group, Inc.)&lt;br&gt;Yokoyama, Shingo(Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;11:15~12:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;How to connect client services and platforms?&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Seto, Keiichiro (Chairman and CEO, Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:15~13:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Keynote Speech (Live Streaming)&lt;br&gt;&amp;amp; Lunch Time&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;EN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;MICKEY MIKITANI (Chairman and CEO, Rakuten Group, Inc.)&lt;br&gt;TAMAR YEHOSHUA (CPO Slack Technologies, LLC) &lt;br&gt;CASSIE KOZYRKOV (Chief Decision Scientist, Google LLC)&lt;br&gt;CHRIS WRIGHT(Chief Technology Officer, Red Hat, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:30~14:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;早く終わらせたい！俺たち私たちのDiRT！&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Sato, Takumi (Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:05~14:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;How to manage branch office&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Hongo Sakiko (Senior Manager Rakuten Group, Inc.)&lt;br&gt;Yanagimoto Koichi (Manager Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:55~15:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;KPIの策定と自動化&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Aoyama Zaiyu(Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:30~16:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;脱！マルチプロセス、マルチスレッドによるContainer Native化 with Ruby&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Matsumoto Hiroki(Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:25~16:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:30~18:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;懇親会+LT&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;If you are willing to apply for LT, please share your Email/Twitter contact information in registration form. Adjustment is required in advance. &lt;br&gt; LTに応募される方は、事前に順番などの調整が行えるよう、連絡先(twitter/email)などがわかるようアカウントと連携していただくか、アンケートでの記載お願いします。&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;Rakuten Group Office Admission Rules / 楽天グループオフィス入館規約&lt;/h1&gt; &lt;p&gt;When you enter any of the Rakuten Group Offices, it is necessary to be aware of the items specified for the handling of information. Please read the following items before joining the tech conference. Thank you for your understanding.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;By entering any of the Rakuten Group Offices, all information belonging to the Rakuten Group that is known to the Group shall not be used without permission and shall not be leaked to third parties.&lt;/li&gt; &lt;li&gt;Inside the office, please do not record or take photos without permission.&lt;/li&gt; &lt;li&gt;If you want to enter a place other than the designated one, please ask for permission first.&lt;/li&gt; &lt;li&gt;Should damage be caused to the Rakuten Group by violating any of the above, a claim for damages shall be made.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;In addition, personal information provided by guests, as well as personal information recorded by camera is strictly managed by the company, and is used only for the purpose of entering and leaving the Rakuten Group and information management.&lt;/p&gt; &lt;p&gt;In addition, the contents of the agreement will be applied not only to the person who agrees but also to all accompanying persons.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;楽天グループオフィスへの入館にあたり、情報の取扱いについて定めた項目にご了承いただく必要がございます。 ご一読いただき、下記の同意欄に必要事項をご記入お願いいたします。 何卒ご理解賜りますよう宜しくお願い申し上げます。&lt;/p&gt; &lt;ol&gt; &lt;li&gt;楽天グループオフィスの入館により、知り得た楽天グループの全ての機密に属する情報の無断使用及び第三者等への漏洩を行わないこと&lt;/li&gt; &lt;li&gt;許可のない撮影及び録音を行わないこと&lt;/li&gt; &lt;li&gt;所定の場所以外に立ち入らないこと&lt;/li&gt; &lt;li&gt;前項に反したことにより楽天グループに損害が発生した場合には、損害賠償請求に応じるべきこと&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;なお、ご入力いただきました個人情報、及び防犯のため館内に設置しておりますビデオカメラにより記録される個人情報は、 当社において厳正に管理し、楽天グループの入退館管理及び情報管理の目的でのみ使用します。 また、同意いただいた内容は、同意者本人のみならず、同伴者すべてに適用されます。 &lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;Venue, facilities, admission way, etc. / 開催場所、設備、入場方法など&lt;/h1&gt; &lt;h2&gt;About participation / 参加について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;All visitors’ temperature will be checked at the entrance. Anyone with a temperature of 37.5 degrees Celsius or higher will not be permitted to enter the office regardless of their vaccination status. Please check your temperature at home before you come.&lt;/li&gt; &lt;li&gt;Entrance will only be permitted for attendees (regardless of age) who have received at least 2 vaccinations or have a negative PCR test result in the past 7 days (November 12-19). But proof is not required.&lt;/li&gt; &lt;li&gt;PCR test kits will not be provided at the venue, so if you do not agree with it, you will not be allowed to enter the venue.&lt;/li&gt; &lt;li&gt;This event is free of charge &lt;/li&gt; &lt;li&gt;Lunch and drinks in social gathering will be served free&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt; &lt;ul&gt; &lt;li&gt;ワクチン接種状況に関わらず、来館者全員に実施されるエントランスの検温にて37.5℃以上の発熱がみられる場合は、いかなる理由があっても入館は認められません。ご自宅にて検温の上、お越しください。&lt;/li&gt; &lt;li&gt;イベント当日の受付にて、年齢問わず該当者のワクチン接種2回完了、もしくは、11/12~11/19にPCR検査を実施の上、陰性であることをご報告下さい。(証明書不要)。 イベント当日、検査キットのご準備はございませんので、ご報告いただけない場合は、ご入館できかねること予めご了承下さい&lt;/li&gt; &lt;li&gt;無料です。&lt;/li&gt; &lt;li&gt;お昼はランチをご提供させていただきます。&lt;/li&gt; &lt;li&gt;懇親会は、お酒、ジュースなどご用意させていただきます。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;意見、知識の交換や新たなコミュニティのつながりを増やせる場にしましょう！&lt;/p&gt; &lt;h2&gt;Reception, a way of entrance, etc. / 受付・入場方法など&lt;/h2&gt; &lt;p&gt;The reception will starts at 10:00 AM. &lt;br&gt; Due to the building facility issue, entrance door must be opened from inside with a key. &lt;br&gt; Between 10:00-10:30, there will be a person in charge nearby to support. &lt;br&gt; If person in charge is away, please contact the phone number which will be posted on the entrance door on the day. &lt;/p&gt; &lt;hr&gt; &lt;p&gt;10時より受付を開始します。&lt;br&gt; ビルの設備上、中から鍵を開ける必要があります。10:00-10:30の間はドアのところに担当者がつきますが、それ以外はお電話で呼んでいただく形になります。&lt;br&gt; 担当者が不在の場合は、当日ドアのところに貼ってある電話番号までお電話ください。 担当者が鍵を開けにいきます。&lt;/p&gt; &lt;h2&gt;Food and drink, facilities, etc / 飲食・設備など&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;AC adapter and Free WIFI available&lt;/li&gt; &lt;li&gt;We will hand out giveaways&lt;/li&gt; &lt;li&gt;We will not offer vegetarian, vegan, or halal food&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt; &lt;ul&gt; &lt;li&gt;電源、WIFIあります&lt;/li&gt; &lt;li&gt;ノベルティもあります&lt;/li&gt; &lt;li&gt;ベジタリアン、ビーガン、ハラルフード等の提供はありませんので、ご了承のほどよろしくお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;後援&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://www.local.or.jp/&quot; rel=&quot;nofollow&quot;&gt;一般社団法人LOCAL様&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;更新履歴&lt;/h1&gt; &lt;p&gt;2022-10-31: Keynote Speechの時間に合わせて、午前中のタイムテーブルを調整しました。&lt;/p&gt;
+      rel=&quot;nofollow&quot;&gt;https://tech.rakuten.co.jp/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The theme for this year is &quot;Tech and Green&quot; If you are interested in Rakuten Group&apos;s idea on technology trends and the vision for the future, please join us!&lt;/p&gt; &lt;p&gt;During the event, you will also have an opportunity to hear from Sapporo and Tokyo Rakuten engineers on various topics. Participation is completely free of charge. You are welcome to join us for lunch and a social gathering which will be held after the event. &lt;/p&gt; &lt;p&gt;If you are willing to attend, please fill out the registration form in advance. &lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;a href=&quot;https://tech.rakuten.co.jp/&quot; rel=&quot;nofollow&quot;&gt;楽天テクノロジーカンファレンス2022&lt;/a&gt; 札幌支社の案内となります！&lt;br&gt; 東京 (楽天クリムゾンハウス) での参加をご希望される方は下記ページをご覧ください。&lt;br&gt; &lt;a href=&quot;https://tech.rakuten.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://tech.rakuten.co.jp/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;今年のテーマは「Tech &amp;amp; Green」。楽天グループが考える、テクノロジーのトレンドと未来にご興味をお持ちの皆様、ぜひご参加ください！&lt;br&gt; Keynote Speech以外は札幌支社のメンバー、そして東京で働く楽天エンジニアの方が完全独自のコンテンツで講演させていただく予定です。&lt;/p&gt; &lt;p&gt;懇親会は完全自由です。乾杯だけ参加しても途中退席も大丈夫ですのでお気軽にご参加ください。 ただ、少しでも参加する可能性がある方は、事前準備のため参加時のアンケートの回答をよろしくお願いします。&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;Timetable / タイムスケジュール&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;We&apos;ll update the timetable if needed.&lt;/strong&gt; &lt;br&gt; &lt;strong&gt;タイムスケジュールは決まり次第、随時更新させていただきます&lt;/strong&gt;&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;言語&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;10:00~10:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場・受付&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;10:30~10:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;10:35~11:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;How can we get along with Kubernetes cluster operations?&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Hamano Shota(Rakuten Group, Inc.)&lt;br&gt;Yokoyama, Shingo(Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;11:15~12:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;How to connect client services and platforms?&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Seto, Keiichiro (Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;12:15~13:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Keynote Speech (Live Streaming)&lt;br&gt;&amp;amp; Lunch Time&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;EN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;MICKEY MIKITANI (Chairman and CEO, Rakuten Group, Inc.)&lt;br&gt;TAMAR YEHOSHUA (CPO Slack Technologies, LLC) &lt;br&gt;CASSIE KOZYRKOV (Chief Decision Scientist, Google LLC)&lt;br&gt;CHRIS WRIGHT(Chief Technology Officer, Red Hat, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:30~14:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;早く終わらせたい！俺たちのDiRT！&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Sato, Takumi (Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:05~14:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;The Organization Management Beyond the SEA&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Hongo Sakiko (Senior Manager Rakuten Group, Inc.)&lt;br&gt;Yanagimoto Koichi (Manager Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:55~15:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;KPIの策定と自動化&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Aoyama Zaiyu(Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:30~16:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;脱！マルチプロセス、マルチスレッドによるContainer Native化 with Ruby&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Matsumoto Hiroki(Rakuten Group, Inc.)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:25~16:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;JPN&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:30~18:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;懇親会+LT&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;If you are willing to apply for LT, please share your Email/Twitter contact information in registration form. Adjustment is required in advance. &lt;br&gt; LTに応募される方は、事前に順番などの調整が行えるよう、連絡先(twitter/email)などがわかるようアカウントと連携していただくか、アンケートでの記載お願いします。&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;Rakuten Group Office Admission Rules / 楽天グループオフィス入館規約&lt;/h1&gt; &lt;p&gt;When you enter any of the Rakuten Group Offices, it is necessary to be aware of the items specified for the handling of information. Please read the following items before joining the tech conference. Thank you for your understanding.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;By entering any of the Rakuten Group Offices, all information belonging to the Rakuten Group that is known to the Group shall not be used without permission and shall not be leaked to third parties.&lt;/li&gt; &lt;li&gt;Inside the office, please do not record or take photos without permission.&lt;/li&gt; &lt;li&gt;If you want to enter a place other than the designated one, please ask for permission first.&lt;/li&gt; &lt;li&gt;Should damage be caused to the Rakuten Group by violating any of the above, a claim for damages shall be made.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;In addition, personal information provided by guests, as well as personal information recorded by camera is strictly managed by the company, and is used only for the purpose of entering and leaving the Rakuten Group and information management.&lt;/p&gt; &lt;p&gt;In addition, the contents of the agreement will be applied not only to the person who agrees but also to all accompanying persons.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;楽天グループオフィスへの入館にあたり、情報の取扱いについて定めた項目にご了承いただく必要がございます。 ご一読いただき、下記の同意欄に必要事項をご記入お願いいたします。 何卒ご理解賜りますよう宜しくお願い申し上げます。&lt;/p&gt; &lt;ol&gt; &lt;li&gt;楽天グループオフィスの入館により、知り得た楽天グループの全ての機密に属する情報の無断使用及び第三者等への漏洩を行わないこと&lt;/li&gt; &lt;li&gt;許可のない撮影及び録音を行わないこと&lt;/li&gt; &lt;li&gt;所定の場所以外に立ち入らないこと&lt;/li&gt; &lt;li&gt;前項に反したことにより楽天グループに損害が発生した場合には、損害賠償請求に応じるべきこと&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;なお、ご入力いただきました個人情報、及び防犯のため館内に設置しておりますビデオカメラにより記録される個人情報は、 当社において厳正に管理し、楽天グループの入退館管理及び情報管理の目的でのみ使用します。 また、同意いただいた内容は、同意者本人のみならず、同伴者すべてに適用されます。 &lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;Venue, facilities, admission way, etc. / 開催場所、設備、入場方法など&lt;/h1&gt; &lt;h2&gt;About participation / 参加について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;All visitors’ temperature will be checked at the entrance. Anyone with a temperature of 37.5 degrees Celsius or higher will not be permitted to enter the office regardless of their vaccination status. Please check your temperature at home before you come.&lt;/li&gt; &lt;li&gt;Entrance will only be permitted for attendees (regardless of age) who have received at least 2 vaccinations or have a negative PCR test result in the past 7 days (November 12-19). But proof is not required.&lt;/li&gt; &lt;li&gt;PCR test kits will not be provided at the venue, so if you do not agree with it, you will not be allowed to enter the venue.&lt;/li&gt; &lt;li&gt;This event is free of charge &lt;/li&gt; &lt;li&gt;Lunch and drinks in social gathering will be served free&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt; &lt;ul&gt; &lt;li&gt;ワクチン接種状況に関わらず、来館者全員に実施されるエントランスの検温にて37.5℃以上の発熱がみられる場合は、いかなる理由があっても入館は認められません。ご自宅にて検温の上、お越しください。&lt;/li&gt; &lt;li&gt;イベント当日の受付にて、年齢問わず該当者のワクチン接種2回完了、もしくは、11/12~11/19にPCR検査を実施の上、陰性であることをご報告下さい。(証明書不要)。 イベント当日、検査キットのご準備はございませんので、ご報告いただけない場合は、ご入館できかねること予めご了承下さい&lt;/li&gt; &lt;li&gt;無料です。&lt;/li&gt; &lt;li&gt;お昼はランチをご提供させていただきます。&lt;/li&gt; &lt;li&gt;懇親会は、お酒、ジュースなどご用意させていただきます。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;意見、知識の交換や新たなコミュニティのつながりを増やせる場にしましょう！&lt;/p&gt; &lt;h2&gt;Reception, a way of entrance, etc. / 受付・入場方法など&lt;/h2&gt; &lt;p&gt;The reception will starts at 10:00 AM. &lt;br&gt; Due to the building facility issue, entrance door must be opened from inside with a key. &lt;br&gt; Between 10:00-10:30, there will be a person in charge nearby to support. &lt;br&gt; If person in charge is away, please contact the phone number which will be posted on the entrance door on the day. &lt;/p&gt; &lt;hr&gt; &lt;p&gt;10時より受付を開始します。&lt;br&gt; ビルの設備上、中から鍵を開ける必要があります。10:00-10:30の間はドアのところに担当者がつきますが、それ以外はお電話で呼んでいただく形になります。&lt;br&gt; 担当者が不在の場合は、当日ドアのところに貼ってある電話番号までお電話ください。 担当者が鍵を開けにいきます。&lt;/p&gt; &lt;h2&gt;Food and drink, facilities, etc / 飲食・設備など&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;AC adapter and Free WIFI available&lt;/li&gt; &lt;li&gt;We will hand out giveaways&lt;/li&gt; &lt;li&gt;We will not offer vegetarian, vegan, or halal food&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt; &lt;ul&gt; &lt;li&gt;電源、WIFIあります&lt;/li&gt; &lt;li&gt;ノベルティもあります&lt;/li&gt; &lt;li&gt;ベジタリアン、ビーガン、ハラルフード等の提供はありませんので、ご了承のほどよろしくお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;後援&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://www.local.or.jp/&quot; rel=&quot;nofollow&quot;&gt;一般社団法人LOCAL様&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;更新履歴&lt;/h1&gt; &lt;p&gt;2022-10-31: Keynote Speechの時間に合わせて、午前中のタイムテーブルを調整しました。&lt;/p&gt;
     </content>
     <link rel='alternate' type='text/html' href='https://rakuten-sapporo.connpass.com/event/263579/'/>
     <published>
-      2022-11-04T09:36:49+09:00
+      2022-11-04T17:56:36+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://uniquevision.connpass.com/event/264090/
+    </id>
+    <title>
+      UV Study : Rust LT会 Vol.6
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;Rust
+      をテーマにしたLT会です。&lt;br&gt; Rust
+      について、各自興味のあるテーマを持ち寄ることで知識を深めていくことを目的としています。&lt;br&gt; 発表内容は
+      &lt;strong&gt;Rust にまつわる技術情報であればなんでも構いません。&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;当日 19:00 頃より Google Meet の入場を受け付けます。&lt;br&gt;
+      登壇者の方は当日早めに入場していただき、画面共有やマイクのテストにご協力ください。&lt;br&gt;
+      登壇順に希望がある場合はご連絡ください。可能な限り考慮します。&lt;/p&gt; &lt;h2&gt;発表時間&lt;/h2&gt;
+      &lt;p&gt;&lt;strong&gt;一人 1分 ~ 10分 程度&lt;/strong&gt;&lt;br&gt;
+      最短1分からご登壇いただけます！！！&lt;/p&gt; &lt;p&gt;6名ほどを予定しています。&lt;/p&gt;
+      &lt;h2&gt;発表テーマ例&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;最近〇〇を動かし始めたが、こんなことでハマった。&lt;/li&gt;
+      &lt;li&gt;こんなものを作ってみた。&lt;/li&gt;
+      &lt;li&gt;初心者に向けて、押さえておいて欲しいこと。&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;など、&lt;/p&gt; &lt;h2&gt;過去のテーマ&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;rubyからrustへの移行について&lt;/li&gt;
+      &lt;li&gt;Rustのlambda_http辛すぎなのでaxumしてみた&lt;/li&gt;
+      &lt;li&gt;fp-bindgenでRustでRustのプラグインを作る&lt;/li&gt;
+      &lt;li&gt;serdeで値だけのstructをシリアライズしたい。なぜならTwitterAPIv2のレスポンスがそうだから。&lt;/li&gt; &lt;li&gt;「axum」を触りました。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;過去の関連イベント&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/252412/&quot; rel=&quot;nofollow&quot;&gt;UV Study : Rust LT会 Vol.5&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/240157/&quot; rel=&quot;nofollow&quot;&gt;Vol.4 【初心者歓迎】Rust LT会@オンライン&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/229459/&quot; rel=&quot;nofollow&quot;&gt;Vol.3 【初心者歓迎】Rust LT会@オンライン&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/202944/&quot; rel=&quot;nofollow&quot;&gt;Vol.2 【初心者歓迎】Rust LT会@オンライン&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://uniquevision.connpass.com/event/191020/&quot; rel=&quot;nofollow&quot;&gt;Vol.1 【初心者歓迎】Rust LT会@オンライン&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;参加方法&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;本ページの参加者への情報にURLを記載していますので、ご確認ください。 &lt;/p&gt; &lt;p&gt;オンライン開催ですので、スピーカーやマイクなど必要機材の事前確認をお願いします。&lt;br&gt; 登壇者の方は当日までに発表資料としてスライドなどをご用意ください。&lt;/p&gt; &lt;p&gt;希望がない場合、登壇枠は順番に埋めていきます。&lt;br&gt; イベントページ下部、フィードに発表テーマをご記載いただければ数日のうちにタイムテーブルへ反映いたします。 &lt;/p&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;タイムテーブル&lt;/strong&gt;&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者/テーマ&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開始&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT1&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;kyamamoto9120/「」&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT2&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;yassun4dev/「Rust でコード駆動開発（Axum + OpenAPI）」&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT3&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;yamazaki_daichi/「競プロで使いたい便利crateをまとめる」&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT4&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT5&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT6&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;現在、登壇者は調整中です。決まり次第更新していきます。&lt;br&gt; 発表順は当日に前後する場合がございます。&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;オンライン開催(Google Meet)&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;参加費&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;無料&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;その他&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;ブログ・SNS等での発信大歓迎です！&lt;br&gt; ご都合が悪くなった場合は早めのキャンセル手続きをお願いします。&lt;br&gt; &lt;strong&gt;ユニークビジョンのこれまでの取り組みは&lt;a href=&quot;https://www.uniquevision.co.jp/case/?ref=connpass&quot; rel=&quot;nofollow&quot; title=&quot;ケーススタディ&quot;&gt;こちら&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://uniquevision.connpass.com/event/264090/'/>
+    <published>
+      2022-11-04T14:32:56+09:00
     </published>
   </entry>
   <entry>
@@ -265,238 +435,6 @@
     <link rel='alternate' type='text/html' href='https://findy.connpass.com/event/263814/'/>
     <published>
       2022-11-02T11:20:34+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://tonihome.connpass.com/event/265235/
-    </id>
-    <title>
-      【オンライン】とにかくほめる！マウントなしのLT会
-    </title>
-    <summary>
-      ほめあってLT経験値をUP！今回はお酒やおつまみなどを持参いただき、楽しく交流しましょう
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;とにかくほめる！マウントなしのLT会&lt;/h1&gt;
-      &lt;p&gt;ゆるく楽しくアウトプットができるLT会！&lt;/p&gt; &lt;h2&gt;▼目的&lt;/h2&gt;
-      &lt;ul&gt; &lt;li&gt;アウトプットで参加者全員の知識を広める&lt;/li&gt;
-      &lt;li&gt;エンジニアの横のつながりを深める&lt;/li&gt;
-      &lt;li&gt;LT経験者を増やしエンジニアの発信を促進する&lt;/li&gt; &lt;/ul&gt;
-      &lt;h4&gt;こんな方におすすめ&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;LTでモチベを上げたい人
-      &lt;/li&gt; &lt;li&gt;LTに挑戦してみたいけどまだ勇気が出ない &lt;/li&gt;
-      &lt;li&gt;横のつながりを作りたい人 &lt;/li&gt; &lt;li&gt;アウトプットの場が欲しい &lt;/li&gt;
-      &lt;li&gt;好きなイケてる技術を発表したい人 &lt;/li&gt; &lt;li&gt;とにかくほめられたい人 &lt;/li&gt;
-      &lt;/ul&gt; &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;h2&gt;▼今回のテーマ&lt;/h2&gt;
-      &lt;p&gt;テーマはフリーです！&lt;br&gt;
-      学習した内容のアウトプットや、新しい知識の収穫、LT力アップなどを目的とした、LT参加/ほめ参加お待ちしております！&lt;/p&gt;
-      &lt;h4&gt;ご参加の方は、お酒やおつまみなどを持参して、オンラインで楽しく交流しましょう〜！！！&lt;/h4&gt;
-      &lt;h1&gt;イベント詳細&lt;/h1&gt; &lt;h2&gt;▼当日のプログラム&lt;/h2&gt;
-      &lt;p&gt;LTは1人10分。（発表7分、質疑応答3分）&lt;/p&gt; &lt;table&gt; &lt;thead&gt;
-      &lt;tr&gt; &lt;th align=&quot;center&quot;&gt;　時間　　&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;　　　　タイトル　　　　&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;　　　　内容　　　　&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;20:50&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;発表者リハ&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;21:00&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;概要説明・自己紹介（アイスブレイク）&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;21:20&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;LTスタート&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;※順番は仮&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;&lt;code&gt;10分(質問含む)&lt;/code&gt;&lt;/td&gt;
-      &lt;td
-      align=&quot;left&quot;&gt;&lt;strong&gt;題名&lt;/strong&gt;　&lt;/td&gt;
-      &lt;td
-      align=&quot;left&quot;&gt;&lt;strong&gt;スピーカー&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;LT①&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;エンジニアが海外で英語使って仕事をすることについて&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;なる&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;center&quot;&gt;LT②&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;LT③&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;LT④&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;LT⑤&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;22:20&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;交流会&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;22:30&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;自由解散&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
-      &lt;/table&gt; &lt;h2&gt;▼会場詳細&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;Around&lt;/li&gt; &lt;li&gt;Slack （URLはイベント参加時に公開）&lt;/li&gt;
-      &lt;/ul&gt; &lt;h2&gt;▼ルール&lt;/h2&gt;
-      &lt;p&gt;みんなで気持ちよく実りあるLT会にするために守って欲しいルールです！ご協力ください。&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;とにかくホメる &lt;/li&gt; &lt;li&gt;技術マウントを取らない&lt;/li&gt;
-      &lt;li&gt;他の人のLTはちゃんと聞いてリアクション（みんなのやる気を高めましょう！）&lt;/li&gt;
-      &lt;li&gt;リアクションはマイクオン、コメント、質問、ホメること。批判は無しです。（できるだけミュートにしないで！）&lt;/li&gt;
-      &lt;li&gt;とにかく褒める、お互いに褒め合ってLT経験値をUPさせていきましょう！&lt;/li&gt;
-      &lt;li&gt;セールスやスカウトなどの勧誘および営業活動、ハラスメント行為などは禁止&lt;/li&gt;
-      &lt;li&gt;SNSへの投稿は自由ですが、写真・動画投稿時の顔出し可否の確認など、プライバシーへのご配慮をお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;当日遅れる/質問等は&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;こちらにDM&lt;/a&gt;下さい&lt;/p&gt; &lt;h3&gt;LT例&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;OAuthと仲良くなる！&lt;/li&gt; &lt;li&gt;個人開発のアイデアの出し方&lt;/li&gt; &lt;li&gt;Nimというプログラミング言語について&lt;/li&gt; &lt;li&gt;FW抜きでサイト制作してた話&lt;/li&gt; &lt;li&gt;みんなの得意技を自動抽出・可視化してみた！&lt;/li&gt; &lt;li&gt;pcapファイルの解析ツールネタ&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;タメになる内容であればなんでもOKです！&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;▼主催者&lt;/h2&gt; &lt;h3&gt;ファシリテート：&lt;strong&gt;あるたん&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/ririri_3132&quot; rel=&quot;nofollow&quot;&gt;@ririri_3132&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;オフショア、Webシステム開発などの複数プロジェクトを経験。&lt;br&gt; 現在はPL/PMOなどプロジェクトマネジメント業務に励む。PMPホルダー。&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1506248327750651907/hoUE5fDO_400x400.jpg&quot; width=&quot;100px&quot;&gt;&lt;/p&gt; &lt;h3&gt;ほめ主催：&lt;strong&gt;なる&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/1026NT&quot; rel=&quot;nofollow&quot;&gt;@1026NT&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;フリーランスエンジニア.&lt;br&gt; RubyやVueで開発したり、1人でアプリの管理をしたり、採用を任されたりしてる。&lt;br&gt; &lt;a href=&quot;https://www.ideee.tech/about?utm_source=connpass&amp;amp;utm_medium=event_page&amp;amp;utm_id=2022/1/30&quot; rel=&quot;nofollow&quot;&gt;（アイデアとエンジニアのマッチングアプリ）ideee&lt;/a&gt;の代表&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1475381494613180418/DVFdhV2n_400x400.jpg&quot; width=&quot;100px&quot;&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://tonihome.connpass.com/event/265235/'/>
-    <published>
-      2022-11-01T21:37:59+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/265220/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #142 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応20人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/265220/'/>
-    <published>
-      2022-11-01T19:30:01+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://rindokurb.connpass.com/event/265132/
-    </id>
-    <title>
-      りんどく.rb #85
-    </title>
-    <summary>
-      チェリー本2版 第85回
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;！！conpass の仕様上 8:00 開始となっていますが実際は 8:15 からです！！&lt;/p&gt;
-      &lt;h2&gt;りんどく.rbとは&lt;/h2&gt; &lt;p&gt;RubyやRuby on
-      Railsに関する技術書を輪読会形式で読むコミュニティです。&lt;br&gt;
-      基本的に火・金曜日の朝8:00〜9:00に開催します。&lt;br&gt;
-      必ずしも毎回参加しなくて大丈夫ですし、途中参加・途中退室、ラジオ参加(発言はせず聞いているだけ)も大歓迎です！！&lt;/p&gt;
-      &lt;p&gt;朝の時間を有効活用して、一緒に知識と技術を深めましょう！&lt;/p&gt;
-      &lt;p&gt;▼立ち上げの経緯&lt;br&gt; &lt;a
-      href=&quot;https://fuga-ch85.hatenablog.com/entry/2021/12/14/002128&quot;
-      rel=&quot;nofollow&quot;&gt;Rubyの技術書を輪読する”りんどく.rb”を立ち上げます - No day younger
-      than today&lt;/a&gt;&lt;/p&gt; &lt;p&gt;▼りんどく.rbのご案内&lt;br&gt; &lt;a
-      href=&quot;https://speakerdeck.com/fugakkbn/introduction-to-rindokurb&quot; rel=&quot;nofollow&quot;&gt;introduction-to-rindokurb - Speaker Deck&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;参加資格&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyが好きなこと&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;以上！！&lt;br&gt; 初心者〜ベテランまで、どなたでも歓迎します。&lt;/p&gt; &lt;h2&gt;現在輪読中の書籍・章&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERuby%E5%85%A5%E9%96%80-%E6%94%B9%E8%A8%822%E7%89%88-%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98%E3%81%8B%E3%82%89%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%BB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%8A%80%E6%B3%95%E3%81%BE%E3%81%A7-Software-Design/dp/4297124378/ref=sr_1_2_sspa?crid=3QOGFENWMIHOF&amp;amp;keywords=%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEruby%E5%85%A5%E9%96%80+%E6%94%B9%E8%A8%822%E7%89%88&amp;amp;qid=1641908422&amp;amp;sprefix=%E3%83%97%E3%83%AD%E3%82%92%E3%82%81%2Caps%2C193&amp;amp;sr=8-2-spons&amp;amp;psc=1&amp;amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPTDg5NjhTM1U5UlUmZW5jcnlwdGVkSWQ9QTA3NTY0NTIzVVNaUVdLTFhURFpSJmVuY3J5cHRlZEFkSWQ9QVJRRjRQV1Q2MVJWMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=&quot; rel=&quot;nofollow&quot;&gt;プロを目指す人のためのRuby入門[改訂2版] 言語仕様からテスト駆動開発・デバッグ技法まで（著：伊藤 淳一）&lt;/a&gt;&lt;/p&gt; &lt;p&gt;11.3.7「find パターン」〜&lt;/p&gt; &lt;p&gt;※&lt;strong&gt;改訂2版&lt;/strong&gt;を輪読します。これから購入される方は&lt;strong&gt;表紙のさくらんぼが2つ&lt;/strong&gt;のものを目印にお買い求めください。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;h3&gt;8:15〜8:25 自己紹介&lt;/h3&gt; &lt;p&gt;簡単に自己紹介をしていただきます。&lt;/p&gt; &lt;h3&gt;8:25〜9:05 輪読タイム&lt;/h3&gt; &lt;p&gt;節単位でランダムに1人指名して、音読します。&lt;br&gt; サンプルコードがあればモブプロしながら理解を深めます。&lt;br&gt; 質問や疑問は適宜してもらって大丈夫です。&lt;/p&gt; &lt;h3&gt;9:05〜9:15 ふりかえり&lt;/h3&gt; &lt;p&gt;この日学んだことや気づいたこと、感想などを書く時間です。&lt;br&gt; 書く場所は別途ご案内します。&lt;/p&gt; &lt;h2&gt;会場&lt;/h2&gt; &lt;p&gt;現在、オンラインでのみ開催しております。&lt;br&gt; 会場は&lt;a href=&quot;https://discord.com/&quot; rel=&quot;nofollow&quot;&gt;Discord&lt;/a&gt;のボイスチャンネルを使用します。&lt;br&gt; &lt;a href=&quot;https://discord.gg/2FYf8jTE2T&quot; rel=&quot;nofollow&quot;&gt;りんどく.rbのDiscordサーバー&lt;/a&gt;への登録をお願いします。&lt;/p&gt; &lt;h2&gt;ツール&lt;/h2&gt; &lt;p&gt;共有ドキュメントとして、&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa&lt;/a&gt;を使用しています。&lt;br&gt; &lt;a href=&quot;https://rindokurb.esa.io/team/invitations/member-76999605482c465674cb207507de69b1&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;から参加登録をお願いします。&lt;/p&gt; &lt;h2&gt;ハッシュタグ&lt;/h2&gt; &lt;p&gt;&lt;code&gt;#りんどくrb&lt;/code&gt;&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;あまり細かいルールを作りたくないので、ご参加いただく際は&lt;strong&gt;みんなが気持ちよく参加できる&lt;/strong&gt;言動を心がけていただくようお願いいたします。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://rindokurb.connpass.com/event/265132/'/>
-    <published>
-      2022-11-01T09:30:09+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://mild-web-sap.connpass.com/event/262287/
-    </id>
-    <title>
-      ゆるWeb勉強会@札幌 OnLine #21
-    </title>
-    <summary>
-      ゆるくWebに関することを、みんなで勉強したい！21回目！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;ゆるWeb勉強会@札幌&lt;/h1&gt;
-      &lt;p&gt;主に「Web」というキーワードに関する、ゆるい勉強会です。&lt;br&gt;
-      プログラムを始めたばかりの人も、仕事でバリバリやっている人も、どなたでも歓迎です！&lt;/p&gt;
-      &lt;p&gt;「勉強し初めて、次に何をやればいいんだろう？」&lt;br&gt;
-      「普段使っていない言語やフレームワーク、知っている人に導入部分を聞いてみたい。」&lt;br&gt;
-      「いつもはバックエンドだけど、たまに触るフロントエンドの話も知りたい。」&lt;br&gt;
-      「実際、みんな現場ではどうやって開発してるの？」&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;仕事・趣味を問わず、普段の仕事の内容も問わず、「Web系」に関することを、ゆるっとみんなで話してみたいです。&lt;/p&gt;
-      &lt;p&gt;何より、私が聞いてみたい！&lt;/p&gt; &lt;h2&gt;今回のテーマ: バックエンドのトライ&lt;/h2&gt;
-      &lt;p&gt;今回はバックエンドをテーマにします！&lt;/p&gt;
-      &lt;p&gt;普段使いのフレームワークの紹介、気になるバックエンドサービスを使ってみた、などなど、色々なお話を聞きたいです！&lt;/p&gt;
-      &lt;p&gt;チップスの紹介や便利な設定なども、お待ちしております！！&lt;/p&gt; &lt;p&gt;&lt;font
-      style=&quot;font-size: large;&quot;&gt;質問系の発表
-      大歓迎です！&lt;/font&gt;&lt;/p&gt; &lt;p&gt;発表時間は&lt;font style=&quot;color:
-      red;&quot;&gt; &lt;strong&gt;「10分」&lt;/strong&gt;&lt;/font&gt;
-      です。&lt;br&gt; 発表を聴きながら、気づいたこと、思ったことを、どんどんアウトプットしてみましょう！&lt;/p&gt;
-      &lt;h2&gt;オンラインでの進行方法&lt;/h2&gt; &lt;p&gt;発表者は、 StreamYard
-      によって画面共有をしてもらいます。&lt;/p&gt; &lt;p&gt;視聴者は、それを YouTube Live
-      によって視聴する形式です。&lt;/p&gt; &lt;p&gt;視聴中のコメントや疑問は、 Twitter や YouTube Live
-      のチャットへ投稿をお願いする形式となります。&lt;br&gt;&lt;/p&gt; &lt;h2&gt;開催日時&lt;/h2&gt;
-      &lt;p&gt;2022年10月31日&lt;br&gt; 20:00 - 22:00 (途中入退場可)&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;※時間については多少前後する可能性があります。&lt;/p&gt; &lt;h2&gt;プログラム&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;20:00&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;オープニング / tacck&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;10分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;20:10&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;LT1「Spring Boot + Thymeleaf + Viteの連携を試す」 /
-      de_teiu_tkgさん&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;10分 +
-      わいわい&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;20:30&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;LT2「PythonとJavaScriptで作成したアプリをTypeScriptでリプレースしてみた」 / u-tanさん&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;10分 + わいわい&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;20:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩 / みんな&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;10分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT3「Ruby+Sinatraでアプリの分散デバッグ環境を作る話」 / furandon_pigさん&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;10分 + わいわい&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;21:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT4「バックエンドを管理する Azure API Management の開発者ポータルを使ってみる」 / いわささん&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;10分 + わいわい&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;21:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT5「AWS Step Functions を AWS Amplify から呼び出した」 / tacck&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;10分 + わいわい&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;21:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;エンディング / tacck&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;5分&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※「わいわい」の時間で、参加者から寄せられた質問・コメントを元に発表者の方とトークします！&lt;br&gt; ※ 運営の都合により、後日調整する可能性があります。&lt;/p&gt; &lt;h2&gt;事前にご準備いただくもの&lt;/h2&gt; &lt;p&gt;発表予定の方は、ご自身のPCを使い、声を出せる場所を確保し、インターネットに安定して接続可能な場所で、発表をお願いします。&lt;br&gt; また、発表資料も必要に応じて作成お願いします。&lt;/p&gt; &lt;p&gt;参加される方も、ご自身のPCやスマートフォンを用い、できるだけインターネットに安定して接続できる環境で、適切な音量での視聴をお願いします。&lt;/p&gt; &lt;h2&gt;当日の持ち物&lt;/h2&gt; &lt;p&gt;当日は、ご自身の参加場所に応じた飲み物・食べ物などをご用意ください。&lt;br&gt; (特に発表予定の方がアルコールを用意する場合は、発表に支障のない範囲で飲むようにお願いします。)&lt;/p&gt; &lt;h2&gt;みんなで質問をしよう！&lt;/h2&gt; &lt;p&gt;この勉強会では、「みんなでわいわい」することを大切にしたいと考えています。&lt;/p&gt; &lt;p&gt;発表の途中でも、気になったことを気軽に質問したり、周りの方達も知っていることをフォローしたり、 ゆるくやりとりをしていきたいです。&lt;/p&gt; &lt;p&gt;質問は気軽に、答えはやさしく、みんなで暖かい空気を作っていきましょう！&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=10&quot; rel=&quot;nofollow&quot;&gt;https://speakerdeck.com/tacck/yuruwebmian-qiang-hui-at-zha-huang-number-1?slide=10&lt;/a&gt;&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;ゆるWebのお約束 * 初めに質問をする人は偉い！ * 他の人も質問しやすくなる * 素朴な質問をする人は偉い！ * 質問のハードルを下げる * 関係ない質問をする人は偉い！ * 話が広がる &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;YouTube Live: &lt;a href=&quot;https://youtu.be/ILL00xelET8&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/ILL00xelET8&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;参加費&lt;/h1&gt; &lt;p&gt;無料&lt;/p&gt; &lt;p&gt;もし活動にご理解・ご賛同頂ける場合、 OFUSE を頂けますと大変ありがたいです。&lt;br&gt; こちらは、継続的な勉強会開催に関わる活動・費用のために利用させていただきます。&lt;br&gt; &lt;a href=&quot;https://ofuse.me/tacck&quot; rel=&quot;nofollow&quot;&gt;https://ofuse.me/tacck&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;その他&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;内容は一部変更になる場合があります。&lt;/li&gt; &lt;li&gt;参加できなくなった場合は、お早めにキャンセルをお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;更新情報&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;2022/10/27&lt;ul&gt; &lt;li&gt;プログラム更新&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;2022/10/03&lt;ul&gt; &lt;li&gt;募集開始&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://mild-web-sap.connpass.com/event/262287/'/>
-    <published>
-      2022-10-31T19:16:43+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://tottoruby.connpass.com/event/265011/
-    </id>
-    <title>
-      とっとるびー第４６回 Online
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;ごった煮感で。 今回も無料です。&lt;/p&gt; &lt;h1&gt;オンライン開催について&lt;/h1&gt;
-      &lt;p&gt;今回も、オンライン開催の実験という扱いで開催します。&lt;/p&gt;
-      &lt;p&gt;参加される方には色々不便をおかけすると思いますが、ご了承ください。&lt;/p&gt;
-      &lt;p&gt;また、オンラインで長時間繋ぐのは疲れるので開催時間を２時間に短縮します。&lt;/p&gt;
-      &lt;h1&gt;開催ツールについて&lt;/h1&gt; &lt;p&gt;セッションは Zoomで行います。&lt;/p&gt;
-      &lt;p&gt;事前にZoomクライアントのインストールを済ませておいてください。&lt;/p&gt;
-      &lt;p&gt;当日、13時頃を目処に参加登録された方にご連絡します。&lt;/p&gt; &lt;h1&gt;発表テーマ&lt;/h1&gt;
-      &lt;ul&gt; &lt;li&gt;「リコリスリコイル」MakTakさん&lt;/li&gt;
-      &lt;li&gt;「swr(仮)」suzumura-ss&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;発表テーマは随時募集中です&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://tottoruby.connpass.com/event/265011/'/>
-    <published>
-      2022-10-31T13:58:39+09:00
     </published>
   </entry>
 </feed>
