@@ -9,8 +9,36 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-11-18T01:02:41+00:00
+    2022-11-19T00:59:58+00:00
   </updated>
+  <entry>
+    <id>
+      https://speee.connpass.com/event/265812/
+    </id>
+    <title>
+      OSS Gateミートアップ for Red Data Tools by Speee
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;「Rubyでデータ処理できるようにするプロジェクト」&lt;a
+      href=&quot;https://red-data-tools.github.io/ja/&quot;
+      rel=&quot;nofollow&quot;&gt;Red Data Tools&lt;/a&gt;の開発をする集まりです。すでにRed
+      Data Toolsの開発に参加している人はもちろん、これからRed Data
+      Toolsの開発に参加したい（Rubyでデータ処理できるようにしたい！）人向けの集まりです。&lt;/p&gt;
+      &lt;p&gt;参加にあたって特に事前知識は必要ありません。必要であれば集まりの中で随時説明するからです。&lt;/p&gt;
+      &lt;p&gt;この集まりは「OSSの開発に参加する人を継続的に増やす取り組み」&lt;a
+      href=&quot;https://oss-gate.github.io/&quot;
+      rel=&quot;nofollow&quot;&gt;OSS Gate&lt;/a&gt;の一環です。Red Data
+      Toolsが開発するツールはすべてOSSです。&lt;/p&gt; &lt;p&gt;以下は参考URLです。&lt;/p&gt;
+      &lt;ul&gt; &lt;li&gt;Red Data Toolsについての説明：&lt;ul&gt; &lt;li&gt;&lt;a
+      href=&quot;https://slide.rabbit-shocker.org/authors/kou/data-science-rb/&quot; rel=&quot;nofollow&quot;&gt;RubyもApache Arrowでデータ処理言語の仲間入り&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://www.clear-code.com/blog/2017/5/22.html&quot; rel=&quot;nofollow&quot;&gt;↑の補足記事&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;チャット（事前にオンラインで相談できる）：&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://gitter.im/red-data-tools/ja&quot; rel=&quot;nofollow&quot;&gt;red-data-tools/ja - Gitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Twitterのハッシュタグ&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/oss_gate&quot; rel=&quot;nofollow&quot;&gt;#oss_gate&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;OSS Gateについての説明：&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://oss-gate.github.io/announce/update/2015/12/17/welcome-to-oss-gate.html&quot; rel=&quot;nofollow&quot;&gt;OSS Gateへようこそ！&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;p&gt;事前にGitHubのアカウントを取得しておいてください。 可能でしたら、&lt;a href=&quot;https://red-data-tools.github.io/ja/&quot; rel=&quot;nofollow&quot;&gt;Red Data Toolsのプロジェクトページ&lt;/a&gt;に目を通しておいて頂けると幸いです。&lt;/p&gt; &lt;h2&gt;当日持ってくるもの&lt;/h2&gt; &lt;p&gt;Red Data Toolsの開発に使えるノートパソコンを持ってきてください。「Red Data Toolsの開発に使えるノートパソコン」というのは次のようなノートパソコンです。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;バージョン管理システム（Git）をインストール済み&lt;/li&gt; &lt;li&gt;GitHubにログインできる状態になっている&lt;/li&gt; &lt;li&gt;開発に使うプログラミング言語の処理系（RubyインタプリターやC++コンパイラーなど）をインストール済み&lt;/li&gt; &lt;li&gt;開発に使うエディターをインストール済み&lt;/li&gt; &lt;li&gt;などなど&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;準備で困った・不安なことがあるという人は&lt;a href=&quot;https://gitter.im/red-data-tools/ja&quot; rel=&quot;nofollow&quot;&gt;チャット&lt;/a&gt;で相談してください。&lt;/p&gt; &lt;h2&gt;目標&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;ワークショップ中に実際にRed Data Toolsに関連するOSSの開発に参加する&lt;/li&gt; &lt;li&gt;ワークショップ後も継続してRed Data Toolsに関連するOSSの開発に参加できそうな気持ちになる&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;会場詳細&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日程：2022年11月18日(金)&lt;/li&gt; &lt;li&gt;時間：10:00~21:30&lt;/li&gt; &lt;li&gt;場所：&lt;a href=&quot;https://gitter.im/red-data-tools/ja/&quot; rel=&quot;nofollow&quot;&gt;https://gitter.im/red-data-tools/ja/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://speee.connpass.com/event/265812/'/>
+    <published>
+      2022-11-18T10:58:24+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://rindokurb.connpass.com/event/267054/
@@ -199,26 +227,6 @@
     <link rel='alternate' type='text/html' href='https://lintnight.connpass.com/event/263931/'/>
     <published>
       2022-11-17T18:11:34+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://k-ruby.connpass.com/event/260720/
-    </id>
-    <title>
-      K-Ruby#33 LT &amp; 雑談会
-    </title>
-    <summary>
-      鹿児島Rubyコミュニティ勉強会＆雑談会
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;K-Ruby 開催のお知らせです&lt;/p&gt; &lt;p&gt;今回は定例の&lt;strong&gt;LT
-      &amp;amp; 雑談会&lt;/strong&gt;を開催します&lt;/p&gt;
-      &lt;p&gt;学生・初学者の方、エンジニアの方、サンデープログラマーの方など、プログラミングが好きなのであればどなたでも気軽にご参加ください！&lt;/p&gt; &lt;h4&gt;K-Ruby の活動記録&lt;/h4&gt; &lt;p&gt;&lt;a href=&quot;https://k-ruby.com/&quot; rel=&quot;nofollow&quot;&gt;https://k-ruby.com/&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;Slack 招待 URL&lt;/h4&gt; &lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/k-ruby/shared_invite/zt-pjj3zuc1-BQKrOrlCfI~Wip_CGC131w&quot; rel=&quot;nofollow&quot;&gt;https://join.slack.com/t/k-ruby/shared_invite/zt-pjj3zuc1-BQKrOrlCfI~Wip_CGC131w&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;p&gt;LTの希望者が枠を満たなかった場合、スキップしてもくもく会を実施します。 逆に枠が埋まっているけど発表したい方は、もくもく会の申込時にコメントいただけると枠を設けます。&lt;/p&gt; &lt;p&gt;もくもく会という名の雑談会です。お気軽に発言してください。&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;/th&gt; &lt;th&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;18:50&lt;/td&gt; &lt;td&gt;会場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;開始・説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05&lt;/td&gt; &lt;td&gt;LT1&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10&lt;/td&gt; &lt;td&gt;LT2&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:15&lt;/td&gt; &lt;td&gt;LT3&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:20&lt;/td&gt; &lt;td&gt;雑談会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:55&lt;/td&gt; &lt;td&gt;締め&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:00&lt;/td&gt; &lt;td&gt;終了&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;日程&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;/th&gt; &lt;th&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;日　程&lt;/td&gt; &lt;td&gt;奇数月 第3木曜&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;時　間&lt;/td&gt; &lt;td&gt;19:00-20:00 (予定)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;場　所&lt;/td&gt; &lt;td&gt;オンライン会場 (Meet)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;参加費&lt;/td&gt; &lt;td&gt;無料&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;定　員&lt;/td&gt; &lt;td&gt;20名くらい&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;会場は Meet になります&lt;/p&gt; &lt;p&gt;URLは参加登録後に当ページに表示されます。また、イベント開始前にメールで送付します&lt;/p&gt; &lt;h1&gt;LT 登壇&lt;/h1&gt; &lt;h3&gt;発表時間&lt;/h3&gt; &lt;p&gt;発表時間は &lt;strong&gt;5分&lt;/strong&gt;とします &lt;/p&gt; &lt;h3&gt;発表内容&lt;/h3&gt; &lt;p&gt;基本的に何でもOKです。お気軽にどうぞ！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Ruby に関すること&lt;/li&gt; &lt;li&gt;Ruby on Rails に関すること&lt;/li&gt; &lt;li&gt;OSS に関すること&lt;/li&gt; &lt;li&gt;プログラミング全般 (Ruby じゃなくても OK)&lt;/li&gt; &lt;li&gt;コンピュータサイエンスに関すること&lt;/li&gt; &lt;li&gt;自己紹介&lt;/li&gt; &lt;li&gt;最近の楽しかったこと・個人トピック&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;発表順番&lt;/h3&gt; &lt;p&gt;発表順は、LT枠の申し込み順になります。&lt;/p&gt; &lt;p&gt;ご不明な点などがありましたら、Slack か Twitter へお気軽にご連絡ください&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/k-ruby/shared_invite/zt-pjj3zuc1-BQKrOrlCfI~Wip_CGC131w&quot; rel=&quot;nofollow&quot;&gt;https://join.slack.com/t/k-ruby/shared_invite/zt-pjj3zuc1-BQKrOrlCfI~Wip_CGC131w&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/yoshikouki_&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/yoshikouki_&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://k-ruby.connpass.com/event/260720/'/>
-    <published>
-      2022-11-16T21:27:33+09:00
     </published>
   </entry>
 </feed>
