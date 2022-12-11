@@ -9,8 +9,28 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-12-10T00:47:37+00:00
+    2022-12-11T00:56:10+00:00
   </updated>
+  <entry>
+    <id>
+      https://connpass.com/event/269305/
+    </id>
+    <title>
+      [第2回] 恵比寿コーディンプレイスでもくもく会
+    </title>
+    <summary>
+      恵比寿駅徒歩5分の綺麗なオフィスでランチ付きのもくもく会！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;イベントの詳細・申込みは以下のリンクからお願いいたします&lt;/p&gt;
+      &lt;p&gt;&lt;a
+      href=&quot;https://eltea.jp/user/participant/events/e5a335a1-5fb1-4557-9af5-5f7f92e41ef5?from=connpass&quot; rel=&quot;nofollow&quot;&gt;https://eltea.jp/user/participant/events/e5a335a1-5fb1-4557-9af5-5f7f92e41ef5?from=connpass&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;背景&lt;/h2&gt; &lt;p&gt;アイザック株式会社・株式会社ハローが共同で開催するもくもく会です。&lt;/p&gt; &lt;p&gt;それぞれRubyのコミッターとシニアソフトウェアエンジニアが創業した会社で、エンジニアカルチャーへのコミットをすごく大事にしています。OSSでソフトウェアのシェアはある一方、最も大事であるはずなエンジニアの作業場所はオープンに提供されていない事に気づき、快適な作業場所を無料提供することにしたという背景があります。&lt;/p&gt; &lt;h2&gt;場所&lt;/h2&gt; &lt;p&gt;〒150-0013　東京都渋谷区恵比寿1-21-8 VORT恵比寿Ⅲ 2階&lt;/p&gt; &lt;h2&gt;日時&lt;/h2&gt; &lt;p&gt;12/17（日） 11:00 ~ 15:30（18時まで使用することも可能です）&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;p&gt;11:00~ 自己紹介・今日やること発表&lt;/p&gt; &lt;p&gt;11:15~ もくもく&lt;/p&gt; &lt;p&gt;12:30~ ランチタイム（ご用意してます）&lt;/p&gt; &lt;p&gt;13:00~ もくもく&lt;/p&gt; &lt;p&gt;15:00~ やったこと共有・雑談&lt;/p&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;p&gt;・参加いただける方は必ずSlackへの参加をお願いします（申込いただいたメールアドレスに招待します） ・当日来られなくなった方は、事前にご連絡ください。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://connpass.com/event/269305/'/>
+    <published>
+      2022-12-10T19:14:46+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://pepabo.connpass.com/event/231478/
@@ -279,29 +299,6 @@
     <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/268997/'/>
     <published>
       2022-12-07T20:24:17+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://saitamajs.connpass.com/event/263599/
-    </id>
-    <title>
-      Saitama.js vol.4【初心者歓迎 JavaScript LT会】
-    </title>
-    <summary>
-      初心者歓迎！埼玉出身でなくても参加できるJavaScript勉強会
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;【Saitama.jsとは】&lt;/h2&gt;
-      &lt;p&gt;Saitama.jsは埼玉発の登壇形式によるJavaScript勉強会です。&lt;/p&gt;
-      &lt;p&gt;内容はJavaScriptに関することであればなんでもOK！！あなたの登壇をお待ちしています！&lt;br&gt; 登壇例:)
-      JavaScriptのフレームワーク試してみた/こんなサービス作ってみた/意外と知らないJavaScriptの言語仕様/
-      などなど&lt;/p&gt;
-      &lt;p&gt;あなたのJavaScriptにまつわる「挑戦したこと。面白かったこと。勉強したこと。大変だったこと」などを共有してみませんか？&lt;/p&gt; &lt;p&gt;昨今の情勢を鑑みて、Zoomでのオンライン開催です。逆に埼玉の雰囲気を体験するチャンスです..！！埼玉県内の方はもちろん全国からの参加をお待ちしています。&lt;/p&gt; &lt;p&gt;また、Saitama.jsは登壇初心者〜経験者まで様々な知見が集まる場所、登壇に挑戦する場でありたいという想いで開催をしています。登壇初心者にも優しいコミュニティを目指します(という主催者にも登壇初心者がいます)。&lt;br&gt; 初心者の方々が登壇しやすい雰囲気づくりのため、参加者の皆さまにも発表に対する攻撃的コメントはご配慮いただけますと幸いです。&lt;br&gt; 楽しい勉強会をみなさんと作れたらと思っています。&lt;/p&gt; &lt;p&gt;ゆるーく開催しているイベントですので、興味をもった方はどなたでもご参加下さい！&lt;/p&gt; &lt;p&gt;もしよければ、当日は埼玉県の特産品オンラインショップ(外部サイト)などで、埼玉県ゆかりのおつまみ&amp;amp;お酒をご用意のうえお楽しみいただけると嬉しいです！&lt;br&gt; 主催者からおすすめの特産品、レシピの紹介があるかもしれません。お楽しみに！笑&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://chocotabi-saitama-store.jp/&quot; rel=&quot;nofollow&quot;&gt;https://chocotabi-saitama-store.jp/&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;【日時】&lt;/h2&gt; &lt;p&gt;2022/12/7(水)19：30〜（Zoomでのオンライン開催）&lt;/p&gt; &lt;h2&gt;【募集枠】&lt;/h2&gt; &lt;p&gt;ZoomのURLは参加登録をすると閲覧できます。&lt;/p&gt; &lt;h3&gt;[発表枠]&lt;/h3&gt; &lt;p&gt;5分枠 2名&lt;br&gt; 10〜15分枠 4名&lt;/p&gt; &lt;p&gt;※10〜15分枠ご希望の方は申し込みの際に発表時間(10分~15分)とタイトル(決まっていなければ未定でも大丈夫です) を管理者TwitterアカウントもしくはConpassのコメント機能でお知らせください。&lt;/p&gt; &lt;p&gt;以前までの登壇タイトルも参考になれば&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://saitamajs.connpass.com/event/222401/&quot; rel=&quot;nofollow&quot;&gt;Saitama.js vol.0【初心者歓迎 JavaScript LT会】&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://saitamajs.connpass.com/event/226850/&quot; rel=&quot;nofollow&quot;&gt;Saitama.js vol.1【初心者歓迎 JavaScript LT会】&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://saitamajs.connpass.com/event/233089/&quot; rel=&quot;nofollow&quot;&gt;Saitama.js vol.2【初心者歓迎 JavaScript LT会】&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://saitamajs.connpass.com/event/238897/&quot; rel=&quot;nofollow&quot;&gt;Saitama.js vol.３【初心者歓迎 JavaScript LT会】&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;[一般参加枠]&lt;/h3&gt; &lt;p&gt;Zoomでの聴講希望の方はこちらで申し込みください。&lt;/p&gt; &lt;p&gt;Twitterのハッシュタグ #saitamajs やZoomのコメントでの盛り上げを是非よろしくお願いします！&lt;/p&gt; &lt;p&gt;ブログ等でのアウトプットも大歓迎です！&lt;/p&gt; &lt;h2&gt;【タイムテーブル】&lt;/h2&gt; &lt;p&gt;時間は前後する場合がございます。ご了承ください。&lt;br&gt; 登壇順は先着順で入れています。順番の変更がある場合がございます。&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;th&gt;発表者&lt;/th&gt; &lt;th&gt;発表内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:30&lt;/td&gt; &lt;td&gt;運営より&lt;/td&gt; &lt;td&gt;運営　&lt;/td&gt; &lt;td&gt;Saitama.jsについて・諸注意&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40&lt;/td&gt; &lt;td&gt;10分枠&lt;/td&gt; &lt;td&gt;りゅーそう&lt;/td&gt; &lt;td&gt;再実装 React Testing Library&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;10分枠&lt;/td&gt; &lt;td&gt;daichiさん&lt;/td&gt; &lt;td&gt;Vue.jsの状態管理ライブラリPiniaを触ってみた（仮）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;10分枠&lt;/td&gt; &lt;td&gt;Nozomu Ikuta さん&lt;/td&gt; &lt;td&gt;OSS作者はじめの一歩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;10分枠&lt;/td&gt; &lt;td&gt;grgr-dkrk さん&lt;/td&gt; &lt;td&gt;Alternative to Storybook を探す旅&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:40&lt;/td&gt; &lt;td&gt;5分枠&lt;/td&gt; &lt;td&gt;furuichiさん&lt;/td&gt; &lt;td&gt;Denoに入門していきなりAleph.jsを触ってみた&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;5分枠&lt;/td&gt; &lt;td&gt;Yuya Yamaguchiさん&lt;/td&gt; &lt;td&gt;最新フレームワークAstroに触れる&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:50&lt;/td&gt; &lt;td&gt;運営より&lt;/td&gt; &lt;td&gt;運営&lt;/td&gt; &lt;td&gt;お知らせ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;希望者の方 (会場のZoom上でそのまま行います)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;【登壇者】&lt;/h2&gt; &lt;h3&gt;りゅーそう「再実装 React Testing Library 」&lt;/h3&gt; &lt;p&gt;Saitama.jsを主催しています。 好きな町は杉戸町です。おすすめの鰻屋さんは&lt;a href=&quot;https://www.takahashiya.org/guide/&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;です。&lt;/p&gt; &lt;p&gt;株式会社microCMSでプロダクトエンジニアという職名でフロント〜バックエンドまで開発しています。 今回はReact Testing Libraryの「queryByRole」を自作して使い方などを実践を交えつつ紹介します。&lt;/p&gt; &lt;h3&gt;daichiさん「Vue.jsの状態管理ライブラリPiniaを触ってみた（仮）」&lt;/h3&gt; &lt;p&gt;埼玉の大学に通ってから、埼玉県が第二の故郷となる。&lt;/p&gt; &lt;p&gt;現在、出張撮影サービスを運営する会社にてサーバーサイドからフロントエンドまで幅広く開発に携わっています。フロントエンドはVue.jsを触ることが多めです。 今回はVue.jsの状態管理ライブラリであるPiniaについて発表したいと思います。&lt;/p&gt; &lt;h3&gt;Nozomu Ikuta さん「OSS作者はじめの一歩」&lt;/h3&gt; &lt;p&gt;グローバル・ブレイン株式会社というベンチャーキャピタルでソフトウェアエンジニアをしています。&lt;/p&gt; &lt;p&gt;また、Vue.js日本ユーザーグループスタッフとして活動したり、Nuxt関連のエコシステムへのコントリビューションも積極的におこなっています。 最近は自分でも勉強会などイベントを主催してみたく、企画を考えています。&lt;/p&gt; &lt;h3&gt;grgr-dkrk さん「Alternative to Storybook を探す旅」&lt;/h3&gt; &lt;p&gt;株式会社さかなファームでリードエンジニアをしています。&lt;/p&gt; &lt;p&gt;東上線沿いに引っ越したら、大宮より池袋の方が近くなりました。&lt;/p&gt; &lt;h3&gt;furuichiさん「Denoに入門していきなりAleph.jsを触ってみた」&lt;/h3&gt; &lt;p&gt;埼玉県出身。SIer, 受託開発、B2BのSaaS開発などを経て、現職では育児領域のサービス開発に携わっている。フロントエンド業務ではこれまで React 一本。最近はサーバサイドの開発がメイン&lt;/p&gt; &lt;h3&gt;Yuya Yamaguchiさん「最新フレームワークAstroに触れる」&lt;/h3&gt; &lt;p&gt;株式会社Relicでデザインエンジニアリンググループのマネージャーをしています。&lt;/p&gt; &lt;p&gt;新規事業の仮設検証や立ち上げを支援しています。 最近は会社の仲間とプライベート開発をしています！&lt;/p&gt; &lt;p&gt;学生時代は自転車で流山〜三郷間を走り回ってました。&lt;/p&gt; &lt;h2&gt;【注意事項】&lt;/h2&gt; &lt;p&gt;・当イベントは予告なく、日時・内容の変更等を行う場合があります。ご了承お願い致します。&lt;/p&gt; &lt;p&gt;・オンライン配信のため、一部映像が乱れる場合がございます。&lt;/p&gt; &lt;p&gt;・下記のプライバシーポリシーをお守りください。お守りいただけない場合は退場をお願いすることがございます。&lt;/p&gt; &lt;h2&gt;【プライバシーポリシー】&lt;/h2&gt; &lt;p&gt;Saitama.jsにご参加される際は以下のようなハラスメント行為がないように、ご留意いただけますようご協力をよろしくお願い致します。&lt;/p&gt; &lt;p&gt;登壇しやすい雰囲気・より良いコミュニティ運営のためご理解・ご協力お願いします。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;発表の妨害、攻撃的なコメントをすること。&lt;/li&gt; &lt;li&gt;ジェンダー・宗教・性的事柄・障害・容姿・体型・人種・民族・年齢についての攻撃的コメントをすること。&lt;/li&gt; &lt;li&gt;脅迫、ストーカー行為、身体的接触、また不快な性的言動をすること。&lt;/li&gt; &lt;li&gt;マルチ、ねずみ講などの悪質な勧誘行為をすること。&lt;/li&gt; &lt;li&gt;以上のような行為を推奨したり、擁護したりすること。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;もし、以上のような行為を見かけた方は運営のTwitterアカウントまでご連絡ください。&lt;/p&gt; &lt;h2&gt;【主催者プロフィール】&lt;/h2&gt; &lt;p&gt;はぜ. &lt;a href=&quot;https://twitter.com/haze_it_ac&quot; rel=&quot;nofollow&quot;&gt;Twitterアカウント&lt;/a&gt;&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;(株)医薬情報ネットで製薬企業向けのSaaSを、(株)gimmickieで犬を飼っている人向けのSNSを作っています。たまにTechTrainで未経験エンジニアのメンター業もしています。 JavaScriptよりRubyとAWSを触っている時間の方が長い。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;p&gt;りゅーそう. &lt;a href=&quot;https://twitter.com/ryusou_mtkh&quot; rel=&quot;nofollow&quot;&gt;Twitterアカウント&lt;/a&gt;&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;元高校社会科教員。株式会社microCMSでヘッドレスCMS作ってます。ReactとCSSを書くのが好き。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h2&gt;過去のSaitama.js&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://saitamajs.connpass.com/event/222401/&quot; rel=&quot;nofollow&quot;&gt;Saitama.js vol.0【初心者歓迎 JavaScript LT会】&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://saitamajs.connpass.com/event/226850/&quot; rel=&quot;nofollow&quot;&gt;Saitama.js vol.1【初心者歓迎 JavaScript LT会】&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://saitamajs.connpass.com/event/233089/&quot; rel=&quot;nofollow&quot;&gt;Saitama.js vol.2【初心者歓迎 JavaScript LT会】&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://saitamajs.connpass.com/event/238897/&quot; rel=&quot;nofollow&quot;&gt;Saitama.js vol.３【初心者歓迎 JavaScript LT会】&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://saitamajs.connpass.com/event/263599/'/>
-    <published>
-      2022-12-07T18:24:47+09:00
     </published>
   </entry>
 </feed>
