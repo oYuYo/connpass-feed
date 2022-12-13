@@ -9,8 +9,85 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-12-12T00:53:11+00:00
+    2022-12-13T00:54:56+00:00
   </updated>
+  <entry>
+    <id>
+      https://tryrubydoc.connpass.com/event/269491/
+    </id>
+    <title>
+      TryRubyDoc.18
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;&lt;a
+      href=&quot;https://www.ruby-lang.org/ja/documentation/&quot;
+      rel=&quot;nofollow&quot;&gt;Rubyドキュメント&lt;/a&gt;のページを読みながら初心に帰ったつもりで勉強します&lt;/p&gt; &lt;p&gt;Gatherを使っておこないます　＞　&lt;a href=&quot;https://app.gather.town/app/vWVWENYxnvzDP6zU/TryRubyDoc&quot; rel=&quot;nofollow&quot;&gt;会場&lt;/a&gt;&lt;/p&gt; &lt;p&gt;3.1の更新情報の解説を読みながら、試していきます&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://techlife.cookpad.com/entry/2021/12/25/220002&quot; rel=&quot;nofollow&quot;&gt;https://techlife.cookpad.com/entry/2021/12/25/220002&lt;/a&gt;&lt;/p&gt; &lt;p&gt;次回は、”コマンドライン引数の変更”から&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://tryrubydoc.connpass.com/event/269491/'/>
+    <published>
+      2022-12-12T22:05:59+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://pa-ruby-rindoku.connpass.com/event/269477/
+    </id>
+    <title>
+      パーフェクトRuby(改訂2版)輪読会#4
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;&lt;a
+      href=&quot;https://gihyo.jp/book/2017/978-4-7741-8977-2&quot;
+      rel=&quot;nofollow&quot;&gt;改訂2版
+      パーフェクトRuby：書籍案内｜技術評論社&lt;/a&gt;(&lt;strong&gt;改訂2版
+      &lt;/strong&gt;)を輪読します。&lt;/p&gt; &lt;h2&gt;今読んでいる箇所&lt;/h2&gt;
+      &lt;p&gt;p57&lt;/p&gt; &lt;p&gt;から読み進めます🚀&lt;/p&gt;
+      &lt;h2&gt;参加資格&lt;/h2&gt;
+      &lt;p&gt;どなたでもご参加いただけますが、見学やラジオ参加以外の方は、本がお手元にある前提で輪読会をすすめます。&lt;/p&gt;
+      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;会場はオンラインです。
+      鹿児島.mkのDiscordを使わせていただきます。&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;こちらのURLから当日ご自由にご参加ください。&lt;ul&gt; &lt;li&gt;&lt;a
+      href=&quot;https://discord.gg/3h3gmrZy6h&quot;
+      rel=&quot;nofollow&quot;&gt;https://discord.gg/3h3gmrZy6h&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※リンク切れなどの不具合があった場合は、お手数ですが主催者のTwitterにDMお願いします🙏&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/hyumanase&quot; rel=&quot;nofollow&quot;&gt;主催者のTwitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※鹿児島.mkの詳細について&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://kagoshima-mk.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;鹿児島.mk - connpass&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;参加者が不快、不安に感じる発言や行動はしないようにお願いします。みんなが安心して学習できる場にしたいです。&lt;/p&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当日はボイスチャンネルによる参加になります。ビデオのオン・オフはご自由に。&lt;/li&gt; &lt;li&gt;見学、途中参加、途中退席、ラジオ参加(聞いているだけ)大歓迎😄&lt;/li&gt; &lt;li&gt;スケジュール・輪読会方針などはやりながら柔軟に変更していく予定です。あらかじめご了承ください。&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://pa-ruby-rindoku.connpass.com/event/269477/'/>
+    <published>
+      2022-12-12T19:55:24+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://pa-ruby-rindoku.connpass.com/event/269064/
+    </id>
+    <title>
+      パーフェクトRuby(改訂2版)輪読会#4
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;&lt;a
+      href=&quot;https://gihyo.jp/book/2017/978-4-7741-8977-2&quot;
+      rel=&quot;nofollow&quot;&gt;改訂2版
+      パーフェクトRuby：書籍案内｜技術評論社&lt;/a&gt;(&lt;strong&gt;改訂2版
+      &lt;/strong&gt;)を輪読します。&lt;/p&gt; &lt;h2&gt;今読んでいる箇所&lt;/h2&gt;
+      &lt;p&gt;p57&lt;/p&gt; &lt;p&gt;から読み進めます🚀&lt;/p&gt;
+      &lt;h2&gt;参加資格&lt;/h2&gt;
+      &lt;p&gt;どなたでもご参加いただけますが、見学やラジオ参加以外の方は、本がお手元にある前提で輪読会をすすめます。&lt;/p&gt;
+      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;会場はオンラインです。
+      鹿児島.mkのDiscordを使わせていただきます。&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;こちらのURLから当日ご自由にご参加ください。&lt;ul&gt; &lt;li&gt;&lt;a
+      href=&quot;https://discord.gg/3h3gmrZy6h&quot;
+      rel=&quot;nofollow&quot;&gt;https://discord.gg/3h3gmrZy6h&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※リンク切れなどの不具合があった場合は、お手数ですが主催者のTwitterにDMお願いします🙏&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/hyumanase&quot; rel=&quot;nofollow&quot;&gt;主催者のTwitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※鹿児島.mkの詳細について&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://kagoshima-mk.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;鹿児島.mk - connpass&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;参加者が不快、不安に感じる発言や行動はしないようにお願いします。みんなが安心して学習できる場にしたいです。&lt;/p&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当日はボイスチャンネルによる参加になります。ビデオのオン・オフはご自由に。&lt;/li&gt; &lt;li&gt;見学、途中参加、途中退席、ラジオ参加(聞いているだけ)大歓迎😄&lt;/li&gt; &lt;li&gt;スケジュール・輪読会方針などはやりながら柔軟に変更していく予定です。あらかじめご了承ください。&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://pa-ruby-rindoku.connpass.com/event/269064/'/>
+    <published>
+      2022-12-12T19:44:41+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://love-kotlin.connpass.com/event/269346/
@@ -33,11 +110,46 @@
       &lt;p&gt;Kotlin全般に関するお話や、AndroidやサーバーサイドにおいてKotlinを活用するお話をする
       &quot;Kotlin談義&quot;（絶賛登壇者募集中！資料ナシでもOK）、そしてKotlin仲間をつくる懇親会で楽しみましょう〜
       ^^/&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt;
-      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■運営&lt;/h2&gt; &lt;p&gt;以下のゆかいな仲間たちで運営しています。よろしく！&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/jollyjoester&quot; rel=&quot;nofollow&quot;&gt;@jollyjoester&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/panini_ja&quot; rel=&quot;nofollow&quot;&gt;@panini&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/n_takehata&quot; rel=&quot;nofollow&quot;&gt;@takehata&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/tarumzu&quot; rel=&quot;nofollow&quot;&gt;@tarumzu&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/sya_ri_dayo&quot; rel=&quot;nofollow&quot;&gt;@奏(sya-ri)&lt;/a&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;img alt=&quot;jollyjoester&quot; src=&quot;https://pbs.twimg.com/profile_images/566278842281504768/17Gnbk9G_400x400.jpeg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;panini&quot; src=&quot;https://pbs.twimg.com/profile_images/736775150348029953/9fx4Jnf8_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;takehata&quot; src=&quot;https://pbs.twimg.com/profile_images/1034463997704134656/e8I_LNuC_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;tarumzu&quot; src=&quot;https://pbs.twimg.com/profile_images/877053186896314368/Xi2-fLQA_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;奏&quot; src=&quot;https://pbs.twimg.com/profile_images/1484499142491918340/d_308ieO_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live TBD &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;僕が考えた超最強のKMMアプリの作り方&lt;/td&gt; &lt;td&gt;sobaya-0141&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■運営&lt;/h2&gt; &lt;p&gt;以下のゆかいな仲間たちで運営しています。よろしく！&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/jollyjoester&quot; rel=&quot;nofollow&quot;&gt;@jollyjoester&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/panini_ja&quot; rel=&quot;nofollow&quot;&gt;@panini&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/n_takehata&quot; rel=&quot;nofollow&quot;&gt;@takehata&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/tarumzu&quot; rel=&quot;nofollow&quot;&gt;@tarumzu&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/sya_ri_dayo&quot; rel=&quot;nofollow&quot;&gt;@奏(sya-ri)&lt;/a&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;img alt=&quot;jollyjoester&quot; src=&quot;https://pbs.twimg.com/profile_images/566278842281504768/17Gnbk9G_400x400.jpeg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;panini&quot; src=&quot;https://pbs.twimg.com/profile_images/736775150348029953/9fx4Jnf8_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;takehata&quot; src=&quot;https://pbs.twimg.com/profile_images/1034463997704134656/e8I_LNuC_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;tarumzu&quot; src=&quot;https://pbs.twimg.com/profile_images/877053186896314368/Xi2-fLQA_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;奏&quot; src=&quot;https://pbs.twimg.com/profile_images/1484499142491918340/d_308ieO_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live TBD &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
     </content>
     <link rel='alternate' type='text/html' href='https://love-kotlin.connpass.com/event/269346/'/>
     <published>
-      2022-12-11T19:04:48+09:00
+      2022-12-12T19:42:11+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://shinriseevent.connpass.com/event/268906/
+    </id>
+    <title>
+      プログラミング言語勉強会
+    </title>
+    <summary>
+      プログラミング言語の歴史や特徴を学ぶ勉強会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
+      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
+      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
+      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
+      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
+      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
+      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
+      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
+      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
+      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
+      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
+      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
+      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
+      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/268906/'/>
+    <published>
+      2022-12-12T15:01:13+09:00
     </published>
   </entry>
   <entry>
@@ -183,107 +295,6 @@
     <link rel='alternate' type='text/html' href='https://btob-cs.connpass.com/event/264371/'/>
     <published>
       2022-12-08T17:01:15+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shinriseevent.connpass.com/event/268906/
-    </id>
-    <title>
-      プログラミング言語勉強会
-    </title>
-    <summary>
-      プログラミング言語の歴史や特徴を学ぶ勉強会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
-      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
-      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
-      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
-      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
-      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
-      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
-      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
-      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
-      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
-      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
-      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
-      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
-      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/268906/'/>
-    <published>
-      2022-12-08T14:35:37+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://flexy.connpass.com/event/265166/
-    </id>
-    <title>
-      チームトポロジーをヒントに組織設計を考える
-    </title>
-    <summary>
-      素早く・安全にデリバリーするための最適解とは？
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;イベント概要&lt;/h2&gt;
-      &lt;p&gt;価値あるソフトウェアを素早く安定してデリバリーさせるため、チームファーストのアプローチとして注目されているチームトポロジー。&lt;/p&gt; &lt;p&gt;逆コンウェイ戦略を実現するため４つのチームタイプと３つのインタラクションモードが定義されていますが、果たしてチームトポロジーの概念を導入している各社は自社の状況にあわせてどのように適用しているのでしょうか？&lt;/p&gt; &lt;p&gt;今回は「チームトポロジーをヒントにした組織設計」をテーマに、タイミー社CTOの亀田さん、「食べチョク」を運営するビビッドガーデン社CTOの西尾さんを登壇者にお招きしました。タイミー社の亀田さんはチームトポロジーに関するイベントに数多く登壇しており、自組織においても1年前からチームトポロジーの概念を導入しています。&lt;br&gt; ビビッドガーデン社の西尾さんは今年の5月にCTOに着任され、急拡大している開発組織のパフォーマンスを最大化すべくチームトポロジーの概念を取り入れ始めています。&lt;/p&gt; &lt;p&gt;当日は開発組織における課題に対し解決手段の１つとしてチームトポロジーに辿り着いた背景を伺うほか、チームトポロジーをの考えをもとにチーム立ち上げする際、また運用する際の観点を語っていただきます。&lt;/p&gt; &lt;h3&gt;登壇者&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://drive.google.com/file/d/12K5xYR7zNRPAMtuIyY8tW6dz3bX1lDS0/view?usp=sharing&quot; width=&quot;150&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;亀田 彗様&lt;br&gt; 株式会社タイミー&lt;br&gt; 執行役員 CTO　&lt;a href=&quot;https://twitter.com/kameike&quot; rel=&quot;nofollow&quot;&gt;@kameike &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;大学時代、スタートアップやメガベンチャー企業でインターンを経験した後、2017年、ピクシブ株式会社へ入社。アプリエンジニアとしてiOSアプリ開発へ従事する傍ら、メンターとしてタイミーをサポート。&lt;br&gt; 2019年6月、タイミーへCPOとしてジョイン。エンジニア採用や開発組織の構築に携わっている。2020年8月、CTOへ就任。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;西尾 慎祐様&lt;br&gt; 株式会社ビビッドガーデン&lt;br&gt; 執行役員CTO　&lt;a href=&quot;https://twitter.com/nishio_dens&quot; rel=&quot;nofollow&quot;&gt;@nishio_dens&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;山梨大学大学院医学工学総合教育部を修了後、SI企業に就職。&lt;br&gt; Rubyエンジニア、開発チームリーダーとして動画配信サービスのフルリプレイスに携わる。&lt;br&gt; 2017年12月からvivid gardenのWebアプリケーション開発をサポート、2018年3月より正式メンバーとして参画。&lt;br&gt; 2022年5月執行役員CTOに就任。&lt;/p&gt; &lt;h3&gt;タイムテーブル&lt;/h3&gt; 　 　 　 　 &lt;table border=&quot;3&quot;&gt; &lt;tbody&gt;&lt;tr&gt; &lt;th&gt;19:00〜19:05&lt;/th&gt;&lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th&gt;19:05〜20:10&lt;/th&gt;&lt;td&gt;・チームトポロジーとは？&lt;br&gt; ・チームトポロジーをヒントに組織設計を考える&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th&gt;20:10〜20:25&lt;/th&gt;&lt;td&gt;質疑応答&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th&gt;20:25〜20:30&lt;/th&gt;&lt;td&gt;アンケート/クロージング&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;こんな方へおすすめ&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;エンジニアメンバーの増加に伴いチーム体制を変更していきたいが、基準となる要素が多くて何を軸にチーム設計していいかわからない方&lt;/li&gt; &lt;li&gt;チーム体制の変更によるメリットや反対に副作用があったかを知りたい方&lt;/li&gt; &lt;li&gt;チーム設計に際しチームトポロジーの考えを導入していきたいが、概念を適用している各社のうまくいった点や概念通りにいかなかった点を知りたい方&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;開催概要&lt;/h2&gt; &lt;h3&gt;日時&lt;/h3&gt; &lt;p&gt;2022年12月2日（金） 19:00〜20:30&lt;/p&gt; &lt;h3&gt;会場&lt;/h3&gt; &lt;p&gt;完全オンライン配信（YouTube Live配信）&lt;br&gt; ※本イベントの配信情報は、お申込後に別途ご連絡いたします。&lt;/p&gt; &lt;h3&gt;注意事項&lt;/h3&gt; &lt;p&gt;配信環境、使用するアプリケーションなどによって配信品質が変化することを予めご了承ください。&lt;/p&gt; &lt;h3&gt;参加方法&lt;/h3&gt; &lt;ol&gt; &lt;li&gt;本イベントに申し込み&lt;/li&gt; &lt;li&gt;運営より配信ページ情報をご連絡&lt;/li&gt; &lt;li&gt;YouTube Live により視聴&lt;/li&gt; &lt;/ol&gt; &lt;h2&gt;主催者&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;http://www.circu.co.jp/&quot; rel=&quot;nofollow&quot;&gt;株式会社サーキュレーション&lt;/a&gt;/FLEXY（フレキシー）部&lt;br&gt; 「世界中の経験・知見が循環する社会の創造」をビジョンに掲げ個人/法人のオープンイノベーションを支援しています。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://flxy.jp/&quot; rel=&quot;nofollow&quot;&gt;FLEXY&lt;/a&gt;&lt;br&gt; 独立エンジニア/デザイナー・技術顧問向けの案件紹介サービス&lt;/p&gt; &lt;h2&gt;CTO meetupとは&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;有識者の経験や知見を循環させ、エンジニアのみなさんのスキルアップを後押しする学びの場。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;各技術の普及から技術環境の改善、組織づくりまで、毎回様々なテーマに対して各分野の第一線で活躍をされているCTO/エンジニア等をお招きし、トークセッションを行います。&lt;/p&gt; &lt;h2&gt;個人情報の取扱について&lt;/h2&gt; &lt;p&gt;イベントの主催者である株式会社サーキュレーションがそれぞれの個人情報取扱い規定にもとづき管理させていただきます。 &lt;a href=&quot;https://www.circu.co.jp/privacy/&quot; rel=&quot;nofollow&quot;&gt;プライバシーポリシー&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;行動規範&lt;/h2&gt; &lt;p&gt;本イベントは技術の発展やその他開発トピックスに関する情報交換・交流を行うための場所です。&lt;br&gt; そのため、参加者に対して以下のようなハラスメント行為は許容しません。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;言葉による性別、性的指向、障がいの有無、外見、身体の大きさ、人種、宗教に関する攻撃的なコメント&lt;/li&gt; &lt;li&gt;公的空間での性的な映像表現&lt;/li&gt; &lt;li&gt;意図的な威力行為、ストーキング、つきまとい&lt;/li&gt; &lt;li&gt;写真撮影や録音によるいやがらせ&lt;/li&gt; &lt;li&gt;トークやその他の会議イベントに対して繰り返して中断しようとする行為&lt;/li&gt; &lt;li&gt;望まれない性的な注意を引きつける行為&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;ハラスメント行為に遭った、目撃した場合には、スタッフの誰かに連絡していただくようお願いします。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://flexy.connpass.com/event/265166/'/>
-    <published>
-      2022-12-08T13:57:52+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://speee.connpass.com/event/269093/
-    </id>
-    <title>
-      OSS Gateミートアップ for Red Data Tools by Speee
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;「Rubyでデータ処理できるようにするプロジェクト」&lt;a
-      href=&quot;https://red-data-tools.github.io/ja/&quot;
-      rel=&quot;nofollow&quot;&gt;Red Data Tools&lt;/a&gt;の開発をする集まりです。すでにRed
-      Data Toolsの開発に参加している人はもちろん、これからRed Data
-      Toolsの開発に参加したい（Rubyでデータ処理できるようにしたい！）人向けの集まりです。&lt;/p&gt;
-      &lt;p&gt;参加にあたって特に事前知識は必要ありません。必要であれば集まりの中で随時説明するからです。&lt;/p&gt;
-      &lt;p&gt;この集まりは「OSSの開発に参加する人を継続的に増やす取り組み」&lt;a
-      href=&quot;https://oss-gate.github.io/&quot;
-      rel=&quot;nofollow&quot;&gt;OSS Gate&lt;/a&gt;の一環です。Red Data
-      Toolsが開発するツールはすべてOSSです。&lt;/p&gt; &lt;p&gt;以下は参考URLです。&lt;/p&gt;
-      &lt;ul&gt; &lt;li&gt;Red Data Toolsについての説明：&lt;ul&gt; &lt;li&gt;&lt;a
-      href=&quot;https://slide.rabbit-shocker.org/authors/kou/data-science-rb/&quot; rel=&quot;nofollow&quot;&gt;RubyもApache Arrowでデータ処理言語の仲間入り&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://www.clear-code.com/blog/2017/5/22.html&quot; rel=&quot;nofollow&quot;&gt;↑の補足記事&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;チャット（事前にオンラインで相談できる）：&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://gitter.im/red-data-tools/ja&quot; rel=&quot;nofollow&quot;&gt;red-data-tools/ja - Gitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Twitterのハッシュタグ&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/oss_gate&quot; rel=&quot;nofollow&quot;&gt;#oss_gate&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;OSS Gateについての説明：&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://oss-gate.github.io/announce/update/2015/12/17/welcome-to-oss-gate.html&quot; rel=&quot;nofollow&quot;&gt;OSS Gateへようこそ！&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;p&gt;事前にGitHubのアカウントを取得しておいてください。 可能でしたら、&lt;a href=&quot;https://red-data-tools.github.io/ja/&quot; rel=&quot;nofollow&quot;&gt;Red Data Toolsのプロジェクトページ&lt;/a&gt;に目を通しておいて頂けると幸いです。&lt;/p&gt; &lt;h2&gt;当日持ってくるもの&lt;/h2&gt; &lt;p&gt;Red Data Toolsの開発に使えるノートパソコンを持ってきてください。「Red Data Toolsの開発に使えるノートパソコン」というのは次のようなノートパソコンです。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;バージョン管理システム（Git）をインストール済み&lt;/li&gt; &lt;li&gt;GitHubにログインできる状態になっている&lt;/li&gt; &lt;li&gt;開発に使うプログラミング言語の処理系（RubyインタプリターやC++コンパイラーなど）をインストール済み&lt;/li&gt; &lt;li&gt;開発に使うエディターをインストール済み&lt;/li&gt; &lt;li&gt;などなど&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;準備で困った・不安なことがあるという人は&lt;a href=&quot;https://gitter.im/red-data-tools/ja&quot; rel=&quot;nofollow&quot;&gt;チャット&lt;/a&gt;で相談してください。&lt;/p&gt; &lt;h2&gt;目標&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;ワークショップ中に実際にRed Data Toolsに関連するOSSの開発に参加する&lt;/li&gt; &lt;li&gt;ワークショップ後も継続してRed Data Toolsに関連するOSSの開発に参加できそうな気持ちになる&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;会場詳細&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日程：2022年12月21日(水)&lt;/li&gt; &lt;li&gt;時間：10:00~21:30&lt;/li&gt; &lt;li&gt;場所：&lt;a href=&quot;https://gitter.im/red-data-tools/ja/&quot; rel=&quot;nofollow&quot;&gt;https://gitter.im/red-data-tools/ja/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;オンライン質問タイム&lt;/h2&gt; &lt;p&gt;12:00-12:30に &lt;a href=&quot;https://youtu.be/1vgbUWwD6Tk&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/1vgbUWwD6Tk&lt;/a&gt; でオンラインで質問する様子をライブ配信します！&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://speee.connpass.com/event/269093/'/>
-    <published>
-      2022-12-08T10:44:36+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://fjordbootcamp.connpass.com/event/268831/
-    </id>
-    <title>
-      角谷トーク 2022
-    </title>
-    <summary>
-      今年もやります！！今年はフィヨルドブートキャンプ生によるLTもあります。
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;今年も角谷トークを開催します🎉&lt;/h2&gt;
-      &lt;p&gt;オンラインプログラミングスクールのフィヨルドブートキャンプでは、角谷さんから受講生に対してのメッセージをいただくという会を毎年行っているので、今年も開催が決まりました！！&lt;/p&gt; &lt;p&gt;フィヨルドブートキャンプだけで独占するのは勿体ないので、角谷さんの話を毎年楽しみにしている皆さん、フィヨルドブートキャンプ以外のスクールや独学でプログラミングの学習に励んでいる皆さん、フィヨルドブートキャンプに参加を検討している方にも見れるように一般公開します。&lt;/p&gt; &lt;h2&gt;開催日時📆&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;2022年12月19日（月）19:30 〜&lt;/li&gt; &lt;li&gt;Youtube Live にて配信します（URLは決まり次第連絡します）&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;オープニングアクトLTもあります！！&lt;/h2&gt; &lt;p&gt;今回は、フィヨルドブートキャンプの中身、雰囲気を知る機会になればと思い、角谷トーク本編の前にフィヨルドブートキャンプ受講生・卒業生によるLTも行います。たくさんの人の前で登壇することに挑戦する受講生・卒業生を温かい目で見守ってくださいー🙏&lt;/p&gt; &lt;h2&gt;お試し期間延長キャンペーンも開始します✨&lt;/h2&gt; &lt;p&gt;角谷トーク 2022 を開催する 2022年12月19日（月）00:00 から、年明けの 2023年01月08日（日）23:59 の間にフィヨルドブートキャンプに入会すると、通常3日間のお試し期間のところが、7日間に延長されるキャンペーンを開始します。ぜひ、フィヨルドブートキャンプの入会を検討している方はこの機会を利用し、がっつりフィヨルドブートキャンプを試してみてください💪&lt;/p&gt; &lt;h2&gt;Youtube Live で配信します⚡&lt;/h2&gt; &lt;p&gt;今回はオンラインイベントサービスの Remo を経由して、Youtube Live で配信します。&lt;/p&gt; &lt;h3&gt;URL は当日連絡します&lt;/h3&gt; &lt;p&gt;システムの都合上、本番前にならないと Youtube の URL が決まらないので、URL が決まり次第連絡をさせていただきます。&lt;/p&gt; &lt;h2&gt;角谷さんについて👳‍♀️&lt;/h2&gt; &lt;h3&gt;角谷 信太郎&lt;/h3&gt; &lt;p&gt;個人事業主。一般社団法人日本Rubyの会理事。株式会社永和システムマネジメントフェロー。すべてのRubyKaigiの運営に携わる。Asakusa.rbメンバー。好きなメソッドはObject#extend。フィヨルドブートキャンプの前身である256インターンのきっかけをつくったと主張している。主な訳書に『ユニコーン企業のひみつ』、『Clean Agile』『なるほどUnixプロセス』、『Rubyのしくみ』、『アジャイルサムライ』、『アジャイルな見積りと計画づくり』など。&lt;/p&gt; &lt;h2&gt;過去の角谷トーク動画&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=aP8lhJEm3_E&quot; rel=&quot;nofollow&quot;&gt;角谷トーク 2020 / Fjord Boot Camp as a Gate&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kRQl1BIhG5s&quot; rel=&quot;nofollow&quot;&gt;角谷トーク 2021 / (YOU) NAME IT! FJORD BOOT CAMP AS A GATE&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://fjordbootcamp.connpass.com/event/268831/'/>
-    <published>
-      2022-12-08T10:38:06+09:00
     </published>
   </entry>
 </feed>
