@@ -9,8 +9,130 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-12-20T00:50:40+00:00
+    2022-12-21T00:45:54+00:00
   </updated>
+  <entry>
+    <id>
+      https://toruby.connpass.com/event/270185/
+    </id>
+    <title>
+      toruby 189th
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;ul&gt; &lt;li&gt;いつもの勉強会をします&lt;/li&gt; &lt;li&gt;研鑽Rubyやってます（&lt;a
+      href=&quot;https://www.lambdanote.com/products/products-polished-ruby-beta）&quot; rel=&quot;nofollow&quot;&gt;https://www.lambdanote.com/products/products-polished-ruby-beta）&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://toruby.connpass.com/event/270185/'/>
+    <published>
+      2022-12-20T23:21:14+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://andpad.connpass.com/event/268447/
+    </id>
+    <title>
+      Ruby 3.2 リリースパーティー presented by アンドパッド
+    </title>
+    <summary>
+      Ruby 3.2 リリースを記念したイベント。ハイブリッド開催いたします！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;Ruby 3.2 リリースを祝し、ハイブリッドイベントを開催します。&lt;br&gt; オンライン・オフライン
+      どちらでも楽しんでもらえるよう準備中。（できる範囲でがんばります！） &lt;/p&gt; &lt;p&gt;Ruby の作者である Matz 氏や
+      Ruby コミッターの参加も予定しています。 &lt;/p&gt; &lt;h2&gt;参加予定者&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/sponsors/matz&quot;
+      rel=&quot;nofollow&quot;&gt;matz&lt;/a&gt; (オンライン)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/nurse&quot;
+      rel=&quot;nofollow&quot;&gt;naruse&lt;/a&gt; (オンライン)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/sponsors/ko1&quot;
+      rel=&quot;nofollow&quot;&gt;ko1&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a
+      href=&quot;https://github.com/kateinoigakukun&quot;
+      rel=&quot;nofollow&quot;&gt;katei&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
+      href=&quot;https://github.com/amatsuda&quot;
+      rel=&quot;nofollow&quot;&gt;amatsuda&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
+      href=&quot;https://github.com/sponsors/hsbt&quot;
+      rel=&quot;nofollow&quot;&gt;hsbt&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;他にもたくさんの Ruby コミッタがパネリストまたは現地で参加予定です! Ruby 3.2
+      で気になる新機能や改善について聞きたいこと、知りたいことがある方は是非ご参加ください。&lt;/p&gt;
+      &lt;h2&gt;スケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
+      &lt;th&gt;time&lt;/th&gt; &lt;th&gt;content&lt;/th&gt; &lt;/tr&gt;
+      &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;18:30&lt;/td&gt;
+      &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt;
+      &lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:05&lt;/td&gt; &lt;td&gt;Ruby 3.2 の紹介・新機能自慢&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00&lt;/td&gt;
+      &lt;td&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
+      &lt;p&gt;※Ruby コミッタの皆さんで新機能自慢の枠が欲しい方はご連絡ください。&lt;/p&gt;
+      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;オンライン・オフライン お好きな方でご参加ください。&lt;br&gt;
+      オフラインは会場のキャパもあるため人数制限があります。&lt;br&gt; 感染予防対策もしっかり行います。 &lt;/p&gt;
+      &lt;p&gt;開催日程：2022年12月27日（火）19:00～（リアル会場オープンは18:45～）&lt;br&gt;
+      場所：東京都千代田区神田練塀町300番地 住友不動産秋葉原駅前ビル9階 　　　&lt;a
+      href=&quot;https://goo.gl/maps/mwekBqKKEvCk1rBx5&quot;
+      rel=&quot;nofollow&quot;&gt;https://goo.gl/maps/mwekBqKKEvCk1rBx5&lt;/a&gt; 　　　JR秋葉原駅徒歩3分&lt;/p&gt; &lt;h2&gt;現地会場 参加のみなさまへ&lt;/h2&gt; &lt;p&gt;感染予防対策について、徹底しイベントを実施します。&lt;br&gt; 手指消毒・検温・常時マスク着用（登壇や配信の便宜上必要な場合は随時対応）へのご協力をお願い致します。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://andpad.connpass.com/event/268447/'/>
+    <published>
+      2022-12-20T17:51:06+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://love-swift.connpass.com/event/269337/
+    </id>
+    <title>
+      集まれSwift好き！Swift愛好会 vol.71 @ オンライン
+    </title>
+    <summary>
+      2022年の締めくくりにみんなでわいわいSwiftについて語ろう！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
+      Live)での開催といたします。 よい機会ですので、普段参加出来ない海外・地方の方々など幅広い参加をお待ちしています！&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;今回はKotlin愛好会との合同開催です！&lt;/strong&gt;&lt;/p&gt;
+      &lt;h2&gt;■イベント概要&lt;/h2&gt; &lt;p&gt;Swift好きで集まって、ビール片手にわいわい
+      LT会です！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Swiftからプログラムを始めた方&lt;/li&gt;
+      &lt;li&gt;Objective-C時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（Java, Ruby,
+      etc）をやりながらSwiftを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;いろんな背景の人で集まってSwiftを遊び倒したいです！&lt;/p&gt;
+      &lt;p&gt;イベント前半では、&lt;strong&gt;Swift全般&lt;/strong&gt;に関するお話や、iOSアプリ開発&lt;strong&gt;スキルアップのための様々なテクニック&lt;/strong&gt;をお話する&quot;Swift談義タイム&quot;。&lt;/p&gt; &lt;p&gt;後半は、Swift仲間をつくる懇親会へ^^/&lt;/p&gt; &lt;p&gt;なお、絶賛Swift談義スピーカー募集してます。 ぜひご経験をお聞かせください！&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt; &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;p&gt;登壇していただいた内容については知見共有のため、YouTube Liveでの配信およびアーカイブをする予定です。ご了承の上、お申込みください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;SwiftUI x Concurrency をより簡単に&lt;/td&gt; &lt;td&gt;bannzai&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;僕が考えた超最強のKMMアプリの作り方&lt;/td&gt; &lt;td&gt;sobaya-0141&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;SwiftUIで作る「Drag処理を利用したCarousel型UI」と「Pinterest風GridレイアウトUI」の実装例とポイントまとめ&lt;/td&gt; &lt;td&gt;fumiyasac&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Kotlin 1.8.0の新機能と消える機能&lt;/td&gt; &lt;td&gt;Kuu / Sushi&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;iPhone14 Proのdynamic islandを使ってみた&lt;/td&gt; &lt;td&gt;あかつか&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Kotlin roadmap&lt;/td&gt; &lt;td&gt;masaruhr&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;ChartView最＆高㊗️&lt;/td&gt; &lt;td&gt;keisuke yamagishi&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■運営&lt;/h2&gt; &lt;p&gt;以下のゆかいな仲間たちで運営しています。よろしく！&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/jollyjoester&quot; rel=&quot;nofollow&quot;&gt;@jollyjoester&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/afroscript10&quot; rel=&quot;nofollow&quot;&gt;@afroscript&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/o_chicchi&quot; rel=&quot;nofollow&quot;&gt;@o_chicchi&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/66nylon_y&quot; rel=&quot;nofollow&quot;&gt;@roku&lt;/a&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;img alt=&quot;jollyjoester&quot; src=&quot;https://pbs.twimg.com/profile_images/566278842281504768/17Gnbk9G_400x400.jpeg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;afroscript&quot; src=&quot;https://pbs.twimg.com/profile_images/691787503284666369/yIqXdI42_400x400.png&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;o_chicchi&quot; src=&quot;https://pbs.twimg.com/profile_images/1273260349714649088/umncFZ5R_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;roku&quot; src=&quot;https://pbs.twimg.com/profile_images/1563711100390195212/MVIo_1xM_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Swiftが好きな人！&lt;/li&gt; &lt;li&gt;Swiftを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろSwiftから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、&lt;b&gt;飲み物は各自必ずご用意ください。&lt;/b&gt;&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live&lt;br&gt; &lt;a href=&quot;https://youtu.be/TYDyGNjRE1U&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/TYDyGNjRE1U&lt;/a&gt; &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpassにログオンして、参加者情報から、URLをご確認ください。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのままGoogle Meetで行います。&lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日の内容は収録してYouTubeの愛好会チャンネルで公開されます。あらかじめご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://love-swift.connpass.com/event/269337/'/>
+    <published>
+      2022-12-20T17:49:39+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://love-kotlin.connpass.com/event/269346/
+    </id>
+    <title>
+      集まれKotlin好き！Kotlin愛好会 vol.40 @オンライン
+    </title>
+    <summary>
+      2022年の締めくくりにみんなでわいわいKotlinについて語ろう！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
+      Live)で開催いたします。 よい機会ですので、普段参加出来ない地方の方々など幅広い参加を募集いたします！&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;今回はSwift愛好会との合同開催です！&lt;/strong&gt;&lt;/p&gt;
+      &lt;h2&gt;イベント概要&lt;/h2&gt;
+      &lt;p&gt;Kotlin好きで集まって、飲み物片手にKotlinについて語り合い、愛でましょう！！！&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;Kotlinからプログラミングを始めた方&lt;/li&gt;
+      &lt;li&gt;Java時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（JaveScript, Ruby,
+      etc...）をやりながらKotlinを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
+      &lt;p&gt;Kotlin全般に関するお話や、AndroidやサーバーサイドにおいてKotlinを活用するお話をする
+      &quot;Kotlin談義&quot;（絶賛登壇者募集中！資料ナシでもOK）、そしてKotlin仲間をつくる懇親会で楽しみましょう〜
+      ^^/&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt;
+      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;SwiftUI x Concurrency をより簡単に&lt;/td&gt; &lt;td&gt;bannzai&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;僕が考えた超最強のKMMアプリの作り方&lt;/td&gt; &lt;td&gt;sobaya-0141&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;SwiftUIで作る「Drag処理を利用したCarousel型UI」と「Pinterest風GridレイアウトUI」の実装例とポイントまとめ&lt;/td&gt; &lt;td&gt;fumiyasac&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Kotlin 1.8.0の新機能と消える機能&lt;/td&gt; &lt;td&gt;Kuu / Sushi&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;iPhone14 Proのdynamic islandを使ってみた&lt;/td&gt; &lt;td&gt;あかつか&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Kotlin roadmap を眺めてみる&lt;/td&gt; &lt;td&gt;masaruhr&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;ChartView最＆高㊗️&lt;/td&gt; &lt;td&gt;keisuke yamagishi&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■運営&lt;/h2&gt; &lt;p&gt;以下のゆかいな仲間たちで運営しています。よろしく！&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/jollyjoester&quot; rel=&quot;nofollow&quot;&gt;@jollyjoester&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/panini_ja&quot; rel=&quot;nofollow&quot;&gt;@panini&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/n_takehata&quot; rel=&quot;nofollow&quot;&gt;@takehata&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/tarumzu&quot; rel=&quot;nofollow&quot;&gt;@tarumzu&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/sya_ri_dayo&quot; rel=&quot;nofollow&quot;&gt;@奏(sya-ri)&lt;/a&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;img alt=&quot;jollyjoester&quot; src=&quot;https://pbs.twimg.com/profile_images/566278842281504768/17Gnbk9G_400x400.jpeg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;panini&quot; src=&quot;https://pbs.twimg.com/profile_images/736775150348029953/9fx4Jnf8_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;takehata&quot; src=&quot;https://pbs.twimg.com/profile_images/1034463997704134656/e8I_LNuC_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;tarumzu&quot; src=&quot;https://pbs.twimg.com/profile_images/877053186896314368/Xi2-fLQA_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;奏&quot; src=&quot;https://pbs.twimg.com/profile_images/1484499142491918340/d_308ieO_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live &lt;br&gt; &lt;a href=&quot;https://youtu.be/TYDyGNjRE1U&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/TYDyGNjRE1U&lt;/a&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://love-kotlin.connpass.com/event/269346/'/>
+    <published>
+      2022-12-20T17:32:40+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://fjordbootcamp.connpass.com/event/268831/
@@ -218,139 +340,6 @@
     <link rel='alternate' type='text/html' href='https://coderdojoibaraki.connpass.com/event/268768/'/>
     <published>
       2022-12-15T21:22:21+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shinriseevent.connpass.com/event/269534/
-    </id>
-    <title>
-      プログラミング言語勉強会
-    </title>
-    <summary>
-      プログラミング言語の歴史や特徴を学ぶ勉強会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
-      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
-      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
-      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
-      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
-      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
-      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
-      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
-      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
-      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
-      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
-      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
-      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
-      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/269534/'/>
-    <published>
-      2022-12-15T20:00:45+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://connpass.com/event/269305/
-    </id>
-    <title>
-      [第2回] 恵比寿コーディンプレイスでもくもく会
-    </title>
-    <summary>
-      恵比寿駅徒歩5分の綺麗なオフィスでランチ付きのもくもく会！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;イベントの詳細・申込みは以下のリンク
-      もしくはconnpassの申し込みページからお願いいたします！ &lt;a
-      href=&quot;https://eltea.jp/user/participant/events/e5a335a1-5fb1-4557-9af5-5f7f92e41ef5?from=connpass&quot; rel=&quot;nofollow&quot;&gt;https://eltea.jp/user/participant/events/e5a335a1-5fb1-4557-9af5-5f7f92e41ef5?from=connpass&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;背景&lt;/h2&gt; &lt;p&gt;アイザック株式会社・株式会社ハローが共同で開催するもくもく会です。&lt;/p&gt; &lt;p&gt;それぞれRubyのコミッターとシニアソフトウェアエンジニアが創業した会社で、エンジニアカルチャーへのコミットをすごく大事にしています。OSSでソフトウェアのシェアはある一方、最も大事であるはずなエンジニアの作業場所はオープンに提供されていない事に気づき、快適な作業場所を無料提供することにしたという背景があります。&lt;/p&gt; &lt;h2&gt;場所&lt;/h2&gt; &lt;p&gt;〒150-0013　東京都渋谷区恵比寿1-21-8 VORT恵比寿Ⅲ 2階&lt;/p&gt; &lt;h2&gt;日時&lt;/h2&gt; &lt;p&gt;12/17（日） 11:00 ~ 15:30（18時まで使用することも可能です）&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;p&gt;11:00~ 自己紹介・今日やること発表&lt;/p&gt; &lt;p&gt;11:15~ もくもく&lt;/p&gt; &lt;p&gt;12:30~ ランチタイム（ご用意してます）&lt;/p&gt; &lt;p&gt;13:00~ もくもく&lt;/p&gt; &lt;p&gt;15:00~ やったこと共有・雑談&lt;/p&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;p&gt;・参加いただける方は必ずSlackへの参加をお願いします（申込いただいたメールアドレスに招待します） ・当日来られなくなった方は、事前にご連絡ください。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://connpass.com/event/269305/'/>
-    <published>
-      2022-12-15T10:08:00+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://love-kotlin.connpass.com/event/269346/
-    </id>
-    <title>
-      集まれKotlin好き！Kotlin愛好会 vol.40 @オンライン
-    </title>
-    <summary>
-      2022年の締めくくりにみんなでわいわいKotlinについて語ろう！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
-      Live)で開催いたします。 よい機会ですので、普段参加出来ない地方の方々など幅広い参加を募集いたします！&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;今回はSwift愛好会との合同開催です！&lt;/strong&gt;&lt;/p&gt;
-      &lt;h2&gt;イベント概要&lt;/h2&gt;
-      &lt;p&gt;Kotlin好きで集まって、飲み物片手にKotlinについて語り合い、愛でましょう！！！&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;Kotlinからプログラミングを始めた方&lt;/li&gt;
-      &lt;li&gt;Java時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（JaveScript, Ruby,
-      etc...）をやりながらKotlinを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;Kotlin全般に関するお話や、AndroidやサーバーサイドにおいてKotlinを活用するお話をする
-      &quot;Kotlin談義&quot;（絶賛登壇者募集中！資料ナシでもOK）、そしてKotlin仲間をつくる懇親会で楽しみましょう〜
-      ^^/&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt;
-      &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;僕が考えた超最強のKMMアプリの作り方&lt;/td&gt; &lt;td&gt;sobaya-0141&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Kotlin 1.8.0の新機能と消える機能&lt;/td&gt; &lt;td&gt;Kuu / Sushi&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■運営&lt;/h2&gt; &lt;p&gt;以下のゆかいな仲間たちで運営しています。よろしく！&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/jollyjoester&quot; rel=&quot;nofollow&quot;&gt;@jollyjoester&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/panini_ja&quot; rel=&quot;nofollow&quot;&gt;@panini&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/n_takehata&quot; rel=&quot;nofollow&quot;&gt;@takehata&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/tarumzu&quot; rel=&quot;nofollow&quot;&gt;@tarumzu&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/sya_ri_dayo&quot; rel=&quot;nofollow&quot;&gt;@奏(sya-ri)&lt;/a&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;img alt=&quot;jollyjoester&quot; src=&quot;https://pbs.twimg.com/profile_images/566278842281504768/17Gnbk9G_400x400.jpeg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;panini&quot; src=&quot;https://pbs.twimg.com/profile_images/736775150348029953/9fx4Jnf8_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;takehata&quot; src=&quot;https://pbs.twimg.com/profile_images/1034463997704134656/e8I_LNuC_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;tarumzu&quot; src=&quot;https://pbs.twimg.com/profile_images/877053186896314368/Xi2-fLQA_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;奏&quot; src=&quot;https://pbs.twimg.com/profile_images/1484499142491918340/d_308ieO_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Kotlinが好きな人！&lt;/li&gt; &lt;li&gt;Kotlinを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろKotlinから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、飲み物は各自必ずご用意ください。&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live TBD &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpass経由で別途ご連絡させていただきます。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのまま Google Meetで行います。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://love-kotlin.connpass.com/event/269346/'/>
-    <published>
-      2022-12-14T18:09:50+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://andpad.connpass.com/event/268447/
-    </id>
-    <title>
-      Ruby 3.2 リリースパーティー presented by アンドパッド
-    </title>
-    <summary>
-      Ruby 3.2 リリースを記念したイベント。ハイブリッド開催いたします！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;Ruby 3.2 リリースを祝し、ハイブリッドイベントを開催します。&lt;br&gt; オンライン・オフライン
-      どちらでも楽しんでもらえるよう準備中。（できる範囲でがんばります！） &lt;/p&gt; &lt;p&gt;Ruby の作者である Matz 氏や
-      Ruby コミッターの参加も予定しています。 &lt;/p&gt; &lt;h2&gt;参加予定者&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/sponsors/matz&quot;
-      rel=&quot;nofollow&quot;&gt;matz&lt;/a&gt; (オンライン)&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/nurse&quot;
-      rel=&quot;nofollow&quot;&gt;naruse&lt;/a&gt; (オンライン)&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/sponsors/ko1&quot;
-      rel=&quot;nofollow&quot;&gt;ko1&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://github.com/kateinoigakukun&quot;
-      rel=&quot;nofollow&quot;&gt;katei&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://github.com/amatsuda&quot;
-      rel=&quot;nofollow&quot;&gt;amatsuda&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://github.com/sponsors/hsbt&quot;
-      rel=&quot;nofollow&quot;&gt;hsbt&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;他にもたくさんの Ruby コミッタがパネリストまたは現地で参加予定です! Ruby 3.2
-      で気になる新機能や改善について聞きたいこと、知りたいことがある方は是非ご参加ください。&lt;/p&gt;
-      &lt;h2&gt;スケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
-      &lt;th&gt;time&lt;/th&gt; &lt;th&gt;content&lt;/th&gt; &lt;/tr&gt;
-      &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;18:30&lt;/td&gt;
-      &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt;
-      &lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:05&lt;/td&gt; &lt;td&gt;Ruby 3.2 の紹介・新機能自慢&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00&lt;/td&gt;
-      &lt;td&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
-      &lt;p&gt;※Ruby コミッタの皆さんで新機能自慢の枠が欲しい方はご連絡ください。&lt;/p&gt;
-      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;オンライン・オフライン お好きな方でご参加ください。&lt;br&gt;
-      オフラインは会場のキャパもあるため人数制限があります。&lt;br&gt; 感染予防対策もしっかり行います。 &lt;/p&gt;
-      &lt;p&gt;開催日程：2022年12月27日（火）19:00～（リアル会場オープンは18:45～）&lt;br&gt;
-      場所：東京都千代田区神田練塀町300番地 住友不動産秋葉原駅前ビル9階 　　　&lt;a
-      href=&quot;https://goo.gl/maps/mwekBqKKEvCk1rBx5&quot;
-      rel=&quot;nofollow&quot;&gt;https://goo.gl/maps/mwekBqKKEvCk1rBx5&lt;/a&gt; 　　　JR秋葉原駅徒歩3分&lt;/p&gt; &lt;h2&gt;現地会場 参加のみなさまへ&lt;/h2&gt; &lt;p&gt;感染予防対策について、徹底しイベントを実施します。&lt;br&gt; 手指消毒・検温・常時マスク着用（登壇や配信の便宜上必要な場合は随時対応）へのご協力をお願い致します。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://andpad.connpass.com/event/268447/'/>
-    <published>
-      2022-12-14T13:15:50+09:00
     </published>
   </entry>
 </feed>
