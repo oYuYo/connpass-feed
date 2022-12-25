@@ -9,8 +9,181 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-12-24T00:42:57+00:00
+    2022-12-25T00:51:49+00:00
   </updated>
+  <entry>
+    <id>
+      https://shinriseevent.connpass.com/event/270223/
+    </id>
+    <title>
+      プログラミング言語勉強会
+    </title>
+    <summary>
+      プログラミング言語の歴史や特徴を学ぶ勉強会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
+      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
+      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
+      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
+      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
+      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
+      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
+      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
+      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
+      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
+      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
+      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
+      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
+      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/270223/'/>
+    <published>
+      2022-12-25T02:11:18+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://shinriseevent.connpass.com/event/270231/
+    </id>
+    <title>
+      プログラミング言語勉強会
+    </title>
+    <summary>
+      プログラミング言語の歴史や特徴を学ぶ勉強会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
+      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
+      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
+      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
+      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
+      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
+      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
+      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
+      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
+      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
+      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
+      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
+      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
+      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/270231/'/>
+    <published>
+      2022-12-25T02:10:39+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://shinriseevent.connpass.com/event/270228/
+    </id>
+    <title>
+      プログラミング言語勉強会
+    </title>
+    <summary>
+      プログラミング言語の歴史や特徴を学ぶ勉強会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
+      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
+      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
+      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
+      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
+      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
+      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
+      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
+      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
+      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
+      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
+      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
+      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
+      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/270228/'/>
+    <published>
+      2022-12-25T02:08:56+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mame-coffee-programing.connpass.com/event/270502/
+    </id>
+    <title>
+      オンラインもくもく会【コーヒー飲みながら参加しませんか？】95回目
+    </title>
+    <summary>
+      オンラインでもくもく勉強しませんか？入退室自由、ビデオオフでもOK※コーヒーは必須ではありません
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;オンラインで一緒にもくもく勉強しませんか？&lt;/h1&gt;
+      &lt;p&gt;〜毎週日曜日のお昼からは一緒にもくもく会をしませんか？〜&lt;/p&gt;
+      &lt;p&gt;1人でやるよりもみんなでやった方が集中できるはず！
+      2020年の12月から始めたオンライン開催のもくもく会です。&lt;/p&gt;
+      &lt;p&gt;1人だとだらけてしまう・・。でも大人数は少し気が引けるし・・。 そんな方でも安心してご参加いただけるかと思います。
+      強制的に勉強する環境を作っちゃいましょう！&lt;/p&gt;
+      &lt;p&gt;もちろん、ビデオオフでも問題ありませんし、ゆるゆるのもくもく会なのでお気軽にご参加いただけます！
+      コーヒーも自由です笑&lt;/p&gt; &lt;p&gt;参加する方も本当に様々で幅広い領域や経験の方がいらっしゃいます！&lt;/p&gt;
+      &lt;p&gt;質問も自由にしていただいて構いません。&lt;/p&gt; &lt;p&gt;完全無料かつ勧誘などもありませんのでご安心ください。
+      大学の課題をするでもよし、家計簿つけるという溜まった作業をするのもよし！ バリバリのハッカーの方も
+      Progateでつまづいている初心者の方もお気軽にご参加ください。&lt;/p&gt;
+      &lt;p&gt;入退室自由です。ご都合の良いタイミングでご参加いただければと思います。&lt;/p&gt;
+      &lt;p&gt;参加申込後、各種リンクをお知らせいたします。&lt;/p&gt;
+      &lt;p&gt;当日はGoogleMeetを利用しますのでGoogleアカウントをご用意ください。&lt;/p&gt;
+      &lt;p&gt;ではレッツもくもく〜♪&lt;/p&gt; &lt;h2&gt;参加方法&lt;/h2&gt;
+      &lt;p&gt;１．「このイベントに申し込む」ボタンから参加申込&lt;br&gt; ２．このイベントページに戻る&lt;br&gt;
+      ３．「参加者への情報」欄からGoogle MeetとSlackのリンクをクリック&lt;/p&gt;
+      &lt;p&gt;※ご注意※&lt;br&gt; Google・Slackのアカウント名を事前にご確認ください。&lt;br&gt;
+      特に本名を公開したくない方は、名前変更、もしくは新規アカウントを作成いただくことをお勧めいたします。&lt;/p&gt;
+      &lt;h2&gt;当日の大まかなスケジュール&lt;/h2&gt; &lt;p&gt;13:00
+      自己紹介・今日やることの共有(Slackにて)&lt;br&gt; 13:10 開始挨拶〜もくもくタイム前半戦&lt;br&gt; 15:30
+      雑談タイム&lt;br&gt; 16:00 もくもくタイム後半戦&lt;br&gt; 17:30 報告会・雑談&lt;br&gt; 18:00
+      自由退出・おしゃべりタイム&lt;/p&gt; &lt;h2&gt;もくもく会参考キーワード&lt;/h2&gt;
+      &lt;p&gt;JavaScript(React.js, Vue.js) html, css, scss, Bootstrap
+      Java(Spring), Kotlin Swift, C#, Unity, C++ Ruby(Ruby on Rails) PHP
+      (Laravel)WordPress Python(Django) もくもく会 オンライン まったり 初心者歓迎&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mame-coffee-programing.connpass.com/event/270502/'/>
+    <published>
+      2022-12-24T16:22:04+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://c-sagyoba-benkyoukai.connpass.com/event/270501/
+    </id>
+    <title>
+      [新宿御苑前]がやがやと勉強する会(テーマ自由、初心者歓迎！)
+    </title>
+    <summary>
+      コワーキングスペースに集まって自習する会です。意見交換等でおしゃべりするのは大歓迎です(^^♪
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;この会について&lt;/h1&gt;
+      &lt;p&gt;コワーキングスペースに集まって、みんなでもくもくと勉強する会です。&lt;br&gt;
+      基本自習形式ですが、意見交換等でおしゃべるするのは大歓迎です(^^♪&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;家ではどうも集中できない方、気分転換にお外で作業したい方……などなど、一緒に勉強しましょう💪&lt;br&gt;
+      テーマ自由ですので、是非お気軽にご参加くださいませ🙇&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;※状況(コロナウイルス、悪天候など)
+      により直前でも開催延期する可能性があります。その際は何卒ご容赦くださいませ。&lt;/strong&gt;&lt;br&gt;
+      &lt;strong&gt;※騒がしめかもなので、気になる方はヘッドホン、イヤホンなどあると良いかもしれないです。&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;コロナ対策へのご協力のお願い&lt;/h1&gt; &lt;p&gt;この会の性質上、オフラインでの開催となりますので、お手数ではありますが下記のご協力をお願い致します🙇&lt;/p&gt; &lt;ul&gt; &lt;li&gt;体調が少しでも悪い場合は、当日のキャンセル料等は一切かかりませんので、ご参加をご遠慮ください。&lt;br&gt; → その際のキャンセルは、当サイトから行っていただき、当日はTwitter@C_sagyoba へDMいただければOKです。&lt;/li&gt; &lt;li&gt;参加者は恐縮ですがマスクの着用をお願いいたします。各自でご用意ください。&lt;/li&gt; &lt;li&gt;アルコール除菌は主催者側で用意しますので、手指消毒のご協力をお願いいたします。&lt;/li&gt; &lt;li&gt;窓は常時開けて換気します。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;＜参考＞&lt;a href=&quot;https://www.mhlw.go.jp/content/10900000/000596861.pdf&quot; rel=&quot;nofollow&quot;&gt;厚生労働省HP「新型コロナウイルスを防ぐには」&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;開催情報&lt;/h1&gt; &lt;h2&gt;定員&lt;/h2&gt; &lt;p&gt;会場の都合上、最大8名までとなります。&lt;br&gt; スペース貸切のため、最小人数3名に満たない場合は、開催を見送ります。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;もし予定がかわった方はお早めにご連絡をお願い致します🙇&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;持ち物&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;会場費(税込600円)&lt;br&gt; → 当日に現金、またはPayPay でお支払いくださいませ。&lt;/li&gt; &lt;li&gt;各自もくもくに必要なもの(PC、書籍など）&lt;/li&gt; &lt;li&gt;マスク&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;なお会場には下記のご用意があります。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;アルコール除菌&lt;/li&gt; &lt;li&gt;超高速WiFi（NURO)&lt;/li&gt; &lt;li&gt;各席に電源あります&lt;/li&gt; &lt;li&gt;会場費の中にお茶かお水のペットボトル1本付いております&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムスケジュール&lt;/h2&gt; &lt;p&gt;ざっくりと下記の流れになります。&lt;br&gt; 途中参加や帰宅もできますので、お気軽にご参加ください。&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;予定&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;12:30 ~&lt;/td&gt; &lt;td&gt;この時間から入場できます&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:00 ~&lt;/td&gt; &lt;td&gt;簡単な自己紹介と今日のやること発表 → もくもく&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:30 ~&lt;/td&gt; &lt;td&gt;軽い成果発表、雑談&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:00 ~&lt;/td&gt; &lt;td&gt;解散。お疲れ様でした🙇&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;会場情報: &lt;a href=&quot;https://www.c-sagyoba.com/&quot; rel=&quot;nofollow&quot;&gt;コワーキングスペース C作業場&lt;/a&gt;&lt;br&gt;&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;/th&gt; &lt;th&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;住所&lt;/td&gt; &lt;td&gt;東京都新宿区四谷4-28-7 吉岡ビル４F&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;アクセス&lt;/td&gt; &lt;td&gt;東京メトロ丸ノ内線　新宿御苑前駅（大木戸門方面改札口）徒歩5分　四谷三丁目駅徒歩６分&lt;br&gt;JR新宿駅　徒歩15分&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;電話番号&lt;/td&gt; &lt;td&gt;03-6877-1027&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;運営会社&lt;/td&gt; &lt;td&gt;株式会社C作業場​​​&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;各種リンク&lt;/td&gt; &lt;td&gt;・&lt;a href=&quot;https://c-sagyoba-benkyoukai.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;公式connpass アカウント&lt;/a&gt;&lt;br&gt;・&lt;a href=&quot;https://www.facebook.com/C.sagyoba/&quot; rel=&quot;nofollow&quot;&gt;公式Facebook&lt;/a&gt;&lt;br&gt;・&lt;a href=&quot;https://twitter.com/C_sagyoba&quot; rel=&quot;nofollow&quot;&gt;公式Twitter&lt;/a&gt;&lt;br&gt;・&lt;a href=&quot;https://www.c-sagyoba.com/&quot; rel=&quot;nofollow&quot;&gt;公式サイト&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;備考&lt;/td&gt; &lt;td&gt;・途中入退室OK&lt;br&gt;・飲食持込み可(近所にコンビニ多数、ビル１Fに自販機あり)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;その他&lt;/h1&gt; &lt;h2&gt;よくある質問&lt;/h2&gt; &lt;h3&gt;1. テーマ自由と聞いたのですが、どんなことをされている人が多いですか？&lt;/h3&gt; &lt;p&gt;主催の&lt;a href=&quot;https://connpass.com/user/Shion74431841/)&quot; rel=&quot;nofollow&quot;&gt;Shion&lt;/a&gt; はAndroid アプリ開発者のため、モバイル関連の勉強が多めです。&lt;br&gt; ちなみに過去に参加してくださった方々は、下記テーマの勉強が多いと感じております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Unity&lt;br&gt; → C 作業場さんではUnity 勉強会も開催されているので、良かったらそちらもどうぞ(&lt;a href=&quot;https://c-sagyoba-benkyoukai.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;勉強会の開催情報&lt;/a&gt;)&lt;/li&gt; &lt;li&gt;Web バックエンド(JVM 系, Laravel, Ruby on Rails, PHP)&lt;/li&gt; &lt;li&gt;Web フロントエンド(React)&lt;/li&gt; &lt;li&gt;資格勉強(基本情報、ベンダー資格)&lt;/li&gt; &lt;li&gt;周辺知識(インフラ、セキュリティなど)&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;2. 勉強テーマってどう探せば良いか分からないです……&lt;/h3&gt; &lt;p&gt;実は&lt;a href=&quot;https://connpass.com/user/Shion74431841/)&quot; rel=&quot;nofollow&quot;&gt;Shion&lt;/a&gt; もまだまだ手探りだったりしますが、まずは下記のような教材にチャレンジしてみると良いかもです。&lt;br&gt; 息抜きしたくなったら&lt;a href=&quot;https://unityroom.com/unity1weeks&quot; rel=&quot;nofollow&quot;&gt;Unity １週間ゲームジャム&lt;/a&gt; に投稿された作品で遊んでみるとアイデアが湧く……かもしれませんw&lt;/p&gt; &lt;h4&gt;初心者向け&lt;/h4&gt; &lt;p&gt;レッスン形式で取り組めるので、実際に作りながら作業できて良いかもです。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://paiza.jp/works&quot; rel=&quot;nofollow&quot;&gt;paiza&lt;/a&gt;&lt;br&gt; → 動画の解説後に、そのままブラウザ上で演習問題に取り組めるようです。&lt;br&gt; → 腕試し用の演習問題も豊富なので、基礎文法を覚えた後に取り組むと良いかもです。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://prog-8.com/languages&quot; rel=&quot;nofollow&quot;&gt;Progate&lt;/a&gt;&lt;br&gt; → スライド文書の解説後に、そのままブラウザ上で演習問題に取り組めるようです。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://dotinstall.com/lessons&quot; rel=&quot;nofollow&quot;&gt;ドットインストール&lt;/a&gt;&lt;br&gt; → 動画レッスンが中心のようです。&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;少し慣れた人向け&lt;/h4&gt; &lt;p&gt;レッスン形式で取り組めるので、実際に作りながら作業できて良いかもです。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://codelabs.developers.google.com/&quot; rel=&quot;nofollow&quot;&gt;Google Codelabs&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/tutorials/app-dev-training&quot; rel=&quot;nofollow&quot;&gt;iOS App Dev Tutorials&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/ja-jp/learn/&quot; rel=&quot;nofollow&quot;&gt;Microsoft Learn | Microsoft Docs&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://learn.unity.com/course/unity-tutorials-for-beginners-jp&quot; rel=&quot;nofollow&quot;&gt;Unity&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/getting-started/&quot; rel=&quot;nofollow&quot;&gt;アマゾン ウェブ サービス（AWS）の開始方法 | AWS&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;その他にも下記のような情報を参考にするのもありかもです。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;各カンファレンスの発表資料(例: &lt;a href=&quot;https://droidkaigi.jp/&quot; rel=&quot;nofollow&quot;&gt;DroidKaigi&lt;/a&gt;, &lt;a href=&quot;https://iosdc.jp/&quot; rel=&quot;nofollow&quot;&gt;iOSDC&lt;/a&gt;, &lt;a href=&quot;https://phpcon.php.gr.jp/&quot; rel=&quot;nofollow&quot;&gt;phpcon&lt;/a&gt;, &lt;a href=&quot;https://rubykaigi.org/&quot; rel=&quot;nofollow&quot;&gt;RubyKaigi&lt;/a&gt;)&lt;/li&gt; &lt;li&gt;各言語やフレームワークのチュートリアル&lt;/li&gt; &lt;li&gt;公式ドキュメント(例: &lt;a href=&quot;https://developer.android.com/&quot; rel=&quot;nofollow&quot;&gt;Android Developers&lt;/a&gt;)&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;画像について&lt;/h2&gt; &lt;p&gt;コワーキングスペース C作業場さんの公式Twitter の&lt;a href=&quot;https://twitter.com/C_sagyoba/status/1317000118554353665&quot; rel=&quot;nofollow&quot;&gt;このツイート&lt;/a&gt;より引用しました。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://c-sagyoba-benkyoukai.connpass.com/event/270501/'/>
+    <published>
+      2022-12-24T12:55:47+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://pycon-hiroshima.connpass.com/event/268416/
@@ -44,14 +217,12 @@
       &lt;li&gt;最初に全員が自己紹介をします。あとでしゃべる予定のない方には、すこし丁寧な自己紹介をお願いします。&lt;/li&gt;
       &lt;li&gt;自己紹介のあとは、希望される方だけマイクやカメラをお使いください。&lt;/li&gt;
       &lt;li&gt;「しゃべりたい人」が順番に発表や話題提供をします。飛び入り歓迎です。&lt;/li&gt;
-      &lt;li&gt;他イベント登壇前の練習、過去の登壇の再演もOKです。&lt;/li&gt; &lt;li&gt;Python / Ruby
-      のご質問、ご相談、技術動向や本やイベントの紹介などもどうぞ。&lt;/li&gt;
       &lt;li&gt;終了時間が来たら延長せずに終了します。&lt;/li&gt;
-      &lt;li&gt;最後に、集合写真のかわりにギャラリービューのスナップショット撮影を行います。カメラOKの方はご協力ください。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;運営者より&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;PyCon mini Hiroshima の &lt;a href=&quot;https://hiroshima.pycon.jp/2020/policy&quot; rel=&quot;nofollow&quot;&gt;行動規範&lt;/a&gt; を踏まえて運営します。ご理解・ご協力をお願いします。&lt;/li&gt; &lt;li&gt;Python / Ruby 初心者もお気軽にご参加ください。わからないことがあれば、いつでもご質問やご発言をどうぞ。&lt;/li&gt; &lt;li&gt;Zoom で音声や画像が聞きづらい、見づらいという場合は、Zoom チャット等でお知らせください。&lt;/li&gt; &lt;li&gt;他の参加者の妨げになる場合はマイクやカメラの利用を控えていただく場合があります。ご了承ください。&lt;/li&gt; &lt;li&gt;随時 Twitter で中継しながら進めます。ツイートされたくない話題は、事前にお知らせください。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;「すごい広島」「PyCon mini Hiroshima」について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;すごい広島 with Python は第40回より PyCon mini Hiroshima グループのイベントとして参加者を募集しています。&lt;/li&gt; &lt;li&gt;他の回の「すごい広島」は&lt;a href=&quot;https://great-h.connpass.com/event/&quot; rel=&quot;nofollow&quot;&gt;すごい広島グループ&lt;/a&gt;でご確認ください。&lt;/li&gt; &lt;/ul&gt;
+      &lt;li&gt;最後に、集合写真のかわりにギャラリービューのスナップショット撮影を行います。カメラOKの方はご協力ください。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;話題について&lt;/h3&gt; &lt;p&gt;以下を歓迎しております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Python / Ruby のご質問、ご相談&lt;/li&gt; &lt;li&gt;やってみた、作ってみた&lt;/li&gt; &lt;li&gt;技術動向・書籍・イベントの紹介・報告&lt;/li&gt; &lt;li&gt;他イベント登壇前の練習、過去の登壇の再演&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;話題を限定してはいませんが、参加者の興味や経験にご配慮いただければ幸いです。&lt;/p&gt; &lt;p&gt;持ち時間は1件あたり5分から15分くらいでお願いします。時間がたくさん欲しい場合はご相談ください。&lt;/p&gt; &lt;h3&gt;運営者より&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;PyCon mini Hiroshima の &lt;a href=&quot;https://hiroshima.pycon.jp/2020/policy&quot; rel=&quot;nofollow&quot;&gt;行動規範&lt;/a&gt; を踏まえて運営します。ご理解・ご協力をお願いします。&lt;/li&gt; &lt;li&gt;Python / Ruby 初心者もお気軽にご参加ください。わからないことがあれば、いつでもご質問やご発言をどうぞ。&lt;/li&gt; &lt;li&gt;Zoom で音声や画像が聞きづらい、見づらいという場合は、Zoom チャット等でお知らせください。&lt;/li&gt; &lt;li&gt;他の参加者の妨げになる場合はマイクやカメラの利用を控えていただく場合があります。ご了承ください。&lt;/li&gt; &lt;li&gt;随時 Twitter で中継しながら進めます。ツイートされたくない話題は、事前にお知らせください。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;「すごい広島」「PyCon mini Hiroshima」について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;すごい広島 with Python は第40回より PyCon mini Hiroshima グループのイベントとして参加者を募集しています。&lt;/li&gt; &lt;li&gt;他の回の「すごい広島」は&lt;a href=&quot;https://great-h.connpass.com/event/&quot; rel=&quot;nofollow&quot;&gt;すごい広島グループ&lt;/a&gt;でご確認ください。&lt;/li&gt; &lt;/ul&gt;
     </content>
     <link rel='alternate' type='text/html' href='https://pycon-hiroshima.connpass.com/event/268416/'/>
     <published>
-      2022-12-23T21:33:06+09:00
+      2022-12-24T10:29:31+09:00
     </published>
   </entry>
   <entry>
@@ -204,207 +375,6 @@
     <link rel='alternate' type='text/html' href='https://forkwell.connpass.com/event/265858/'/>
     <published>
       2022-12-22T13:12:28+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://andpad.connpass.com/event/268447/
-    </id>
-    <title>
-      Ruby 3.2 リリースパーティー presented by アンドパッド
-    </title>
-    <summary>
-      Ruby 3.2 リリースを記念したイベント。ハイブリッド開催いたします！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;Ruby 3.2 リリースを祝し、ハイブリッドイベントを開催します。&lt;br&gt; オンライン・オフライン
-      どちらでも楽しんでもらえるよう準備中。（できる範囲でがんばります！） &lt;/p&gt; &lt;p&gt;Ruby の作者である Matz 氏や
-      Ruby コミッターの参加も予定しています。 &lt;/p&gt; &lt;h2&gt;参加パネリスト&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/sponsors/matz&quot;
-      rel=&quot;nofollow&quot;&gt;matz&lt;/a&gt; (オンライン)&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/nurse&quot;
-      rel=&quot;nofollow&quot;&gt;naruse&lt;/a&gt; リリースマネージャ&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/kateinoigakukun&quot;
-      rel=&quot;nofollow&quot;&gt;katei&lt;/a&gt; WASM 自慢&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/sponsors/ko1&quot;
-      rel=&quot;nofollow&quot;&gt;ko1&lt;/a&gt; デバッガ自慢&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/ono-max&quot;
-      rel=&quot;nofollow&quot;&gt;ono-max&lt;/a&gt; デバッガ自慢&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/mame&quot;
-      rel=&quot;nofollow&quot;&gt;mame&lt;/a&gt; (オンライン) ReDoS 自慢&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/makenowjust&quot;
-      rel=&quot;nofollow&quot;&gt;make_now_just&lt;/a&gt; ReDoS 自慢&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/amatsuda&quot;
-      rel=&quot;nofollow&quot;&gt;amatsuda&lt;/a&gt; 司会&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://github.com/sponsors/hsbt&quot;
-      rel=&quot;nofollow&quot;&gt;hsbt&lt;/a&gt; 司会&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;他にもたくさんの Ruby コミッタがパネリストまたは現地で参加予定です! Ruby 3.2
-      で気になる新機能や改善について聞きたいこと、知りたいことがある方は是非ご参加ください。&lt;/p&gt;
-      &lt;h2&gt;スケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
-      &lt;th&gt;time&lt;/th&gt; &lt;th&gt;content&lt;/th&gt; &lt;/tr&gt;
-      &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;18:30&lt;/td&gt;
-      &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt;
-      &lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:05&lt;/td&gt; &lt;td&gt;Ruby 3.2 の紹介・新機能自慢&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00&lt;/td&gt;
-      &lt;td&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
-      &lt;p&gt;※Ruby コミッタの皆さんで新機能自慢の枠が欲しい方はご連絡ください。&lt;/p&gt;
-      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;オンライン・オフライン お好きな方でご参加ください。&lt;br&gt;
-      オフラインは会場のキャパもあるため人数制限があります。&lt;br&gt; 感染予防対策もしっかり行います。 &lt;/p&gt;
-      &lt;p&gt;開催日程：2022年12月27日（火）19:00～（リアル会場オープンは18:45～）&lt;br&gt;
-      場所：東京都千代田区神田練塀町300番地 住友不動産秋葉原駅前ビル9階 　　　&lt;a
-      href=&quot;https://goo.gl/maps/mwekBqKKEvCk1rBx5&quot;
-      rel=&quot;nofollow&quot;&gt;https://goo.gl/maps/mwekBqKKEvCk1rBx5&lt;/a&gt; 　　　JR秋葉原駅徒歩3分&lt;/p&gt; &lt;h2&gt;現地会場 参加のみなさまへ&lt;/h2&gt; &lt;p&gt;感染予防対策について、徹底しイベントを実施します。&lt;br&gt; 手指消毒・検温・常時マスク着用（登壇や配信の便宜上必要な場合は随時対応）へのご協力をお願い致します。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://andpad.connpass.com/event/268447/'/>
-    <published>
-      2022-12-21T19:22:27+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shinriseevent.connpass.com/event/268906/
-    </id>
-    <title>
-      プログラミング言語勉強会
-    </title>
-    <summary>
-      プログラミング言語の歴史や特徴を学ぶ勉強会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
-      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
-      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
-      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
-      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
-      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
-      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
-      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
-      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
-      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
-      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
-      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
-      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
-      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/268906/'/>
-    <published>
-      2022-12-21T16:44:57+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/270237/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #147 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応20人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/270237/'/>
-    <published>
-      2022-12-21T15:06:52+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shinriseevent.connpass.com/event/270231/
-    </id>
-    <title>
-      プログラミング言語勉強会
-    </title>
-    <summary>
-      プログラミング言語の歴史や特徴を学ぶ勉強会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
-      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
-      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
-      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
-      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
-      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
-      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
-      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
-      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
-      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
-      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
-      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
-      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
-      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/270231/'/>
-    <published>
-      2022-12-21T13:57:17+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shinriseevent.connpass.com/event/270228/
-    </id>
-    <title>
-      プログラミング言語勉強会
-    </title>
-    <summary>
-      プログラミング言語の歴史や特徴を学ぶ勉強会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
-      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
-      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
-      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
-      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
-      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
-      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
-      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
-      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
-      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
-      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
-      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
-      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
-      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
-      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
-      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/270228/'/>
-    <published>
-      2022-12-21T13:50:27+09:00
     </published>
   </entry>
 </feed>
