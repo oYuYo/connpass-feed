@@ -9,8 +9,72 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-12-25T00:51:49+00:00
+    2022-12-26T00:49:22+00:00
   </updated>
+  <entry>
+    <id>
+      https://pycon-hiroshima.connpass.com/event/268416/
+    </id>
+    <title>
+      すごい広島 .rb with Python[69] オンライン
+    </title>
+    <summary>
+      すごい広島で楽しくプログラミングなどを学ぼう
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;「すごい広島 with Python」は &lt;a
+      href=&quot;http://hiroshima.pycon.jp/&quot;
+      rel=&quot;nofollow&quot;&gt;広島のPythonコミュニティ&lt;/a&gt;
+      が2017年4月から月末の水曜日に開催しています。&lt;/p&gt; &lt;p&gt;&lt;a
+      href=&quot;https://hiroshimarb.connpass.com/&quot;
+      rel=&quot;nofollow&quot;&gt;Hiroshima.rb&lt;/a&gt; はプログラミング言語 Ruby
+      の地域コミュニティです。&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:
+      1.4rem;&quot;&gt; &lt;strong&gt; 今月は「すごい広島 with
+      Python」と「Hiroshima.rb」のコラボ開催（オンライン）です。 &lt;/strong&gt;
+      &lt;/span&gt;&lt;/p&gt; &lt;p&gt;参加枠は「リモート参加」のみです。&lt;br&gt;
+      ZoomのURLは「参加者への情報」でお知らせします。&lt;/p&gt;
+      &lt;p&gt;記録のために録画を行う場合があります。録画は公開しません。&lt;/p&gt; &lt;p&gt;PyCon Hiroshima
+      Slack もご利用ください。利用方法はイベント参加者にお知らせします。&lt;/p&gt; &lt;h2&gt;予定&lt;/h2&gt;
+      &lt;ul&gt; &lt;li&gt;Hiroshima.rb の紹介 (14suke)&lt;/li&gt; &lt;li&gt;すごい広島
+      with Python の紹介（にしもつ / mu2in ）&lt;/li&gt; &lt;li&gt;Ruby &amp;amp; Python
+      初心者のための Docker Compose 入門（にしもつ）&lt;/li&gt; &lt;li&gt;開発したサービスの紹介
+      (kyokucho1989)&lt;/li&gt; &lt;li&gt;streamlit と chatGPT で、チャットボットを作ってみた話
+      (malo21st)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;お申し込みがあれば追記します。&lt;/p&gt;
+      &lt;p&gt;「しゃべりたい人」はお申し込みのときにアンケートにてお知らせください。&lt;/p&gt; &lt;h2&gt;すごい広島 .rb
+      with Python&lt;/h2&gt; &lt;h3&gt;進め方&lt;/h3&gt; &lt;ul&gt;
+      &lt;li&gt;最初に全員が自己紹介をします。あとでしゃべる予定のない方には、すこし丁寧な自己紹介をお願いします。&lt;/li&gt;
+      &lt;li&gt;自己紹介のあとは、希望される方だけマイクやカメラをお使いください。&lt;/li&gt;
+      &lt;li&gt;「しゃべりたい人」が順番に発表や話題提供をします。飛び入り歓迎です。&lt;/li&gt;
+      &lt;li&gt;終了時間が来たら延長せずに終了します。&lt;/li&gt;
+      &lt;li&gt;最後に、集合写真のかわりにギャラリービューのスナップショット撮影を行います。カメラOKの方はご協力ください。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;話題について&lt;/h3&gt; &lt;p&gt;以下を歓迎しております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Python / Ruby のご質問、ご相談&lt;/li&gt; &lt;li&gt;やってみた、作ってみた&lt;/li&gt; &lt;li&gt;技術動向・書籍・イベントの紹介・報告&lt;/li&gt; &lt;li&gt;他イベント登壇前の練習、過去の登壇の再演&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;話題を限定してはいませんが、参加者の興味や経験にご配慮いただければ幸いです。&lt;/p&gt; &lt;p&gt;持ち時間は1件あたり5分から15分くらいでお願いします。時間がたくさん欲しい場合はご相談ください。&lt;/p&gt; &lt;h3&gt;運営者より&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;PyCon mini Hiroshima の &lt;a href=&quot;https://hiroshima.pycon.jp/2020/policy&quot; rel=&quot;nofollow&quot;&gt;行動規範&lt;/a&gt; を踏まえて運営します。ご理解・ご協力をお願いします。&lt;/li&gt; &lt;li&gt;Python / Ruby 初心者もお気軽にご参加ください。わからないことがあれば、いつでもご質問やご発言をどうぞ。&lt;/li&gt; &lt;li&gt;Zoom で音声や画像が聞きづらい、見づらいという場合は、Zoom チャット等でお知らせください。&lt;/li&gt; &lt;li&gt;他の参加者の妨げになる場合はマイクやカメラの利用を控えていただく場合があります。ご了承ください。&lt;/li&gt; &lt;li&gt;随時 Twitter で中継しながら進めます。ツイートされたくない話題は、事前にお知らせください。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;「すごい広島」「PyCon mini Hiroshima」について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;すごい広島 with Python は第40回より PyCon mini Hiroshima グループのイベントとして参加者を募集しています。&lt;/li&gt; &lt;li&gt;他の回の「すごい広島」は&lt;a href=&quot;https://great-h.connpass.com/event/&quot; rel=&quot;nofollow&quot;&gt;すごい広島グループ&lt;/a&gt;でご確認ください。&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://pycon-hiroshima.connpass.com/event/268416/'/>
+    <published>
+      2022-12-25T23:25:12+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://hamadarb.connpass.com/event/270559/
+    </id>
+    <title>
+      Ruby Hacking Challenge in Hamada.rb
+    </title>
+    <summary>
+      RubyをHackしてみよう in Hamda.rb
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;RubyをHackしてみよう！ in Hamada.rb&lt;/p&gt;
+      &lt;p&gt;ざっくり以下の内容をやってみようかと思います。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;本家:Ruby
+      Hacking Challengeの演習などをやってみよう！(&lt;a
+      href=&quot;https://github.com/ko1/rubyhackchallenge&quot;
+      rel=&quot;nofollow&quot;&gt;https://github.com/ko1/rubyhackchallenge&lt;/a&gt;)&lt;/li&gt; &lt;li&gt;欲しいメソッドをRubyに追加してみよう&lt;/li&gt; &lt;li&gt;好きな感じでRubyをHackしてみよう &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;オンラインにて開催します。前日までにZoomのURLをpostしますのでそちらからアクセスしてください&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://hamadarb.connpass.com/event/270559/'/>
+    <published>
+      2022-12-25T15:32:49+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://shinriseevent.connpass.com/event/270223/
@@ -186,47 +250,6 @@
   </entry>
   <entry>
     <id>
-      https://pycon-hiroshima.connpass.com/event/268416/
-    </id>
-    <title>
-      すごい広島 .rb with Python[69] オンライン
-    </title>
-    <summary>
-      すごい広島で楽しくプログラミングなどを学ぼう
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;「すごい広島 with Python」は &lt;a
-      href=&quot;http://hiroshima.pycon.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;広島のPythonコミュニティ&lt;/a&gt;
-      が2017年4月から月末の水曜日に開催しています。&lt;/p&gt; &lt;p&gt;&lt;a
-      href=&quot;https://hiroshimarb.connpass.com/&quot;
-      rel=&quot;nofollow&quot;&gt;Hiroshima.rb&lt;/a&gt; はプログラミング言語 Ruby
-      の地域コミュニティです。&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:
-      1.4rem;&quot;&gt; &lt;strong&gt; 今月は「すごい広島 with
-      Python」と「Hiroshima.rb」のコラボ開催（オンライン）です。 &lt;/strong&gt;
-      &lt;/span&gt;&lt;/p&gt; &lt;p&gt;参加枠は「リモート参加」のみです。&lt;br&gt;
-      ZoomのURLは「参加者への情報」でお知らせします。&lt;/p&gt;
-      &lt;p&gt;記録のために録画を行う場合があります。録画は公開しません。&lt;/p&gt; &lt;p&gt;PyCon Hiroshima
-      Slack もご利用ください。利用方法はイベント参加者にお知らせします。&lt;/p&gt; &lt;h2&gt;予定&lt;/h2&gt;
-      &lt;ul&gt; &lt;li&gt;Hiroshima.rb の紹介 (14suke)&lt;/li&gt; &lt;li&gt;すごい広島
-      with Python の紹介（にしもつ / mu2in ）&lt;/li&gt; &lt;li&gt;開発したサービスの紹介
-      (kyokucho1989)&lt;/li&gt; &lt;li&gt;streamlit と chatGPT で、チャットボットを作ってみた話
-      (malo21st)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;お申し込みがあれば追記します。&lt;/p&gt;
-      &lt;p&gt;「しゃべりたい人」はお申し込みのときにアンケートにてお知らせください。&lt;/p&gt; &lt;h2&gt;すごい広島 .rb
-      with Python&lt;/h2&gt; &lt;h3&gt;進め方&lt;/h3&gt; &lt;ul&gt;
-      &lt;li&gt;最初に全員が自己紹介をします。あとでしゃべる予定のない方には、すこし丁寧な自己紹介をお願いします。&lt;/li&gt;
-      &lt;li&gt;自己紹介のあとは、希望される方だけマイクやカメラをお使いください。&lt;/li&gt;
-      &lt;li&gt;「しゃべりたい人」が順番に発表や話題提供をします。飛び入り歓迎です。&lt;/li&gt;
-      &lt;li&gt;終了時間が来たら延長せずに終了します。&lt;/li&gt;
-      &lt;li&gt;最後に、集合写真のかわりにギャラリービューのスナップショット撮影を行います。カメラOKの方はご協力ください。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;話題について&lt;/h3&gt; &lt;p&gt;以下を歓迎しております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Python / Ruby のご質問、ご相談&lt;/li&gt; &lt;li&gt;やってみた、作ってみた&lt;/li&gt; &lt;li&gt;技術動向・書籍・イベントの紹介・報告&lt;/li&gt; &lt;li&gt;他イベント登壇前の練習、過去の登壇の再演&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;話題を限定してはいませんが、参加者の興味や経験にご配慮いただければ幸いです。&lt;/p&gt; &lt;p&gt;持ち時間は1件あたり5分から15分くらいでお願いします。時間がたくさん欲しい場合はご相談ください。&lt;/p&gt; &lt;h3&gt;運営者より&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;PyCon mini Hiroshima の &lt;a href=&quot;https://hiroshima.pycon.jp/2020/policy&quot; rel=&quot;nofollow&quot;&gt;行動規範&lt;/a&gt; を踏まえて運営します。ご理解・ご協力をお願いします。&lt;/li&gt; &lt;li&gt;Python / Ruby 初心者もお気軽にご参加ください。わからないことがあれば、いつでもご質問やご発言をどうぞ。&lt;/li&gt; &lt;li&gt;Zoom で音声や画像が聞きづらい、見づらいという場合は、Zoom チャット等でお知らせください。&lt;/li&gt; &lt;li&gt;他の参加者の妨げになる場合はマイクやカメラの利用を控えていただく場合があります。ご了承ください。&lt;/li&gt; &lt;li&gt;随時 Twitter で中継しながら進めます。ツイートされたくない話題は、事前にお知らせください。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;「すごい広島」「PyCon mini Hiroshima」について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;すごい広島 with Python は第40回より PyCon mini Hiroshima グループのイベントとして参加者を募集しています。&lt;/li&gt; &lt;li&gt;他の回の「すごい広島」は&lt;a href=&quot;https://great-h.connpass.com/event/&quot; rel=&quot;nofollow&quot;&gt;すごい広島グループ&lt;/a&gt;でご確認ください。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://pycon-hiroshima.connpass.com/event/268416/'/>
-    <published>
-      2022-12-24T10:29:31+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
       https://forkwell.connpass.com/event/269125/
     </id>
     <title>
@@ -355,26 +378,6 @@
     <link rel='alternate' type='text/html' href='https://mito-web-engineer.connpass.com/event/270384/'/>
     <published>
       2022-12-22T19:35:33+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://forkwell.connpass.com/event/265858/
-    </id>
-    <title>
-      ソフトウェアアーキテクチャ・ハードパーツ - Forkwell Library #12
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;ソフトウェアアーキテクチャー・ハードパーツ - Forkwell Library #12&lt;/h1&gt;
-      &lt;h1&gt;📝 開催概要&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;「つぎの一歩が見つかる、気づきと学びの場」
-      Forkwell Library シリーズ 第12弾&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;これまで Forkwell
-      のイベントで登壇されたエキスパートの方々は、先達が記した書籍から「気づき」を得て実践し、振り返り、再現性のある「学び」として身に付けていく中で、実績を築いてこられました。&lt;/p&gt; &lt;p&gt;しかし、日々限られた時間の中で知識や情報をアップデートし続けるのはそう簡単ではありません。 Forkwell Library では、著者・訳者・実践者らを登壇者として招き、そんな思いを抱えた開発者の皆さまが「学びのきっかけ」を得られる勉強会を目指します。&lt;/p&gt; &lt;p&gt;今回の第12回目では2022年10月27日に発売されたばかりの『ソフトウェアアーキテクチャ・ハードパーツ』を取り上げます。ソフトウェアアーキテクチャには、難しい問題やベストプラクティスが存在しない問題など、妥協点の中から選択しなければならない事柄が数多くあります。その中で少しでもより良い選択をする為にはどうしたら良いのか、どのようにして「最悪でないもの」を探るのか、そのような事柄を人気書籍である『ソフトウェアアーキテクチャの基礎』を翻訳され、本書の翻訳も手掛けられた島田浩二氏をお招きしてお伺いしていきます。&lt;/p&gt; &lt;h4&gt;🎁 書籍プレゼントキャンペーン&lt;/h4&gt; &lt;p&gt;Forkwellに会員登録を行い、所定の条件を満たした方にもれなく&lt;strong&gt;島田浩二 氏が翻訳された『ソフトウェアアーキテクチャ・ハードパーツ』をプレゼント&lt;/strong&gt;いたします！&lt;/p&gt; &lt;p&gt;【キャンペーン応募の条件】&lt;br&gt; &lt;strong&gt;■はじめてForkwellに会員登録される方&lt;/strong&gt;&lt;br&gt; 1. &lt;a href=&quot;https://forkwell.com/&quot; rel=&quot;nofollow&quot;&gt;Forkwellに会員登録&lt;/a&gt;を行う&lt;br&gt; 2. スカウト受け取り設定をオンにする&lt;br&gt; 3. 当日のYouTube概要欄に記載のアンケートフォームで応募資格を満たしたアカウント（ユーザー名）の提出&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;■既にForkwell会員の方&lt;/strong&gt;&lt;br&gt; 1. プロフィールの「やりたい・目指したいこと」と最新（現職）の職務内容をそれぞれ100文字以上記入する&lt;br&gt; 2. 「自己紹介」欄に 【適切なアーキテクチャを選択するために意識していること】 について記載する&lt;br&gt; 3. スカウト受け取り設定をオンにする&lt;br&gt; 4. 当日のYouTube概要欄に記載のアンケートフォームで応募資格を満たしたアカウント（ユーザー名）の提出&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/4Dg6Dgc.jpg&quot; width=&quot;300&quot;&gt;&lt;br&gt; &lt;br&gt; &lt;font size=&quot;2&quot;&gt;※本キャンペーンはビジネス職（営業・マーケター等）の方は対象外とさせていただきます。&lt;/font&gt;&lt;br&gt; &lt;font size=&quot;2&quot;&gt;※条件達成者に後日、書籍発送手続きフォームが送付されますので忘れずにお手続きお願いします。&lt;/font&gt;&lt;br&gt; &lt;font size=&quot;2&quot;&gt;※キャンペーンに関する個別のお問い合わせは&lt;a href=&quot;https://forkwell.zendesk.com/hc/ja/requests/new&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;からお願いします。&lt;/font&gt;&lt;br&gt;&lt;/p&gt; &lt;h4&gt;🧑‍💻 こんなエンジニアにおすすめ&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;アーキテクチャ選択のトレードオフに苦しんでいる方&lt;/li&gt; &lt;li&gt;現代的なトレードオフ分析を学びたい方&lt;/li&gt; &lt;li&gt;ソフトウェアアーキテクチャに関わるソフトウェア開発者&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;🎤 登壇者情報&lt;/h1&gt; &lt;h2&gt;基調講演：ソフトウェアアーキテクチャ・ハードパーツ&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/gv1IURT.png&quot; width=&quot;120&quot;&gt;　&lt;strong&gt;&lt;font size=&quot;5&quot;&gt;島田 浩二&lt;/font&gt;&lt;/strong&gt; &lt;font size=&quot;3&quot;&gt;氏（&lt;a href=&quot;https://twitter.com/snoozer05&quot; rel=&quot;nofollow&quot;&gt;@snoozer05&lt;/a&gt;）&lt;/font&gt;&lt;br&gt; &lt;strong&gt;&lt;font size=&quot;3&quot;&gt;株式会社えにしテック 代表取締役社長&lt;br&gt;『ソフトウェアアーキテクチャ・ハードパーツ』翻訳者&lt;/font&gt;&lt;/strong&gt;&lt;br&gt; &lt;font size=&quot;2&quot;&gt;1978年神奈川県生まれ。電気通信大学電気通信学部情報工学科卒。2009年に株式会社えにしテック を設立。2011年からは一般社団法人日本Rubyの会 の理事も務める。 近著に『ユニコーン企業のひみつ』（オライリージャパン、共訳）、『モノリスからマイクロサービスへ』（オライリージャパン、翻訳）、『ソフトウェアアーキテクチャの基礎』（オライリージャパン、翻訳）など。&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;2&quot;&gt; &lt;blockquote&gt; &lt;p&gt;ソフトウェアアーキテクチャには絶対的な正解は存在しません。むしろ、さまざまな妥協点の中から選択を強いるような難題、すなわち「ハードパーツ」が多く存在しています。そのため、ソフトウェアアーキテクトには、トレードオフを見極め、状況に合った選択を重ねていくことが常に求められます。『ソフトウェアアーキテクチャ・ハードパーツ』は、固有のアーキテクチャ上の難題に対して、読者が効果的なトレードオフ分析を行い、より良い選択をしていけるための書籍です。 本セッションでは、『ソフトウェアアーキテクチャ・ハードパーツ』の根底にあるソフトウェアアーキテクチャに対する考え方、そして現代のソフトウェアアーキテクチャが持つ難題とそれに対するアプローチなどについて説明します。&lt;/p&gt; &lt;/blockquote&gt; &lt;h2&gt;事例講演：「ソフトウェアアーキテクチャ・ハードパーツ」の視点から見たオープンロジのアーキテクチャ改変事例&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/2pyU2ns.png&quot; width=&quot;120&quot;&gt;　&lt;strong&gt;&lt;font size=&quot;5&quot;&gt;大平 哲也&lt;/font&gt;&lt;/strong&gt; &lt;font size=&quot;3&quot;&gt;氏&lt;/font&gt;&lt;br&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;株式会社オープンロジ&lt;br&gt;SREチーム リーダー&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;font size=&quot;2&quot;&gt;大手 BtoC企業各社で主にサーバーサイドのエンジニアとしてインフラ構築やサービスの開発、大規模リプレイス、チームのマネジメントなどを担当。2022年7月にオープンロジに入社。SREチームのリーダーを務める。さだまさしが好き。 &lt;/font&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;オープンロジでは、社内で「Fraise」と呼ばれている新アーキテクチャへの移行を進めており、そのうちの一部についてリリースが完了しています。ここでは、その対応の中で見えてきた知見や課題などについて、「ソフトウェアアーキテクチャ・ハードパーツ」の内容にできるだけ沿う形で紹介していきたいと思います。&lt;/p&gt; &lt;/blockquote&gt; &lt;h2&gt;⌛ タイムスケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング（5分）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Forkwell 運営&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;基調講演（30分）&lt;br&gt;ソフトウェアアーキテクチャ・ハードパーツ&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;『ソフトウェアアーキテクチャ・ハードパーツ』翻訳者&lt;br&gt;島田 浩二 氏&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;事例講演（25分）&lt;br&gt;「ソフトウェアアーキテクチャ・ハードパーツ」の視点から見たオープンロジのアーキテクチャ改変事例&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;株式会社オープンロジ&lt;br&gt;大平 哲也 氏&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;書籍プレゼント企画案内（5分）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Forkwell 運営&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;視聴者Q&amp;amp;Aパネルトーク（30分）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;島田 浩二 氏 x 大平 哲也 氏&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;21:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング（5分）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Forkwell 運営&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;21:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;終了&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;&lt;font color=&quot;#1f81ad&quot;&gt;※ プログラムは変更となる可能性があります。随時こちらで更新いたします。&lt;/font&gt;&lt;/p&gt; &lt;h1&gt;📺 参加方法&lt;/h1&gt; &lt;p&gt;今回のオンライン勉強会は YouTube Live を使用してライブ配信いたします。&lt;br&gt;当日 19:30〜 配信がスタートしますので、下記のリンクよりチャンネル登録の上、ライブ配信予定枠のリマインダー設定をお願いします:man-bowing: &lt;/p&gt; &lt;p&gt;&lt;font size=&quot;3&quot;&gt;🎥&lt;a href=&quot;https://www.youtube.com/c/Forkwell_jp?sub_confirmation=1&quot; rel=&quot;nofollow&quot;&gt;Forkwell 公式 IT エンジニアのキャリアと学び&lt;/a&gt;&lt;/font&gt;&lt;/p&gt; &lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/c/Forkwell_jp?sub_confirmation=1&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://i.imgur.com/3MDOUo5.jpg&quot;&gt;&lt;/a&gt;&lt;/div&gt; &lt;p&gt;またライブ配信終了後、アーカイブ動画の公開を予定しております。&lt;br&gt;当日の開催時間にライブ参加できない方も、connpass 参加申込みの上、ご視聴くださいませ。&lt;/p&gt; &lt;h1&gt;🤝 主催・協力&lt;/h1&gt; &lt;h2&gt;&lt;font color=&quot;#333333&quot; size=&quot;3&quot;&gt;主催：&lt;strong&gt;&lt;a href=&quot;https://bit.ly/fw_connpass&quot; rel=&quot;nofollow&quot;&gt;Forkwell&lt;/a&gt;&lt;/strong&gt;（株式会社grooves）&lt;/font&gt;&lt;br&gt;&lt;/h2&gt; &lt;div style=&quot;text-align: center;&quot;&gt; &lt;a href=&quot;https://bit.ly/fw_connpass&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://i.imgur.com/gl8DCeJ.png&quot; width=&quot;500&quot;&gt;&lt;/a&gt; &lt;/div&gt; &lt;p&gt;「つくり手と、未来を拓く。」というビジョンの元、「自分を知り、成長する」きっかけを提供する無料ポートフォリオサービスをはじめ、ITエンジニアに特化した求人・転職支援サービス、役立つ情報や場の提供などを通じて、ITエンジニアのキャリアに新しい選択肢を提示することで、人生の可能性を拡げるお手伝いをしています。&lt;br&gt;&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#333333&quot; size=&quot;3&quot;&gt;公式サポーター：&lt;strong&gt;&lt;a href=&quot;https://www.oreilly.co.jp/index.shtml&quot; rel=&quot;nofollow&quot;&gt;株式会社オライリー・ジャパン&lt;/a&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.oreilly.co.jp/index.shtml&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://i.imgur.com/0of8hxH.png&quot; width=&quot;450&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt; &lt;p&gt;オライリー・ジャパン（O&apos;Reilly Japan, Inc.）は、アメリカに本社を置くオライリー・メディア（O&apos;Reilly Media, Inc.）の100%出資子会社として、1995年12月12日に設立されました。主要なテクノロジーに関するコンピュータ技術書籍、モノづくり・DIY系の「Make」関連書籍の翻訳・企画出版と、世界最大のDIYの祭典であるMaker Faire（Maker Faire Tokyo）の開催を行っています。&lt;/p&gt; &lt;h2&gt;&lt;font color=&quot;#333333&quot; size=&quot;3&quot;&gt;事例スポンサー：&lt;strong&gt;&lt;a href=&quot;https://corp.openlogi.com/&quot; rel=&quot;nofollow&quot;&gt;株式会社オープンロジ&lt;/a&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/h2&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://corp.openlogi.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://i.imgur.com/oDMIFyT.png&quot; width=&quot;450&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt; &lt;p&gt;目指すコンセプトは「物流版AWS」&lt;/p&gt; &lt;p&gt;私たちはレガシーでアナログな物流業界にテクノロジーで変革へ起こすスタートアップです。&lt;/p&gt; &lt;p&gt;「OPENLOGI」というシステムを通じて物流をネットワーク化、データを起点にモノの流れを革新、サービスのスケールに合わせて拡張できる「物流版AWS」の実現を目指しています。&lt;/p&gt; &lt;h5&gt;&lt;/h5&gt; &lt;table style=&quot;border: solid 2px #1f81ad;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;div style=&quot;font-size: 150%; font-weight: bold; color: #1f81ad;&quot;&gt; ⚠️注意事項&lt;/div&gt; &lt;ul&gt; &lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/li&gt; &lt;li&gt;Forkwell の宣伝をさせていただく時間がございます。予めご了承ください。&lt;/li&gt; &lt;li&gt;エンジニアの方を対象としたイベントのため、非エンジニアの方のご参加、ならびに同業に属する方の当イベント内でのリクルーティング活動につきましてご遠慮いただいております。&lt;/li&gt; &lt;li&gt;ブログやSNS等で当イベントに関する発信を行う際は、公序良俗に反する内容のないよう、ご協力をお願いします。&lt;/li&gt; &lt;li&gt;当イベントはオンライン開催のため、双方の通信状況により音声や映像に乱れがある場合がございます。&lt;/li&gt; &lt;li&gt;配信トラブル時のアナウンスは&lt;a href=&quot;https://twitter.com/Forkwell_ja&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;よりイベントハッシュタグをつけて行います。&lt;/li&gt; &lt;/ul&gt; また、ご参加者の方々が最大限楽しんで頂けるよう、運営サイドで参加にふさわしくないと判断させて頂いた方については、イベント中であろうとご退席をお願いすることがございます。 &lt;ul&gt; &lt;li&gt;保険、宗教、ネットワークビジネスの勧誘が目的と見られる方&lt;/li&gt; &lt;li&gt;その他運営サイドで参加が不適切だと判断した方&lt;/li&gt; &lt;/ul&gt; 誠に恐れ入りますが、あらかじめご了承くださいませ。 &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/font&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://forkwell.connpass.com/event/265858/'/>
-    <published>
-      2022-12-22T13:12:28+09:00
     </published>
   </entry>
 </feed>
