@@ -9,8 +9,44 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-12-28T00:48:17+00:00
+    2022-12-29T00:50:09+00:00
   </updated>
+  <entry>
+    <id>
+      https://mrubyworkshop.connpass.com/event/270701/
+    </id>
+    <title>
+      mrubyのポーティングを学ぼう
+    </title>
+    <summary>
+      mrubyをもっと本格的に使ってみたい方向けの技術勉強会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;ポーティングとはmrubyをマイコンや自社機器に組み込む事を言います。このワークショップでご自分のワークや仕事にmrubyを活用するのに必要なスキルを学ぶ事ができます。&lt;/h1&gt; &lt;h3&gt;日時（２部構成です。第１部のみ参加も受付中）&lt;/h3&gt; &lt;p&gt;第１部　2023年2月4日（土）13:00-17:00&lt;/p&gt; &lt;p&gt;第２部　2022年2月11日（土）13:00-17:00&lt;/p&gt; &lt;h3&gt;概要&lt;/h3&gt; &lt;p&gt;&lt;b&gt;昨年行った”仕事に活かせるmrubyの使い方を学ぼう”ワークショップを再度学びたい方にもおすすめです。&lt;/b&gt;&lt;/p&gt; &lt;p&gt;第１部ではmrubyのmrbgem（ライブラリ）の作成方法や利用の仕方をPC上で学びます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;PC上でのmrubyのビルド&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;mrbgemの利用&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;mrbgemの自作&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;第２部ではマイコンにmrubyを組み込む（ポーティング）方法を学びます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;micro:bit v2の開発環境にmrubyを組み込む&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;mrubyのカスタマイズ&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;mrubyの機能拡張（コンソール出力、LED表示）&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;マイコンはmicro:bit V2を使います。ご自宅にmicro:bitをお届けします。&lt;/p&gt; &lt;p&gt;講師：SCSK 九州株式会社　mrubyエバンジェリスト　九州産業大学理工学部非常勤講師　三牧弘司&lt;/p&gt; &lt;p&gt;※ Micro:bitはイギリスBBCが主体となって開発されたマイコンで25個のLEDと2個のボタンスイッチのほか、スピーカーとマイク、明るさセンサー、加速度センサー、磁力センサー、温度センサー、無線通信機能（BLE）を搭載しています。Micro:bitは教育用などにも使われています。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://microbit.org/ja/new-microbit/&quot; rel=&quot;nofollow&quot;&gt;Micro:bitのサイト&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;参加費は無料、使用するマイコン micro:bit も無償で貸し出します。&lt;/h3&gt; &lt;p&gt;参加に当たり２部構成ですが１部のみの参加希望者も受け付けます。ただし２部のみの参加は１部の受講が必須ですのでお受けできません。&lt;/p&gt; &lt;p&gt;ワークショップの内容は下記の通りです。&lt;/p&gt; &lt;h2&gt;予定&lt;/h2&gt; &lt;p&gt;１日目　2/4&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;time&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;13:00&lt;/td&gt; &lt;td&gt;開始　mrubyってどんなもの&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:10&lt;/td&gt; &lt;td&gt;mruby環境構築の構築&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:30&lt;/td&gt; &lt;td&gt;mrubyの実行&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:00&lt;/td&gt; &lt;td&gt;mrubyの機能拡張　mrbgemを使ってみる&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:00&lt;/td&gt; &lt;td&gt;mrbgemを作る&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:00&lt;/td&gt; &lt;td&gt;終了&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;２日目　2/11&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;time&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;13:00&lt;/td&gt; &lt;td&gt;開始　１部おさらい&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:10&lt;/td&gt; &lt;td&gt;mrubyのポーティング概要&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:20&lt;/td&gt; &lt;td&gt;ターゲット開発環境構築&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:00&lt;/td&gt; &lt;td&gt;マイコンでmrubyを動かす&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:30&lt;/td&gt; &lt;td&gt;マイコン版mrubyの機能拡張&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:00&lt;/td&gt; &lt;td&gt;終了&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;参加希望の方へのMIcro:bitの貸し出しについて&lt;/h2&gt; &lt;h2&gt;（１部のみ参加の方もお読みください）&lt;/h2&gt; &lt;p&gt;参加いただくみなさんにMIcro:bitなど勉強会に必要な物を無料で貸し出しいたします。&lt;/p&gt; &lt;p&gt;送付手順&lt;/p&gt; &lt;p&gt;・参加される方は下記のフォームにお名前、住所、電話番号を記入していただきます。&lt;/p&gt; &lt;p&gt;・&lt;b&gt;１部のみ参加の方にもその旨確認させていただきますので下記フォームに入力ください。&lt;/b&gt;&lt;/p&gt; &lt;p&gt;・お手持ちのmicro:bit v2での参加も可能です。その際は入力フォームのコメントに手持ちmicro:bit利用と明記ください。&lt;/p&gt; &lt;p&gt;※ mrubyが動作するmicro:bitはV2のみですのでご注意ください。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1gtPIKWJc1NDtSkiLN5K94j3NTChhIQ08T2Rf1HMCYBI/edit&quot; rel=&quot;nofollow&quot;&gt;住所入力フォーム&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;注意：住所入力フォームだけ記入してセミナー参加登録されない方がいらっしゃいます。&lt;/h3&gt; &lt;h3&gt;両方での登録が必要ですのでご注意ください。&lt;/h3&gt; &lt;p&gt;・受講者の方に、［登録住所］あてにレターパックにて送付いたします&lt;/p&gt; &lt;p&gt;・教材の返送は、［主催者住所］あてのレターパックを同封していますので速やかにご返送ください。&lt;/p&gt; &lt;p&gt;●個人情報の取り扱いについて&lt;/p&gt; &lt;p&gt;いただいた個人情報については、機器の郵送等の本イベントの運営に必要な事項のみに利用するものとし、その他の目的には一切使用しません。&lt;/p&gt; &lt;h3&gt;募集にあたっての条件&lt;/h3&gt; &lt;p&gt;・マイコンプログラミングに興味のある方&lt;/p&gt; &lt;p&gt;・C言語およびRubyのプログラムが理解できる方（読んで分かる程度でよいです）&lt;/p&gt; &lt;p&gt;・コマンドラインでの操作に抵抗がない方（Linuxコマンドを使用します）&lt;/p&gt; &lt;h3&gt;参加頂くにあたっての必要な機材&lt;/h3&gt; &lt;p&gt;● Windows PC または Mac&lt;/p&gt; &lt;p&gt;● USB type A の空きポートが1つ以上（Windows / Mac）&lt;/p&gt; &lt;p&gt;● Windows PCの要件&lt;/p&gt; &lt;p&gt;・OS: Windows 10 / 11&lt;/p&gt; &lt;p&gt;・Hyper-Vが利用可能なPC&lt;/p&gt; &lt;p&gt;● Macの要件&lt;/p&gt; &lt;p&gt;・OS: macOS X&lt;/p&gt; &lt;p&gt;・Intel CPU搭載機 (Apple M1搭載機はご利用いただけません）&lt;/p&gt; &lt;p&gt;事前に必要な環境セットアップ手順をお送りしますので当日までにご準備ください。&lt;/p&gt; &lt;p&gt;また環境構築などご質問等は下記のメールアドレスまでご連絡ください。&lt;/p&gt; &lt;p&gt;h.ishii@mruby.org&lt;/p&gt; &lt;h3&gt;注意事項&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;管理者権限を持つユーザでログイン可能であること&lt;/li&gt; &lt;li&gt;USB書き出し禁止ソフトが入っていないこと&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;前日に視聴用Zoomアドレスを送付します。&lt;/h3&gt; &lt;h2&gt;協賛&lt;/h2&gt; &lt;p&gt;NPO軽量Rubyフォーラム&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://forum.mruby.org&quot; rel=&quot;nofollow&quot;&gt;mruby forum Web&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mrubyworkshop.connpass.com/event/270701/'/>
+    <published>
+      2022-12-28T11:28:51+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://moneyforward.connpass.com/event/269453/
+    </id>
+    <title>
+      各社の技術広報が明かす「RubyKaigiスポンサーの裏話」運営ノウハウやコミュニティへの想い
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;概要&lt;/h1&gt;
+      &lt;p&gt;2006年からほぼ毎年、日本で開催されているオブジェクト指向スクリプト言語Rubyに関するイベント「RubyKaigi」。世界中のRubyist達にとっての祭典であるこのイベントは、多くの人々の尽力によって円滑な運営が行われています。&lt;/p&gt; &lt;p&gt;「RubyKaigi」に関わる方法のひとつとして、&quot;スポンサーになること&quot;が挙げられます。これまで「RubyKaigi」のスポンサーになってきた企業は、運営においてどのような工夫や努力をしてきたのでしょうか。そして、それぞれの企業が持つRubyコミュニティへの想いとは。&lt;/p&gt; &lt;p&gt;本イベントでは、これまでスポンサーを務めた各社が登壇。スポンサーになった経緯や運営におけるノウハウ、スポンサー活動を通じてコミュニティに貢献する理由などを語ります。&lt;/p&gt; &lt;h1&gt;イベント詳細&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;日時：2023年2月7日（火）19:00〜20:30&lt;/li&gt; &lt;li&gt;場所：オンライン（Zoom）※Zoomウェビナーでの配信を予定しています。日付が近づきましたら視聴URLをお送りします。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00〜19:05&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05〜19:20&lt;/td&gt; &lt;td&gt;Why Money Forward contributes to Ruby and RubyKaigi.&lt;/td&gt; &lt;td&gt;マネーフォワード luccafort&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:20〜19:35&lt;/td&gt; &lt;td&gt;はじめてスポンサー運営PMをやってみてわかった4つのこと&lt;/td&gt; &lt;td&gt;アンドパッド 鳩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35〜19:50&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;iCARE 荻野&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:50〜20:05&lt;/td&gt; &lt;td&gt;クックパッドがRubyKaigiに20名以上の社員で参加するわけ&lt;/td&gt; &lt;td&gt;クックパッド 緑川&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:05〜20:25&lt;/td&gt; &lt;td&gt;パネルディスカッション・質疑応答&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:25〜20:30&lt;/td&gt; &lt;td&gt;エンディング&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;こんな方におすすめです&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyコミュニティや、その他技術コミュニティに参加しているエンジニアの方&lt;/li&gt; &lt;li&gt;これまでのRubyKaigiに参加した方や、2023年のRubyKaigiに参加しようと思っている方&lt;/li&gt; &lt;li&gt;技術広報を担当されている、エンジニアリングマネージャー、人事や広報の方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;登壇者&lt;/h1&gt; &lt;h2&gt;株式会社マネーフォワード / luccafort(小西 達郎) ( &lt;a href=&quot;https://twitter.com/luccafort&quot; rel=&quot;nofollow&quot;&gt;@luccafort&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;2020年にマネーフォワードにバックエンドエンジニアとして入社。VPoE渋谷から「技術広報やってみない？」と指名され技術広報に就任。 普段は京都開発拠点で働きカンファレンスや社内イベントなどの企画、運営を行う。 趣味でKyoto.goやKyoto.rb、Go Conferenceの運営スタッフを行ってます。 好きな言語はRuby, Go, PHP, TypeScript。好きなプロトコルはgRPCと京都プロトコル。&lt;/p&gt; &lt;h2&gt;株式会社アンドパッド / 鳩 洋子( &lt;a href=&quot;https://twitter.com/aruma403&quot; rel=&quot;nofollow&quot;&gt;@aruma403&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;フリーランスのエンジニアとして8年ほどの活動経験を経て、受託開発会社にて、月額制アジャイル開発チームを提供するサービスの立ち上げを行い、事業企画と事業部CTOを兼任。現在はアンドパッドにて、技術広報エンジニアとして採用広報・技術ブランディング活動を推進している。韓国語字幕翻訳者をやっていた時代があり、韓ドラ・K-POPが大好き。&lt;/p&gt; &lt;h2&gt;株式会社iCARE / 荻野 淳也（ &lt;a href=&quot;https://twitter.com/ogijun&quot; rel=&quot;nofollow&quot;&gt;@ogijun&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;業務システムやECサイトなどのシステム開発の現場に四半世紀以上に渡って関わる。2006年にはじまったRubyKaigiの創始者の1人であり、RubyKaigiの名前をつけた張本人でもあるらしい。2021年3月にiCARE入社。また、2015年4月から新宿区荒木町の飲み屋街で小さなコーヒー屋『珈琲専門 猫廼舎』もやっている(現在は休業中)。&lt;/p&gt; &lt;h2&gt;クックパッド株式会社 / 緑川 敬紀 ( &lt;a href=&quot;https://twitter.com/techfavo&quot; rel=&quot;nofollow&quot;&gt;@techfavo&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;元技術書専門の書籍編集者。前職の出版社では5年間書籍編集を担当した後、3年間人事を行い新卒採用や中途採用、採用広報などに携わる。2022年にクックパッド株式会社へ入社。クックパッド株式会社ではCTO室に所属しで技術広報や採用活動などを担当している。30歳過ぎて初めて髪の毛をブリーチし、髪の毛がクックパッド色をしている。&lt;/p&gt; &lt;h2&gt;モデレーター：株式会社アンドパッド / 柴田 博志 ( &lt;a href=&quot;https://twitter.com/hsbt&quot; rel=&quot;nofollow&quot;&gt;@hsbt&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;OSS プログラマー、Ruby コミッタ、Ruby, RubyGems, Bundler, Rake, ruby-build など多数の OSS のメンテナ、&lt;a href=&quot;http://ruby-lang.org&quot; rel=&quot;nofollow&quot;&gt;ruby-lang.org&lt;/a&gt; の root 管理者としてプログラミング言語 Ruby の開発を支える基盤を統括している。株式会社アンドパッドの技術広報および Ruby の開発をフルタイムの業務として担当している。&lt;/p&gt; &lt;h1&gt;個人情報のお取り扱いについて&lt;/h1&gt; &lt;p&gt;本イベントで取得する個人情報のお取り扱い方針は以下の通りです。ご同意の上でお申し込み・ご参加ください。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;株式会社iCARE：&lt;a href=&quot;https://www.icare.jpn.com/privacy-policy/&quot; rel=&quot;nofollow&quot;&gt;https://www.icare.jpn.com/privacy-policy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社アンドパッド：&lt;a href=&quot;https://andpad.jp/privacy&quot; rel=&quot;nofollow&quot;&gt;https://andpad.jp/privacy&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社クックパッド：&lt;a href=&quot;https://cookpad.careers/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://cookpad.careers/privacy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社マネーフォワード：&lt;a href=&quot;https://corp.moneyforward.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://corp.moneyforward.com/privacy/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;当日の内容およびスケジュールは予告なく変更される場合があります。&lt;/li&gt; &lt;li&gt;運営、スピーカー含めてリモートでのオンライン開催となりますため、音声や映像が不安定になる可能性があります。&lt;/li&gt; &lt;li&gt;本イベントの様子・内容を、後日公開する場合があります。&lt;/li&gt; &lt;li&gt;何か困ったことがございましたら、本ページ下記の「本イベントに関する問い合わせ」か &lt;a href=&quot;https://twitter.com/moneyforwardDev&quot; rel=&quot;nofollow&quot;&gt;@moneyforwardDev&lt;/a&gt; までご連絡ください。&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://moneyforward.connpass.com/event/269453/'/>
+    <published>
+      2022-12-28T10:24:32+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://pa-ruby-rindoku.connpass.com/event/270753/
@@ -188,24 +224,6 @@
   </entry>
   <entry>
     <id>
-      https://moneyforward.connpass.com/event/269453/
-    </id>
-    <title>
-      各社の技術広報が明かす「RubyKaigiスポンサーの裏話」運営ノウハウやコミュニティへの想い
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;概要&lt;/h1&gt;
-      &lt;p&gt;2006年からほぼ毎年、日本で開催されているオブジェクト指向スクリプト言語Rubyに関するイベント「RubyKaigi」。世界中のRubyist達にとっての祭典であるこのイベントは、多くの人々の尽力によって円滑な運営が行われています。&lt;/p&gt; &lt;p&gt;「RubyKaigi」に関わる方法のひとつとして、&quot;スポンサーになること&quot;が挙げられます。これまで「RubyKaigi」のスポンサーになってきた企業は、運営においてどのような工夫や努力をしてきたのでしょうか。そして、それぞれの企業が持つRubyコミュニティへの想いとは。&lt;/p&gt; &lt;p&gt;本イベントでは、これまでスポンサーを務めた各社が登壇。スポンサーになった経緯や運営におけるノウハウ、スポンサー活動を通じてコミュニティに貢献する理由などを語ります。&lt;/p&gt; &lt;h1&gt;イベント詳細&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;日時：2023年2月7日（火）19:00〜20:30&lt;/li&gt; &lt;li&gt;場所：オンライン（Zoom）※Zoomウェビナーでの配信を予定しています。日付が近づきましたら視聴URLをお送りします。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00〜19:05&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05〜19:20&lt;/td&gt; &lt;td&gt;Why Money Forward contributes to Ruby and RubyKaigi.&lt;/td&gt; &lt;td&gt;マネーフォワード luccafort&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:20〜19:35&lt;/td&gt; &lt;td&gt;はじめてスポンサー運営PMをやってみてわかった4つのこと&lt;/td&gt; &lt;td&gt;アンドパッド 鳩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35〜19:50&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;iCARE 荻野&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:50〜20:05&lt;/td&gt; &lt;td&gt;クックパッドがRubyKaigiに20名以上の社員で参加するわけ&lt;/td&gt; &lt;td&gt;クックパッド 緑川&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:05〜20:25&lt;/td&gt; &lt;td&gt;パネルディズカッション・質疑応答&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:25〜20:30&lt;/td&gt; &lt;td&gt;エンディング&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;こんな方におすすめです&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyコミュニティや、その他技術コミュニティに参加しているエンジニアの方&lt;/li&gt; &lt;li&gt;これまでのRubyKaigiに参加した方や、2023年のRubyKaigiに参加しようと思っている方&lt;/li&gt; &lt;li&gt;技術広報を担当されている、エンジニアリングマネージャー、人事や広報の方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;登壇者&lt;/h1&gt; &lt;h2&gt;株式会社マネーフォワード / luccafort(小西 達郎) ( &lt;a href=&quot;https://twitter.com/luccafort&quot; rel=&quot;nofollow&quot;&gt;@luccafort&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;2020年にマネーフォワードにバックエンドエンジニアとして入社。VPoE渋谷から「技術広報やってみない？」と指名され技術広報に就任。 普段は京都開発拠点で働きカンファレンスや社内イベントなどの企画、運営を行う。 趣味でKyoto.goやKyoto.rb、Go Conferenceの運営スタッフを行ってます。 好きな言語はRuby, Go, PHP, TypeScript。好きなプロトコルはgRPCと京都プロトコル。&lt;/p&gt; &lt;h2&gt;株式会社アンドパッド / 鳩 洋子( &lt;a href=&quot;https://twitter.com/aruma403&quot; rel=&quot;nofollow&quot;&gt;@aruma403&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;フリーランスのエンジニアとして8年ほどの活動経験を経て、受託開発会社にて、月額制アジャイル開発チームを提供するサービスの立ち上げを行い、事業企画と事業部CTOを兼任。現在はアンドパッドにて、技術広報エンジニアとして採用広報・技術ブランディング活動を推進している。韓国語字幕翻訳者をやっていた時代があり、韓ドラ・K-POPが大好き。&lt;/p&gt; &lt;h2&gt;株式会社iCARE / 荻野 淳也（ &lt;a href=&quot;https://twitter.com/ogijun&quot; rel=&quot;nofollow&quot;&gt;@ogijun&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;業務システムやECサイトなどのシステム開発の現場に四半世紀以上に渡って関わる。2006年にはじまったRubyKaigiの創始者の1人であり、RubyKaigiの名前をつけた張本人でもあるらしい。2021年3月にiCARE入社。また、2015年4月から新宿区荒木町の飲み屋街で小さなコーヒー屋『珈琲専門 猫廼舎』もやっている(現在は休業中)。&lt;/p&gt; &lt;h2&gt;クックパッド株式会社 / 緑川 敬紀 ( &lt;a href=&quot;https://twitter.com/techfavo&quot; rel=&quot;nofollow&quot;&gt;@techfavo&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;元技術書専門の書籍編集者。前職の出版社では5年間書籍編集を担当した後、3年間人事を行い新卒採用や中途採用、採用広報などに携わる。2022年にクックパッド株式会社へ入社。クックパッド株式会社ではCTO室に所属しで技術広報や採用活動などを担当している。30歳過ぎて初めて髪の毛をブリーチし、髪の毛がクックパッド色をしている。&lt;/p&gt; &lt;h2&gt;モデレーター：株式会社アンドパッド / 柴田 博志 ( &lt;a href=&quot;https://twitter.com/hsbt&quot; rel=&quot;nofollow&quot;&gt;@hsbt&lt;/a&gt; )&lt;/h2&gt; &lt;p&gt;OSS プログラマー、Ruby コミッタ、Ruby, RubyGems, Bundler, Rake, ruby-build など多数の OSS のメンテナ、&lt;a href=&quot;http://ruby-lang.org&quot; rel=&quot;nofollow&quot;&gt;ruby-lang.org&lt;/a&gt; の root 管理者としてプログラミング言語 Ruby の開発を支える基盤を統括している。株式会社アンドパッドの技術広報および Ruby の開発をフルタイムの業務として担当している。&lt;/p&gt; &lt;h1&gt;個人情報のお取り扱いについて&lt;/h1&gt; &lt;p&gt;本イベントで取得する個人情報のお取り扱い方針は以下の通りです。ご同意の上でお申し込み・ご参加ください。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;株式会社iCARE：&lt;a href=&quot;https://www.icare.jpn.com/privacy-policy/&quot; rel=&quot;nofollow&quot;&gt;https://www.icare.jpn.com/privacy-policy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社アンドパッド：&lt;a href=&quot;https://andpad.jp/privacy&quot; rel=&quot;nofollow&quot;&gt;https://andpad.jp/privacy&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社クックパッド：&lt;a href=&quot;https://cookpad.careers/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://cookpad.careers/privacy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社マネーフォワード：&lt;a href=&quot;https://corp.moneyforward.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://corp.moneyforward.com/privacy/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;当日の内容およびスケジュールは予告なく変更される場合があります。&lt;/li&gt; &lt;li&gt;運営、スピーカー含めてリモートでのオンライン開催となりますため、音声や映像が不安定になる可能性があります。&lt;/li&gt; &lt;li&gt;本イベントの様子・内容を、後日公開する場合があります。&lt;/li&gt; &lt;li&gt;何か困ったことがございましたら、本ページ下記の「本イベントに関する問い合わせ」か &lt;a href=&quot;https://twitter.com/moneyforwardDev&quot; rel=&quot;nofollow&quot;&gt;@moneyforwardDev&lt;/a&gt; までご連絡ください。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://moneyforward.connpass.com/event/269453/'/>
-    <published>
-      2022-12-26T18:08:08+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
       https://forkwell.connpass.com/event/269125/
     </id>
     <title>
@@ -263,28 +281,6 @@
     <link rel='alternate' type='text/html' href='https://pycon-hiroshima.connpass.com/event/268416/'/>
     <published>
       2022-12-25T23:25:12+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://hamadarb.connpass.com/event/270559/
-    </id>
-    <title>
-      Ruby Hacking Challenge in Hamada.rb
-    </title>
-    <summary>
-      RubyをHackしてみよう in Hamda.rb
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;RubyをHackしてみよう！ in Hamada.rb&lt;/p&gt;
-      &lt;p&gt;ざっくり以下の内容をやってみようかと思います。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;本家:Ruby
-      Hacking Challengeの演習などをやってみよう！(&lt;a
-      href=&quot;https://github.com/ko1/rubyhackchallenge&quot;
-      rel=&quot;nofollow&quot;&gt;https://github.com/ko1/rubyhackchallenge&lt;/a&gt;)&lt;/li&gt; &lt;li&gt;欲しいメソッドをRubyに追加してみよう&lt;/li&gt; &lt;li&gt;好きな感じでRubyをHackしてみよう &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;オンラインにて開催します。前日までにZoomのURLをpostしますのでそちらからアクセスしてください&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://hamadarb.connpass.com/event/270559/'/>
-    <published>
-      2022-12-25T15:32:49+09:00
     </published>
   </entry>
 </feed>
