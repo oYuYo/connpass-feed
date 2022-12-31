@@ -9,8 +9,27 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2022-12-30T00:50:21+00:00
+    2022-12-31T00:47:10+00:00
   </updated>
+  <entry>
+    <id>
+      https://team-ml.connpass.com/event/268650/
+    </id>
+    <title>
+      統計的因果推論 輪読会#1(1/7)
+    </title>
+    <summary>
+      統計的因果推論の基礎を学びましょう
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;内容概要&lt;/h3&gt; &lt;div
+      class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;今まで統計学の領域では扱えなかった「因果関係」を、定量的に炙り出す「統計的因果推論」という手法の概念・数理構造・役割の基本を解説します。また、近年、自然科学のみならず社会科学の領域でも活用されている事例を発表します。 ※本講座では、 当日参加できなかった方向けに、 事前収録した動画を限定公開後、１週間視聴いただけます。 また、 当日参加できた方も、ぜひ復習にご利用いただけます。 また、 収録動画とスライド資料のみご希望の方も、お申し込みいただけます。 その場合、申し込み時アンケートで「収録動画とスライド資料のみ希望」チェックを入れてください。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/447803947X&quot; rel=&quot;nofollow&quot;&gt;https://www.amazon.co.jp/dp/447803947X&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;開催時間&lt;/h3&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;受付：15:55〜16:00 解説：16:00-17:30 ※本講座では、 当日参加できなかった方向けに、 事前収録した動画を限定公開後、１週間視聴いただけます。 また、 当日参加できた方も、ぜひ復習にご利用いただけます。 また、 収録動画とスライド資料のみご希望の方も、お申し込みいただけます。 その場合、申し込み時アンケートで「収録動画とスライド資料のみ希望」チェックを入れてください。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h3&gt;対象者&lt;/h3&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;・ 因果推論の基礎を学びたい方 ・ 因果関係と相関関係について学びたい方 ・ バックドア基準、バックドアパスなどの基礎を学びたいエンジニア、マネージャ職の方 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;p&gt;&lt;img alt=&quot;image02_index&quot; src=&quot;https://i.gyazo.com/0809881cd280cdd9eaf6165aa9f2cb8a.png&quot;&gt;&lt;/p&gt; &lt;h3&gt;会場&lt;/h3&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;オンライン 当日アクセスいただくZoom URLや、当日の資料配布は、 以下slack参加者のみ、限定チャンネルにてご案内致します。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;p&gt;&lt;a href=&quot;http://bit.ly/2RWooDf&quot; rel=&quot;nofollow&quot;&gt;http://bit.ly/2RWooDf&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;詳細アジェンダ&lt;/h3&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;〇扱う内容 ・相関関係と因果関係 ・疑似相関(spurious correlation) ・統計的因果推論の歴史 ・因果のはしご ・ランダム化比較試験(RCT) ・因果的なパラドクス ・因果構造 ※詳細は一部変更となる可能性があります。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;p&gt;&lt;img alt=&quot;index1&quot; src=&quot;https://i.gyazo.com/19ed220c4f92c5611d89e21acf9821b9.png&quot;&gt;&lt;/p&gt; &lt;h3&gt;当日必要なもの&lt;/h3&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;・Slackアカウント ・Chromeブラウザ ・Zoomソフトウェア（はじめて使う方はダウンロードが必要です） &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h3&gt;講師プロフィール&lt;/h3&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;阪大大学院数学専攻卒。大阪府出身。 C、C++、Java、Perl、PHP、Ruby、Python、R、bash を操る公共系インフラエンジニア、フロントエンジニアを経て、医療系クラウドサービスを展開。医療系システムコンサルタント等を経てAIベンチャーにてデータサイエンティスト。大手から中小まで数多くのシステム開発プロジェクトで開発統括、プロマネを経験。 基盤設計、統計学、機械学習、深層学習、組織論、リーダーシップ論、心理学、事業戦略論等をテーマに、社内外で講師の経験多数。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;kaeken こと 嘉永島健司 開発マネージャー 兼フルスタックWebエンジニア (バックエンド、フロントエンド、クラウド、データサイエンス) Python, JavaScript, GCP/AWS, etcを使った Webアプリケーション開発のバックエンド・ フロントエンド・クラウド構築業務に従事し、 データサイエンティストとしても、 データ分析や機械学習モデル構築案件を担当。 また、長年フリーランスエンジニアとして、 国内各地・海外でノマドワークをしながら、 フルリモートワーカーとして各種プロジェクトに参画。 現在は、 データサイエンススタートアップ企業に参画し、 開発マネージャーとして、 ・シミュレーション最適化Webシステム構築プロジェクト ・気象データ解析プロジェクト ・GPSデータ解析プロジェクト ・POSデータ解析プロジェクト ・動画／画像／音声データ解析プロジェクト など、 さまざまなデータサイエンスプロジェクトに従事。 G検定 2017#1 合格 G検定 2021#1 合格 E資格 本試験 2022#1 合格 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;h3&gt;領収書の発行について&lt;/h3&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;前払いの領収書につきまして、PayPalもしくはconnpassで自動発行される領収書をご利用ください。 当日払い又は別途領収書をご希望の場合は、発行手数料は2,000円(税込)となります。ご了承ください。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://team-ml.connpass.com/event/268650/'/>
+    <published>
+      2022-12-31T00:06:12+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://omotesandorb.connpass.com/event/270921/
@@ -224,41 +243,6 @@
     <link rel='alternate' type='text/html' href='https://tryrubydoc.connpass.com/event/270671/'/>
     <published>
       2022-12-26T22:05:30+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shibuyarb.connpass.com/event/270655/
-    </id>
-    <title>
-      Shibuya.rb[:20230111]
-    </title>
-    <summary>
-      渋谷フクラスのGMOYoursでの開催です!
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;Shibuya.rbは、渋谷近郊のRubyが好きだったり、
-      Rubyの周辺技術が気になっている人のための地域Rubyistコミュニティです。&lt;/p&gt;
-      &lt;p&gt;今回は渋谷フクラスでの開催です。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Time&lt;/th&gt;
-      &lt;th&gt;title&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
-      &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td&gt;19:30&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35~&lt;/td&gt;
-      &lt;td&gt;フリータイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;21:30~&lt;/td&gt; &lt;td&gt;撤収&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;内容&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;LTをしたい方は「発表者枠」でご登録ください。&lt;/li&gt;
-      &lt;li&gt;当日に発表したくなった方は運営メンバーまでお声かけください。&lt;/li&gt;
-      &lt;li&gt;参加者それぞれが気になっているテーマでディスカッションできたら面白いかなと考えています&lt;/li&gt;
-      &lt;li&gt;最近気になっていることや、ソースコードリーディングしたいgemなどの話題をお持ちいただくと良いかもしれません
-      :)&lt;/li&gt;
-      &lt;li&gt;「こういうのやりたい」や「こういう風にやろうよ」など、ぜひネタやご意見をお持ちください&lt;/li&gt;
-      &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shibuyarb.connpass.com/event/270655/'/>
-    <published>
-      2022-12-26T18:50:19+09:00
     </published>
   </entry>
 </feed>
