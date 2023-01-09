@@ -19,7 +19,7 @@ jobs:
           ruby-version: '3.0'
       - name: install
         run: |
-          gem install connpass -v 0.0.1
+          gem install connpass -v 0.1.0
           gem install rexml -v 3.2.5
       - name: generate feed
         run: ruby gen.rb
