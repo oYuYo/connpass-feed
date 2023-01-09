@@ -9,8 +9,83 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2023-01-08T00:54:10+00:00
+    2023-01-09T00:50:29+00:00
   </updated>
+  <entry>
+    <id>
+      https://urahara-agile.connpass.com/event/271010/
+    </id>
+    <title>
+      テスト駆動開発 勉強会 TypeScript、Ruby（オンライン参加可能）
+    </title>
+    <summary>
+      テスト駆動開発の第一人者、株式会社テクノロジックアート 長瀬嘉秀氏 直伝！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;イベントの趣旨&lt;/h1&gt; &lt;ul&gt;
+      &lt;li&gt;テスト駆動開発に関心のあるエンジニア同士の交流の機会を作ります&lt;/li&gt;
+      &lt;li&gt;プログラミングを極めたいエンジニアのために、テスト駆動開発のテクニックを伝授します&lt;/li&gt;
+      &lt;li&gt;テスト駆動開発を実践したいエンジニアに、最初のきっかけを提供します&lt;/li&gt; &lt;/ul&gt;
+      &lt;h1&gt;アジェンダ&lt;/h1&gt; &lt;p&gt;※アジェンダは予告なく変更になる可能性がございます&lt;/p&gt;
+      &lt;h3&gt;実践！ テスト駆動開発&lt;/h3&gt; &lt;ul&gt;
+      &lt;li&gt;テスト駆動開発の概要&lt;/li&gt; &lt;li&gt;具体的なプロセス&lt;/li&gt;
+      &lt;li&gt;テストフレームワーク&lt;/li&gt; &lt;li&gt;テスト駆動開発の本質&lt;/li&gt;
+      &lt;li&gt;演習&lt;ul&gt; &lt;li&gt;足し算&lt;/li&gt; &lt;li&gt;交通費精算&lt;/li&gt;
+      &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Rails RESTful
+      API開発におけるTDD開発のTIPS&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;設計 -&amp;gt; テストコード
+      -&amp;gt; 開発コードの流れ&lt;/li&gt; &lt;li&gt;Modelに対するテストのTIPS&lt;/li&gt;
+      &lt;li&gt;Request/ResponseのテストのTIPS&lt;/li&gt;
+      &lt;li&gt;gem(0Auth)を用いた認証のTDDの流れ&lt;/li&gt; &lt;/ul&gt;
+      &lt;h1&gt;講演者プロフィール&lt;/h1&gt; &lt;h2&gt;長瀬嘉秀（ながせ よしひで）&lt;/h2&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.tech-arts.co.jp/&quot;
+      rel=&quot;nofollow&quot;&gt;株式会社テクノロジックアート&lt;/a&gt; 代表取締役&lt;/p&gt;
+      &lt;p&gt;1986年、東京理科大学理学部応用数学科卒業。朝日新聞社を経て、1989年株式会社テクノロジックアートを設立。OSF（OPEN
+      Software Foundation）のテクニカルコンサルタントとして DCE（Distributed Computing
+      Environment）関連のオープンシステムの推進を行う。OSF 日本ベンダ協議会 DCE 技術検討委員会の主査を務める。UML Profile
+      for EDOC の共同提案者、ISO/IECJTC1 SC32/WG2
+      委員、UMLモデリング推進協議会（UMTP）発起人。明星大学情報学部講師。元中国浙江大学客員教授。&lt;/p&gt;
+      &lt;p&gt;著書・訳書として、『独習UML』（監修、翔泳社）、『XPエクストリーム・プログラミング入門』（監訳、ピアソンエデュケーション）、『独習Ruby』（監修、翔泳社）、『オブジェクト脳の作り方』（監修、翔泳社）、『カンバン ソフトウェア開発の変革』（監訳、リックテレコム）、その他多数。&lt;/p&gt; &lt;h2&gt;Ryuya Ishibashi&lt;/h2&gt; &lt;p&gt;&lt;img alt=&quot;Ryuya Ishibashi&quot; src=&quot;https://urahara-agile.com/wp-content/uploads/2023/01/image010502_256.png&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://enechange.co.jp/&quot; rel=&quot;nofollow&quot;&gt;ENECHANGE株式会社&lt;/a&gt;&lt;/p&gt; &lt;p&gt;SES企業にて大小様々なプロジェクトに参画&lt;br&gt; Ruby on Rails/Vue.js/C#/.NET/Azure/Drupalなど様々な技術に触れてきました。 &lt;br&gt;↓&lt;br&gt; ENECHANE株式会社←いまここ&lt;br&gt; Railsエンジニアとして、電気料金シミュレーションのAPI開発を中心にお仕事しています&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/rubita_isi&quot; rel=&quot;nofollow&quot;&gt;@rubita_isi&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;プログラム&lt;/h1&gt; &lt;p&gt;13:45：入室開始（ZOOM、現地）&lt;br&gt; 14:00：実践！ テスト駆動開発&lt;br&gt; 15:30：Rails RESTful API開発におけるTDD開発のTIPS&lt;br&gt; 16:00：Q&amp;amp;A会&lt;br&gt;&lt;/p&gt; &lt;h1&gt;主催者について&lt;/h1&gt; &lt;p&gt;本イベントは&lt;a href=&quot;https://enechange.co.jp/&quot; rel=&quot;nofollow&quot;&gt;「ENECHANGE株式会社」&lt;/a&gt;と&lt;a href=&quot;https://urahara-agile.com/&quot; rel=&quot;nofollow&quot;&gt;「うら原アジャイル」&lt;/a&gt;の共同開催です。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://urahara-agile.connpass.com/event/271010/'/>
+    <published>
+      2023-01-08T20:40:37+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://shinriseevent.connpass.com/event/270223/
+    </id>
+    <title>
+      プログラミング言語勉強会
+    </title>
+    <summary>
+      プログラミング言語の歴史や特徴を学ぶ勉強会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
+      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
+      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
+      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
+      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
+      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
+      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
+      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
+      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
+      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
+      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
+      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
+      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
+      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/270223/'/>
+    <published>
+      2023-01-08T18:30:07+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://connpass.com/event/268981/
@@ -101,46 +176,6 @@
     <link rel='alternate' type='text/html' href='https://team-ml.connpass.com/event/268650/'/>
     <published>
       2023-01-07T13:30:03+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://urahara-agile.connpass.com/event/271010/
-    </id>
-    <title>
-      テスト駆動開発 勉強会（オンライン参加可能）
-    </title>
-    <summary>
-      テスト駆動開発の第一人者、株式会社テクノロジックアート 長瀬嘉秀氏 直伝！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;イベントの趣旨&lt;/h1&gt; &lt;ul&gt;
-      &lt;li&gt;テスト駆動開発に関心のあるエンジニア同士の交流の機会を作ります&lt;/li&gt;
-      &lt;li&gt;プログラミングを極めたいエンジニアのために、テスト駆動開発のテクニックを伝授します&lt;/li&gt;
-      &lt;li&gt;テスト駆動開発を実践したいエンジニアに、最初のきっかけを提供します&lt;/li&gt; &lt;/ul&gt;
-      &lt;h1&gt;アジェンダ&lt;/h1&gt; &lt;p&gt;※アジェンダは予告なく変更になる可能性がございます&lt;/p&gt;
-      &lt;h3&gt;実践！ テスト駆動開発&lt;/h3&gt; &lt;ul&gt;
-      &lt;li&gt;テスト駆動開発の概要&lt;/li&gt; &lt;li&gt;具体的なプロセス&lt;/li&gt;
-      &lt;li&gt;テストフレームワーク&lt;/li&gt; &lt;li&gt;テスト駆動開発の本質&lt;/li&gt;
-      &lt;li&gt;演習&lt;ul&gt; &lt;li&gt;足し算&lt;/li&gt; &lt;li&gt;交通費精算&lt;/li&gt;
-      &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Rails RESTful
-      API開発におけるTDD開発のTIPS&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;設計 -&amp;gt; テストコード
-      -&amp;gt; 開発コードの流れ&lt;/li&gt; &lt;li&gt;Modelに対するテストのTIPS&lt;/li&gt;
-      &lt;li&gt;Request/ResponseのテストのTIPS&lt;/li&gt;
-      &lt;li&gt;gem(0Auth)を用いた認証のTDDの流れ&lt;/li&gt; &lt;/ul&gt;
-      &lt;h1&gt;講演者プロフィール&lt;/h1&gt; &lt;h2&gt;長瀬嘉秀（ながせ よしひで）&lt;/h2&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.tech-arts.co.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;株式会社テクノロジックアート&lt;/a&gt; 代表取締役&lt;/p&gt;
-      &lt;p&gt;1986年、東京理科大学理学部応用数学科卒業。朝日新聞社を経て、1989年株式会社テクノロジックアートを設立。OSF（OPEN
-      Software Foundation）のテクニカルコンサルタントとして DCE（Distributed Computing
-      Environment）関連のオープンシステムの推進を行う。OSF 日本ベンダ協議会 DCE 技術検討委員会の主査を務める。UML Profile
-      for EDOC の共同提案者、ISO/IECJTC1 SC32/WG2
-      委員、UMLモデリング推進協議会（UMTP）発起人。明星大学情報学部講師。元中国浙江大学客員教授。&lt;/p&gt;
-      &lt;p&gt;著書・訳書として、『独習UML』（監修、翔泳社）、『XPエクストリーム・プログラミング入門』（監訳、ピアソンエデュケーション）、『独習Ruby』（監修、翔泳社）、『オブジェクト脳の作り方』（監修、翔泳社）、『カンバン ソフトウェア開発の変革』（監訳、リックテレコム）、その他多数。&lt;/p&gt; &lt;h2&gt;Ryuya Ishibashi&lt;/h2&gt; &lt;p&gt;&lt;img alt=&quot;Ryuya Ishibashi&quot; src=&quot;https://urahara-agile.com/wp-content/uploads/2023/01/image010502_256.png&quot;&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://enechange.co.jp/&quot; rel=&quot;nofollow&quot;&gt;ENECHANGE株式会社&lt;/a&gt;&lt;/p&gt; &lt;p&gt;SES企業にて大小様々なプロジェクトに参画&lt;br&gt; Ruby on Rails/Vue.js/C#/.NET/Azure/Drupalなど様々な技術に触れてきました。 &lt;br&gt;↓&lt;br&gt; ENECHANE株式会社←いまここ&lt;br&gt; Railsエンジニアとして、電気料金シミュレーションのAPI開発を中心にお仕事しています&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/rubita_isi&quot; rel=&quot;nofollow&quot;&gt;@rubita_isi&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;プログラム&lt;/h1&gt; &lt;p&gt;13:45：入室開始（ZOOM、現地）&lt;br&gt; 14:00：実践！ テスト駆動開発&lt;br&gt; 15:30：Rails RESTful API開発におけるTDD開発のTIPS&lt;br&gt; 16:00：Q&amp;amp;A会&lt;br&gt;&lt;/p&gt; &lt;h1&gt;主催者について&lt;/h1&gt; &lt;p&gt;本イベントは&lt;a href=&quot;https://enechange.co.jp/&quot; rel=&quot;nofollow&quot;&gt;「ENECHANGE株式会社」&lt;/a&gt;と&lt;a href=&quot;https://urahara-agile.com/&quot; rel=&quot;nofollow&quot;&gt;「うら原アジャイル」&lt;/a&gt;の共同開催です。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://urahara-agile.connpass.com/event/271010/'/>
-    <published>
-      2023-01-06T22:04:40+09:00
     </published>
   </entry>
   <entry>
@@ -327,30 +362,6 @@
       src=&quot;http://image.gihyo.co.jp/assets/images/cover/2022/9784297125219.jpg&quot;&gt; kokura.rbの初回が競プロということもあり、&lt;a href=&quot;https://www.amazon.co.jp/gp/product/4297125218/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot; rel=&quot;nofollow&quot;&gt;問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 | 米田 優峻 |本 | 通販&lt;/a&gt; こちらの本を読書会形式で進めていきます。 紙書籍、電子書籍どちらでも構いませんが、必ずお手元にある状態で参加をお願いいたします。&lt;/p&gt; &lt;p&gt;購入リンク(非アフィリエイト) - &lt;a href=&quot;https://www.amazon.co.jp/gp/product/4297125218/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot; rel=&quot;nofollow&quot;&gt;Amazon.co.jp - 問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 | 米田 優峻 |本 | 通販&lt;/a&gt; - &lt;a href=&quot;https://gihyo.jp/book/2022/978-4-297-12521-9&quot; rel=&quot;nofollow&quot;&gt;問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本：書籍案内｜技術評論社&lt;/a&gt;&lt;/p&gt; &lt;p&gt;画像引用:&lt;a href=&quot;https://gihyo.jp/book/2022/978-4-297-12521-9&quot; rel=&quot;nofollow&quot;&gt;gihyo.jp&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;書籍の準備。書籍をお手元に用意して参加頂ますようお願いいたします。&lt;/li&gt; &lt;li&gt;Rubyのインストール&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Ruby以外の言語でもOK!!!!&lt;/li&gt; &lt;li&gt;これから競プロをやってみたい人&lt;/li&gt; &lt;li&gt;競プロやってるけど、何を学習したら良いか分からない人&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;運営の2人も競プロ得意、数学得意というわけではなく楽しく競プロ(アルゴリズム)と数学を学んでいきたいという思いでやっていますのでお気軽にご参加ください。&lt;/p&gt; &lt;h1&gt;タイムテーブル(予定)&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;やること&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;10:00 ~ 10:10&lt;/td&gt; &lt;td&gt;自己紹介・アイスブレイク・esaなどの招待&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:10 ~ 11:45&lt;/td&gt; &lt;td&gt;読書会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;11:45 ~ 12:00&lt;/td&gt; &lt;td&gt;簡単に振り返り&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;運営者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/aseiide&quot; rel=&quot;nofollow&quot;&gt;@Aseiide&lt;/a&gt;&lt;ul&gt; &lt;li&gt;質問/不明点がございましたらDMにてご連絡ください。connpassの「イベントへの問い合わせ」から送っていただいても大丈夫です。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/ebiflyyyyyyyy&quot; rel=&quot;nofollow&quot;&gt;@ebiflyyyyyyyy&lt;/a&gt;&lt;ul&gt; &lt;li&gt;Atcoder早く茶色になりたすぎる。基本情報技術者試験もやってみるか〜〜〜。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;ツールスポンサー: esa&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa.io&lt;/a&gt;にご協力いただき、読書会のノートを記録していきます。&lt;/p&gt; &lt;h3&gt;行動規範(CoC)&lt;/h3&gt; &lt;p&gt;※行動規範(CoC)があります。ご参加予定の方は一度目をお通しいただけると幸いです。&lt;br&gt; &lt;a href=&quot;https://github.com/fukuokarb/code-of-conduct&quot; rel=&quot;nofollow&quot;&gt;行動規範(CoC)&lt;/a&gt;&lt;/p&gt;
     </content>
     <link rel='alternate' type='text/html' href='https://kokurarb.connpass.com/event/270989/'/>
-    <published>
-      2023-01-05T13:00:33+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://kokurarb.connpass.com/event/270990/
-    </id>
-    <title>
-      Kokura.rb #10
-    </title>
-    <summary>
-      【言語不問】問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 読書会
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;kokura.rbとは&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;福岡県北九州市を拠点に活動するRuby/Railsコミュニティです&lt;/li&gt;
-      &lt;li&gt;2022年6月からは読書会形式で進めています&lt;/li&gt;
-      &lt;li&gt;Discordを使って開催しているので参加をお願いします&lt;/li&gt;
-      &lt;li&gt;ハッシュタグは&lt;code&gt;#kokurarb&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt;
-      &lt;h2&gt;内容&lt;/h2&gt; &lt;p&gt;&lt;img alt=&quot;輪読書籍&quot;
-      src=&quot;http://image.gihyo.co.jp/assets/images/cover/2022/9784297125219.jpg&quot;&gt; kokura.rbの初回が競プロということもあり、&lt;a href=&quot;https://www.amazon.co.jp/gp/product/4297125218/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot; rel=&quot;nofollow&quot;&gt;問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 | 米田 優峻 |本 | 通販&lt;/a&gt; こちらの本を読書会形式で進めていきます。 紙書籍、電子書籍どちらでも構いませんが、必ずお手元にある状態で参加をお願いいたします。&lt;/p&gt; &lt;p&gt;購入リンク(非アフィリエイト) - &lt;a href=&quot;https://www.amazon.co.jp/gp/product/4297125218/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot; rel=&quot;nofollow&quot;&gt;Amazon.co.jp - 問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 | 米田 優峻 |本 | 通販&lt;/a&gt; - &lt;a href=&quot;https://gihyo.jp/book/2022/978-4-297-12521-9&quot; rel=&quot;nofollow&quot;&gt;問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本：書籍案内｜技術評論社&lt;/a&gt;&lt;/p&gt; &lt;p&gt;画像引用:&lt;a href=&quot;https://gihyo.jp/book/2022/978-4-297-12521-9&quot; rel=&quot;nofollow&quot;&gt;gihyo.jp&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;書籍の準備。書籍をお手元に用意して参加頂ますようお願いいたします。&lt;/li&gt; &lt;li&gt;Rubyのインストール&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Ruby以外の言語でもOK!!!!&lt;/li&gt; &lt;li&gt;これから競プロをやってみたい人&lt;/li&gt; &lt;li&gt;競プロやってるけど、何を学習したら良いか分からない人&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;運営の2人も競プロ得意、数学得意というわけではなく楽しく競プロ(アルゴリズム)と数学を学んでいきたいという思いでやっていますのでお気軽にご参加ください。&lt;/p&gt; &lt;h1&gt;タイムテーブル(予定)&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;やること&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;10:00 ~ 10:10&lt;/td&gt; &lt;td&gt;自己紹介・アイスブレイク・esaなどの招待&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:10 ~ 11:45&lt;/td&gt; &lt;td&gt;読書会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;11:45 ~ 12:00&lt;/td&gt; &lt;td&gt;簡単に振り返り&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;運営者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/aseiide&quot; rel=&quot;nofollow&quot;&gt;@Aseiide&lt;/a&gt;&lt;ul&gt; &lt;li&gt;質問/不明点がございましたらDMにてご連絡ください。connpassの「イベントへの問い合わせ」から送っていただいても大丈夫です。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/ebiflyyyyyyyy&quot; rel=&quot;nofollow&quot;&gt;@ebiflyyyyyyyy&lt;/a&gt;&lt;ul&gt; &lt;li&gt;Atcoder早く茶色になりたすぎる。基本情報技術者試験もやってみるか〜〜〜。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;ツールスポンサー: esa&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa.io&lt;/a&gt;にご協力いただき、読書会のノートを記録していきます。&lt;/p&gt; &lt;h3&gt;行動規範(CoC)&lt;/h3&gt; &lt;p&gt;※行動規範(CoC)があります。ご参加予定の方は一度目をお通しいただけると幸いです。&lt;br&gt; &lt;a href=&quot;https://github.com/fukuokarb/code-of-conduct&quot; rel=&quot;nofollow&quot;&gt;行動規範(CoC)&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://kokurarb.connpass.com/event/270990/'/>
     <published>
       2023-01-05T13:00:33+09:00
     </published>
