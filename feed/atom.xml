@@ -9,8 +9,173 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2023-01-12T00:51:40+00:00
+    2023-01-13T00:51:56+00:00
   </updated>
+  <entry>
+    <id>
+      https://shibuyarb.connpass.com/event/272032/
+    </id>
+    <title>
+      Shibuya.rb[:20230208]
+    </title>
+    <summary>
+      渋谷フクラスのGMOYoursでの開催です!
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;Shibuya.rbは、渋谷近郊のRubyが好きだったり、
+      Rubyの周辺技術が気になっている人のための地域Rubyistコミュニティです。&lt;/p&gt;
+      &lt;p&gt;今回は渋谷フクラスでの開催です。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt;
+      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;title&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
+      &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt;
+      &lt;tr&gt; &lt;td&gt;19:30&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35~&lt;/td&gt;
+      &lt;td&gt;フリータイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;21:00~&lt;/td&gt; &lt;td&gt;撤収&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;内容&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;LTをしたい方は「発表者枠」でご登録ください。&lt;/li&gt;
+      &lt;li&gt;当日に発表したくなった方は運営メンバーまでお声かけください。&lt;/li&gt;
+      &lt;li&gt;参加者それぞれが気になっているテーマでディスカッションできたら面白いかなと考えています&lt;/li&gt;
+      &lt;li&gt;最近気になっていることや、ソースコードリーディングしたいgemなどの話題をお持ちいただくと良いかもしれません
+      :)&lt;/li&gt;
+      &lt;li&gt;「こういうのやりたい」や「こういう風にやろうよ」など、ぜひネタやご意見をお持ちください&lt;/li&gt;
+      &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shibuyarb.connpass.com/event/272032/'/>
+    <published>
+      2023-01-12T20:26:31+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://shibuyarb.connpass.com/event/270655/
+    </id>
+    <title>
+      Shibuya.rb[:20230111]
+    </title>
+    <summary>
+      渋谷フクラスのGMOYoursでの開催です!
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;Shibuya.rbは、渋谷近郊のRubyが好きだったり、
+      Rubyの周辺技術が気になっている人のための地域Rubyistコミュニティです。&lt;/p&gt;
+      &lt;p&gt;今回は渋谷フクラスでの開催です。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt;
+      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;title&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
+      &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt;
+      &lt;tr&gt; &lt;td&gt;19:30&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35~&lt;/td&gt;
+      &lt;td&gt;フリータイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;21:30~&lt;/td&gt; &lt;td&gt;撤収&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;内容&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;LTをしたい方は「発表者枠」でご登録ください。&lt;/li&gt;
+      &lt;li&gt;当日に発表したくなった方は運営メンバーまでお声かけください。&lt;/li&gt;
+      &lt;li&gt;参加者それぞれが気になっているテーマでディスカッションできたら面白いかなと考えています&lt;/li&gt;
+      &lt;li&gt;最近気になっていることや、ソースコードリーディングしたいgemなどの話題をお持ちいただくと良いかもしれません
+      :)&lt;/li&gt;
+      &lt;li&gt;「こういうのやりたい」や「こういう風にやろうよ」など、ぜひネタやご意見をお持ちください&lt;/li&gt;
+      &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shibuyarb.connpass.com/event/270655/'/>
+    <published>
+      2023-01-12T20:25:22+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://hey.connpass.com/event/270201/
+    </id>
+    <title>
+      Rubyist めぐり vol.1 ゲスト：takahashim
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;Rubyistめぐりとは&lt;/h2&gt;
+      &lt;p&gt;Rubyistめぐりとは、Rubyistをゲストに招き、プログラミングとの出会いやRubyへの思いなどを深堀りしていくインタビュー形式のイベントです。STORES 株式会社のCTO 藤村が聞き手を担当します。イベントを通じ、さまざまなRubyistの人となりを知ることで、キャリアの参考になったり、勇気づけられたり、Rubyを続けたいと思うきっかけになればいいなと思っています。&lt;/p&gt; &lt;p&gt;※イベントは&lt;strong&gt;オフラインのみ&lt;/strong&gt;の開催となります。弊社（恵比寿）までご来社いただける方がご参加いただけます。後日イベントレポートの公開を予定していますが、会場でしか聞けないトークもあるので、ぜひ会場にお越しください！&lt;/p&gt; &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Rubyエンジニアのキャリアや考え方について知りたい&lt;/li&gt; &lt;li&gt;他社のRubyエンジニアと交流したい&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;開催情報&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日時 : 2023年 1月 26日 (木) 19:00 〜 21:00 （18:45受付開始）&lt;/li&gt; &lt;li&gt;開催場所 : STORES 株式会社　東京都渋谷区東３丁目１６−３ エフ・ニッセイ恵比寿ビル 4階&lt;/li&gt; &lt;li&gt;参加費用 : 無料&lt;/li&gt; &lt;li&gt;参加方法 : connpass画面「このイベントに申し込む」よりご登録ください。 会場の都合上、抽選制とさせていただきます。また、オフィス入室にあたっての同意をいただくため、お名前、ご連絡先、所属などの情報をアンケートにてご記入いただきますようお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;開始&lt;/th&gt; &lt;th&gt;終了&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;18:45&lt;/td&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;19:05&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05&lt;/td&gt; &lt;td&gt;20:00&lt;/td&gt; &lt;td&gt;ゲストとCTO藤村の対談&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:00&lt;/td&gt; &lt;td&gt;20:30&lt;/td&gt; &lt;td&gt;質疑応答＆クロージング&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:30&lt;/td&gt; &lt;td&gt;21:00&lt;/td&gt; &lt;td&gt;交流会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;ゲストのご紹介&lt;/h2&gt; &lt;h3&gt;高橋征義さん/一般社団法人日本Rubyの会 代表理事&lt;/h3&gt; &lt;p&gt;札幌出身。Web制作会社にてプログラマとして勤務する傍ら、2004年にRubyの開発者と利用者を支援する団体、日本Rubyの会を設立、現在まで代表を務める。2010年にITエンジニア向けの技術系電子書籍の制作と販売を行う株式会社達人出版会を設立、現在まで代表取締役。著書に『たのしいRuby』（共著）など。好きな作家は新井素子。&lt;/p&gt; &lt;p&gt;Twitter：&lt;a href=&quot;https://twitter.com/takahashim&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/takahashim&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;モデレーター&lt;/h2&gt; &lt;h3&gt;藤村大介/STORES 株式会社 CTO&lt;/h3&gt; &lt;p&gt;新卒でSAP導入支援企業に入社し、ソフトウェア開発に従事。その後、株式会社 Aiming、Quipper Limited社で開発チームのリーダーを務め、2015年10月に株式会社マチマチを共同創業、取締役CTOに就任。 2020年にヘイ株式会社に入社、2020年8月より同社CTOに就任。&lt;/p&gt; &lt;p&gt;Twitter：&lt;a href=&quot;https://twitter.com/ffu_&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/ffu_&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;STORES について&lt;/h2&gt; &lt;p&gt;STORES は、「Just for Fun」をミッションに、こだわりや情熱、たのしみによって駆動される経済の発展に寄与することを目指しています。 個人事業者から中規模企業まで店舗を運営する方々にむけて、ネットショップ開設・POSレジ・キャッシュレス決済・オンライン予約システム・店舗アプリ作成など、お店のデジタル化を総合的に支援するサービスを展開。 「STORES」の各サービスを組み合わせることで、より簡単に・より効率的に事業運営できる環境を提供し、成長をサポートします。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;ネットショップ開設・運営「&lt;a href=&quot;https://stores.jp/ec&quot; rel=&quot;nofollow&quot;&gt;STORES&lt;/a&gt;」&lt;/li&gt; &lt;li&gt;POSレジ「&lt;a href=&quot;https://stores.jp/regi&quot; rel=&quot;nofollow&quot;&gt;STORES レジ&lt;/a&gt;」&lt;/li&gt; &lt;li&gt;お店のキャッシュレス「&lt;a href=&quot;https://coiney.com/&quot; rel=&quot;nofollow&quot;&gt;STORES 決済&lt;/a&gt;」&lt;/li&gt; &lt;li&gt;オンライン予約システム「&lt;a href=&quot;https://stores.jp/reserve&quot; rel=&quot;nofollow&quot;&gt;STORES 予約&lt;/a&gt;」&lt;/li&gt; &lt;li&gt;店舗アプリ作成「&lt;a href=&quot;https://stores.jp/brandedapp&quot; rel=&quot;nofollow&quot;&gt;STORES ブランドアプリ&lt;/a&gt;」&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;採用情報&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://product.st.inc/&quot; rel=&quot;nofollow&quot;&gt;STORES Product Blog&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://jobs.st.inc/engineer&quot; rel=&quot;nofollow&quot;&gt;エンジニア採用サイト&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;諸注意&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;イベントの様子・内容をまとめ、後日公開させていただく場合がございます。&lt;/li&gt; &lt;li&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/li&gt; &lt;li&gt;セクシュアルハラスメント・パワーハラスメント・ストーカー等の他人への迷惑行為を行うことは禁止します。&lt;/li&gt; &lt;li&gt;ネットワークビジネス等、その対象を問わず販売、勧誘、あっせん等、宗教活動または政治活動をすることは禁止します。&lt;/li&gt; &lt;li&gt;何かお困り事などありましたら、当イベントページの「イベントへのお問い合わせ」よりご連絡お願いいたします。&lt;/li&gt; &lt;li&gt;社内への共有のため、イベントの様子を録画させていただく場合があります。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;個人情報の取り扱いについて&lt;/h2&gt; &lt;p&gt;STORES 株式会社は、本イベントにおいて参加者から取得した個人情報を、本イベントに関するご連絡、本イベントに必要な諸手続、ならびに STORES 株式会社が開催する他イベント、セミナーのご案内及び採用情報のご連絡その他これらの目的の達成に必要な範囲内でのみそれぞれ利用します。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://hey.connpass.com/event/270201/'/>
+    <published>
+      2023-01-12T16:21:25+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mrubyworkshop.connpass.com/event/271459/
+    </id>
+    <title>
+      Get Started 一から始めるmruby #2
+    </title>
+    <summary>
+      環境構築から使い方までしっかり説明します
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;mrubyに興味あるけど導入の仕方や使い方などいまいちわかりにくいなーと思ってた皆さんへ。mrubyの開発環境構築から簡単な使い方まで、皆さんの環境にmrubyを導入するお手伝いをします。&lt;/h1&gt; &lt;h2&gt;&lt;strong&gt;内容&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;mrubyエバンジェリストがmrubyを導入するための事前準備からインストール、アプリ作成とコンパイルなどmrubyの導入から使い方を一からお話します。&lt;/h3&gt; &lt;p&gt;・mruby導入のための事前準備&lt;/p&gt; &lt;p&gt;・mrubyをGithubからクローンしてインストール&lt;/p&gt; &lt;p&gt;・mrubyを使ってみよう。&lt;/p&gt; &lt;p&gt;・対話形式でmrubyを実行。&lt;/p&gt; &lt;p&gt;・ちょこっとアプリを作ってみよう。&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;💰 参加費&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;無料&lt;/p&gt; &lt;h2&gt;PC・開発環境&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;PC&lt;/strong&gt;（Windows10/11 または macOS X）をご用意ください。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1fJ0kJQz5zOwkA6g-HfDBGai5y_viVRGJ7HBQd4EikLo/edit&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;「重要」こちらにあなたのお使いのOSを記入してください&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;事前準備&lt;/strong&gt;が必要です。予めお知らせしますのでご準備をお願いします&lt;br&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;主催&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://www.digitalfukuoka.jp/?locale=ja&quot; rel=&quot;nofollow&quot;&gt;福岡県Ruby・コンテンツビジネス振興会議 &lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;お問い合わせ先&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;メール ：特定非営利活動法人　軽量Rubyフォーラム&lt;/p&gt; &lt;p&gt;h.ishii@mruby.org&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mrubyworkshop.connpass.com/event/271459/'/>
+    <published>
+      2023-01-12T11:25:06+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://dena-qa-night.connpass.com/event/269242/
+    </id>
+    <title>
+      DeNA QA Night #4
+    </title>
+    <summary>
+      テスト・品質を深化させる夜
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;お知らせ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;DeNA QA Night
+      #4を公開いたしました！（2023/1/11）&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;イベント概要&lt;/h1&gt;
+      &lt;p&gt;本イベントでは、ソフトウェアテスト・品質に関しての技術や事例を共有・議論することを目的にDeNA QA
+      Nightと題して継続的開催を目指し、DeNA品質管理部が提供しております。&lt;/p&gt; &lt;p&gt;DeNA QA
+      Nightではソフトウェアテスト・品質に関して広く議論する機会を提供したいと考えております。&lt;/p&gt;
+      &lt;p&gt;ご時世的な都合もあり前回（第三回）から約三年空いてしまいましたが、満を持して第四回目を開催いたします！&lt;/p&gt;
+      &lt;p&gt;DeNAの品質管理部ではテスト活動（手動テスト・自動テスト）は当たり前として、テスト活動以外からの多角的なアプローチによって品質を向上させていく活動を行っております。多岐にわたる品質向上施策について、DeNA社内のQA事例、QMO活動（QMOについては後述）の成果、E2Eテスト自動化という様々な観点からご紹介できればと思っております。&lt;/p&gt; &lt;p&gt;今回はゲストとして&lt;strong&gt;Autify CEOの近澤 良様&lt;/strong&gt;をお招きしてご登壇いただきます！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;※ 本イベントはDeNA SWETチームが主催している &lt;a href=&quot;https://testnight.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;Test Night&lt;/a&gt; ではありませんのでご注意ください。&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;Autifyについて&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://autify.com/ja&quot; rel=&quot;nofollow&quot;&gt;Autify&lt;/a&gt;&lt;/strong&gt;とは…ノーコードでテスト自動化シナリオを誰でも簡単に作成することができるAIが搭載されたテスト自動化ツールで、Webアプリ向けのAutify for Webとモバイルアプリ向けのAutify for Mobileがリリースされております。&lt;/p&gt; &lt;p&gt;【受賞歴】&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://autify.com/ja/news/rubybiz-award&quot; rel=&quot;nofollow&quot;&gt;Ruby biz Grand prix 2021 特別賞受賞&lt;/a&gt;（2021/12/16）&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://autify.com/ja/news/award_aws-architecture-of-the-year-2020&quot; rel=&quot;nofollow&quot;&gt;Startup Architecture of the Year 2020 オーディエンス賞・CTO賞受賞&lt;/a&gt;（2020/9/17）&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://autify.com/ja/news/2020/02/28&quot; rel=&quot;nofollow&quot;&gt;EY Innovative Startup 2020 受賞&lt;/a&gt;（2020/2/28）&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;【導入実績】&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://autify.com/ja/news/autify-100-customers&quot; rel=&quot;nofollow&quot;&gt;正式リリースから半年で累計100社を突破&lt;/a&gt;（2020/4/27）&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;プログラム&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;タイトル&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00 - 19:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Opening&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:05 - 19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;社内のQA事例の紹介（仮）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;藤﨑 隆（DeNA）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30 - 20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;テスト自動化に関する発表（仮）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;近澤 良（Autify）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:15 - 20:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トークセッション：&lt;br&gt;DeNA QMOの1年の活動を振り返る会&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;司会：柏倉 直樹（DeNA）&lt;br&gt;スピーカー：&lt;br&gt;前川 健二（DeNA）&lt;br&gt;藤﨑 隆（DeNA）&lt;br&gt;kariad（DeNA）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:45 - 20:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Closing&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:50 - 20:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンケート記入（オンライン参加者はここで終了）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:55 - 22:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;懇親会（情報交換会）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;22:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;完全撤収&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※タイムスケジュールについては直前まで変更の可能性がございます&lt;/p&gt; &lt;p&gt;※未定箇所については後日Update&lt;/p&gt; &lt;h1&gt;セッション概要（随時Update予定）&lt;/h1&gt; &lt;h2&gt;DeNA QMOの1年の活動を振り返る会&lt;/h2&gt; &lt;p&gt;DeNAの品質管理部で、QMO活動をしたメンバーによる、QMOの成果や取り組み内容をトーク形式で発表します。&lt;/p&gt; &lt;p&gt;参考：QMOとは→&lt;a href=&quot;https://engineering.dena.com/blog/2022/05/road_to_aggressive_qa/&quot; rel=&quot;nofollow&quot;&gt;リンク&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;懇親会&lt;/h2&gt; &lt;p&gt;ささやかではありますが、ドリンクと軽食をご用意させていただきます。登壇者含めた参加者間で技術交流会という形でご歓談いただければと思います。&lt;/p&gt; &lt;h1&gt;当日の受付について&lt;/h1&gt; &lt;h2&gt;オンラインの方&lt;/h2&gt; &lt;p&gt;Zoom Webinarsの利用を想定しております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;参加者の皆様には当日までにメールにてURLをご連絡いたします&lt;/li&gt; &lt;li&gt;18時50分より入室可能となる予定です&lt;/li&gt; &lt;li&gt;パスワードは設定しておりません&lt;/li&gt; &lt;li&gt;入室時に表示名とメールアドレスの入力が必要となりますので、あらかじめご了承ください&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;オフラインの方&lt;/h2&gt; &lt;p&gt;渋谷スクランブルスクエアオフィス入館口（商業施設の出入り口とは分かれており、B2Fと2Fにございます）からエレベーターを使用して17Fまでお越しください。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.shibuya-scramble-square.com/access/&quot; rel=&quot;nofollow&quot;&gt;渋谷スクランブルスクエア&lt;/a&gt;&lt;/p&gt; &lt;p&gt;＜ご用意いただくもの＞ connpassの受付番号もしくはアカウントのご提示をお願いいたします。&lt;/p&gt; &lt;p&gt;＜入館時間＞ 入館受付は18:30〜19:15頃を予定しております。オフィスフロア入口（17F）にお越しください。 オフィスフロア入口（17F）オフィス総合受付の側に本イベント用の特設受付を設置しています。 そちらでconnpassの受付番号もしくはアカウントの提示後、受付の案内に従ってください。&lt;/p&gt; &lt;p&gt;&lt;font color=&quot;red&quot;&gt;※19:15になりましたら特設受付を一旦閉めさせていただきますので、参加される方はなるべくこの時間までにお越しくださるようお願いします。遅れての参加の場合は17F特設受付に連絡先を記載いたしますので、案内に従ってください。&lt;/font&gt;&lt;/p&gt; &lt;p&gt;＜座席は先着順となります＞&lt;/p&gt; &lt;p&gt;新型コロナウイルスが未だ終息していない状況ということもあり、座席数は過去開催時よりも少なくさせていただいており、立ち見席を含めて40人の聴講枠をご用意しております。当日は先着順でお席にご案内いたしますが、万が一座席が埋まってしまった場合は立ち見での聴講をお願いすることがございます。あらかじめご了承ください。&lt;/p&gt; &lt;h3&gt;新型コロナウイルス感染対策について&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;受付の際、皮膚赤外線体温計を使った検温にご協力ください。（皮膚には直接触れずに検温します）&lt;/li&gt; &lt;li&gt;受付での検温時に37.5度以上の発熱や風邪症状等がみられる場合には、誠に恐縮ですがご参加をお断りさせていただきますので、あらかじめご了承ください。&lt;/li&gt; &lt;li&gt;イベントスペース各所にアルコール消毒がありますので適宜消毒にご協力ください。&lt;/li&gt; &lt;li&gt;イベント開催中、スタッフの指示がない場合はマスクの常時着用にご協力ください。&lt;/li&gt; &lt;li&gt;マスクをお持ちでない方には簡易マスクをお渡しいたします。&lt;/li&gt; &lt;li&gt;咳や発熱、倦怠感など、体調がすぐれない方には参加を控えていただけるようお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;設備など&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;無線LAN&lt;br&gt; ※SSIDとPWは会場のプロジェクターにて投影いたします&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;コンビニ&lt;br&gt; ※17Fにローソンがありますので、何かご入用の際はそちらもご活用ください&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;h3&gt;注意事項&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;当日は、来場者を含む会場の様子等の動画、写真を撮影し、公開する場合があります。&lt;/li&gt; &lt;li&gt;悪天候等により、運営事務局の判断にてイベントを中止する場合があります。&lt;/li&gt; &lt;li&gt;会場内は禁煙です。&lt;/li&gt; &lt;li&gt;貴重品の管理は各自でお願いいたします。万が一盗難・紛失等の事故が発生しても、主催者は一切責任を負えません。&lt;/li&gt; &lt;li&gt;登録者以外の代理の方の参加はお断りさせていただきます。&lt;/li&gt; &lt;li&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;本勉強会は、技術交流が目的です。知識の共有や参加者同士の交流を目的としない方の参加はお断りいたします。&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;イベント開催について&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;新型コロナウイルス感染症などの状況により本イベントの中止や、完全オンライン開催に切り替える可能性があります。その際の連絡はイベントページ上やconnpassメールにてご連絡いたしますのでご確認をお願いいたします。&lt;/li&gt; &lt;li&gt;会場を運営以外の社員が往来することがありますが、あらかじめご了承ください。&lt;/li&gt; &lt;li&gt;天災、不慮の事故等のやむを得ない事情や主催者側の都合により、当日の内容が変更または中止になる場合がございますので、あらかじめご了承ください。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;参加キャンセルについて&lt;/h3&gt; &lt;p&gt;参加は先着順になりますが、より多くの方へご参加いただきたいと考えております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;当日都合が悪くなって参加できないことが判明した方は、お手数ですが速やかにキャンセル処理をお願いいたします。&lt;/li&gt; &lt;li&gt;参加の状態のまま当日ご参加いただけなかった方は、次回以降の参加の優先順位を下げさせていただく可能性があります。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;個人情報の利用について&lt;/h3&gt; &lt;p&gt;ご応募時に入力いただいた個人情報は、株式会社ディー・エヌ・エー（以下、当社といいます）が取得し、お問い合わせ対応のために利用いたします。なお、ご提供いただいた個人情報及びその他情報は、&lt;a href=&quot;https://dena.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;プライバシーポリシー&lt;/a&gt; に従い取り扱われるものとします。&lt;/p&gt; &lt;h4&gt;DeNA関係者の方へ&lt;/h4&gt; &lt;p&gt;DeNA関係者の方はconnpassからのお申し込みをご遠慮くださいますようお願いいたします。&lt;/p&gt; &lt;p&gt;関係者の参加方法については別途社内でアナウンスいたします。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://dena-qa-night.connpass.com/event/269242/'/>
+    <published>
+      2023-01-12T10:42:21+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://shinriseevent.connpass.com/event/270223/
+    </id>
+    <title>
+      プログラミング言語勉強会
+    </title>
+    <summary>
+      プログラミング言語の歴史や特徴を学ぶ勉強会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;《参加者さんの声》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;▷プログラミング言語そのものを学ぶ会は今までなかったので新鮮でした。（20代男性）&lt;/p&gt;
+      &lt;p&gt;▷なんとなくで学ぶ言語を決めてしまっていたので、はっとさせられました。（20代女性）&lt;/p&gt;
+      &lt;p&gt;▷プログラミング言語の歴史は知らなかったので、新しい知識を得られました。（30代男性）&lt;/p&gt;
+      &lt;p&gt;▷各プログラミング言語の特徴を理解することが出来ました。（30代女性）&lt;/p&gt;
+      &lt;h3&gt;《当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;①会の説明（5分）&lt;/p&gt;
+      &lt;p&gt;②参加者さんの自己紹介（10分）&lt;/p&gt; &lt;p&gt;③プログラミング言語勉強会（80分）&lt;/p&gt;
+      &lt;p&gt;④まとめの話（15分）&lt;/p&gt; &lt;p&gt;⑤アンケート記入（10分）&lt;/p&gt;
+      &lt;h3&gt;《何をする会なの？》&lt;br&gt;&lt;/h3&gt;
+      &lt;p&gt;プログラミング言語の歴史や特徴を学ぶ勉強会です。&lt;/p&gt;
+      &lt;p&gt;※プログラミング言語のコーディング方法について学ぶ会ではありません。&lt;/p&gt;
+      &lt;h3&gt;《主催者情報》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;性別：女&lt;br&gt;
+      年齢：38歳&lt;br&gt; 出身：兵庫&lt;br&gt; 趣味：読書、美術館巡り、水彩画、旅行、登山&lt;br&gt;
+      仕事：SE（エンジニア歴15年）&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;はじめまして！イベント主催しているキシモトといいます。&lt;br&gt;
+      新卒でSEとして働き出し、歴は15年になります。&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;気付けばSE歴だけは長くなってしまったけど&lt;br&gt; プログラミング言語の歴史や特徴をきちんと&lt;font
+      color=&quot;Red&quot;&gt;&lt;strong&gt;理解できてなかった&lt;/strong&gt;&lt;/font&gt;なと気付きました。&lt;br&gt;&lt;/p&gt; &lt;p&gt;実はそういう人って意外と多いんじゃないかな？&lt;br&gt; だったら、プログラミング言語自体を学ぶ勉強会があってもいいんじゃないか、という思いからイベント開催を決意しました！&lt;br&gt;&lt;/p&gt; &lt;p&gt;今後流行りそうだから、とか安易な理由で自分が学ぶプログラミング言語を決めるのはもったいない！&lt;br&gt; まず何をしたいのかを考えて、プログラミング言語の特徴を学んでから、&lt;br&gt; 自分が学ぶプログラミング言語を決めた方が&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;絶対にいいですよ！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt; &lt;h3&gt;《参加するとなぜいいの？》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;なぜいいか？それは、&lt;br&gt; ▷複数のプログラミング言語を知ることで、よりよい選択肢を見つけられる可能性があるから&lt;br&gt; ▷その言語が過去のどの言語から影響を受けたのか、系譜を見ていくと学習の参考になるから&lt;br&gt; です！！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる言語◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ▷1950年代&lt;br&gt; FORTRAN&lt;br&gt; ▷1960年代&lt;br&gt; COBOL、BASIC、PL/Ⅰ&lt;br&gt; ▷1970年代&lt;br&gt; C、SmallTalk、SQL&lt;br&gt; ▷1980年代&lt;br&gt; C++、Objective-C、PostScript、Common Lisp&lt;br&gt; ▷1990年代&lt;br&gt; Perl、Python、Visual Basic、Ruby、PHP、Java、JavaScript&lt;br&gt; ▷2000年代&lt;br&gt; C#、Scala&lt;br&gt; ▷2010年代&lt;br&gt; Go、Rust、Kotlin、Swift、TypeScript&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;2px&quot;&gt;&lt;strong&gt;◆学べる内容◆&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; ・誕生年&lt;br&gt; ・開発者&lt;br&gt; ・主な用途&lt;br&gt; ・影響を受けた言語&lt;br&gt; ・影響を与えた言語&lt;br&gt; ・特徴&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《対象者》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;▷IT業界で働くエンジニアの方、営業の方&lt;/p&gt; &lt;p&gt;▷他業種だけどエンジニアに興味がある方&lt;/p&gt; &lt;p&gt;▷これからエンジニアを目指す方&lt;/p&gt; &lt;p&gt;レベル高い人しばっかりでついていけなかったらどうしよう・・・&lt;br&gt; 場違いじゃないかな？&lt;br&gt; なんて&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;心配はまったくいりません！&lt;/strong&gt;&lt;/font&gt;&lt;br&gt; これからエンジニアを目指す人、勉強を始めたばかりの人にこそ聞いてほしい内容になっています！&lt;/p&gt; &lt;h3&gt;《注意》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;※宗教・勧誘行為・営業・他人の迷惑となる行為は、お断りします。&lt;br&gt; ※若い人たちの学びの場として、20代30代のみのご参加を受け付けております。&lt;br&gt;&lt;/p&gt; &lt;h3&gt;《申込～当日の流れ》&lt;br&gt;&lt;/h3&gt; &lt;p&gt;申込は&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;簡単！&lt;/strong&gt;&lt;/font&gt;さあ、あとは勇気を出して申込ボタンを押すだけですよ！&lt;br&gt; お一人で参加される方がほとんどです。&lt;br&gt; 最初は緊張していても10分もすれば皆さん仲良くなってます！&lt;/p&gt; &lt;p&gt;①申し込みボタンを押す&lt;/p&gt; &lt;p&gt;②必要事項を記入する&lt;/p&gt; &lt;p&gt;③申し込む&lt;/p&gt; &lt;p&gt;④当日に直接開催場所まで行く&lt;/p&gt; &lt;p&gt;&lt;br&gt; &lt;strong&gt;それでは当日お会いしましょう！&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shinriseevent.connpass.com/event/270223/'/>
+    <published>
+      2023-01-12T10:20:41+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://mrubyworkshop.connpass.com/event/269448/
@@ -35,30 +200,6 @@
     <link rel='alternate' type='text/html' href='https://mrubyworkshop.connpass.com/event/269448/'/>
     <published>
       2023-01-12T08:51:45+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://dena-qa-night.connpass.com/event/269242/
-    </id>
-    <title>
-      DeNA QA Night #4
-    </title>
-    <summary>
-      テスト・品質を深化させる夜
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;お知らせ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;DeNA QA Night
-      #4を公開いたしました！（2023/1/11）&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;イベント概要&lt;/h1&gt;
-      &lt;p&gt;本イベントでは、ソフトウェアテスト・品質に関しての技術や事例を共有・議論することを目的に DeNA QA
-      Nightと題して継続的開催を目指し、DeNA 品質管理部が提供しております。&lt;/p&gt; &lt;p&gt;DeNA QA
-      Nightではソフトウェアテスト・品質に関して広く議論する機会を提供したいと考えております。&lt;/p&gt;
-      &lt;p&gt;ご時世的な都合もあり前回（第三回）から約三年空いてしまいましたが、満を持して第四回目を開催いたします！&lt;/p&gt;
-      &lt;p&gt;DeNAの品質管理部ではテスト活動（手動テスト・自動テスト）は当たり前として、テスト活動以外からの多角的なアプローチによって品質を向上させていく活動を行っております。多岐にわたる品質向上施策について、DeNA社内のQA事例、QMO活動（QMOについては後述）の成果、E2Eテスト自動化という様々な観点からご紹介できればと思っております。&lt;/p&gt; &lt;p&gt;今回はゲストとして&lt;strong&gt;Autify CEOの近澤 良様&lt;/strong&gt;をお招きしてご登壇いただきます！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;※ 本イベントはDeNA SWETチームが主催している &lt;a href=&quot;https://testnight.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;Test Night&lt;/a&gt; ではありませんのでご注意下さい。&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;Autifyについて&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://autify.com/ja&quot; rel=&quot;nofollow&quot;&gt;Autify&lt;/a&gt;&lt;/strong&gt;とは…ノーコードでテスト自動化シナリオを誰でも簡単に作成することができるAIが搭載されたテスト自動化ツールで、Webアプリ向けのAutify for Webとモバイルアプリ向けのAutify for Mobileがリリースされております。&lt;/p&gt; &lt;p&gt;【受賞歴】&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://autify.com/ja/news/rubybiz-award&quot; rel=&quot;nofollow&quot;&gt;Ruby biz Grand prix 2021 特別賞受賞&lt;/a&gt;（2021/12/16）&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://autify.com/ja/news/award_aws-architecture-of-the-year-2020&quot; rel=&quot;nofollow&quot;&gt;Startup Architecture of the Year 2020 オーディエンス賞・CTO賞受賞&lt;/a&gt;（2020/9/17）&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://autify.com/ja/news/2020/02/28&quot; rel=&quot;nofollow&quot;&gt;EY Innovative Startup 2020 受賞&lt;/a&gt;（2020/2/28）&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;【導入実績】&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://autify.com/ja/news/autify-100-customers&quot; rel=&quot;nofollow&quot;&gt;正式リリースから半年で累計100社を突破&lt;/a&gt;（2020/4/27）&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;プログラム&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;タイトル&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00 - 19:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Opening&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:05 - 19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;社内のQA事例の紹介（仮）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;藤﨑 隆（DeNA）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30 - 20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;テスト自動化に関する発表（仮）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;近澤 良（Autify）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:15 - 20:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トークセッション：&lt;br&gt;DeNA QMOの1年の活動を振り返る会&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;司会：柏倉 直樹（DeNA）&lt;br&gt;スピーカー：&lt;br&gt;前川 健二（DeNA）&lt;br&gt;藤﨑 隆（DeNA）&lt;br&gt;kariad（DeNA）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:45 - 20:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Closing&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:50 - 20:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;アンケート記入（オンライン参加者はここで終了）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:55 - 22:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;懇親会（情報交換会）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;22:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;完全撤収&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※タイムスケジュールについては直前まで変更の可能性がございます&lt;/p&gt; &lt;p&gt;※未定箇所については後日Update&lt;/p&gt; &lt;h1&gt;セッション概要（随時Update予定）&lt;/h1&gt; &lt;h2&gt;DeNA QMOの1年の活動を振り返る会&lt;/h2&gt; &lt;p&gt;DeNAの品質管理部で、QMO活動をしたメンバーによる、QMOの成果や取り組み内容をトーク形式で発表します。&lt;/p&gt; &lt;p&gt;参考：QMOとは→&lt;a href=&quot;https://engineering.dena.com/blog/2022/05/road_to_aggressive_qa/&quot; rel=&quot;nofollow&quot;&gt;リンク&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;懇親会&lt;/h2&gt; &lt;p&gt;ささやかでありますが、ドリンクと軽食をご用意させていただきます。登壇者含めた参加者間で技術交流会という形でご歓談いただければと思います。&lt;/p&gt; &lt;h1&gt;当日の受付について&lt;/h1&gt; &lt;h2&gt;オンラインの方&lt;/h2&gt; &lt;p&gt;Zoom Webinarsの利用を想定しております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;参加者の皆様には当日までにメールにてURLをご連絡致します&lt;/li&gt; &lt;li&gt;18時50分より入室可能となる予定です&lt;/li&gt; &lt;li&gt;パスワードは設定しておりません&lt;/li&gt; &lt;li&gt;入室時に表示名とメールアドレスの入力が必要となりますので予めご了承下さい&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;オフラインの方&lt;/h2&gt; &lt;p&gt;渋谷スクランブルスクエアオフィス入館口（商業施設の出入り口とは別れており、B2Fと2Fにございます）からエレベーターを使用して17Fまでお越しください。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.shibuya-scramble-square.com/access/&quot; rel=&quot;nofollow&quot;&gt;渋谷スクランブルスクエア&lt;/a&gt;&lt;/p&gt; &lt;p&gt;＜ご用意いただくもの＞ connpass の受付番号もしくはアカウントのご提示をお願いいたします。&lt;/p&gt; &lt;p&gt;＜入館時間＞ 入館受付は18:30〜19:15頃を予定しております。オフィスフロア入口（17F）にお越しください。 オフィスフロア入口（17F）オフィス総合受付の側に本イベント用の特設受付を設置しています。 そちらでconnpassの受付番号もしくはアカウントの提示後、受付の案内に従ってください。&lt;/p&gt; &lt;p&gt;&lt;font color=&quot;red&quot;&gt;※19:15になりましたら特設受付を一旦閉めさせていただきますので、参加される方はなるべくこの時間までにお越し下さるようお願いします。遅れての参加の場合は17F特設受付に連絡先を記載いたしますので、案内に従ってください。&lt;/font&gt;&lt;/p&gt; &lt;p&gt;＜座席は先着順となります＞&lt;/p&gt; &lt;p&gt;新型コロナが未だ終息していない状況ということもあり、座席数は過去開催時よりも少なくさせていただいており、立ち見席を含めて40人の聴講枠をご用意しております。当日は先着順でお席にご案内いたしますが、万が一座席が埋まってしまった場合は立ち見での聴講をお願いする事がございます。あらかじめご了承ください。&lt;/p&gt; &lt;h3&gt;新型コロナウイルス感染対策について&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;受付の際、皮膚赤外線体温計を使った検温にご協力ください。（皮膚には直接触れずに検温します）&lt;/li&gt; &lt;li&gt;受付での検温時に37.5度以上の発熱や風邪症状等がみられる場合には、誠に恐縮ですがご参加をお断りさせていただきますので予めご了承ください。&lt;/li&gt; &lt;li&gt;イベントスペース各所にアルコール消毒がありますので適宜消毒にご協力ください。&lt;/li&gt; &lt;li&gt;イベント開催中、スタッフの指示がない場合はマスクの常時着用にご協力ください。&lt;/li&gt; &lt;li&gt;マスクをお持ちでない方には簡易マスクをお渡しいたします。&lt;/li&gt; &lt;li&gt;咳や発熱、倦怠感など、体調がすぐれない方には参加を控えていただけるようお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;設備など&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;無線LAN&lt;br&gt; ※SSIDとPWは会場のプロジェクターにて投影いたします&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;コンビニ&lt;br&gt; ※17Fにローソンがありますので、何かご入用の際はそちらもご活用ください&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;h3&gt;注意事項&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;当日は、来場者を含む会場の様子等の動画、写真を撮影し、公開する場合があります。&lt;/li&gt; &lt;li&gt;悪天候等により、運営事務局の判断にてイベントを中止する場合があります。&lt;/li&gt; &lt;li&gt;会場内は禁煙です。&lt;/li&gt; &lt;li&gt;貴重品の管理は各自でお願いいたします。万一盗難・紛失等の事故が発生しても、主催者は一切責任を負えません。&lt;/li&gt; &lt;li&gt;登録者以外の代理の方の参加はお断りさせていただきます。&lt;/li&gt; &lt;li&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;本勉強会は、技術交流が目的です。知識の共有や参加者同士の交流を目的としない方の参加はお断りいたします。&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;イベント開催について&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;新型コロナウイルス感染症などの状況により本イベントの中止や、完全オンライン開催に切り替える可能性があります。その際の連絡はイベントページ上や connpass メールにてご連絡いたしますのでご確認をお願いいたします。&lt;/li&gt; &lt;li&gt;会場を運営以外の社員が往来することがありますが、あらかじめご了承ください。&lt;/li&gt; &lt;li&gt;天災、不慮の事故等のやむを得ない事情や主催者側の都合により、当日の内容が変更または中止になる場合がございますので、あらかじめご了承ください。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;参加キャンセルについて&lt;/h3&gt; &lt;p&gt;参加は先着順になりますが、より多くの方へご参加いただきたいと考えております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;当日都合が悪くなって参加できないことが判明した方は、お手数ですが速やかにキャンセル処理をお願いいたします。&lt;/li&gt; &lt;li&gt;参加の状態のまま当日ご参加いただけなかった方は、次回以降の参加の優先順位を下げさせて頂く可能性があります。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;個人情報の利用について&lt;/h3&gt; &lt;p&gt;ご応募時に入力いただいた個人情報は、株式会社ディー・エヌ・エー（以下、当社といいます）が取得し、お問い合わせ対応のために利用いたします。なお、ご提供いただいた個人情報及びその他情報は、&lt;a href=&quot;https://dena.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;プライバシーポリシー&lt;/a&gt; に従い取り扱われるものとします。&lt;/p&gt; &lt;h4&gt;DeNA関係者の方へ&lt;/h4&gt; &lt;p&gt;DeNA関係者の方はconnpassからのお申し込みをご遠慮くださいますようお願いいたします。&lt;/p&gt; &lt;p&gt;関係者の参加方法については別途社内でアナウンスいたします。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://dena-qa-night.connpass.com/event/269242/'/>
-    <published>
-      2023-01-12T09:45:27+09:00
     </published>
   </entry>
   <entry>
@@ -135,164 +276,6 @@
     <link rel='alternate' type='text/html' href='https://youth-engineer-mokumoku.connpass.com/event/271679/'/>
     <published>
       2023-01-10T23:22:43+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://pa-ruby-rindoku.connpass.com/event/270753/
-    </id>
-    <title>
-      パーフェクトRuby(改訂2版)輪読会#5
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;&lt;a
-      href=&quot;https://gihyo.jp/book/2017/978-4-7741-8977-2&quot;
-      rel=&quot;nofollow&quot;&gt;改訂2版
-      パーフェクトRuby：書籍案内｜技術評論社&lt;/a&gt;(&lt;strong&gt;改訂2版
-      &lt;/strong&gt;)を輪読します。&lt;/p&gt; &lt;h2&gt;今読んでいる箇所&lt;/h2&gt;
-      &lt;p&gt;p74&lt;/p&gt; &lt;p&gt;から読み進めます🚀&lt;/p&gt;
-      &lt;h2&gt;参加資格&lt;/h2&gt;
-      &lt;p&gt;どなたでもご参加いただけますが、見学やラジオ参加以外の方は、本がお手元にある前提で輪読会をすすめます。&lt;/p&gt;
-      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;会場はオンラインです。
-      鹿児島.mkのDiscordを使わせていただきます。&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;こちらのURLから当日ご自由にご参加ください。&lt;ul&gt; &lt;li&gt;&lt;a
-      href=&quot;https://discord.gg/3h3gmrZy6h&quot;
-      rel=&quot;nofollow&quot;&gt;https://discord.gg/3h3gmrZy6h&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※リンク切れなどの不具合があった場合は、お手数ですが主催者のTwitterにDMお願いします🙏&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/hyumanase&quot; rel=&quot;nofollow&quot;&gt;主催者のTwitter&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※鹿児島.mkの詳細について&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://kagoshima-mk.connpass.com/&quot; rel=&quot;nofollow&quot;&gt;鹿児島.mk - connpass&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;参加者が不快、不安に感じる発言や行動はしないようにお願いします。みんなが安心して学習できる場にしたいです。&lt;/p&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当日はボイスチャンネルによる参加になります。ビデオのオン・オフはご自由に。&lt;/li&gt; &lt;li&gt;見学、途中参加、途中退席、ラジオ参加(聞いているだけ)大歓迎😄&lt;/li&gt; &lt;li&gt;スケジュール・輪読会方針などはやりながら柔軟に変更していく予定です。あらかじめご了承ください。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://pa-ruby-rindoku.connpass.com/event/270753/'/>
-    <published>
-      2023-01-10T20:46:00+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://connpass.com/event/271791/
-    </id>
-    <title>
-      プログラミング&amp;もくもく会(勉強会) in 高崎オーパ ★プログラミング初心者大歓迎！★
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;こんにちは！&lt;/p&gt;
-      &lt;p&gt;群馬県ではなかなかITやプログラミング系の勉強会が少ないなと思いまして、このような勉強会を開かせていただきました！
-      HTMLやCSS・PHP・Java・Ruby・Reactなどプログラミングの勉強であれば何でもOKです！（主催者はRubyonRailsやReact・PHP辺りの勉強をするかと思います。）&lt;/p&gt; &lt;p&gt;「もくもく会」とは各自が好きな自習に必要なものを持ち込んで、それぞれが勉強していく形になります。&lt;/p&gt; &lt;p&gt;ですので、勉強会といっても何か共通の課題やテーマに沿って勉強する形ではないのでご注意ください！&lt;/p&gt; &lt;p&gt;基本自習スタイルの勉強会ですが、途中で雑談したりもOKです！この辺りは柔軟にしていければなと思っております^^&lt;/p&gt; &lt;p&gt;なかなか会社や学校以外で、一緒にプログラミングの勉強ができる人と知り合いになれる機会は少ないと思いますので、そういった出会いの場所としてもなっていければいいなと思っております。&lt;/p&gt; &lt;h3&gt;開催概要&lt;/h3&gt; &lt;p&gt;【日時】5/7(土) 10:00-12:00&lt;/p&gt; &lt;p&gt;【費用】場所代：税込550円〜（自己負担）&lt;br&gt; ＊勉強会自体は2時間を予定しておりますのでHACOの料金体系により550円となっております。 2時間以上いる場合、料金はそれ以上発生いたしますのでご注意ください。 具体的な料金体系が気になる方は下記のHACO ホームページをご覧ください。&lt;/p&gt; &lt;p&gt;【場所】HACO 高崎オーパ店&lt;/p&gt; &lt;p&gt;【場所URL】 &lt;a href=&quot;https://haco.lala.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://haco.lala.co.jp/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;【定員】3名&lt;/p&gt; &lt;h3&gt;感染症予防のご協力のお願い&lt;/h3&gt; &lt;p&gt;当日や直前に発熱や風邪などの症状（咳など）がある場合、参加を控えるようお願いします。&lt;/p&gt; &lt;p&gt;参加の際はマスクの着用をお願いします。&lt;/p&gt; &lt;h3&gt;その他&lt;/h3&gt; &lt;p&gt;・宗教の勧誘や営業活動など禁止とさせていただきます。&lt;/p&gt; &lt;p&gt;・当日ご連絡なく不参加の方、キャンセルを繰り返される方は以後参加をお断りする場合があります。&lt;/p&gt; &lt;p&gt;・周りのかたへ迷惑行為を行った場合はその場でご退室頂きます。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://connpass.com/event/271791/'/>
-    <published>
-      2023-01-10T20:13:00+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/271784/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #148 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応10人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/271784/'/>
-    <published>
-      2023-01-10T19:38:53+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/270237/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #147 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応10人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/270237/'/>
-    <published>
-      2023-01-10T18:45:26+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://coderdojoowari.connpass.com/event/263202/
-    </id>
-    <title>
-      第70回 CoderDojo Owari
-    </title>
-    <summary>
-      2023年1月開催
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;研修室1のみ&lt;/h1&gt; &lt;p&gt;今回は予約の関係で、研修室1のみで開催します。&lt;/p&gt;
-      &lt;h1&gt;念のため、最終の定員は開催1週間前頃に決定します&lt;/h1&gt; &lt;ul&gt;
-      &lt;li&gt;現地のニンジャの参加人数は、感染が広がって制限が再開された時を考えて、前の週まで20名と設定します。&lt;/li&gt;
-      &lt;li&gt;緊急事態宣言が解除され、2021年11月から生涯学習センターの定員制限が撤廃されました。今月も今の状況が続けば
-      &lt;strong&gt;定員を30名まで増やします&lt;/strong&gt; 。開催1週間〜直前までに決定します。
-      &lt;strong&gt;キャンセル待ちの方はそのままお待ちください&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;PC持込・PC貸出の人数は申し込み状況に応じて変動しますので、予めご了承ください。&lt;/li&gt;
-      &lt;li&gt;定員がいっぱいでもキャンセル待ちに登録できます。&lt;/li&gt; &lt;/ul&gt;
-      &lt;h2&gt;メンター・サポーター急募 (メンター特典有り)&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;定員制限が無くなれば、本当は忍者の定員を40名まで増やせます。&lt;/li&gt;
-      &lt;li&gt;メンターが足らないため30名ほどが限度です。ITに詳しくなくても、パソコンを触るのにアレルギーがなかったら大丈夫です！忍者と一緒に覚えていけます。&lt;/li&gt; &lt;li&gt;メンターをしていただける保護者の方であれば、 &lt;strong&gt;満員でもニンジャを参加させられます！&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;希望者はぜひ、お問い合わせページより、お問い合わせください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.org/contact&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/contact&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;保護者の同伴1名可 (2023年1月)&lt;/h2&gt; &lt;p&gt;三密状態を防ぐため、定員を制限しています。&lt;/p&gt; &lt;p&gt;保護者の方の付添1名のみ可とすることになりました。&lt;/p&gt; &lt;p&gt;プログラミングや発表の様子をぜひ隣でみてあげてください。&lt;/p&gt; &lt;p&gt;それ以外の付添の方については、入室をご遠慮頂きます。&lt;/p&gt; &lt;p&gt;生涯学習センター内での待機もご遠慮頂く必要がございます。駐車場の車の中、外などの三密にならない場所にて待機、もしくは送迎をお願いいたします。&lt;/p&gt; &lt;p&gt;代わりに、会場の様子を Zoom や限定公開の YouTube Live にてライブ配信いたします。&lt;/p&gt; &lt;p&gt;ライブ配信は一般公開はいたしません。視聴 URL は Connpass のメールにてお送りいたします。&lt;/p&gt; &lt;h1&gt;はじめに&lt;/h1&gt; &lt;p&gt;CoderDojo Owari は、7〜17歳の子どもを対象にした非営利のプログラミング道場です。CoderDojo の活動は2011年にアイルランドで始まり、世界では112カ国・2,200の道場、日本では全国に213以上の道場があります (2022年10月時点)。&lt;/p&gt; &lt;p&gt;子どもにより良い環境で、自発的に、なおかつ無料でプログラミングに触れる機会を提供するために始まりました。&lt;/p&gt; &lt;p&gt;活動の詳細は CoderDojo Owari ウェブサイトよりご覧いただけます。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://CoderDojoOwari.org&quot; rel=&quot;nofollow&quot;&gt;https://CoderDojoOwari.org&lt;/a&gt;&lt;/p&gt; &lt;p&gt;※全国の CoderDojo も CoderDojo Foundation とは独立した任意団体ボランティアグループより運営されています。&lt;/p&gt; &lt;p&gt;Some Champions of CoderDojo Owari are fluent in English. English speaking Ninjas Mentors and Supporters are also welcome to this Dojo. We provide scratch programming. Please come along! &lt;a href=&quot;https://coderdojoowari.org/en&quot; rel=&quot;nofollow&quot;&gt;Contact us&lt;/a&gt; if you have some question.&lt;/p&gt; &lt;h2&gt;小学生 (しょうがくせい) は保護者 (ほごしゃ) が申し込んでください&lt;/h2&gt; &lt;p&gt;小学生の方は、保護者 (ほごしゃ) による申し込みをお願いします。定員がいっぱいでもキャンセル待ちに登録できます。&lt;/p&gt; &lt;h2&gt;Scratch アカウント作成のおすすめ&lt;/h2&gt; &lt;p&gt;Scratch では、オンラインアカウントを作成すると自分で作った作品をネット上に保存することができます。&lt;/p&gt; &lt;p&gt;もしよろしければ、以下の動画を参考に当日までにアカウントを作成しておいてください。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.org/news/make-scratch-account/&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/news/make-scratch-account/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;新型コロナウイルス感染症対策：岩倉市生涯学習センター、現地での参加に関して&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;当道場が&lt;a href=&quot;https://coderdojoowari.org/news/coronavirus-rules/&quot; rel=&quot;nofollow&quot;&gt;定めた新型コロナウイルス感染症対策のルールに基づき&lt;/a&gt;、直前においても現地開催をキャンセルしてオンライン開催になる場合があります。&lt;/li&gt; &lt;li&gt;開催時間2時間前に開催可否の連絡を Connpass を通じてメールで連絡します。&lt;/li&gt; &lt;li&gt;現地開催では、ニンジャ・メンター全員が非接触体温計による検温、体調チェックを行います、37.5℃以上の方、ご自身や濃厚接触者で家族に体調が悪い方がいらっしゃれば、現地参加をお断りし、オンライン参加をお願いします。&lt;/li&gt; &lt;li&gt;岩倉市内で学校閉鎖がなく、岩倉市生涯学習センターが開館していれば、開催予定です。&lt;/li&gt; &lt;li&gt;熱中症対策として水筒など飲み物を忘れないでください&lt;/li&gt; &lt;li&gt;感染症予防対策を徹底し、当日の会場レイアウトは、ニンジャの間隔を十分に空けて行う予定です。&lt;/li&gt; &lt;li&gt;開催時に感染者・濃厚接触者が出た場合、参加者リストと連絡先を、保護者の方の許可を得て、生涯学習センター・岩倉市・保健所などの各機関に提出する場合があります。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;オンラインハイブリット開催&lt;/h2&gt; &lt;p&gt;送迎ができなかったり、ご心配な方向けに、オンライン参加も同時に開催します。&lt;/p&gt; &lt;p&gt;オンラインの進行は別々に行い、発表の時間だけ、現地の人とオンラインの人で一緒にできるようする予定です。&lt;/p&gt; &lt;p&gt;実験的な試みです、失敗するかもしれませんが、ぜひ、こちらの参加もご検討ください。&lt;/p&gt; &lt;h2&gt;新型コロナウイルス関連&lt;/h2&gt; &lt;p&gt;その他は当道場の方針を御覧ください。&lt;/p&gt; &lt;p&gt;新型コロナウイルスに対する方針&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.org/news/coronavirus-rules/&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/news/coronavirus-rules/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;PC 貸出 &amp;amp; 電子工作機器貸出について&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;ノートパソコンをお持ちの方は、持参していただくようお願いいたします。&lt;/li&gt; &lt;li&gt;貸出PC は2台保有しています。&lt;/li&gt; &lt;li&gt;halocode は3台保有しています。貸出希望の方は当日に教えてください。&lt;/li&gt; &lt;li&gt;micro:bit は5台保有しています。貸出希望の方は当日に教えてください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;PC貸出可能台数は、PCを所有しているメンターが参加できるかどうかに関わってくるため、開催1ヶ月前に決定いたします。&lt;/p&gt; &lt;p&gt;恐れ入りますが、PC貸出できるメンターが参加不可になった場合、 &lt;strong&gt;申し込み順が遅い方からキャンセル&lt;/strong&gt; させて頂く場合があります。予めご了承願います。&lt;/p&gt; &lt;p&gt;より多くの貸出ができるよう、当日だけでも貸していただける方、寄付していただけるスポンサーを常に募集しています。個人・法人は問いません。&lt;/p&gt; &lt;h1&gt;CoderDojo Owari で提供しているカリキュラム&lt;/h1&gt; &lt;p&gt;CoderDojo 尾張では下記のコースを実施予定です。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://code.org/&quot; rel=&quot;nofollow&quot;&gt;Hour of Code&lt;/a&gt; : 年少者向けに、ゲーム感覚でプログラミングの理解をするためのオンラインコースです。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://scratch.mit.edu/&quot; rel=&quot;nofollow&quot;&gt;Scratch&lt;/a&gt; : 学習用プログラミング言語。ゲーム、物語、アートなどの作品を作ることができます。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.makeblock.com/jp/steam-kits/halocode&quot; rel=&quot;nofollow&quot;&gt;halocode&lt;/a&gt;: Makeblock 社の学習用 WiFi 内蔵シングルボードです。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://microbit.org/ja/&quot; rel=&quot;nofollow&quot;&gt;micro:bit&lt;/a&gt;：学習用マイコンボード。いろいろなデバイスやセンサーにつなげてプログラミングをすることができます。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.viscuit.com/&quot; rel=&quot;nofollow&quot;&gt;Viscuit&lt;/a&gt;: お絵かき間隔で小学校低学年からプログラミングが楽しめる学習用ビジュアルプログラミングツール。タブレット (iPad &amp;amp; Android) でプログラミングしやすいツールです。&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.hackforplay.xyz/&quot; rel=&quot;nofollow&quot;&gt;HackforPlay&lt;/a&gt;: ロールプレイングゲームを自分で改造し、ゲームを作りながらプログラミングを学べるシステムです。&lt;/li&gt; &lt;li&gt;テキストプログラミング：Python, Javascript, PHP, Ruby on Rails など&lt;/li&gt; &lt;li&gt;Webサイト制作&lt;/li&gt; &lt;li&gt;動画制作&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;概要&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;項目&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;日付&lt;/td&gt; &lt;td&gt;2023年1月15日 (日)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;時間&lt;/td&gt; &lt;td&gt;10:00〜12:00 (開場 9:45)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;費用&lt;/td&gt; &lt;td&gt;無料&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;場所&lt;/td&gt; &lt;td&gt;岩倉市生涯学習センター 研修室1のみ (&lt;a href=&quot;http://www.iwsgc.or.jp/&quot; rel=&quot;nofollow&quot;&gt;Webサイト&lt;/a&gt;]&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;住所&lt;/td&gt; &lt;td&gt;〒482-0043 愛知県岩倉市本町神明西２０ (&lt;a href=&quot;https://goo.gl/maps/De56vxhPvQp&quot; rel=&quot;nofollow&quot;&gt;Google Map&lt;/a&gt;)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;アクセス&lt;/td&gt; &lt;td&gt;名鉄犬山線 岩倉駅 徒歩２分。 (&lt;a href=&quot;https://photos.app.goo.gl/ri3EF87LJSFMNa5UA&quot; rel=&quot;nofollow&quot;&gt;駅改札からの写真案内&lt;/a&gt;)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;駐車場&lt;/td&gt; &lt;td&gt;隣接する立体駐車場 (サクランド岩倉) の利用者は2時間まで無料。その後は30分100円（終日利用は800円）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;駐輪場&lt;/td&gt; &lt;td&gt;120円 50台（岩倉市生涯学習センター自転車駐車場 専用スペース） 利用者は入場から4時間まで無料の自転車駐車場サービス券を事務室でお渡し&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;スケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:45&lt;/td&gt; &lt;td&gt;開場 &amp;amp; 受付開始&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:00&lt;/td&gt; &lt;td&gt;スタート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:00&lt;/td&gt; &lt;td&gt;初めての学生さんはオリエンテーション。2回目以降の Ninja (生徒) さんは、プロジェクトにとりかかってもらいます&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;11:30&lt;/td&gt; &lt;td&gt;発表&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;12:00&lt;/td&gt; &lt;td&gt;終わり &amp;amp; 片付け&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;ul&gt; &lt;li&gt;保護者・お連れの方の同伴は可能ですが、集中できない場合は移動をお願いする場合がございます。&lt;/li&gt; &lt;li&gt;生涯学習センターには未就学児のお子さまが遊ぶスペースがございます&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;参加方法&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Connpass にユーザー登録をし、上記から参加登録を行ってください。&lt;/li&gt; &lt;li&gt;携帯電話・スマホでPCメールからのメール受信を拒否されている方は、メールが届きませんので解除をしてください。(「@connpass.com」「@coderdojoowari.org」の2ドメイン)&lt;/li&gt; &lt;li&gt;お子さま1人に対して1アカウントを作成して頂く必要があります。&lt;/li&gt; &lt;li&gt;CoderDojo では、生徒さんを Ninja (忍者) と呼びます。&lt;/li&gt; &lt;li&gt;Mentor (メンター) と Supporter (サポーター) の説明は下記に記載。未成年でも自分ができると思う方は、お手伝いで参加可能です。&lt;/li&gt; &lt;li&gt;&lt;strong&gt;ほごしゃ&lt;/strong&gt;： 小学生のお子さまは、保護者の方と一緒に来てください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;よくある質問&lt;/h1&gt; &lt;p&gt;ウェブサイトに「よくある質問」ページを作成しています。合わせてご覧ください。 &lt;a href=&quot;https://coderdojoowari.org/about/faq/&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/about/faq/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;申込先&lt;/h1&gt; &lt;p&gt;申込は Connpass で行っています&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.connpass.com/event/263202/&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.connpass.com/event/263202/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;必要な持物&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;無線LAN につなぐことができるノートパソコン、Chromebook などのネットワークパソコン、iPad などのタブレット&lt;ul&gt; &lt;li&gt;試験的にPC貸出を行っております。その際は必ず貸出の参加枠で申し込んでください。 (より多くの貸出ができるよう寄付や支援していただけるスポンサーを募集しています)&lt;/li&gt; &lt;li&gt;スマートホンだけでは&lt;strong&gt;参加できません&lt;/strong&gt;。iPad などのタブレットは Scratch Jr. や Viscuit で参加できます。&lt;/li&gt; &lt;li&gt;Chromebook (CloudReady) では、Scratch, micro:bit, で参加できます &lt;/li&gt; &lt;li&gt;古すぎるパソコンではうまくプログラミングできない場合があります。予めご了承ください。&lt;/li&gt; &lt;li&gt;Scratch をご利用の方はネットが使えないときなどのために&lt;a href=&quot;https://scratch.mit.edu/scratch2download/&quot; rel=&quot;nofollow&quot;&gt;オフライン版&lt;/a&gt;をダウンロードしてきてください。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;筆記用具 (えんぴつ・消しゴム・メモ用紙)&lt;/li&gt; &lt;li&gt;&lt;strong&gt;初心者・はじめての方&lt;/strong&gt;: 可能であれば &lt;a href=&quot;https://code.org/&quot; rel=&quot;nofollow&quot;&gt;Code.org&lt;/a&gt; でアカウントを作成してください&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scratch コース&lt;/strong&gt;: 可能であれば &lt;a href=&quot;https://scratch.mit.edu/&quot; rel=&quot;nofollow&quot;&gt;Scratch アカウント&lt;/a&gt; を作成してください&lt;/li&gt; &lt;li&gt;[オプション] 水筒等お飲み物か自販機で飲み物を買うお小遣い (特に夏などの暑かったり乾燥している日)&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;おことわり&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;ボランティア行事保険に加入しているため、入場時、参加者・同伴者の氏名の記入をお願いします。&lt;/li&gt; &lt;li&gt;CoderDojo 当日は、イベントの内容の写真・ビデオ撮影をさせていただきます。&lt;/li&gt; &lt;li&gt;撮影した内容は、Creative Commons ライセンスで再利用可能な状態で公開いたします&lt;/li&gt; &lt;li&gt;参加者は原則、写真撮影・ビデオ撮影 OK という認識でおります。&lt;/li&gt; &lt;li&gt;もしも写真撮影・ビデオ撮影が NG な方は申し出てください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;スポンサーや寄付のお願い&lt;/h1&gt; &lt;p&gt;CoderDojo Owari では、無料で運営するために、スポンサーや寄付を受け付けます。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;個人スポンサー: (目安は 1回500円 or 年間 3000円)&lt;/li&gt; &lt;li&gt;団体・法人: 1口1万円/年&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;団体・法人スポンサーの方は、毎回の CoderDojo 開催時に、1口につき、チラシをA4サイズまで、1種類を配布することが出来ます。ただしチラシの印刷、期日までに事務局への郵送か現地への配布をお願いします。&lt;/p&gt; &lt;p&gt;寄付は、会場費、印刷代、備品代、ウェブサイトの運営費、おかし代などに使われます。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;無料で継続して開催するため&lt;/strong&gt;皆様のご協力をお願い致します。&lt;/p&gt; &lt;h1&gt;サポート会員・メンターの募集&lt;/h1&gt; &lt;p&gt;CoderDojo Owari では、運営サポーターを募集しています。&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;種類&lt;/th&gt; &lt;th&gt;やってもらいたいこと&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;メンター&lt;/td&gt; &lt;td&gt;Ninja (生徒) のサポート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;サポーター&lt;/td&gt; &lt;td&gt;受付、告知ページの作成、ブログ、写真撮影などの運営補佐&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;ul&gt; &lt;li&gt;メンターさんは Hour of Code や Scratch の基礎知識が必要です。&lt;/li&gt; &lt;li&gt;サポート会員さんは、お手伝いしてもらえることがあればなんでもお願いしたいという方です。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;CoderDojo は、全員が非営利で運営しているグループです。また、参加者・運営者の垣根をできるだけ低く、運営していきたいと思っています。&lt;/p&gt; &lt;p&gt;子どもに教えると同時に、自分への学びにもつながるやりがいのある活動です。&lt;/p&gt; &lt;p&gt;メンターのトレーニングも適宜行っていく予定です。メンターになってみたいという方のサポーターとしてのご参加も歓迎します。&lt;/p&gt; &lt;h2&gt;メンターとは&lt;/h2&gt; &lt;p&gt;Mentor (メンター)とは、英語で「指導者」という意味です。ただしメンターは、Ninja に詰め込むだけの教育をする「先生」ではありません。&lt;/p&gt; &lt;p&gt;Ninja に自発的にセッションを進めてもらえるように隣に寄り添って補佐していただきます。&lt;/p&gt; &lt;p&gt;メンターは授業の準備はほとんど必要ありません。 Hour of Code の内容や Scratch の基本的な操作方法が分かるかたであればどなたでもなることが出来ます。&lt;/p&gt; &lt;p&gt;メンター参加希望者の方で、今まで CoderDojo Owari や他の CoderDojo に一度もメンターやサポーターとして参加していない方は、&lt;strong&gt;必ず 事前に CoderDojo Owari までご連絡ください&lt;/strong&gt;、もしくは我々から連絡させていただきます。&lt;/p&gt; &lt;p&gt;今まで、一度もサポーターやメンター経験のない方は、サポーターとしての参加をお願いすることがございます。&lt;/p&gt; &lt;h2&gt;サポーターとは&lt;/h2&gt; &lt;p&gt;サポーターとは、メンターになりたいと思いお手伝いしながらメンターを目指したい人やメンターにはなるつもりはないけれど、当グループのお手伝いをしたいと思う方です。当グループでは常にサポーターも募集しています。&lt;/p&gt; &lt;p&gt;サポーター参加希望者で、今まで一度も CoderDojo に参加したことがない方は、一度お問合わせください。&lt;/p&gt; &lt;p&gt;詳しくは、お問合わせください。&lt;/p&gt; &lt;h2&gt;お問い合わせ先&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://coderdojoowari.org/contact&quot; rel=&quot;nofollow&quot;&gt;https://coderdojoowari.org/contact&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://coderdojoowari.connpass.com/event/263202/'/>
-    <published>
-      2023-01-10T18:08:23+09:00
     </published>
   </entry>
 </feed>
