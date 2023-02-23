@@ -9,8 +9,108 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2023-02-22T00:51:23+00:00
+    2023-02-23T00:51:20+00:00
   </updated>
+  <entry>
+    <id>
+      https://beginner-front.connpass.com/event/276282/
+    </id>
+    <title>
+      【音声のみ】第139回プログラミング初学者歓迎もくもく会＋交流会
+    </title>
+    <summary>
+      「もくもく会（勉強会）自体はじめて…」という初学者歓迎の、敷居の低いゆるIT勉強会！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;「1人だと作業に集中出来ない」「気軽に質問・相談したい」という初学者向けの、オンラインもくもく会（勉強＋交流会）です&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;ビデオはオフ、音声のみ・無言OKです！（途中参加・退出なども自由です）&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;「もくもく会自体はじめて…」&lt;br&gt;という方でも気軽に参加できる、ゆるい雰囲気のもくもく会です！&lt;/p&gt; &lt;p&gt;主催者自身、日々プログラミング勉強中です。（現在は作りたいwebサービスがあるので、個人開発を学んでおります。）&lt;br&gt;1人だと怠けてしまう時があるので、複数人でゆるい雰囲気で作業を進めることができたら良いなと思い、開催しております。&lt;/p&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;IT/web/プログラミング初学者&lt;/li&gt; &lt;li&gt;プログラミング学習仲間がほしい&lt;/li&gt; &lt;li&gt;モチベーション維持が難しいと感じる人&lt;/li&gt; &lt;li&gt;プログラミングについて質問・相談したい&lt;/li&gt; &lt;li&gt;作りたいサービスがあり、それに関して話したい&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;プログラミング初学者に限らず、ゆるく作業や交流したい方は気軽にご参加ください！&lt;/p&gt; &lt;h1&gt;開催概要&lt;/h1&gt; &lt;p&gt;▶️場所：Gather(オンライン開催）&lt;br&gt;ビデオはオフ・音声のみ・無言OKです！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、GatherのURLが表示されます。&lt;/strong&gt;&lt;br&gt;（Gatherは、スマートフォン・PCどちらからでも、登録なしで参加することが可能です。）&lt;/p&gt; &lt;p&gt;また、Gatherは、ポケモンとZoomを掛け合わせたようなサービスだと言われています。&lt;br&gt;直感的な操作で、Zoomより気軽なコミュニケーションができます。&lt;/p&gt; &lt;p&gt;（もくもく会の始めに、Gatherの操作について不明な点があればご説明いたします！）&lt;/p&gt; &lt;h1&gt;当日のスケジュールの流れ&lt;/h1&gt; &lt;p&gt;▶️【19:00 - 20:50】&lt;br&gt;準備ができた人から各自作業開始！&lt;/p&gt; &lt;p&gt;はじめに、主催者から全体に簡単な説明・挨拶を致します。（Gatherの使い方やもくもく会について）&lt;/p&gt; &lt;p&gt;→その後、各自の作業を進めていきます（作業中も音声、チャットで気軽にやり取りができます）&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;▶️【20:50 - 21:00】&lt;br&gt;軽く報告・雑談（任意）&lt;/p&gt; &lt;p&gt;本日やったことの簡単な報告・質問・雑談タイムです。&lt;/p&gt; &lt;p&gt;（例：「今日はProgateでJavaScriptを進めました！」「この本何ページ読みました！」など）&lt;/p&gt; &lt;p&gt;→その後、各自自由なタイミングで退出・引き続き作業して頂いてOKです。&lt;br&gt;（話が盛り上がって１時間近く話してしまう事がたまにあるので、自由解散という形にしています）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;途中参加・退出なども全く問題ないです&lt;/li&gt; &lt;li&gt;終わりに行う軽い報告・雑談は、任意参加です。作業のキリが悪かったり、離席していたりなどでも問題ありません。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;備考&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;このもくもく会のDiscordもあるので、connpass上の参加者より、実際の参加人数が多い事があります。&lt;/li&gt; &lt;li&gt;当日キャンセルも全く問題ありません。都合の良いお時間に参加ください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;複数人で集中したり、作業の合間に気軽に質問・雑談できるような雰囲気を目指しています。&lt;br&gt;&lt;strong&gt;「これからプログラミングを始める！」という超初心者の方でも気軽にご参加ください！&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;参考キーワード&lt;/h1&gt; &lt;p&gt;IT, web制作, webアプリ開発, プログラミング, 初心者歓迎, HTML, CSS, JavaScript, Python, Ruby, php, React.js, Vue.js, 個人開発, プロダクト開発, コミュニティ運営者, もくもく会運営者&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://beginner-front.connpass.com/event/276282/'/>
+    <published>
+      2023-02-22T23:45:40+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://classtech.connpass.com/event/276172/
+    </id>
+    <title>
+      毎週Ruby, Railsもくもく会 #152 オンライン 駆け出しエンジニアも歓迎！
+    </title>
+    <summary>
+      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
+      &lt;p&gt;こんにちは。&lt;/p&gt;
+      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
+      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
+      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
+      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
+      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
+      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
+      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
+      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
+      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
+      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
+      &lt;p&gt;一応10人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
+      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
+      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
+      href=&quot;https://twitter.com/DAI199&quot;
+      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
+      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
+      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
+      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/276172/'/>
+    <published>
+      2023-02-22T20:25:42+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://shimane-oss.connpass.com/event/276173/
+    </id>
+    <title>
+      第143回オープンソースサロン
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;&lt;strong&gt;第143回オープンソースサロンを松江オープンソースラボで開催します。
+      &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;松江工業高等専門学校様による「Matz葉がにロボコン
+      活動報告」です。&lt;/p&gt; &lt;p&gt;Matz葉がにロボコン Webサイト&lt;br&gt; &lt;a
+      href=&quot;https://www.shimane-oss.org/kani-robo/&quot;
+      rel=&quot;nofollow&quot;&gt;https://www.shimane-oss.org/kani-robo/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;オープンソースサロンは参加費無料です。会員以外の方でもご参加いただけます。 事前の申し込みも必要ありません。お気軽にご参加ください。&lt;/p&gt; &lt;p&gt;皆様のご参加を心よりお待ちしております。&lt;/p&gt; &lt;h1&gt;主催&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://www.shimane-oss.org/&quot; rel=&quot;nofollow&quot;&gt;しまねOSS協議会 (OS4)&lt;/a&gt; &lt;/p&gt; &lt;h1&gt;日時&lt;/h1&gt; &lt;p&gt;2023年3月17日(金) 18時30分～20時00分&lt;/p&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;松江オープンソースラボ（松江テルサ別館2階）&lt;/p&gt; &lt;h1&gt;定員&lt;/h1&gt; &lt;p&gt;40名&lt;/p&gt; &lt;h1&gt;内容&lt;/h1&gt; &lt;h2&gt;講演テーマ：Matz葉がにロボコン 活動報告&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;発表者：松江工業高等専門学校 情報工学科　田辺 侑美 氏、杉山 耕一朗 氏&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;「Matz葉がにロボコン」は、スモウルビーや軽量Ruby(mruby/c)を活用したこども向けプログラミングコンテストであり、かにをモチーフにしたロボットを指定のコースで走行させて競い合うものです。2023/01/15に実施したプレ大会には23チームが参加し、子どもたちの熱戦が繰り広げられました。&lt;br&gt; 本セミナーでは、ロボコン開催までの経緯、スモウルビーと mruby/c を活用したツール開発の概要、子どもたちへのアンケートから見えてきたプログラミング教育に対する示唆、などをご紹介します。加えて、セミナー参加者の皆さんにMatz葉がにロボの簡単なプログラミングと走行を行って頂く予定です。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://shimane-oss.connpass.com/event/276173/'/>
+    <published>
+      2023-02-22T13:17:31+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://connpass.com/event/275518/
+    </id>
+    <title>
+      [第3回] 恵比寿コーディンプレイスでもくもく会
+    </title>
+    <summary>
+      恵比寿駅徒歩5分の綺麗なオフィスでランチ付きのもくもく会！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;参加方法&lt;/h2&gt; &lt;p&gt;イベントの詳細・申込みは以下のリンク
+      もしくはconnpassの申し込みページからお願いいたします！ &lt;a
+      href=&quot;https://eltea.jp/user/participant/events/626bbaa9-69af-4f10-b49f-73eb7ca0de92?from=connpass&quot; rel=&quot;nofollow&quot;&gt;https://eltea.jp/user/participant/events/626bbaa9-69af-4f10-b49f-73eb7ca0de92?from=connpass&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;背景&lt;/h2&gt; &lt;p&gt;アイザック株式会社・株式会社ハローが共同で開催するもくもく会です。&lt;/p&gt; &lt;p&gt;それぞれRubyのコミッターとシニアソフトウェアエンジニアが創業した会社で、エンジニアカルチャーへのコミットをすごく大事にしています。OSSでソフトウェアのシェアはある一方、最も大事であるはずなエンジニアの作業場所はオープンに提供されていない事に気づき、快適な作業場所を無料提供することにしたという背景があります。&lt;/p&gt; &lt;h2&gt;場所&lt;/h2&gt; &lt;p&gt;〒150-0013　東京都渋谷区恵比寿1-21-8 VORT恵比寿Ⅲ 2階&lt;/p&gt; &lt;h2&gt;日時&lt;/h2&gt; &lt;p&gt;2/26（日） 11:00 ~ 15:30（18時まで使用することも可能です）&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;11:00~&lt;/td&gt; &lt;td&gt;自己紹介・今日やること発表&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;11:15~&lt;/td&gt; &lt;td&gt;もくもく&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;12:30~&lt;/td&gt; &lt;td&gt;ランチタイム（ご用意してます）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:00~&lt;/td&gt; &lt;td&gt;もくもく&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:00~&lt;/td&gt; &lt;td&gt;やったこと共有・雑談&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;その他&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;参加いただける方は必ずSlackへの参加をお願いします（&lt;strong&gt;参加者への情報をご確認ください&lt;/strong&gt;) &lt;/li&gt; &lt;li&gt;当日来られなくなった方は、事前にご連絡ください。&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://connpass.com/event/275518/'/>
+    <published>
+      2023-02-22T11:07:40+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://omotesandorb.connpass.com/event/276060/
@@ -229,122 +329,6 @@
     <link rel='alternate' type='text/html' href='https://connpass.com/event/271340/'/>
     <published>
       2023-02-21T15:31:42+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://beginner-front.connpass.com/event/276059/
-    </id>
-    <title>
-      【音声のみ】第137回プログラミング初学者歓迎もくもく会＋交流会
-    </title>
-    <summary>
-      「もくもく会（勉強会）自体はじめて…」という初学者歓迎の、敷居の低いゆるIT勉強会！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h3&gt;「1人だと作業に集中出来ない」「気軽に質問・相談したい」という初学者向けの、オンラインもくもく会（勉強＋交流会）です&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;ビデオはオフ、音声のみ・無言OKです！（途中参加・退出なども自由です）&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;「もくもく会自体はじめて…」&lt;br&gt;という方でも気軽に参加できる、ゆるい雰囲気のもくもく会です！&lt;/p&gt; &lt;p&gt;主催者自身、日々プログラミング勉強中です。（現在は作りたいwebサービスがあるので、個人開発を学んでおります。）&lt;br&gt;1人だと怠けてしまう時があるので、複数人でゆるい雰囲気で作業を進めることができたら良いなと思い、開催しております。&lt;/p&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;IT/web/プログラミング初学者&lt;/li&gt; &lt;li&gt;プログラミング学習仲間がほしい&lt;/li&gt; &lt;li&gt;モチベーション維持が難しいと感じる人&lt;/li&gt; &lt;li&gt;プログラミングについて質問・相談したい&lt;/li&gt; &lt;li&gt;作りたいサービスがあり、それに関して話したい&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;プログラミング初学者に限らず、ゆるく作業や交流したい方は気軽にご参加ください！&lt;/p&gt; &lt;h1&gt;開催概要&lt;/h1&gt; &lt;p&gt;▶️場所：Gather(オンライン開催）&lt;br&gt;ビデオはオフ・音声のみ・無言OKです！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、GatherのURLが表示されます。&lt;/strong&gt;&lt;br&gt;（Gatherは、スマートフォン・PCどちらからでも、登録なしで参加することが可能です。）&lt;/p&gt; &lt;p&gt;また、Gatherは、ポケモンとZoomを掛け合わせたようなサービスだと言われています。&lt;br&gt;直感的な操作で、Zoomより気軽なコミュニケーションができます。&lt;/p&gt; &lt;p&gt;（もくもく会の始めに、Gatherの操作について不明な点があればご説明いたします！）&lt;/p&gt; &lt;h1&gt;当日のスケジュールの流れ&lt;/h1&gt; &lt;p&gt;▶️【19:00 - 20:50】&lt;br&gt;準備ができた人から各自作業開始！&lt;/p&gt; &lt;p&gt;はじめに、主催者から全体に簡単な説明・挨拶を致します。（Gatherの使い方やもくもく会について）&lt;/p&gt; &lt;p&gt;→その後、各自の作業を進めていきます（作業中も音声、チャットで気軽にやり取りができます）&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;▶️【20:50 - 21:00】&lt;br&gt;軽く報告・雑談（任意）&lt;/p&gt; &lt;p&gt;本日やったことの簡単な報告・質問・雑談タイムです。&lt;/p&gt; &lt;p&gt;（例：「今日はProgateでJavaScriptを進めました！」「この本何ページ読みました！」など）&lt;/p&gt; &lt;p&gt;→その後、各自自由なタイミングで退出・引き続き作業して頂いてOKです。&lt;br&gt;（話が盛り上がって１時間近く話してしまう事がたまにあるので、自由解散という形にしています）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;途中参加・退出なども全く問題ないです&lt;/li&gt; &lt;li&gt;終わりに行う軽い報告・雑談は、任意参加です。作業のキリが悪かったり、離席していたりなどでも問題ありません。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;備考&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;このもくもく会のDiscordもあるので、connpass上の参加者より、実際の参加人数が多い事があります。&lt;/li&gt; &lt;li&gt;当日キャンセルも全く問題ありません。都合の良いお時間に参加ください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;複数人で集中したり、作業の合間に気軽に質問・雑談できるような雰囲気を目指しています。&lt;br&gt;&lt;strong&gt;「これからプログラミングを始める！」という超初心者の方でも気軽にご参加ください！&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;参考キーワード&lt;/h1&gt; &lt;p&gt;IT, web制作, webアプリ開発, プログラミング, 初心者歓迎, HTML, CSS, JavaScript, Python, Ruby, php, React.js, Vue.js, 個人開発, プロダクト開発, コミュニティ運営者, もくもく会運営者&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://beginner-front.connpass.com/event/276059/'/>
-    <published>
-      2023-02-21T00:34:01+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://peraichi.connpass.com/event/273205/
-    </id>
-    <title>
-      初めてのオフショア開発導入から活用までのリアル（zoom開催）
-    </title>
-    <summary>
-      スタートアップ企業でベトナムオフショア開発をゼロから導入したリアルを大公開！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;ご覧いただきありがとうございます。
-      今回は「初めてのオフショア開発導入から活用までリアル」と題して、ゼロからの導入と活用のリアルを大公開！
-      そしてオフショアチームとのコミュニケーションやマネジメントはどうしているの？という少し突っ込んだところもお話します！&lt;/p&gt;
-      &lt;ul&gt; &lt;li&gt;これからオフショア導入を検討・予定している方&lt;/li&gt;
-      &lt;li&gt;どうやってオフショア会社を探しているのか、オフショア会社の選定基準や価格感を知りたい方&lt;/li&gt;
-      &lt;li&gt;オフショアチームとのコミュニケーション・マネージメントを上手くやりたい方&lt;/li&gt;
-      &lt;li&gt;他社のオフショア事例を聞いてみたい方、モデルケースを探している方&lt;/li&gt;
-      &lt;li&gt;普段触れない分野の話を聞いてみたい方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;オススメです♪&lt;/p&gt; &lt;h1&gt;イベントについて&lt;/h1&gt;
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日時： 2/22(水)　open 18:45／start
-      19:00／close 20:00&lt;/li&gt; &lt;li&gt;方法：オンライン（zoom）開催&lt;/li&gt;
-      &lt;li&gt;料金：無料&lt;/li&gt; &lt;li&gt;内容：オフショア導入・活用のリアルシェア会&lt;/li&gt;
-      &lt;li&gt;その他：最少催行人数3名&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;スケジュール&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;th
-      align=&quot;center&quot;&gt;プログラム&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;18:45&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;open&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;zoom開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;19:00&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;start&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;挨拶・説明&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;19:10&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;登壇&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;オフショア導入・活用のリアル／ペライチ 三井氏&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;19:40&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;質問タイム&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;ペライチ 三井氏&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;center&quot;&gt;19:50&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;close&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;まとめ・挨拶&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
-      &lt;/table&gt; &lt;h2&gt;内容&lt;/h2&gt;
-      &lt;p&gt;実際にペライチ社でオフショアを導入し、現在もマネジメントをしている三井マネージャーを迎え、
-      これまでの取り組みや、ポイントなどのリアルを大公開！&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;オフショア導入の進め方、ポイント&lt;/li&gt;
-      &lt;li&gt;オフショアチームとの連携やマネージメントはどうしているの？&lt;/li&gt;
-      &lt;li&gt;今後どうするの？&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;などなど、お話させていただきます。&lt;/p&gt; &lt;h1&gt;登壇者紹介&lt;/h1&gt;
-      &lt;h2&gt;株式会社ペライチ　オフショアチームMGR　 三井 拓也（みつい・たくや）氏&lt;/h2&gt;
-      &lt;p&gt;新卒で富士通に入社。システムエンジニア、プロジェクトマネージャーとして銀行のシステムに係る大規模開発に携わる。その後、ベンチャーに転職して、プロダクトマネージャーとして自社プロダクトの開発を牽引することに加えて、プリセールスやサービスデリバリー、カスタマーサクセスなど、幅広い領域を経験。ペライチには2021年4月に入社。参考：&lt;a href=&quot;https://www.wantedly.com/companies/pera_ichi/post_articles/456555&quot; rel=&quot;nofollow&quot;&gt;インタビュー記事&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;（企画・司会）株式会社ペライチ　人事広報　直江 @peraichi_naoe&lt;/h2&gt; &lt;p&gt;新卒でJR東日本に入社。駅でのご案内や接客、育成、ツアーガイドやイベント企画・運営などを経験。5年従事した後、様々な業界や職種を経験したいと考え、少数精鋭のベンチャー企業（輸入小売り会社や映像制作会社）にて営業からバックオフィス、秘書など幅広い業務を経験。その後2018年にペライチ入社。セミナーの企画・登壇やコミュニティーマネージャーを経験した後、2020年10月より人事に移動。現在は社内外の広報を中心にペライチ社への理解や認知を広げる取り組みを行っている。 参考：&lt;a href=&quot;https://www.wantedly.com/companies/pera_ichi/post_articles/425460&quot; rel=&quot;nofollow&quot;&gt;インタビュー記事&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;参加方法&lt;/h1&gt; &lt;p&gt;zoom（ウェビナー形式）にて行います 一般参加の方はお顔は映りませんのでご安心下さい。 前日のリマインドメールの中に参加URLを記載してご案内いたします&lt;/p&gt; &lt;h1&gt;主催：株式会社ペライチについて&lt;/h1&gt; &lt;p&gt;ユーザー様ご自身でカンタンスピーディーにwebページが作れるペライチというサービスをメインに開発・リリースしている、SaaSの事業会社です。 正社員は50名弱、半数がエンジニアという創業8年目テックカンパニー。&lt;/p&gt; &lt;p&gt;■開発環境 言語: Ruby on Rails、CakePHP、Nuxt.js、Vue.js、Backbone.js等 インフラ: AWS（EC2, S3, RDS） ツール: Github,CircleCI,Docker,Vagrant,Slack&lt;/p&gt; &lt;h1&gt;参考&lt;/h1&gt; &lt;h2&gt;企画背景&lt;/h2&gt; &lt;p&gt;少しでもエンジニアリング力をみんなで上げていきたい、そのきっかけや場を作っていきたい！という思いでエンジニア向けイベントを定期開催中。 また、「勉強会をしてほしい」というリクエストもいただきましたので、ニッチな分野ではありますがオフショアにフォーカスしたシェア勉強会を開催します！あまり肩に力は入れず、みんなで知識・スキルをUPしていきましょう！&lt;/p&gt; &lt;h2&gt;参考リンク&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://zenn.dev/peraichi&quot; rel=&quot;nofollow&quot;&gt;ペライチテックブログ&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/pera_ichi/stories&quot; rel=&quot;nofollow&quot;&gt;ペライチ人事ブログ&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://recruit.peraichi.co.jp/&quot; rel=&quot;nofollow&quot;&gt;株式会社ペライチ採用サイト&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://peraichi.com/&quot; rel=&quot;nofollow&quot;&gt;ペライチ（サービスページ）&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://peraichi.co.jp/&quot; rel=&quot;nofollow&quot;&gt;株式会社ペライチ（コーポレートサイト）&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://peraichi.connpass.com/event/273205/'/>
-    <published>
-      2023-02-20T19:34:21+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://k-ruby.connpass.com/event/272282/
-    </id>
-    <title>
-      鹿児島Ruby会議02
-    </title>
-    <summary>
-      Rubyで広がる世界、Rubyではじめよう
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;鹿児島Ruby会議02について&lt;/h2&gt;
-      &lt;p&gt;「Rubyで広がる世界、Rubyではじめよう」&lt;/p&gt; &lt;p&gt;イベントサイト &lt;a
-      href=&quot;https://k-ruby.github.io/kagoshima-rubykaigi02/&quot;
-      rel=&quot;nofollow&quot;&gt;https://k-ruby.github.io/kagoshima-rubykaigi02/&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;発表申し込みについて&lt;/h3&gt; &lt;p&gt;(募集は終了しました)&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://forms.gle/HbXdME9tWu38yaBu8&quot; rel=&quot;nofollow&quot;&gt;https://forms.gle/HbXdME9tWu38yaBu8&lt;/a&gt; からお申し込みください。&lt;/p&gt; &lt;h3&gt;K-Rubyについて&lt;/h3&gt; &lt;p&gt;鹿児島Rubyコミュニティ（K-Ruby: Kagoshima Ruby Community） 2011/05/26 鹿児島でRubyのコミュニティを立ち上げました。 プログラミング好きの集まりです。Rubyが中心ですが、Rubyに限らず、Python、PHP、JavaScriptなど、Lightweight Languageでの開発に興味を持っている人たちが情報共有の場として2ヶ月に1回くらいの頻度でミートアップを開催中。 &lt;a href=&quot;https://k-ruby.github.io/&quot; rel=&quot;nofollow&quot;&gt;https://k-ruby.github.io/&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;懇親会について&lt;/h3&gt; &lt;p&gt;イベント終了後、天文館周辺で懇親会を開きます。ご希望の方は以下のイベントへお申し込みください&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://k-ruby.connpass.com/event/275650/&quot; rel=&quot;nofollow&quot;&gt;https://k-ruby.connpass.com/event/275650/&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;交通アクセス&lt;/h2&gt; &lt;p&gt;mark MEIZAN 〒892-0821 鹿児島県鹿児島市名山町9-15&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://mark-meizan.io/&quot; rel=&quot;nofollow&quot;&gt;https://mark-meizan.io/&lt;/a&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;鹿児島市電「朝日通」電停下車。徒歩3分&lt;/li&gt; &lt;li&gt;JR鹿児島中央駅から鹿児島市電で10分/バスで10分&lt;/li&gt; &lt;li&gt;JR鹿児島駅から徒歩15分&lt;/li&gt; &lt;li&gt;空港リムジンバス&lt;ul&gt; &lt;li&gt;鹿児島空港「鹿児島市内行き」→「金生町」バス停下車。徒歩5分（料金1,250円）&lt;/li&gt; &lt;li&gt;路線バス：鹿児島市営、南国交通、鹿児島交通「金生町（山形屋前）」バス停下車。徒歩5分&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;発表予定の方も参加枠で申し込んでください&lt;/li&gt; &lt;li&gt;先着となりますのでキャンセルする方は早めにお願いします&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;入場・受付方法&lt;/h2&gt; &lt;p&gt;当日、受付にてconnpassのユーザ名をご提示ください。&lt;/p&gt; &lt;h2&gt;行動規範&lt;/h2&gt; &lt;p&gt;この会議ではすべての参加者，スピーカー，スポンサーとボランティアは以下の行動規範に従うことへの同意を必要とします． 会議主催者は会議の間を通じてこの規範の実施を徹底します．私達主催者は誰にとっても安全な環境を確約するためにすべての参加者が協力することを期待しています．&lt;/p&gt; &lt;p&gt;私達の会議では，性別，性的指向，障碍の有無，外見，身体の大きさ，人種，宗教にかかわりなく，全員がハラスメント行為なく会議に参加し体験できる環境の提供に最善を尽くします．&lt;/p&gt; &lt;p&gt;私達主催者は，会議参加者によるハラスメント行為を一切許容しません．性的な言葉や映像表現を使うことは会議場および会議に関連するいかなる場でも不適切であり，その適用範囲は発表やトークの内容，ワークショップ，関連パーティー，ツイッターやその他のオンラインメディアでの発言を含みます．&lt;/p&gt; &lt;p&gt;これらのルールを破った会議参加者は，主催者の判断によって，会議内での行動を制限されたり，参加費の返却なく会議からの追放処分を受けることがあります．不適切な行為を受けている，または受けている人を見かけた場合はただちにスタッフにお知らせ下さい．&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://k-ruby.connpass.com/event/272282/'/>
-    <published>
-      2023-02-20T09:00:54+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://beginner-front.connpass.com/event/275951/
-    </id>
-    <title>
-      【音声のみ】第136回プログラミング初学者歓迎もくもく会＋交流会
-    </title>
-    <summary>
-      「もくもく会（勉強会）自体はじめて…」という初学者歓迎の、敷居の低いゆるIT勉強会！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h3&gt;「1人だと作業に集中出来ない」「気軽に質問・相談したい」という初学者向けの、オンラインもくもく会（勉強＋交流会）です&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;ビデオはオフ、音声のみ・無言OKです！（途中参加・退出なども自由です）&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;「もくもく会自体はじめて…」&lt;br&gt;という方でも気軽に参加できる、ゆるい雰囲気のもくもく会です！&lt;/p&gt; &lt;p&gt;主催者自身、日々プログラミング勉強中です。（現在は作りたいwebサービスがあるので、個人開発を学んでおります。）&lt;br&gt;1人だと怠けてしまう時があるので、複数人でゆるい雰囲気で作業を進めることができたら良いなと思い、開催しております。&lt;/p&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;IT/web/プログラミング初学者&lt;/li&gt; &lt;li&gt;プログラミング学習仲間がほしい&lt;/li&gt; &lt;li&gt;モチベーション維持が難しいと感じる人&lt;/li&gt; &lt;li&gt;プログラミングについて質問・相談したい&lt;/li&gt; &lt;li&gt;作りたいサービスがあり、それに関して話したい&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;プログラミング初学者に限らず、ゆるく作業や交流したい方は気軽にご参加ください！&lt;/p&gt; &lt;h1&gt;開催概要&lt;/h1&gt; &lt;p&gt;▶️場所：Gather(オンライン開催）&lt;br&gt;ビデオはオフ・音声のみ・無言OKです！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、GatherのURLが表示されます。&lt;/strong&gt;&lt;br&gt;（Gatherは、スマートフォン・PCどちらからでも、登録なしで参加することが可能です。）&lt;/p&gt; &lt;p&gt;また、Gatherは、ポケモンとZoomを掛け合わせたようなサービスだと言われています。&lt;br&gt;直感的な操作で、Zoomより気軽なコミュニケーションができます。&lt;/p&gt; &lt;p&gt;（もくもく会の始めに、Gatherの操作について不明な点があればご説明いたします！）&lt;/p&gt; &lt;h1&gt;当日のスケジュールの流れ&lt;/h1&gt; &lt;p&gt;▶️【19:00 - 20:50】&lt;br&gt;準備ができた人から各自作業開始！&lt;/p&gt; &lt;p&gt;はじめに、主催者から全体に簡単な説明・挨拶を致します。（Gatherの使い方やもくもく会について）&lt;/p&gt; &lt;p&gt;→その後、各自の作業を進めていきます（作業中も音声、チャットで気軽にやり取りができます）&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;▶️【20:50 - 21:00】&lt;br&gt;軽く報告・雑談（任意）&lt;/p&gt; &lt;p&gt;本日やったことの簡単な報告・質問・雑談タイムです。&lt;/p&gt; &lt;p&gt;（例：「今日はProgateでJavaScriptを進めました！」「この本何ページ読みました！」など）&lt;/p&gt; &lt;p&gt;→その後、各自自由なタイミングで退出・引き続き作業して頂いてOKです。&lt;br&gt;（話が盛り上がって１時間近く話してしまう事がたまにあるので、自由解散という形にしています）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;途中参加・退出なども全く問題ないです&lt;/li&gt; &lt;li&gt;終わりに行う軽い報告・雑談は、任意参加です。作業のキリが悪かったり、離席していたりなどでも問題ありません。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;備考&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;このもくもく会のDiscordもあるので、connpass上の参加者より、実際の参加人数が多い事があります。&lt;/li&gt; &lt;li&gt;当日キャンセルも全く問題ありません。都合の良いお時間に参加ください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;複数人で集中したり、作業の合間に気軽に質問・雑談できるような雰囲気を目指しています。&lt;br&gt;&lt;strong&gt;「これからプログラミングを始める！」という超初心者の方でも気軽にご参加ください！&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;参考キーワード&lt;/h1&gt; &lt;p&gt;IT, web制作, webアプリ開発, プログラミング, 初心者歓迎, HTML, CSS, JavaScript, Python, Ruby, php, React.js, Vue.js, 個人開発, プロダクト開発, コミュニティ運営者, もくもく会運営者&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://beginner-front.connpass.com/event/275951/'/>
-    <published>
-      2023-02-20T00:47:39+09:00
     </published>
   </entry>
 </feed>
