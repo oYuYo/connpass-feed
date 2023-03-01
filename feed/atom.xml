@@ -9,8 +9,220 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2023-02-28T00:53:40+00:00
+    2023-03-01T00:58:59+00:00
   </updated>
+  <entry>
+    <id>
+      https://tottoruby.connpass.com/event/275604/
+    </id>
+    <title>
+      とっとるびー第４７回
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;久しぶりのオフライン開催です&lt;/h1&gt; &lt;p&gt;ごった煮感で。無料です。&lt;/p&gt;
+      &lt;h1&gt;COVID-19 について&lt;/h1&gt; &lt;p&gt;参加する方々は以下をお願いします。&lt;/p&gt;
+      &lt;ul&gt; &lt;li&gt;&lt;strong&gt;マスクを持参してください。&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;会場に入られるときに、手洗いをお願いします。&lt;/li&gt; &lt;/ul&gt;
+      &lt;h1&gt;会場について&lt;/h1&gt; &lt;p&gt;鳥取大学　コミュニティ・デザイン・ラボ（鳥取大学
+      広報センター１階）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;14:00開場、
+      &lt;strong&gt;14:30開始&lt;/strong&gt; を予定しています。&lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;会場へのアクセス&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;JRでお越しの方はJR鳥取大学前駅下車徒歩3分です。&lt;/li&gt;
+      &lt;li&gt;自家用車でお越しの方は鳥取大学の第1駐車場を利用できますが下記駐車料金が必要です。&lt;ul&gt;
+      &lt;li&gt;駐車料金は、入構後1時間までは無料、1時間以上2時間未満は100円、以後1時間を経過するごとに100円を加算します。24時間毎の最高限度額は500円です。&lt;a href=&quot;https://www.tottori-u.ac.jp/item/14028.htm&quot; rel=&quot;nofollow&quot;&gt;https://www.tottori-u.ac.jp/item/14028.htm&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;発表テーマ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;「flutterで何か(仮)」 @kmt_t さん&lt;/li&gt; &lt;li&gt;「NestJSで何か(仮)」@ogawatti さん&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;募集中です。 発表されたい方はコチラ(connpass) に書き込んでくださいませ。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://tottoruby.connpass.com/event/275604/'/>
+    <published>
+      2023-03-01T08:49:52+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://classtech.connpass.com/event/276769/
+    </id>
+    <title>
+      毎週Ruby, Railsもくもく会 #153 オンライン 駆け出しエンジニアも歓迎！
+    </title>
+    <summary>
+      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
+      &lt;p&gt;こんにちは。&lt;/p&gt;
+      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
+      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
+      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
+      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
+      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
+      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
+      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
+      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
+      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
+      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
+      &lt;p&gt;一応10人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
+      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
+      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
+      href=&quot;https://twitter.com/DAI199&quot;
+      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
+      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
+      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
+      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/276769/'/>
+    <published>
+      2023-02-28T20:10:25+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mrubyworkshop.connpass.com/event/274563/
+    </id>
+    <title>
+      mrubyでマイコンを動かしてみよう＃２
+    </title>
+    <summary>
+      今度はRaspberry Pi Picoです！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;mruby3.1でマイコンボードRaspberry Pi Picoを動かしてみるワークショップです&lt;/h1&gt;
+      &lt;h3&gt;日時&lt;/h3&gt; &lt;p&gt;2023年3月8日（水）19:00-21:00&lt;/p&gt;
+      &lt;p&gt;Zoomオンラインにて開催します&lt;/p&gt;
+      &lt;p&gt;mrubyって興味あるけどなかなか触る機会がないという皆さんにお知らせです。&lt;/p&gt;
+      &lt;p&gt;実際にmrubyを使ってマイコンボードを動かしてみませんか？&lt;/p&gt;
+      &lt;p&gt;マイコンボードは今話題のRaspberry Pi Picoを用意しています。&lt;/p&gt;
+      &lt;h3&gt;参加費は無料、使用するマイコン Raspberry Pi Picoも無償で貸し出します。&lt;/h3&gt;
+      &lt;h4&gt;お手持ちのRaspberry Pi
+      Picoでの参加も可能です。ただしLEDなどのご用意が別途必要なのでまずはこちらで用意する一式で体験されることをおすすめします。&lt;/h4&gt; &lt;p&gt;（Raspberry Pi Picoの貸し出しについての項目をご確認ください）&lt;/p&gt; &lt;p&gt;ワークショップの内容は下記の通りです。&lt;/p&gt; &lt;h2&gt;予定&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;time&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;開始　mrubyってどんなもの&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10&lt;/td&gt; &lt;td&gt;Raspberry Pi Picoを使ってみよう&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:50&lt;/td&gt; &lt;td&gt;おなじみＬチカ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:10&lt;/td&gt; &lt;td&gt;もっとＬチカ&lt;br&gt;複数のLEDを制御してみる&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:30&lt;/td&gt; &lt;td&gt;自由にもくもくタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00&lt;/td&gt; &lt;td&gt;終了&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;Raspberry Pi Picoの貸し出しについて&lt;/h2&gt; &lt;p&gt;参加いただくみなさんにRaspberry Pi Picoなどワークショップに必要な物を無料で貸し出しいたします。&lt;/p&gt; &lt;p&gt;送付手順&lt;/p&gt; &lt;p&gt;・参加される方は下記のフォームにお名前、住所、電話番号を記入していただきます&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1IQt5WS-IT61TSz2AGQr9b5MjNRMfo8VJ4VZPsSKLnKY/edit&quot; rel=&quot;nofollow&quot;&gt;送付先入力フォーム&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;注意：入力フォームだけ記入してセミナー参加登録されない方がいらっしゃいます。&lt;/h4&gt; &lt;h4&gt;両方での登録が必要ですのでご注意ください。&lt;/h4&gt; &lt;p&gt;・受講者の方に、［登録住所］あてにレターパックにて送付いたします&lt;/p&gt; &lt;p&gt;・教材の返送は、［主催者住所］あてのレターパックを同封していますので速やかにご返送ください。&lt;/p&gt; &lt;p&gt;●個人情報の取り扱いについて&lt;/p&gt; &lt;p&gt;いただいた個人情報については、機器の郵送等の本イベントの運営に必要な事項のみに利用するものとし、その他の目的には一切使用しません。&lt;/p&gt; &lt;h3&gt;募集内容&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;マイコンプログラミングに興味のある方&lt;/li&gt; &lt;li&gt;Rubyまたは他の言語でプログラミング経験をお持ちの方&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;参加頂くにあたっての必要な機材&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Windows PC または Mac&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Windows PC: Windows 10 / 11&lt;/li&gt; &lt;li&gt;Mac: macOS 10以降 （Intel/Apple M1/M2)&lt;/li&gt; &lt;li&gt;USB Type A 空きポート1つ以上&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;事前に必要な環境セットアップ手順をお送りしますので当日までにご準備ください。&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;動作構築やご不明な点などのご質問等は下記のメールアドレスまでご連絡ください。&lt;/p&gt; &lt;p&gt;h.ishii@mruby.org&lt;/p&gt; &lt;h3&gt;注意事項&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;管理者権限を持つユーザでログイン可能であること&lt;/li&gt; &lt;li&gt;USB書き出し禁止ソフトが入っていないこと&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;前日に視聴用Zoomアドレスを送付します。&lt;/h3&gt; &lt;h2&gt;協賛&lt;/h2&gt; &lt;p&gt;NPO軽量Rubyフォーラム&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://forum.mruby.org&quot; rel=&quot;nofollow&quot;&gt;mruby forum Web&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mrubyworkshop.connpass.com/event/274563/'/>
+    <published>
+      2023-02-28T19:33:17+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://kokurarb.connpass.com/event/276757/
+    </id>
+    <title>
+      Kokura.rb #11
+    </title>
+    <summary>
+      【言語不問】問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 読書会
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;kokura.rbとは&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;福岡県北九州市を拠点に活動するRuby/Railsコミュニティです&lt;/li&gt;
+      &lt;li&gt;2022年6月からは読書会形式で進めています&lt;/li&gt;
+      &lt;li&gt;Discordを使って開催しているので参加をお願いします&lt;/li&gt;
+      &lt;li&gt;ハッシュタグは&lt;code&gt;#kokurarb&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;内容&lt;/h2&gt; &lt;p&gt;&lt;img alt=&quot;輪読書籍&quot;
+      src=&quot;http://image.gihyo.co.jp/assets/images/cover/2022/9784297125219.jpg&quot;&gt; kokura.rbの初回が競プロということもあり、&lt;a href=&quot;https://www.amazon.co.jp/gp/product/4297125218/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot; rel=&quot;nofollow&quot;&gt;問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 | 米田 優峻 |本 | 通販&lt;/a&gt; こちらの本を読書会形式で進めていきます。 紙書籍、電子書籍どちらでも構いませんが、必ずお手元にある状態で参加をお願いいたします。&lt;/p&gt; &lt;p&gt;購入リンク(非アフィリエイト) - &lt;a href=&quot;https://www.amazon.co.jp/gp/product/4297125218/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot; rel=&quot;nofollow&quot;&gt;Amazon.co.jp - 問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 | 米田 優峻 |本 | 通販&lt;/a&gt; - &lt;a href=&quot;https://gihyo.jp/book/2022/978-4-297-12521-9&quot; rel=&quot;nofollow&quot;&gt;問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本：書籍案内｜技術評論社&lt;/a&gt;&lt;/p&gt; &lt;p&gt;画像引用:&lt;a href=&quot;https://gihyo.jp/book/2022/978-4-297-12521-9&quot; rel=&quot;nofollow&quot;&gt;gihyo.jp&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;書籍の準備。書籍をお手元に用意して参加頂ますようお願いいたします。&lt;/li&gt; &lt;li&gt;Rubyのインストール&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Ruby以外の言語でもOK!!!!&lt;/li&gt; &lt;li&gt;これから競プロをやってみたい人&lt;/li&gt; &lt;li&gt;競プロやってるけど、何を学習したら良いか分からない人&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;運営の2人も競プロ得意、数学得意というわけではなく楽しく競プロ(アルゴリズム)と数学を学んでいきたいという思いでやっていますのでお気軽にご参加ください。&lt;/p&gt; &lt;h1&gt;タイムテーブル(予定)&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;やること&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;10:00 ~ 10:10&lt;/td&gt; &lt;td&gt;自己紹介・アイスブレイク・esaなどの招待&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:10 ~ 11:45&lt;/td&gt; &lt;td&gt;読書会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;11:45 ~ 12:00&lt;/td&gt; &lt;td&gt;簡単に振り返り&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;運営者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/aseiide&quot; rel=&quot;nofollow&quot;&gt;@Aseiide&lt;/a&gt;&lt;ul&gt; &lt;li&gt;質問/不明点がございましたらDMにてご連絡ください。connpassの「イベントへの問い合わせ」から送っていただいても大丈夫です。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/ebiflyyyyyyyy&quot; rel=&quot;nofollow&quot;&gt;@ebiflyyyyyyyy&lt;/a&gt;&lt;ul&gt; &lt;li&gt;Atcoder早く茶色になりたすぎる。基本情報技術者試験もやってみるか〜〜〜。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;ツールスポンサー: esa&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa.io&lt;/a&gt;にご協力いただき、読書会のノートを記録していきます。&lt;/p&gt; &lt;h3&gt;行動規範(CoC)&lt;/h3&gt; &lt;p&gt;※行動規範(CoC)があります。ご参加予定の方は一度目をお通しいただけると幸いです。&lt;br&gt; &lt;a href=&quot;https://github.com/fukuokarb/code-of-conduct&quot; rel=&quot;nofollow&quot;&gt;行動規範(CoC)&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://kokurarb.connpass.com/event/276757/'/>
+    <published>
+      2023-02-28T18:51:59+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://kokurarb.connpass.com/event/276758/
+    </id>
+    <title>
+      Kokura.rb #12
+    </title>
+    <summary>
+      【言語不問】問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 読書会
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;kokura.rbとは&lt;/h2&gt; &lt;ul&gt;
+      &lt;li&gt;福岡県北九州市を拠点に活動するRuby/Railsコミュニティです&lt;/li&gt;
+      &lt;li&gt;2022年6月からは読書会形式で進めています&lt;/li&gt;
+      &lt;li&gt;Discordを使って開催しているので参加をお願いします&lt;/li&gt;
+      &lt;li&gt;ハッシュタグは&lt;code&gt;#kokurarb&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;内容&lt;/h2&gt; &lt;p&gt;&lt;img alt=&quot;輪読書籍&quot;
+      src=&quot;http://image.gihyo.co.jp/assets/images/cover/2022/9784297125219.jpg&quot;&gt; kokura.rbの初回が競プロということもあり、&lt;a href=&quot;https://www.amazon.co.jp/gp/product/4297125218/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot; rel=&quot;nofollow&quot;&gt;問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 | 米田 優峻 |本 | 通販&lt;/a&gt; こちらの本を読書会形式で進めていきます。 紙書籍、電子書籍どちらでも構いませんが、必ずお手元にある状態で参加をお願いいたします。&lt;/p&gt; &lt;p&gt;購入リンク(非アフィリエイト) - &lt;a href=&quot;https://www.amazon.co.jp/gp/product/4297125218/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot; rel=&quot;nofollow&quot;&gt;Amazon.co.jp - 問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 | 米田 優峻 |本 | 通販&lt;/a&gt; - &lt;a href=&quot;https://gihyo.jp/book/2022/978-4-297-12521-9&quot; rel=&quot;nofollow&quot;&gt;問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本：書籍案内｜技術評論社&lt;/a&gt;&lt;/p&gt; &lt;p&gt;画像引用:&lt;a href=&quot;https://gihyo.jp/book/2022/978-4-297-12521-9&quot; rel=&quot;nofollow&quot;&gt;gihyo.jp&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;事前準備&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;書籍の準備。書籍をお手元に用意して参加頂ますようお願いいたします。&lt;/li&gt; &lt;li&gt;Rubyのインストール&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Ruby以外の言語でもOK!!!!&lt;/li&gt; &lt;li&gt;これから競プロをやってみたい人&lt;/li&gt; &lt;li&gt;競プロやってるけど、何を学習したら良いか分からない人&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;運営の2人も競プロ得意、数学得意というわけではなく楽しく競プロ(アルゴリズム)と数学を学んでいきたいという思いでやっていますのでお気軽にご参加ください。&lt;/p&gt; &lt;h1&gt;タイムテーブル(予定)&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;やること&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;10:00 ~ 10:10&lt;/td&gt; &lt;td&gt;自己紹介・アイスブレイク・esaなどの招待&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;10:10 ~ 11:45&lt;/td&gt; &lt;td&gt;読書会&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;11:45 ~ 12:00&lt;/td&gt; &lt;td&gt;簡単に振り返り&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;運営者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/aseiide&quot; rel=&quot;nofollow&quot;&gt;@Aseiide&lt;/a&gt;&lt;ul&gt; &lt;li&gt;質問/不明点がございましたらDMにてご連絡ください。connpassの「イベントへの問い合わせ」から送っていただいても大丈夫です。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/ebiflyyyyyyyy&quot; rel=&quot;nofollow&quot;&gt;@ebiflyyyyyyyy&lt;/a&gt;&lt;ul&gt; &lt;li&gt;Atcoder早く茶色になりたすぎる。基本情報技術者試験もやってみるか〜〜〜。&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;ツールスポンサー: esa&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://esa.io/&quot; rel=&quot;nofollow&quot;&gt;esa.io&lt;/a&gt;にご協力いただき、読書会のノートを記録していきます。&lt;/p&gt; &lt;h3&gt;行動規範(CoC)&lt;/h3&gt; &lt;p&gt;※行動規範(CoC)があります。ご参加予定の方は一度目をお通しいただけると幸いです。&lt;br&gt; &lt;a href=&quot;https://github.com/fukuokarb/code-of-conduct&quot; rel=&quot;nofollow&quot;&gt;行動規範(CoC)&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://kokurarb.connpass.com/event/276758/'/>
+    <published>
+      2023-02-28T18:51:42+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://mixi.connpass.com/event/274849/
+    </id>
+    <title>
+      MIXI TECH CONFERENCE 2023
+    </title>
+    <summary>
+      Deep Dive Into Technology with MIXI DEVELOPERS
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;概要&lt;/h1&gt; &lt;div
+      align=&quot;center&quot;&gt;&lt;br&gt;━・━・━・━・━・━・━・━・━・━・━・━・━・━・━・━・━&lt;br&gt;&lt;br&gt;&lt;/div&gt; &lt;div align=&quot;center&quot;&gt; &lt;font size=&quot;+1&quot;&gt;☆ MIXI TECH CONFERENCE 2023 ☆&lt;/font&gt;&lt;br&gt; より良いサービス/プロダクトのある世界を目指した&lt;br&gt; 技術発展のための３日間&lt;br&gt; &lt;br&gt; 2023.3.1 Wed - 2023.3.3 Fri&lt;br&gt; Virtual/In person&lt;br&gt; &lt;a href=&quot;https://techcon.mixi.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://techcon.mixi.co.jp/&lt;/a&gt;&lt;br&gt; &lt;/div&gt; &lt;div align=&quot;center&quot;&gt;&lt;br&gt;━・━・━・━・━・━・━・━・━・━・━・━・━・━・━・━・━&lt;/div&gt; &lt;div align=&quot;center&quot; style=&quot;padding: 25px;&quot;&gt; 　MIXI GROUPは1997年の創業以来、SNS『mixi』、『モンスターストライク』、『家族アルバム みてね』、『TIPSTAR』など、友人や家族といった親しい人と一緒に楽しむコミュニケーションサービスを提供してきました。&lt;br&gt; &lt;br&gt; 　新しくなったMIXI（※）は、これまで大切にしてきたコミュニケーションに加え、より強く「エモーション」を意識し、人々をもっとワクワクさせ、世界中を笑顔で満たすために、「心もつながる」場と機会を創造し続けます。&lt;br&gt; &lt;br&gt; 　MIXI TECH CONFERENCEでは、MIXIをとりまく技術や開発組織について、私たち技術者たちがこれまでの経験の中から得られた知見やノウハウ、今現在、抱えている課題、思い描いている未来像などを共有し、自社に閉じることなく、世の中の技術発展を目指します。&lt;br&gt; &lt;br&gt; 　是非、MIXI DEVELOPERSと共に技術について考える３日間をお楽しみください。&lt;br&gt; &lt;br&gt; &lt;font size=&quot;-2&quot;&gt;※2022年4月、MIXIはコーポレートブランドのリニューアルを行いました。&lt;/font&gt; &lt;/div&gt; &lt;h1&gt;プログラム&lt;/h1&gt; &lt;p&gt;&lt;br&gt; ※最新情報は&lt;a href=&quot;https://techcon.mixi.co.jp/&quot; rel=&quot;nofollow&quot;&gt;こちらの公式サイト&lt;/a&gt;に公開中！&lt;br&gt; ※Twitter &lt;a href=&quot;https://twitter.com/mixi_engineers&quot; rel=&quot;nofollow&quot;&gt;@mixi_engineers&lt;/a&gt; でもお知らせしていきますので、是非、フォローしてお待ちください。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;DAY1 3/1（水）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;13:05&lt;/td&gt; &lt;td&gt;&lt;b&gt;KEYNOTE&lt;/b&gt;&lt;br&gt;「心もつながる」場と機会の創造を支える技術カンファレンスのはじめの一歩&lt;/td&gt; &lt;td&gt;取締役CTO 上級執行役員&lt;br&gt;村瀨　龍馬&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:20&lt;/td&gt; &lt;td&gt;agones 上に作る QUIC を使った音声通信機能&lt;/td&gt; &lt;td&gt;開発本部 CTO室 たんぽぽグループ&lt;br&gt;古城　秀隆&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:50&lt;/td&gt; &lt;td&gt;「騒ゲーハイライト」について&lt;/td&gt; &lt;td&gt;開発本部 CTO室 クライアントグループ&lt;br&gt;信夫　裕貴&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:20&lt;/td&gt; &lt;td&gt;年間版1秒動画2023 大量配信の裏側&lt;/td&gt; &lt;td&gt;Vantageスタジオ みてね事業部 Data Engineeringグループ&lt;br&gt;浜田　恭平&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:15&lt;/td&gt; &lt;td&gt;会話 AI ロボット Romi の設計と技術&lt;/td&gt; &lt;td&gt;Vantageスタジオ Romi事業部 開発グループ&lt;br&gt;信田　春満&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:45&lt;/td&gt; &lt;td&gt;データ民主化を推進するモンストでのLooker導入&lt;/td&gt; &lt;td&gt;モンスト事業本部 ゲーム運営部 解析グループ&lt;br&gt;吉野　曜介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:15&lt;/td&gt; &lt;td&gt;MIXI 新映像技術へのチャレンジ&lt;/td&gt; &lt;td&gt;開発本部 CTO室 インフラグループ&lt;br&gt;佐藤　太一&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:10&lt;/td&gt; &lt;td&gt;デバイス構築という挑戦&lt;/td&gt; &lt;td&gt;開発本部 本部長&lt;br&gt;吉野　純平&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:40&lt;/td&gt; &lt;td&gt;アプリケーション開発に欠かせない CI/CD を横断組織として支援している話&lt;/td&gt; &lt;td&gt;開発本部 CTO室 SREグループ&lt;br&gt;多羽田　俊&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;18:10&lt;/td&gt; &lt;td&gt;パブリッククラウドのセキュリティ監視&lt;/td&gt; &lt;td&gt;開発本部 セキュリティ室&lt;br&gt;軽部　正太&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;18:40&lt;/td&gt; &lt;td&gt;&lt;b&gt;CLOSING TALK&lt;/b&gt;&lt;br&gt;今後のMIXIの開発におけるチャレンジと課題&lt;/td&gt; &lt;td&gt;開発本部 本部長&lt;br&gt;吉野　純平&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;DAY2 3/2（木）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;13:05&lt;/td&gt; &lt;td&gt;UICollectionView の API を活用してシンプルなコードにリファクタリングする&lt;/td&gt; &lt;td&gt;Vantageスタジオ みてね事業部 プロダクト開発グループ アプリ開発チーム&lt;br&gt;佐藤　光&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:35&lt;/td&gt; &lt;td&gt;7カ国語に対応したサービスでの翻訳管理システムの改善事例紹介&lt;/td&gt; &lt;td&gt;Vantageスタジオ みてね事業部 プロダクト開発グループ アプリ開発チーム&lt;br&gt;七尾　貴史&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:05&lt;/td&gt; &lt;td&gt;Android のライブ配信アプリにおけるアニメーションとグラフィック処理&lt;/td&gt; &lt;td&gt;Vantageスタジオ 新規事業開発室 KARASTAグループ 開発チーム&lt;br&gt;追田　泰宏&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:45&lt;/td&gt; &lt;td&gt;TDD 同期における pcap を使用したローカル5G分析&lt;/td&gt; &lt;td&gt;開発本部 CTO室 インフラグループ&lt;br&gt;市野　真一&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:15&lt;/td&gt; &lt;td&gt;UE5.1で&quot;映える&quot; AR 映像を作ってみた&lt;/td&gt; &lt;td&gt;開発本部 CTO室 映像開発グループ&lt;br&gt;小端　みより&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:45&lt;/td&gt; &lt;td&gt;ゲーム開発で UE を使い始めた初級者の経験談が聞こえてくる25分間&lt;/td&gt; &lt;td&gt;ﾃﾞｼﾞﾀﾙｴﾝﾀｰﾃｲﾝﾒﾝﾄ事業本部 ｲﾝｷｭﾍﾞｰｼｮﾝ事業部 Asymグループ エンジニアチーム&lt;br&gt;角　龍徳&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:25&lt;/td&gt; &lt;td&gt;となりのQAのお仕事&lt;/td&gt; &lt;td&gt;開発本部 CTO室 QA1グループ マネージャー&lt;br&gt;ALICE(キムヨンギョン）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:55&lt;/td&gt; &lt;td&gt;若手主体のチームで全員の力を合わせて新規事業を創っている話&lt;/td&gt; &lt;td&gt;モンスト事業本部 新規事業開発部 miattoグループ&lt;br&gt;本間　光宣&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:25&lt;/td&gt; &lt;td&gt;学校教育支援の技術解剖と21卒エンジニアが教材開発で習得したエンジニアリングスキル&lt;/td&gt; &lt;td&gt;開発本部 CTO室 クライアントグループ&lt;br&gt;田那辺　輝／藤井　瞭&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:55&lt;/td&gt; &lt;td&gt;コトダマンにおける技術的負債との戦い：サーバーアプリケーションのリアーキテクティング編&lt;/td&gt; &lt;td&gt;デジタルエンターテインメント事業本部 コトダマン事業部 エンジニアグループ マネージャー&lt;br&gt;田中　恭友&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;DAY3 3/3（金）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;13:05&lt;/td&gt; &lt;td&gt;10周年を迎えるモンストサーバコードの Ruby 及び gem のアップデートにまつわるお話&lt;/td&gt; &lt;td&gt;モンスト事業本部 ゲーム運営部 モンストサーバ1グループ&lt;br&gt;岡住　和樹&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:35&lt;/td&gt; &lt;td&gt;minimo 事業部における開発基盤の整備（ChatOps + GItHub Actions）&lt;/td&gt; &lt;td&gt;Vantageスタジオ minimo事業部 バックエンド開発グループ&lt;br&gt;洗川　雄輝／鈴木　雅也&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:05&lt;/td&gt; &lt;td&gt;小さなサービスでの SRE との付き合い方&lt;/td&gt; &lt;td&gt;ライブエクスペリエンス事業本部 事業戦略室 Fansta開発グループ&lt;br&gt;井上　翔太&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:45&lt;/td&gt; &lt;td&gt;Google Cloud の Artifact Registry を使った private な npm package の管理&lt;/td&gt; &lt;td&gt;次世代エンターテインメント事業本部 TIPSTAR開発部 クライアントグループ Webチーム&lt;br&gt;吉川　勇太郎&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:15&lt;/td&gt; &lt;td&gt;DynamoDB で決済システムを運用してみた&lt;/td&gt; &lt;td&gt;開発本部 MIXI M事業部 システムグループ マネージャー&lt;br&gt;田岡　文利&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:45&lt;/td&gt; &lt;td&gt;さよならAtlassian、ようこそAtlassian&lt;/td&gt; &lt;td&gt;はたらく環境推進本部 社内IT室&lt;br&gt;周　軼駿&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:25&lt;/td&gt; &lt;td&gt;エンジニアの心も繋ごう、グループアサイン。&lt;/td&gt; &lt;td&gt;モンスト事業本部 モンストサーバー1グループ&lt;br&gt;ジ　ワンジョン&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:55&lt;/td&gt; &lt;td&gt;TIPSTAR がチャレンジを続けていくために取り組んだこと&lt;/td&gt; &lt;td&gt;次世代エンターテインメント事業本部 TIPSTAR開発部 システム2グループ アーキテクトチーム&lt;br&gt;鈴木　進吾&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:25&lt;/td&gt; &lt;td&gt;全世界で成長し続けるサービスのインフラと開発の裏側&lt;/td&gt; &lt;td&gt;Vantageスタジオ みてね事業部 SREグループ マネージャー&lt;br&gt;清水　勲&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;ご参加方法&lt;/h1&gt; &lt;p&gt;&lt;br&gt; ・こちらのconnpassページより事前にご登録ください。&lt;br&gt; ・YouTubeチャンネルは「&lt;a href=&quot;https://youtube.com/@mixi_developers&quot; rel=&quot;nofollow&quot;&gt;MIXI TECH TALK&lt;/a&gt;」&lt;a href=&quot;https://youtube.com/@mixi_developers&quot; rel=&quot;nofollow&quot;&gt;@mixi_developers&lt;/a&gt; にてLIVE配信いたします。&lt;br&gt; ・ご登録の皆様へ事前に配信URL等のご案内をお送りいたします。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;ご質問・ご感想はTwitterで！&lt;/h1&gt; &lt;p&gt;当日は皆様からの質問も受けながら進めたいと思いますので、お気軽にコメントをいただければと思います。&lt;br&gt; &lt;br&gt; ハッシュタグ： &lt;span style=&quot;color: #444444; font-size: large;&quot;&gt;&lt;b&gt; &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=mixitechcon&quot; rel=&quot;nofollow&quot;&gt;#mixitechcon &lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt; &lt;br&gt; 公式アカウント &lt;a href=&quot;https://twitter.com/mixi_engineers&quot; rel=&quot;nofollow&quot;&gt;@mixi_engineers&lt;/a&gt; もフォローいただけると幸いです。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;オフライン会場へご参加の皆様へ&lt;/h1&gt; &lt;p&gt;＜オフライン会場概要＞&lt;br&gt; 開催日程：2023年3月1日(水) 13:00〜18:45(開場 12:30)&lt;br&gt; 会場：東京都渋谷区渋谷 3-21-3 渋谷ストリーム4F 渋谷ストリーム ホール&lt;br&gt; ※当日は受付でconnpassIDをご提示ください。&lt;br&gt; ※オフライン会場へのご参加は、connpassでの事前申し込みが必要です。 &lt;br&gt; &lt;br&gt; &amp;lt;ご案内・ご注意&amp;gt;&lt;br&gt; ・入館時の検温と手指消毒、会場内でのマスク着用など、基本的な感染症対策へのご協力をお願いいたします。&lt;br&gt; ・37.5度以上の発熱がある方はご入場いただけません。その他、咳、倦怠感などの症状がある方のご参加もご遠慮ください。&lt;br&gt; ・開催内容・タイムテーブル等は変更の可能性がございます。予めご了承ください。&lt;br&gt; ・悪天候等により、運営事務局の判断にて開催を中止する場合があります。&lt;br&gt; ・当日のイベント内容や写真はウェブサイトや SNSで公開する可能性があります。受付にて撮影 NGのストラップを配布しております。&lt;br&gt; ・ホール内では無線 LAN(Wi-fi)をご用意しております。&lt;br&gt; ・会場内は禁煙です。&lt;br&gt; &lt;br&gt; &amp;lt;免責事項&amp;gt;&lt;br&gt; ・本カンファレンス内において発生した一切の事故や怪我・病気などの責任を負いかねますことを予めご了承ください。&lt;br&gt; ・貴重品の管理は各自でお願いいたします。万一盗難・紛失等の事故が発生しても、主催者は一切責任を負えません。&lt;br&gt; ・本カンファレンスから得られた情報により、何らかの損害を負った場合であっても、発表者並びに主催者は一切の責任を負いません。予めご了承ください。&lt;br&gt; &lt;br&gt; &amp;lt;禁止事項&amp;gt;&lt;br&gt; ・宗教団体、人材会社等による勧誘行為、宣伝行為、ヘッドハンティングまたはこれに類似する行為。&lt;br&gt; ・過度な大声、騒音、振動、暴力等、他の参加者の迷惑になる行為。&lt;br&gt; ・法令に違反する、またはそのおそれのある行為。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;・プログラムやイベント開催内容は都合により変更することがございます。予めご了承ください。&lt;br&gt; ・天災、不慮の事故等やむを得ない事情などにより、主催者側の判断にて、内容の変更または中止とする場合があります。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt; &lt;p&gt;全ての参加者が技術共有/交流に集中できる様、以下のようなハラスメント行為はご遠慮ください。&lt;br&gt; 該当する行為が発覚した場合、NGユーザーの登録などを行う可能性があります。&lt;br&gt; &lt;br&gt; ・性差、性同一性の表現、性的指向、障害、外見や身体的特徴、人種、宗教、公共な場での性的な画像や類する表現、&lt;br&gt; ・脅迫、つきまとい、望まない写真撮影や録音・録画、不適切な接触、およびそれらに関連した不快な言動&lt;br&gt; &lt;br&gt; 万が一、ハラスメント行為を見聞きした場合は、connpass上から「イベントへのお問い合わせ」でご連絡いただけますと幸いです。&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://mixi.connpass.com/event/274849/'/>
+    <published>
+      2023-02-28T14:44:09+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://uniquevision.connpass.com/event/274327/
+    </id>
+    <title>
+      UV Study : Rust LT会 Vol.7
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;&lt;strong&gt;概要&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;Rust
+      をテーマにしたLT会です。 Rust について、各自興味のあるテーマを持ち寄ることで知識を深めていくことを目的としています。 発表内容は Rust
+      にまつわる技術情報であればなんでも構いません。&lt;/p&gt; &lt;p&gt;当日 19:00 頃より Google Meet
+      の入場を受け付けます。 登壇者の方は当日早めに入場していただき、画面共有やマイクのテストにご協力ください。
+      登壇順に希望がある場合はご連絡ください。可能な限り考慮します。&lt;/p&gt;
+      &lt;h2&gt;&lt;strong&gt;オフライン&amp;amp;オンラインのハイブリッド開催&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;当LT会はオフライン&amp;amp;オンラインのハイブリッド開催となります。&lt;br&gt; オフライン参加をご希望の方は、オフライン参加枠でのご応募をお願い致します。&lt;br&gt; なお、LT登壇者の方はアンケートにて、参加方法の選択をお願い致します。&lt;/p&gt; &lt;h2&gt;登壇者募集&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;一人 1分 ~ 10分 程度&lt;/strong&gt;&lt;br&gt; 最短1分からご登壇いただけます！！！&lt;br&gt; 6名ほどを予定しています。&lt;br&gt;&lt;/p&gt; &lt;p&gt;登壇者の方は当日までに発表資料としてスライドなどをご用意ください。&lt;/p&gt; &lt;p&gt;希望がない場合、登壇枠は順番に埋めていきます。&lt;br&gt; イベントページ下部、フィードに発表テーマをご記載いただければ数日のうちにタイムテーブルへ反映いたします。 &lt;/p&gt; &lt;p&gt;&lt;strong&gt;テーマはRustに関連すればなんでもOKです！&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;登壇ご希望の方は、本ページの「LT登壇枠」よりご応募ください。&lt;/p&gt; &lt;h2&gt;発表テーマ例&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;最近〇〇を動かし始めたが、こんなことでハマった。&lt;/li&gt; &lt;li&gt;こんなものを作ってみた。&lt;/li&gt; &lt;li&gt;初心者に向けて、押さえておいて欲しいこと。 など、&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;過去のテーマ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;rubyからrustへの移行について&lt;/li&gt; &lt;li&gt;Rustのlambda_http辛すぎなのでaxumしてみた&lt;/li&gt; &lt;li&gt;fp-bindgenでRustでRustのプラグインを作る&lt;/li&gt; &lt;li&gt;serdeで値だけのstructをシリアライズしたい。なぜならTwitterAPIv2のレスポンスがそうだから。&lt;/li&gt; &lt;li&gt;「axum」を触りました。&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;参加方法&lt;/strong&gt;&lt;/h1&gt; &lt;h2&gt;&lt;strong&gt;オフライン参加&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;直接、&lt;a href=&quot;https://goo.gl/maps/bWB2yjznUwKk2Rzg9&quot; rel=&quot;nofollow&quot;&gt;会場&lt;/a&gt; までお越しください。&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;オンライン参加&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;本ページの参加者への情報にURLを記載していますので、ご確認ください。 &lt;/p&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;登壇者紹介&lt;/strong&gt;&lt;/h1&gt; &lt;h2&gt;&lt;a href=&quot;https://connpass.com/user/okm-ssy/&quot; rel=&quot;nofollow&quot;&gt;okm-ssy&lt;/a&gt; / ユニークビジョン株式会社&lt;/h2&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;初めまして! 2021年に中途でユニークビジョンに入社した者です。 社内では珍しく、Rust をあまり触らないポジションにいます。今回の初心者枠だと思っていただけると助かります。 Rust の勉強も兼ねて競技プログラミングをやっているので、そう言った話をします！ &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;hr&gt; &lt;h2&gt;&lt;a href=&quot;https://connpass.com/user/aobat/&quot; rel=&quot;nofollow&quot;&gt;aobat&lt;/a&gt; / ユニークビジョン株式会社&lt;/h2&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Rust好きです。今回はwasmがComponent-Modelによってどう進化し、それがRustにどのような影響があるかを話したいと思います。 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;hr&gt; &lt;h2&gt;&lt;a href=&quot;https://connpass.com/user/higumachan/&quot; rel=&quot;nofollow&quot;&gt;higumachan&lt;/a&gt; / KICONIA WORKS&lt;/h2&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;KICONIA WORKSという会社で画像処理・機械学習のデプロイ環境を始めとしていろいろな領域でRustで業務を行っています. &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;タイムテーブル&lt;/strong&gt;&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者/テーマ&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開始&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT1&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;okm-ssy / Rust で AtCoder に参加する&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT2&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;aobat / wit-bindgenでwasmとRustをつなぐ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT3&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;higumachan / Rustで画像処理を行っている環境の紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT4&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT5&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT6&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;現在、登壇者は調整中です。決まり次第更新していきます。&lt;br&gt; 発表順は当日に前後する場合がございます。&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;会場&lt;/strong&gt;&lt;/h1&gt; &lt;h2&gt;&lt;strong&gt;オンライン会場&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Google Meet&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;オフライン会場&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://goo.gl/maps/bWB2yjznUwKk2Rzg9&quot; rel=&quot;nofollow&quot;&gt;ユニークビジョン株式会社（〒151-0051 東京都渋谷区千駄ケ谷５丁目３４−７ NX新宿 2F）&lt;/a&gt;&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;参加費&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;無料&lt;/p&gt; &lt;hr&gt; &lt;h1&gt;&lt;strong&gt;その他&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;ブログ・SNS等での発信大歓迎です！&lt;br&gt; ご都合が悪くなった場合は早めのキャンセル手続きをお願いします。&lt;br&gt; &lt;strong&gt;ユニークビジョンのこれまでの取り組みは&lt;a href=&quot;https://www.uniquevision.co.jp/case/?ref=connpass&quot; rel=&quot;nofollow&quot; title=&quot;ケーススタディ&quot;&gt;こちら&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://uniquevision.connpass.com/event/274327/'/>
+    <published>
+      2023-02-28T13:33:36+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://dena.connpass.com/event/274947/
+    </id>
+    <title>
+      DeNA.vim @ DeNA TechCon 2023
+    </title>
+    <summary>
+      DeNA TechCon 2023 の裏で vim好きエンジニアがゆるく雑談する回
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;DeNAで活躍するVim好きエンジニアたちが、&lt;a
+      href=&quot;https://techcon2023.dena.dev/&quot;
+      rel=&quot;nofollow&quot;&gt;DeNA TechCon 2023&lt;/a&gt;
+      の裏でVimに関する技術トピックについてLT＆雑談します。&lt;/p&gt;
+      &lt;p&gt;一緒にvimについてワイワイLT&amp;amp;雑談しましょう！&lt;/p&gt;
+      &lt;p&gt;Discordにて開催します。&lt;/p&gt; &lt;h1&gt;イベントへの参加&lt;/h1&gt;
+      &lt;p&gt;①&lt;a href=&quot;https://dena.connpass.com/event/270750/&quot;
+      rel=&quot;nofollow&quot;&gt;TechCon2023 公式イベントページ&lt;/a&gt;に登録！&lt;/p&gt;
+      &lt;p&gt;②&lt;a href=&quot;https://discord.gg/denatechcon&quot;
+      rel=&quot;nofollow&quot;&gt;DeNA
+      TechconのDiscord&lt;/a&gt;に参加をして準備完了&lt;/p&gt;
+      &lt;p&gt;③3/2当日！Discordの「DeNA.vim」というルームがありますので、そちらのボイスチャットに入室お願いします(ミュートでOKです)。&lt;/p&gt; &lt;h1&gt;プログラム&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:30 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Opening&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:35 - 16:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;好きなNeovimのプラグイン5選 / uhooi&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:40 - 16:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Rubyエンジニアがvimrcを棚卸ししてナウいluaに書き換えた話 / zatton&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:45 - 16:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;TBD / higashi&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:50 - 16:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;TBD / delphinus&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:55 - 17:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;バッファ・休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:00 - 17:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;一般LT（最大3枠）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:15 - 17:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;バッファ・雑談&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:30 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Closing&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;一般LT募集について&lt;/h1&gt; &lt;p&gt;DeNA.vimでは一般LTを募集しております。&lt;/p&gt; &lt;p&gt;以下一般LTに関する詳細となります。&lt;/p&gt; &lt;p&gt;皆様のご応募お待ちしております。&lt;/p&gt; &lt;p&gt;テーマ　 : Vimに関係することであればなんでもOK!&lt;/p&gt; &lt;p&gt;時間　　 : 5分 (5分を超えた時点で強制終了となります)&lt;/p&gt; &lt;p&gt;募集人数 : 3名 (先着順となります)&lt;/p&gt; &lt;p&gt;応募方法 : Google Formよりお願いします (https://forms.gle/9jxKvsUfJQuJGPcf7)&lt;/p&gt; &lt;h1&gt;参加する Vim好きエンジニア&lt;/h1&gt; &lt;h2&gt;&lt;img src=&quot;https://vimconf.org/2019/icon/get_me_power.png&quot; width=&quot;20&quot;&gt; IK&lt;/h2&gt; &lt;p&gt;好きなプラグインはgina.vimです&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1623594337522315265/dSSXvRoW_400x400.jpg&quot; width=&quot;20&quot;&gt; uhooi / &lt;a href=&quot;https://twitter.com/the_uhooi&quot; rel=&quot;nofollow&quot;&gt;@the_uhooi&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;Neovimが好きです。&lt;br&gt; &lt;a href=&quot;https://github.com/uhooi/dotfiles&quot; rel=&quot;nofollow&quot;&gt;dotfiles&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1216919222/IMG_0104_400x400.jpg&quot; width=&quot;20&quot;&gt; Kesin11&lt;/h2&gt; &lt;p&gt;メインはVSCodeですがVimのキーバインドからは逃れられませんでした&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/34534343?v=4&quot; width=&quot;20&quot;&gt; higashi&lt;/h2&gt; &lt;p&gt;好きなVimはVimです&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://ja.gravatar.com/userimage/44119091/45d49b6be98714c9566aecce4867ea3b.png?size=400&quot; width=&quot;20&quot;&gt; delphinus / &lt;a href=&quot;https://twitter.com/delphinus35&quot; rel=&quot;nofollow&quot;&gt;@delphinus35&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;好きなプラグインは telescope.nvim です&lt;br&gt; &lt;a href=&quot;https://github.com/delphinus/dotfiles&quot; rel=&quot;nofollow&quot;&gt;dotfiles&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/1124024?v=4&quot; width=&quot;20&quot;&gt; kuniwak&lt;/h2&gt; &lt;p&gt;Vint の作者です（メンテしてなくてごめんなさい）&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1159820088544878592/1GM9e-fj_400x400.jpg&quot; width=&quot;20&quot;&gt; eihigh&lt;/h2&gt; &lt;p&gt;GoからEUC-JPなPerlまで書けるVimが好きです&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=1nO2OX6j9aPFvf96T-4ioXEhApAzrKyZW&amp;amp;usp=sharing&quot; width=&quot;20&quot;&gt; zatton / &lt;a href=&quot;https://twitter.com/_zatton&quot; rel=&quot;nofollow&quot;&gt;@_zatton&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;vimrcをluaに書き換えないとと思って早2年以上&lt;br&gt; &lt;a href=&quot;https://github.com/zatton/nvim-config&quot; rel=&quot;nofollow&quot;&gt;nvim-config&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;行動規範&lt;/h1&gt; &lt;p&gt;DeNA TechCon 2023 に参加するすべての人は &lt;a href=&quot;https://techcon2023.dena.dev/code-of-conduct/&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt; の行動規範を守ることを求められます。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://dena.connpass.com/event/274947/'/>
+    <published>
+      2023-02-28T10:28:30+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://beginner-front.connpass.com/event/276654/
@@ -47,276 +259,6 @@
     <link rel='alternate' type='text/html' href='https://linedevelopercommunity.connpass.com/event/275587/'/>
     <published>
       2023-02-27T23:16:15+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://tryrubydoc.connpass.com/event/276644/
-    </id>
-    <title>
-      TryRubyDoc.23
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;&lt;a
-      href=&quot;https://www.ruby-lang.org/ja/documentation/&quot;
-      rel=&quot;nofollow&quot;&gt;Rubyドキュメント&lt;/a&gt;のページを読みながら初心に帰ったつもりで勉強します&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://facetime.apple.com/join#v=1&amp;amp;p=kXpUv6YZEe2hq/5mei0Q5w&amp;amp;k=YwLNJlZhI0HFlxqM1uwXmwrDLdzXSW5dh_WajyEcm4o&quot; rel=&quot;nofollow&quot;&gt;勉強会会場はこちら&lt;/a&gt;&lt;/p&gt; &lt;p&gt;3.1の更新情報の解説を読みながら、試していきます&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://techlife.cookpad.com/entry/2021/12/25/220002&quot; rel=&quot;nofollow&quot;&gt;https://techlife.cookpad.com/entry/2021/12/25/220002&lt;/a&gt;&lt;/p&gt; &lt;p&gt;次回は、”Unicode 13.0.0 が導入された”から&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://tryrubydoc.connpass.com/event/276644/'/>
-    <published>
-      2023-02-27T22:01:00+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://love-swift.connpass.com/event/276584/
-    </id>
-    <title>
-      集まれSwift好き！Swift愛好会 vol.73 @G&apos;s ACADEMY TOKYO
-    </title>
-    <summary>
-      みんなでわいわいSwiftについて語ろう！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;今回は&lt;strong&gt;G&apos;s ACADEMY
-      TOKYO&lt;/strong&gt;さんに場所をお借りし、Kotlin愛好会と合同で数年ぶりのオフライン開催をします！&lt;/p&gt;
-      &lt;p&gt;配信機材の都合上、申し訳ないのですが登壇はオフライン登壇に限定させていただきます&lt;/p&gt;
-      &lt;p&gt;今回はいつもとは違い、&lt;strong&gt;19:00開始&lt;/strong&gt;になります！&lt;/p&gt;
-      &lt;p&gt;【オフライン参加の方】&lt;/p&gt;
-      &lt;p&gt;新型コロナウイルス感染症（COVID-19）には気をつけて、マスク着用での参加をお願いします&lt;/p&gt;
-      &lt;p&gt;当日は飲食物の提供予定はありません&lt;/p&gt; &lt;p&gt;【オンライン参加の方】&lt;/p&gt;
-      &lt;p&gt;YouTube Liveでの配信も行う予定ですので、こちらでも参加お待ちしております！&lt;/p&gt;
-      &lt;h2&gt;■イベント概要&lt;/h2&gt; &lt;p&gt;Swift好きで集まって、ビール片手にわいわい
-      LT会です！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Swiftからプログラムを始めた方&lt;/li&gt;
-      &lt;li&gt;Objective-C時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（Java, Ruby,
-      etc）をやりながらSwiftを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;いろんな背景の人で集まってSwiftを遊び倒したいです！&lt;/p&gt;
-      &lt;p&gt;イベント前半では、&lt;strong&gt;Swift全般&lt;/strong&gt;に関するお話や、iOSアプリ開発&lt;strong&gt;スキルアップのための様々なテクニック&lt;/strong&gt;をお話する&quot;Swift談義タイム&quot;。&lt;/p&gt; &lt;p&gt;後半は、Swift仲間をつくる懇親会へ^^/&lt;/p&gt; &lt;p&gt;なお、絶賛Swift談義スピーカー募集してます。 ぜひご経験をお聞かせください！&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt; &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;p&gt;登壇していただいた内容については知見共有のため、YouTube Liveでの配信およびアーカイブをする予定です。ご了承の上、お申込みください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Kotlin&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;18:50～19:00&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:00～19:10&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10～20:30&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:30～21:00&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■運営&lt;/h2&gt; &lt;p&gt;以下のゆかいな仲間たちで運営しています。よろしく！&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/jollyjoester&quot; rel=&quot;nofollow&quot;&gt;@jollyjoester&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/afroscript10&quot; rel=&quot;nofollow&quot;&gt;@afroscript&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/o_chicchi&quot; rel=&quot;nofollow&quot;&gt;@o_chicchi&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/66nylon_y&quot; rel=&quot;nofollow&quot;&gt;@roku&lt;/a&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;img alt=&quot;jollyjoester&quot; src=&quot;https://pbs.twimg.com/profile_images/566278842281504768/17Gnbk9G_400x400.jpeg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;afroscript&quot; src=&quot;https://pbs.twimg.com/profile_images/691787503284666369/yIqXdI42_400x400.png&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;o_chicchi&quot; src=&quot;https://pbs.twimg.com/profile_images/1273260349714649088/umncFZ5R_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;roku&quot; src=&quot;https://pbs.twimg.com/profile_images/1563711100390195212/MVIo_1xM_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Swiftが好きな人！&lt;/li&gt; &lt;li&gt;Swiftを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろSwiftから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、&lt;b&gt;飲み物は各自必ずご用意ください。&lt;/b&gt;&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;【オフライン参加の方】 &lt;a href=&quot;https://gsacademy.jp/&quot; rel=&quot;nofollow&quot;&gt;G&apos;s ACADEMY TOKYO&lt;/a&gt;に直接お越しください。&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;〒150-0001東京都渋谷区神宮前6-35-3 JUNCTION harajuku 011 JR原宿駅・東京メトロ明治神宮前駅 徒歩1分 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;p&gt;【オンライン参加の方】 YouTube Live&lt;br&gt; TBD &lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日の内容は収録してYouTubeの愛好会チャンネルで公開されます。あらかじめご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://love-swift.connpass.com/event/276584/'/>
-    <published>
-      2023-02-27T20:48:34+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://love-swift.connpass.com/event/275045/
-    </id>
-    <title>
-      集まれSwift好き！Swift愛好会 vol.72 @ オンライン
-    </title>
-    <summary>
-      みんなでわいわいSwiftについて語ろう！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;新型コロナウイルス感染症（COVID-19）の流行に伴いオンライン(Google Meet / YouTube
-      Live)での開催といたします。 よい機会ですので、普段参加出来ない海外・地方の方々など幅広い参加をお待ちしています！&lt;/p&gt;
-      &lt;h2&gt;■イベント概要&lt;/h2&gt; &lt;p&gt;Swift好きで集まって、ビール片手にわいわい
-      LT会です！&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Swiftからプログラムを始めた方&lt;/li&gt;
-      &lt;li&gt;Objective-C時代からやってきた方&lt;/li&gt; &lt;li&gt;他の言語（Java, Ruby,
-      etc）をやりながらSwiftを勉強されてる方&lt;/li&gt; &lt;/ul&gt;
-      &lt;p&gt;いろんな背景の人で集まってSwiftを遊び倒したいです！&lt;/p&gt;
-      &lt;p&gt;イベント前半では、&lt;strong&gt;Swift全般&lt;/strong&gt;に関するお話や、iOSアプリ開発&lt;strong&gt;スキルアップのための様々なテクニック&lt;/strong&gt;をお話する&quot;Swift談義タイム&quot;。&lt;/p&gt; &lt;p&gt;後半は、Swift仲間をつくる懇親会へ^^/&lt;/p&gt; &lt;p&gt;なお、絶賛Swift談義スピーカー募集してます。 ぜひご経験をお聞かせください！&lt;/p&gt; &lt;h2&gt;■登壇者&lt;/h2&gt; &lt;p&gt;※登壇者でご応募の方はconnpassイベントページ下のフィードにタイトルのご記入をお願いします！未定となっている方も決まり次第、記入ください。&lt;/p&gt; &lt;p&gt;登壇していただいた内容については知見共有のため、YouTube Liveでの配信およびアーカイブをする予定です。ご了承の上、お申込みください。&lt;/p&gt; &lt;h4&gt;談義枠&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;How to hide the key&lt;/td&gt; &lt;td&gt;@Akkey&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;アプリケーション識別子&lt;/td&gt; &lt;td&gt;@村上幸雄&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Swift Extension for Visual Studio Code&lt;/td&gt; &lt;td&gt;@宇佐見 公輔&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;SwiftでAnimation PNGを仕様から作成&lt;/td&gt; &lt;td&gt;@Manabu Otsu&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3&gt;時間が余ったら談義枠&lt;/h3&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;談義タイトル&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;th&gt;枠&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;@fumiyasac&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;TBD&lt;/td&gt; &lt;td&gt;Swift&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■当日のタイムスケジュール(予定)&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:20～19:30&lt;/td&gt; &lt;td&gt;集合&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30～19:40&lt;/td&gt; &lt;td&gt;オープニング / 乾杯！&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40～21:00&lt;/td&gt; &lt;td&gt;談義 LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00～21:30&lt;/td&gt; &lt;td&gt;懇親会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■運営&lt;/h2&gt; &lt;p&gt;以下のゆかいな仲間たちで運営しています。よろしく！&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/jollyjoester&quot; rel=&quot;nofollow&quot;&gt;@jollyjoester&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/afroscript10&quot; rel=&quot;nofollow&quot;&gt;@afroscript&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/o_chicchi&quot; rel=&quot;nofollow&quot;&gt;@o_chicchi&lt;/a&gt;&lt;/th&gt; &lt;th&gt;&lt;a href=&quot;https://twitter.com/66nylon_y&quot; rel=&quot;nofollow&quot;&gt;@roku&lt;/a&gt;&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;img alt=&quot;jollyjoester&quot; src=&quot;https://pbs.twimg.com/profile_images/566278842281504768/17Gnbk9G_400x400.jpeg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;afroscript&quot; src=&quot;https://pbs.twimg.com/profile_images/691787503284666369/yIqXdI42_400x400.png&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;o_chicchi&quot; src=&quot;https://pbs.twimg.com/profile_images/1273260349714649088/umncFZ5R_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;td&gt;&lt;img alt=&quot;roku&quot; src=&quot;https://pbs.twimg.com/profile_images/1563711100390195212/MVIo_1xM_400x400.jpg&quot; width=&quot;100&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;■対象者&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Swiftが好きな人！&lt;/li&gt; &lt;li&gt;Swiftを好きになる予定の人&lt;/li&gt; &lt;li&gt;むしろSwiftから好かれている人&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;■飲み物について&lt;/h2&gt; &lt;p&gt;今回はオンライン開催となるため、&lt;b&gt;飲み物は各自必ずご用意ください。&lt;/b&gt;&lt;br&gt; アルコールでもノンアルコールでもOKです！&lt;/p&gt; &lt;h2&gt;■会場&lt;/h2&gt; &lt;p&gt;オンライン開催となります。&lt;br&gt; YouTube Live&lt;br&gt; TBD &lt;br&gt; &lt;br&gt; ツールは、前半の談義LTタイムは、Google Meetを使用します。YouTube Liveでの閲覧も可能です。 詳細はconnpassにログオンして、参加者情報から、URLをご確認ください。&lt;br&gt; &lt;br&gt; 後半の懇親会は、そのままGoogle Meetで行います。&lt;br&gt;&lt;/p&gt; &lt;h2&gt;■注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本勉強会は、技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 &lt;font color=&quot;#ff0000&quot;&gt;参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。&lt;/font&gt;&lt;/li&gt; &lt;li&gt;講演内容やタイムスケジュールは変更となる可能性がございます。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日の内容は収録してYouTubeの愛好会チャンネルで公開されます。あらかじめご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;当日のイベント内容は後日任意の媒体にて公開させていただくことがあります。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントレポート作成のため、お写真を撮らせていただくことがございますので予めご了承ください。&lt;br&gt;&lt;/li&gt; &lt;li&gt;イベントは、止むを得ず中止させていただく場合がございます。&lt;br&gt;その際は、本サイトからのメッセージよりご連絡させていただきますのでご確認をお願いいたします。&lt;br&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://love-swift.connpass.com/event/275045/'/>
-    <published>
-      2023-02-27T18:29:48+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://buysell-technologies.connpass.com/event/276135/
-    </id>
-    <title>
-      リクルート × BASE × バイセル 【第1回フロントエンド勉強会】React &amp; GraphQL
-    </title>
-    <summary>
-      オフライン開催！@BuySell Technologies（新宿御苑オフィス）
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;リクルート × BASE × BuySell Technologies！&lt;/h2&gt;
-      &lt;p&gt;「フロントエンド開発」をテーマに、各社のエンジニアが登壇します！ &lt;/p&gt;
-      &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
-      &lt;p&gt;リクルート、BASE、BuySell Technologiesのエンジニアやプロダクトに興味がある&lt;/p&gt;
-      &lt;/li&gt; &lt;li&gt; &lt;p&gt;React、GraphQLなどの技術に興味がある&lt;/p&gt;
-      &lt;/li&gt; &lt;li&gt; &lt;p&gt;懇親会で他の会社のフロントエンドエンジニアと交流したい&lt;/p&gt;
-      &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;発表テーマ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
-      &lt;p&gt;「&lt;strong&gt;(TBD) GraphQL に関する何か&lt;/strong&gt;」和田 祐汰さん
-      (@ywada526)（株式会社リクルート）&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
-      &lt;p&gt;「&lt;strong&gt;良い感じに Focus ＆ tab 移動できる React UI
-      コンポーネントを作る&lt;/strong&gt;」rryさん（BASE株式会社）&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
-      &lt;p&gt;「&lt;strong&gt;Reactのコンポーネント設計&lt;/strong&gt;」 金子
-      直人さん（株式会社BuySell Technologies）&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
-      &lt;p&gt;「&lt;strong&gt;GraphQLにおけるキャッシュ戦略&lt;/strong&gt;」 早瀬
-      和樹さん（株式会社BuySell Technologies）&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;
-      &lt;h2&gt;開催概要・スケジュール&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
-      &lt;p&gt;日時：2023/3/15（水）19:30 - 22:00&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
-      &lt;p&gt;形式：オフライン開催 @株式会社BuySell Technologies オフィス&lt;/p&gt; &lt;/li&gt;
-      &lt;li&gt; &lt;p&gt;住所：〒160-0004 東京都新宿区四谷4-28-8 PALTビル 4F
-      エンジニアフロア&lt;/p&gt; &lt;ul&gt; &lt;li&gt;最寄り駅：東京メトロ丸ノ内線 新宿御苑前駅&lt;/li&gt;
-      &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;参加費用：無料&lt;/p&gt; &lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;※ 登壇テーマ・登壇者は予告なく変更する可能性がございます。&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;※
-      オンラインでの配信はございませんので、ご興味のある方はぜひ当日現地にてご参加ください。&lt;/strong&gt;&lt;/p&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;プログラム&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;開場・受付開始&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;19:30&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;吉森 健成 (@molmolken) / バイセル&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:35&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;Reactのコンポーネント設計&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;金子 直人 / バイセル&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;20:00&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;良い感じに Focus ＆ tab 移動できる React UI
-      コンポーネントを作る&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;rry /
-      BASE株式会社&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;20:25&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;GraphQLでのキャッシュ戦略&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;早瀬 和輝 / バイセル&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;20:50&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;(TBD) GraphQL に関する何か&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;和田 祐汰 (@ywada526) &lt;br&gt;/
-      株式会社リクルート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;21:15&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;21:20&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;懇親会&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;22:00&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;懇親会終了、解散&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
-      &lt;/table&gt; &lt;h2&gt;登壇者紹介&lt;/h2&gt; &lt;h3&gt;和田 祐汰さん (@ywada526)
-      （株式会社リクルート）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot;
-      src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/ywada526_w120.png&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;スタディサプリの Web Engineer (backend 8 : frontend 2 くらい)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2018 年からスタディサプリの開発をしています。主に新規サービスの開発に携わってきました。Typescript, Node.js, Prisma, React, Graphql あたりの技術をよく触っています。最近は子供が生まれて、育児と仕事で生活の 9 割が構成されています。&lt;/p&gt; &lt;h3&gt;rry さん（BASE株式会社）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/rry_w120.jpg&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;BASE Traffic Grp エンジニア&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;SIer -&amp;gt; Web デザイン受託 -&amp;gt; 自社 Web サービス開発 という流れでエンジニアになった。マークアップ出身 Rails 育ちで主に Ruby / Vue 界隈でわいわいしている。前職は STORES EC のバックエンドエンジニア。 2021年4月より BASE 株式会社へフロントエンドエンジニアとして入社。Vue も React もどっちも好き。最近はフロントエンドよりもバックエンドを書く機会のほうが多いです。&lt;/p&gt; &lt;h3&gt;金子 直人（株式会社BuySell Technologies）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/kaneko_w120.jpg&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;フロントエンドテックリード&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2022年6月にBuySell Technologiesへ入社。リユース事業の基幹システム開発に従事しています。 以前はフロントエンドのみならずバックエンドやインフラなど幅広い領域を担当していましたが、近年フロントエンド一本に転向しました。Reactが好きで、最近はReactとGraphQLを用いた開発に多く携わっています。&lt;/p&gt; &lt;h3&gt;早瀬 和輝（株式会社BuySell Technologies）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/hayase_w120.png&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;リユースプラットフォーム：出品管理システム・フロントエンドエンジニア&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2021年にBuySell Technologiesへ新卒で入社。リユース事業の基幹システムや商品撮影アプリの開発に従事し、iOSからインフラまで幅広く担当。現在はフロントエンドエンジニアとして、リユースプラットフォームの出品管理システムの開発を担当。アーキテクチャや設計について考えるのが好き。&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;登壇者・参加者へのハラスメントは固くお断りいたします。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;性別/性的指向/障碍の有無/人種/宗教/年齢/容姿/体格/技術の選択に関わりなく、 誰もが気持ちよく参加できるようにご協力ください&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;SNS等で発信される場合は、公序良俗に反する内容とならないよう、ご配慮をお願いいたします。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;エージェントの方や営業目的でのイベントの参加はご遠慮ください&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;イベント参加時に入力いただいた情報は、以下に基づき扱います&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;■株式会社BuySell Technologies プライバシーポリシー &lt;a href=&quot;https://buysell-technologies.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://buysell-technologies.com/privacy/&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://buysell-technologies.connpass.com/event/276135/'/>
-    <published>
-      2023-02-27T17:45:14+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://mixi.connpass.com/event/274849/
-    </id>
-    <title>
-      MIXI TECH CONFERENCE 2023
-    </title>
-    <summary>
-      Deep Dive Into Technology with MIXI DEVELOPERS
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;概要&lt;/h1&gt; &lt;div
-      align=&quot;center&quot;&gt;&lt;br&gt;━・━・━・━・━・━・━・━・━・━・━・━・━・━・━・━・━&lt;br&gt;&lt;br&gt;&lt;/div&gt; &lt;div align=&quot;center&quot;&gt; &lt;font size=&quot;+1&quot;&gt;☆ MIXI TECH CONFERENCE 2023 ☆&lt;/font&gt;&lt;br&gt; より良いサービス/プロダクトのある世界を目指した&lt;br&gt; 技術発展のための３日間&lt;br&gt; &lt;br&gt; 2023.3.1 Wed - 2023.3.3 Fri&lt;br&gt; Virtual/In person&lt;br&gt; &lt;a href=&quot;https://techcon.mixi.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://techcon.mixi.co.jp/&lt;/a&gt;&lt;br&gt; &lt;/div&gt; &lt;div align=&quot;center&quot;&gt;&lt;br&gt;━・━・━・━・━・━・━・━・━・━・━・━・━・━・━・━・━&lt;/div&gt; &lt;div align=&quot;center&quot; style=&quot;padding: 25px;&quot;&gt; 　MIXI GROUPは1997年の創業以来、SNS『mixi』、『モンスターストライク』、『家族アルバム みてね』、『TIPSTAR』など、友人や家族といった親しい人と一緒に楽しむコミュニケーションサービスを提供してきました。&lt;br&gt; &lt;br&gt; 　新しくなったMIXI（※）は、これまで大切にしてきたコミュニケーションに加え、より強く「エモーション」を意識し、人々をもっとワクワクさせ、世界中を笑顔で満たすために、「心もつながる」場と機会を創造し続けます。&lt;br&gt; &lt;br&gt; 　MIXI TECH CONFERENCEでは、MIXIをとりまく技術や開発組織について、私たち技術者たちがこれまでの経験の中から得られた知見やノウハウ、今現在、抱えている課題、思い描いている未来像などを共有し、自社に閉じることなく、世の中の技術発展を目指します。&lt;br&gt; &lt;br&gt; 　是非、MIXI DEVELOPERSと共に技術について考える３日間をお楽しみください。&lt;br&gt; &lt;br&gt; &lt;font size=&quot;-2&quot;&gt;※2022年4月、MIXIはコーポレートブランドのリニューアルを行いました。&lt;/font&gt; &lt;/div&gt; &lt;h1&gt;プログラム&lt;/h1&gt; &lt;p&gt;&lt;br&gt; ※最新情報は&lt;a href=&quot;https://techcon.mixi.co.jp/&quot; rel=&quot;nofollow&quot;&gt;こちらの公式サイト&lt;/a&gt;に公開中！&lt;br&gt; ※Twitter &lt;a href=&quot;https://twitter.com/mixi_engineers&quot; rel=&quot;nofollow&quot;&gt;@mixi_engineers&lt;/a&gt; でもお知らせしていきますので、是非、フォローしてお待ちください。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h2&gt;DAY1 3/1（水）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;13:05&lt;/td&gt; &lt;td&gt;&lt;b&gt;KEYNOTE&lt;/b&gt;&lt;br&gt;「心もつながる」場と機会の創造を支える技術カンファレンスのはじめの一歩&lt;/td&gt; &lt;td&gt;取締役CTO 上級執行役員&lt;br&gt;村瀨　龍馬&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:20&lt;/td&gt; &lt;td&gt;agones 上に作る QUIC を使った音声通信機能&lt;/td&gt; &lt;td&gt;開発本部 CTO室 たんぽぽグループ&lt;br&gt;古城　秀隆&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:50&lt;/td&gt; &lt;td&gt;「騒ゲーハイライト」について&lt;/td&gt; &lt;td&gt;開発本部 CTO室 クライアントグループ&lt;br&gt;信夫　裕貴&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:20&lt;/td&gt; &lt;td&gt;年間版1秒動画2023 大量配信の裏側&lt;/td&gt; &lt;td&gt;Vantageスタジオ みてね事業部 Data Engineeringグループ&lt;br&gt;浜田　恭平&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:15&lt;/td&gt; &lt;td&gt;会話 AI ロボット Romi の設計と技術&lt;/td&gt; &lt;td&gt;Vantageスタジオ Romi事業部 開発グループ&lt;br&gt;信田　春満&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:45&lt;/td&gt; &lt;td&gt;データ民主化を推進するモンストでのLooker導入&lt;/td&gt; &lt;td&gt;モンスト事業本部 ゲーム運営部 解析グループ&lt;br&gt;吉野　曜介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:15&lt;/td&gt; &lt;td&gt;MIXI 新映像技術へのチャレンジ&lt;/td&gt; &lt;td&gt;開発本部 CTO室 インフラグループ&lt;br&gt;佐藤　太一&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:10&lt;/td&gt; &lt;td&gt;デバイス構築という挑戦&lt;/td&gt; &lt;td&gt;開発本部 本部長&lt;br&gt;吉野　純平&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:40&lt;/td&gt; &lt;td&gt;アプリケーション開発に欠かせない CI/CD を横断組織として支援している話&lt;/td&gt; &lt;td&gt;開発本部 CTO室 SREグループ&lt;br&gt;多羽田　俊&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;18:10&lt;/td&gt; &lt;td&gt;パブリッククラウドのセキュリティ監視&lt;/td&gt; &lt;td&gt;開発本部 セキュリティ室&lt;br&gt;軽部　正太&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;18:40&lt;/td&gt; &lt;td&gt;&lt;b&gt;CLOSING TALK&lt;/b&gt;&lt;br&gt;今後のMIXIの開発におけるチャレンジと課題&lt;/td&gt; &lt;td&gt;開発本部 本部長&lt;br&gt;吉野　純平&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;DAY2 3/2（木）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;13:05&lt;/td&gt; &lt;td&gt;UICollectionView の API を活用してシンプルなコードにリファクタリングする&lt;/td&gt; &lt;td&gt;Vantageスタジオ みてね事業部 プロダクト開発グループ アプリ開発チーム&lt;br&gt;佐藤　光&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:35&lt;/td&gt; &lt;td&gt;7カ国語に対応したサービスでの翻訳管理システムの改善事例紹介&lt;/td&gt; &lt;td&gt;Vantageスタジオ みてね事業部 プロダクト開発グループ アプリ開発チーム&lt;br&gt;七尾　貴史&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:05&lt;/td&gt; &lt;td&gt;Android のライブ配信アプリにおけるアニメーションとグラフィック処理&lt;/td&gt; &lt;td&gt;Vantageスタジオ 新規事業開発室 KARASTAグループ 開発チーム&lt;br&gt;追田　泰宏&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:45&lt;/td&gt; &lt;td&gt;TDD 同期における pcap を使用したローカル5G分析&lt;/td&gt; &lt;td&gt;開発本部 CTO室 インフラグループ&lt;br&gt;市野　真一&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:15&lt;/td&gt; &lt;td&gt;UE5.1で&quot;映える&quot; AR 映像を作ってみた&lt;/td&gt; &lt;td&gt;開発本部 CTO室 映像開発グループ&lt;br&gt;小端　みより&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:45&lt;/td&gt; &lt;td&gt;ゲーム開発で UE を使い始めた初級者の経験談が聞こえてくる25分間&lt;/td&gt; &lt;td&gt;ﾃﾞｼﾞﾀﾙｴﾝﾀｰﾃｲﾝﾒﾝﾄ事業本部 ｲﾝｷｭﾍﾞｰｼｮﾝ事業部 Asymグループ エンジニアチーム&lt;br&gt;角　龍徳&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:25&lt;/td&gt; &lt;td&gt;となりのQAのお仕事&lt;/td&gt; &lt;td&gt;開発本部 CTO室 QA1グループ マネージャー&lt;br&gt;ALICE(キムヨンギョン）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:55&lt;/td&gt; &lt;td&gt;若手主体のチームで全員の力を合わせて新規事業を創っている話&lt;/td&gt; &lt;td&gt;モンスト事業本部 新規事業開発部 miattoグループ&lt;br&gt;本間　光宣&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:25&lt;/td&gt; &lt;td&gt;学校教育支援の技術解剖と21卒エンジニアが教材開発で習得したエンジニアリングスキル&lt;/td&gt; &lt;td&gt;開発本部 CTO室 クライアントグループ&lt;br&gt;田那辺　輝／藤井　瞭&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:55&lt;/td&gt; &lt;td&gt;コトダマンにおける技術的負債との戦い：サーバーアプリケーションのリアーキテクティング編&lt;/td&gt; &lt;td&gt;デジタルエンターテインメント事業本部 コトダマン事業部 エンジニアグループ マネージャー&lt;br&gt;田中　恭友&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;DAY3 3/3（金）&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt; &lt;th&gt;スピーカー&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;13:05&lt;/td&gt; &lt;td&gt;10周年を迎えるモンストサーバコードの Ruby 及び gem のアップデートにまつわるお話&lt;/td&gt; &lt;td&gt;モンスト事業本部 ゲーム運営部 モンストサーバ1グループ&lt;br&gt;岡住　和樹&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;13:35&lt;/td&gt; &lt;td&gt;minimo 事業部における開発基盤の整備（ChatOps + GItHub Actions）&lt;/td&gt; &lt;td&gt;Vantageスタジオ minimo事業部 バックエンド開発グループ&lt;br&gt;洗川　雄輝／鈴木　雅也&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:05&lt;/td&gt; &lt;td&gt;小さなサービスでの SRE との付き合い方&lt;/td&gt; &lt;td&gt;ライブエクスペリエンス事業本部 事業戦略室 Fansta開発グループ&lt;br&gt;井上　翔太&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;14:45&lt;/td&gt; &lt;td&gt;Google Cloud の Artifact Registry を使った private な npm package の管理&lt;/td&gt; &lt;td&gt;次世代エンターテインメント事業本部 TIPSTAR開発部 クライアントグループ Webチーム&lt;br&gt;吉川　勇太郎&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:15&lt;/td&gt; &lt;td&gt;DynamoDB で決済システムを運用してみた&lt;/td&gt; &lt;td&gt;開発本部 MIXI M事業部 システムグループ マネージャー&lt;br&gt;田岡　文利&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;15:45&lt;/td&gt; &lt;td&gt;さよならAtlassian、ようこそAtlassian&lt;/td&gt; &lt;td&gt;はたらく環境推進本部 社内IT室&lt;br&gt;周　軼駿&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:25&lt;/td&gt; &lt;td&gt;エンジニアの心も繋ごう、グループアサイン。&lt;/td&gt; &lt;td&gt;モンスト事業本部 モンストサーバー1グループ&lt;br&gt;ジ　ワンジョン&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;16:55&lt;/td&gt; &lt;td&gt;TIPSTAR がチャレンジを続けていくために取り組んだこと&lt;/td&gt; &lt;td&gt;次世代エンターテインメント事業本部 TIPSTAR開発部 システム2グループ アーキテクトチーム&lt;br&gt;鈴木　進吾&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;17:25&lt;/td&gt; &lt;td&gt;全世界で成長し続けるサービスのインフラと開発の裏側&lt;/td&gt; &lt;td&gt;Vantageスタジオ みてね事業部 SREグループ マネージャー&lt;br&gt;清水　勲&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;ご参加方法&lt;/h1&gt; &lt;p&gt;&lt;br&gt; ・こちらのconnpassページより事前にご登録ください。&lt;br&gt; ・YouTubeチャンネルは「&lt;a href=&quot;https://youtube.com/@mixi_developers&quot; rel=&quot;nofollow&quot;&gt;MIXI TECH TALK&lt;/a&gt;」&lt;a href=&quot;https://youtube.com/@mixi_developers&quot; rel=&quot;nofollow&quot;&gt;@mixi_developers&lt;/a&gt; にてLIVE配信いたします。&lt;br&gt; ・ご登録の皆様へ事前に配信URL等のご案内をお送りいたします。&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;h1&gt;ご質問・ご感想はTwitterで！&lt;/h1&gt; &lt;p&gt;当日は皆様からの質問も受けながら進めたいと思いますので、お気軽にコメントをいただければと思います。&lt;br&gt; &lt;br&gt; ハッシュタグ： &lt;span style=&quot;color: #444444; font-size: large;&quot;&gt;&lt;b&gt; &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=mixitechcon&quot; rel=&quot;nofollow&quot;&gt;#mixitechcon &lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt; &lt;br&gt; 公式アカウント &lt;a href=&quot;https://twitter.com/mixi_engineers&quot; rel=&quot;nofollow&quot;&gt;@mixi_engineers&lt;/a&gt; もフォローいただけると幸いです。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;オフライン会場へご参加の皆様へ&lt;/h1&gt; &lt;p&gt;＜オフライン会場概要＞&lt;br&gt; 開催日程：2023年3月1日(水) 13:00〜18:45(開場 12:30)&lt;br&gt; 会場：東京都渋谷区渋谷 3-21-3 渋谷ストリーム4F 渋谷ストリーム ホール&lt;br&gt; ※当日は受付でconnpassIDをご提示ください。 ※オフライン会場へのご参加は、connpassでの事前申し込みが必要です。 &lt;br&gt; &lt;br&gt; &amp;lt;ご案内・ご注意&amp;gt;&lt;br&gt; ・入館時の検温と手指消毒、会場内でのマスク着用など、基本的な感染症対策へのご協力をお願いいたします。&lt;br&gt; ・37.5度以上の発熱がある方はご入場いただけません。その他、咳、倦怠感などの症状がある方のご参加もご遠慮ください。&lt;br&gt; ・開催内容・タイムテーブル等は変更の可能性がございます。予めご了承ください。&lt;br&gt; ・悪天候等により、運営事務局の判断にて開催を中止する場合があります。&lt;br&gt; ・当日のイベント内容や写真はウェブサイトや SNSで公開する可能性があります。受付にて撮影 NGのストラップを配布しております。&lt;br&gt; ・ホール内では無線 LAN(Wi-fi)をご用意しております。&lt;br&gt; ・会場内は禁煙です。&lt;br&gt; &lt;br&gt; &amp;lt;免責事項&amp;gt;&lt;br&gt; ・本カンファレンス内において発生した一切の事故や怪我・病気などの責任を負いかねますことを予めご了承ください。&lt;br&gt; ・貴重品の管理は各自でお願いいたします。万一盗難・紛失等の事故が発生しても、主催者は一切責任を負えません。&lt;br&gt; ・本カンファレンスから得られた情報により、何らかの損害を負った場合であっても、発表者並びに主催者は一切の責任を負いません。予めご了承ください。&lt;br&gt; &lt;br&gt; &amp;lt;禁止事項&amp;gt;&lt;br&gt; ・宗教団体、人材会社等による勧誘行為、宣伝行為、ヘッドハンティングまたはこれに類似する行為。&lt;br&gt; ・過度な大声、騒音、振動、暴力等、他の参加者の迷惑になる行為。&lt;br&gt; ・法令に違反する、またはそのおそれのある行為。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;・プログラムやイベント開催内容は都合により変更することがございます。予めご了承ください。&lt;br&gt; ・天災、不慮の事故等やむを得ない事情などにより、主催者側の判断にて、内容の変更または中止とする場合があります。&lt;br&gt;&lt;/p&gt; &lt;h1&gt;アンチハラスメントポリシー&lt;/h1&gt; &lt;p&gt;全ての参加者が技術共有/交流に集中できる様、以下のようなハラスメント行為はご遠慮ください。&lt;br&gt; 該当する行為が発覚した場合、NGユーザーの登録などを行う可能性があります。&lt;br&gt; &lt;br&gt; ・性差、性同一性の表現、性的指向、障害、外見や身体的特徴、人種、宗教、公共な場での性的な画像や類する表現、&lt;br&gt; ・脅迫、つきまとい、望まない写真撮影や録音・録画、不適切な接触、およびそれらに関連した不快な言動&lt;br&gt; &lt;br&gt; 万が一、ハラスメント行為を見聞きした場合は、connpass上から「イベントへのお問い合わせ」でご連絡いただけますと幸いです。&lt;br&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://mixi.connpass.com/event/274849/'/>
-    <published>
-      2023-02-27T16:37:28+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://dena.connpass.com/event/274947/
-    </id>
-    <title>
-      DeNA.vim @ DeNA TechCon 2023
-    </title>
-    <summary>
-      DeNA TechCon 2023 の裏で vim好きエンジニアがゆるく雑談する回
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;イベント概要&lt;/h1&gt; &lt;p&gt;DeNAで活躍するVim好きエンジニアたちが、&lt;a
-      href=&quot;https://techcon2023.dena.dev/&quot;
-      rel=&quot;nofollow&quot;&gt;DeNA TechCon 2023&lt;/a&gt;
-      の裏でVimに関する技術トピックについてLT＆雑談します。&lt;/p&gt;
-      &lt;p&gt;一緒にvimについてワイワイLT&amp;amp;雑談しましょう！&lt;/p&gt;
-      &lt;p&gt;Discordにて開催します。&lt;/p&gt; &lt;h1&gt;イベントへの参加&lt;/h1&gt;
-      &lt;p&gt;①&lt;a href=&quot;https://dena.connpass.com/event/270750/&quot;
-      rel=&quot;nofollow&quot;&gt;TechCon2023 公式イベントページ&lt;/a&gt;に登録！&lt;/p&gt;
-      &lt;p&gt;②&lt;a href=&quot;https://discord.gg/denatechcon&quot;
-      rel=&quot;nofollow&quot;&gt;DeNA
-      TechconのDiscord&lt;/a&gt;に参加をして準備完了&lt;/p&gt;
-      &lt;p&gt;③3/2当日！Discordの「DeNA.vim」というルームがありますので、そちらのボイスチャットに入室お願いします(ミュートでOKです)。&lt;/p&gt; &lt;h1&gt;プログラム&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:30 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Opening&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:35 - 16:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;好きなNeovimのプラグイン5選 / uhooi&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:40 - 16:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Rubyエンジニアがvimrcを棚卸ししてナウいluaに書き換えた話 / zatton&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:45 - 16:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;TBD / higashi&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:50 - 16:55&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;TBD / delphinus&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:55 - 17:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;バッファ・休憩&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:00 - 17:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;一般LT（最大3枠）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:15 - 17:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;バッファ・雑談&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:30 -&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Closing&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;一般LT募集について&lt;/h1&gt; &lt;p&gt;DeNA.vimでは一般LTを募集しております。&lt;/p&gt; &lt;p&gt;以下一般LTに関する詳細となります。&lt;/p&gt; &lt;p&gt;皆様のご応募お待ちしております。&lt;/p&gt; &lt;p&gt;テーマ　 : Vimに関係することであればなんでもOK!&lt;/p&gt; &lt;p&gt;時間　　 : 5分 (5分を超えた時点で強制終了となります)&lt;/p&gt; &lt;p&gt;募集人数 : 3名 (先着順となります)&lt;/p&gt; &lt;p&gt;応募方法 : Google Formよりお願いします (https://forms.gle/9jxKvsUfJQuJGPcf7)&lt;/p&gt; &lt;h1&gt;参加する Vim好きエンジニア&lt;/h1&gt; &lt;h2&gt;&lt;img src=&quot;https://vimconf.org/2019/icon/get_me_power.png&quot; width=&quot;20&quot;&gt; IK&lt;/h2&gt; &lt;p&gt;好きなプラグインはgina.vimです&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1623594337522315265/dSSXvRoW_400x400.jpg&quot; width=&quot;20&quot;&gt; uhooi / &lt;a href=&quot;https://twitter.com/the_uhooi&quot; rel=&quot;nofollow&quot;&gt;@the_uhooi&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;Neovimが好きです。&lt;br&gt; &lt;a href=&quot;https://github.com/uhooi/dotfiles&quot; rel=&quot;nofollow&quot;&gt;dotfiles&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1216919222/IMG_0104_400x400.jpg&quot; width=&quot;20&quot;&gt; Kesin11&lt;/h2&gt; &lt;p&gt;メインはVSCodeですがVimのキーバインドからは逃れられませんでした&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/34534343?v=4&quot; width=&quot;20&quot;&gt; higashi&lt;/h2&gt; &lt;p&gt;好きなVimはVimです&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://ja.gravatar.com/userimage/44119091/45d49b6be98714c9566aecce4867ea3b.png?size=400&quot; width=&quot;20&quot;&gt; delphinus / &lt;a href=&quot;https://twitter.com/delphinus35&quot; rel=&quot;nofollow&quot;&gt;@delphinus35&lt;/a&gt;&lt;/h2&gt; &lt;p&gt;好きなプラグインは telescope.nvim です&lt;br&gt; &lt;a href=&quot;https://github.com/delphinus/dotfiles&quot; rel=&quot;nofollow&quot;&gt;dotfiles&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/1124024?v=4&quot; width=&quot;20&quot;&gt; kuniwak&lt;/h2&gt; &lt;p&gt;Vint の作者です（メンテしてなくてごめんなさい）&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://pbs.twimg.com/profile_images/1159820088544878592/1GM9e-fj_400x400.jpg&quot; width=&quot;20&quot;&gt; eihigh&lt;/h2&gt; &lt;p&gt;GoからEUC-JPなPerlまで書けるVimが好きです&lt;/p&gt; &lt;h2&gt;&lt;img src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=1nO2OX6j9aPFvf96T-4ioXEhApAzrKyZW&amp;amp;usp=sharing&quot; width=&quot;20&quot;&gt; zatton&lt;/h2&gt; &lt;p&gt;vimrcをluaに書き換えないとと思って早2年以上&lt;/p&gt; &lt;h1&gt;行動規範&lt;/h1&gt; &lt;p&gt;DeNA TechCon 2023 に参加するすべての人は &lt;a href=&quot;https://techcon2023.dena.dev/code-of-conduct/&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt; の行動規範を守ることを求められます。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://dena.connpass.com/event/274947/'/>
-    <published>
-      2023-02-27T16:33:54+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shibuyarb.connpass.com/event/276602/
-    </id>
-    <title>
-      Shibuya.rb[:20230308]
-    </title>
-    <summary>
-      渋谷フクラスのGMOYoursでの開催です!
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;Shibuya.rbは、渋谷近郊のRubyが好きだったり、
-      Rubyの周辺技術が気になっている人のための地域Rubyistコミュニティです。&lt;/p&gt;
-      &lt;p&gt;今回は渋谷フクラスでの開催です。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Time&lt;/th&gt;
-      &lt;th&gt;title&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
-      &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td&gt;19:30&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35~&lt;/td&gt;
-      &lt;td&gt;フリータイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;21:00~&lt;/td&gt; &lt;td&gt;撤収&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;内容&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;LTをしたい方は「発表者枠」でご登録ください。&lt;/li&gt;
-      &lt;li&gt;当日に発表したくなった方は運営メンバーまでお声かけください。&lt;/li&gt;
-      &lt;li&gt;参加者それぞれが気になっているテーマでディスカッションできたら面白いかなと考えています&lt;/li&gt;
-      &lt;li&gt;最近気になっていることや、ソースコードリーディングしたいgemなどの話題をお持ちいただくと良いかもしれません
-      :)&lt;/li&gt;
-      &lt;li&gt;「こういうのやりたい」や「こういう風にやろうよ」など、ぜひネタやご意見をお持ちください&lt;/li&gt;
-      &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shibuyarb.connpass.com/event/276602/'/>
-    <published>
-      2023-02-27T14:56:13+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://shibuyarb.connpass.com/event/272032/
-    </id>
-    <title>
-      Shibuya.rb[:20230208]
-    </title>
-    <summary>
-      渋谷フクラスのGMOYoursでの開催です!
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;Shibuya.rbは、渋谷近郊のRubyが好きだったり、
-      Rubyの周辺技術が気になっている人のための地域Rubyistコミュニティです。&lt;/p&gt;
-      &lt;p&gt;今回は渋谷フクラスでの開催です。&lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Time&lt;/th&gt;
-      &lt;th&gt;title&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
-      &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;開場&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td&gt;19:30&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:35~&lt;/td&gt;
-      &lt;td&gt;フリータイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;21:00~&lt;/td&gt; &lt;td&gt;撤収&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;内容&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;LTをしたい方は「発表者枠」でご登録ください。&lt;/li&gt;
-      &lt;li&gt;当日に発表したくなった方は運営メンバーまでお声かけください。&lt;/li&gt;
-      &lt;li&gt;参加者それぞれが気になっているテーマでディスカッションできたら面白いかなと考えています&lt;/li&gt;
-      &lt;li&gt;最近気になっていることや、ソースコードリーディングしたいgemなどの話題をお持ちいただくと良いかもしれません
-      :)&lt;/li&gt;
-      &lt;li&gt;「こういうのやりたい」や「こういう風にやろうよ」など、ぜひネタやご意見をお持ちください&lt;/li&gt;
-      &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://shibuyarb.connpass.com/event/272032/'/>
-    <published>
-      2023-02-27T14:46:39+09:00
     </published>
   </entry>
 </feed>
