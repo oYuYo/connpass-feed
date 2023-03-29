@@ -9,8 +9,166 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2023-03-28T00:51:36+00:00
+    2023-03-29T00:55:04+00:00
   </updated>
+  <entry>
+    <id>
+      https://classtech.connpass.com/event/279424/
+    </id>
+    <title>
+      毎週Ruby, Railsもくもく会 #156 オンライン 駆け出しエンジニアも歓迎！
+    </title>
+    <summary>
+      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
+      &lt;p&gt;こんにちは。&lt;/p&gt;
+      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
+      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
+      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
+      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
+      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
+      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
+      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
+      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
+      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
+      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
+      &lt;p&gt;一応10人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
+      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
+      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
+      href=&quot;https://twitter.com/DAI199&quot;
+      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
+      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
+      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
+      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/279424/'/>
+    <published>
+      2023-03-28T19:55:15+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://buysell-technologies.connpass.com/event/276135/
+    </id>
+    <title>
+      リクルート × BASE × バイセル 【第1回フロントエンド勉強会】React &amp; GraphQL
+    </title>
+    <summary>
+      オフライン開催！@BuySell Technologies（新宿御苑オフィス）
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;ご好評につき、50名に増枠しました！&lt;/h1&gt; &lt;h2&gt;リクルート × BASE × BuySell
+      Technologies！&lt;/h2&gt; &lt;p&gt;「フロントエンド開発」をテーマに、各社のエンジニアが登壇します！
+      &lt;/p&gt; &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
+      &lt;p&gt;リクルート、BASE、BuySell Technologiesのエンジニアやプロダクトに興味がある&lt;/p&gt;
+      &lt;/li&gt; &lt;li&gt; &lt;p&gt;React、GraphQLなどの技術に興味がある&lt;/p&gt;
+      &lt;/li&gt; &lt;li&gt; &lt;p&gt;懇親会で他の会社のフロントエンドエンジニアと交流したい&lt;/p&gt;
+      &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;発表テーマ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
+      &lt;p&gt;「&lt;strong&gt;GraphQL Gateway を実質無料で手に入れる&lt;/strong&gt;」和田 祐汰さん
+      (@ywada526)（株式会社リクルート）&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
+      &lt;p&gt;「&lt;strong&gt;カート UI
+      のフォーカスを可視化する&lt;/strong&gt;」rryさん（BASE株式会社）&lt;/p&gt; &lt;/li&gt;
+      &lt;li&gt; &lt;p&gt;「&lt;strong&gt;Reactのコンポーネント設計&lt;/strong&gt;」 金子
+      直人さん（株式会社BuySell Technologies）&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
+      &lt;p&gt;「&lt;strong&gt;GraphQLにおけるキャッシュ戦略&lt;/strong&gt;」 早瀬
+      和樹さん（株式会社BuySell Technologies）&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;開催概要・スケジュール&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
+      &lt;p&gt;日時：2023/3/15（水）19:30 - 22:00&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
+      &lt;p&gt;形式：オフライン開催 @株式会社BuySell Technologies オフィス&lt;/p&gt; &lt;/li&gt;
+      &lt;li&gt; &lt;p&gt;住所：〒160-0004 東京都新宿区四谷4-28-8 PALTビル 4F
+      エンジニアフロア&lt;/p&gt; &lt;ul&gt; &lt;li&gt;最寄り駅：東京メトロ丸ノ内線 新宿御苑前駅&lt;/li&gt;
+      &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;参加費用：無料&lt;/p&gt; &lt;/li&gt;
+      &lt;/ul&gt; &lt;p&gt;※ 登壇テーマ・登壇者は予告なく変更する可能性がございます。&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;※
+      オンラインでの配信はございませんので、ご興味のある方はぜひ当日現地にてご参加ください。&lt;/strong&gt;&lt;/p&gt;
+      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
+      align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th
+      align=&quot;left&quot;&gt;プログラム&lt;/th&gt; &lt;th
+      align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
+      &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00&lt;/td&gt;
+      &lt;td align=&quot;left&quot;&gt;開場・受付開始&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;19:30&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;吉森 健成 (@molmolken) / バイセル&lt;/td&gt; &lt;/tr&gt;
+      &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:35&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;Reactのコンポーネント設計&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;金子 直人 / バイセル&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td align=&quot;left&quot;&gt;20:00&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;カート UI のフォーカスを可視化する&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;rry / BASE株式会社&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td align=&quot;left&quot;&gt;20:15&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;休憩&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;20:20&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;GraphQLでのキャッシュ戦略&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;早瀬 和輝 / バイセル&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td align=&quot;left&quot;&gt;20:45&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;GraphQL Gateway を実質無料で手に入れる&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;和田 祐汰 (@ywada526) &lt;br&gt;/
+      株式会社リクルート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;21:10&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;21:20&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;懇親会&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;22:00&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;懇親会終了、解散&lt;/td&gt; &lt;td
+      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
+      &lt;/table&gt; &lt;h2&gt;登壇者紹介&lt;/h2&gt; &lt;h3&gt;和田 祐汰さん (@ywada526)
+      （株式会社リクルート）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot;
+      src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/ywada526_w120.png&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;スタディサプリの Web Engineer (backend 8 : frontend 2 くらい)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2018 年からスタディサプリの開発をしています。主に新規サービスの開発に携わってきました。Typescript, Node.js, Prisma, React, Graphql あたりの技術をよく触っています。最近は子供が生まれて、育児と仕事で生活の 9 割が構成されています。&lt;/p&gt; &lt;h3&gt;rry さん（BASE株式会社）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/rry_w120.jpg&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;BASE Traffic Grp エンジニア&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;SIer -&amp;gt; Web デザイン受託 -&amp;gt; 自社 Web サービス開発 という流れでエンジニアになった。マークアップ出身 Rails 育ちで主に Ruby / Vue 界隈でわいわいしている。前職は STORES EC のバックエンドエンジニア。 2021年4月より BASE 株式会社へフロントエンドエンジニアとして入社。Vue も React もどっちも好き。最近はフロントエンドよりもバックエンドを書く機会のほうが多いです。&lt;/p&gt; &lt;h3&gt;金子 直人（株式会社BuySell Technologies）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/kaneko_w120.jpg&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;フロントエンドテックリード&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2022年6月にBuySell Technologiesへ入社。リユース事業の基幹システム開発に従事しています。 以前はフロントエンドのみならずバックエンドやインフラなど幅広い領域を担当していましたが、近年フロントエンド一本に転向しました。Reactが好きで、最近はReactとGraphQLを用いた開発に多く携わっています。&lt;/p&gt; &lt;h3&gt;早瀬 和輝（株式会社BuySell Technologies）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/hayase_w120.png&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;リユースプラットフォーム：出品管理システム・フロントエンドエンジニア&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2021年にBuySell Technologiesへ新卒で入社。リユース事業の基幹システムや商品撮影アプリの開発に従事し、iOSからインフラまで幅広く担当。現在はフロントエンドエンジニアとして、リユースプラットフォームの出品管理システムの開発を担当。アーキテクチャや設計について考えるのが好き。&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;登壇者・参加者へのハラスメントは固くお断りいたします。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;性別/性的指向/障碍の有無/人種/宗教/年齢/容姿/体格/技術の選択に関わりなく、 誰もが気持ちよく参加できるようにご協力ください&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;SNS等で発信される場合は、公序良俗に反する内容とならないよう、ご配慮をお願いいたします。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;エージェントの方や営業目的でのイベントの参加はご遠慮ください&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;イベント参加時に入力いただいた情報は、以下に基づき扱います&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;■株式会社BuySell Technologies プライバシーポリシー &lt;a href=&quot;https://buysell-technologies.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://buysell-technologies.com/privacy/&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://buysell-technologies.connpass.com/event/276135/'/>
+    <published>
+      2023-03-28T17:35:27+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://nagoya-se.connpass.com/event/279351/
+    </id>
+    <title>
+      【アプリ開発サークル】Spring Framework 勉強会【名古屋】
+    </title>
+    <summary>
+      これからプログラミングを学びたい方にオススメなJava・SQLを効果的に学べるハンズオンです
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;【Spring
+      Frameworkとは？】&lt;br&gt;　まず、フレームワークとは開発を容易にするためのツールになります。フレームワークを使用せずにアプリ開発を行うことは可能ですが、ディレクトリ管理、変数管理など煩雑な作業もすべて手作業で行う必要があります。そのような手間を省き開発に集中することができるツールがフレームワークです。&lt;br&gt;　Spring Frameworkは、Java開発におけるフレームワークで、WEBアプリの開発が容易になるツールです。JavaやSQLの前提知識が必要ですが、本講座ではプログラミング初心者の方にもJavaとSQLをわかりやすく解説いたします。&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;【Java・SQLとは？】&lt;br&gt;　Javaは全世界のWEBサービスの52%、データベースサービスの36%、ソフトウェアの26%を占め、C言語と並ぶ世界で最も使われている言語です。そのため、PythonやRuby、R言語に比べ転職での評価点数が高く設定されています。&lt;br&gt;　SQLはすべてのシステムにおいて必須のデータベースを利用するための言語です。SQL単体では保守・維持しかできませんが、システムを構築するうえで必要不可欠な知識になります。&lt;br&gt;　IT業界に飛び込みたいと考えておられるのであれば、学習しやすいPythonよりも評価点数が高いJavaやSQLを学習することを本講座ではオススメしております。&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;【内容】&lt;br&gt;・Spring Frameworkとは？&lt;br&gt;・Spring Frameworkの導入・環境構築&lt;br&gt;・Spring Frameworkハンズオン&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;【持ち物】&lt;br&gt;・ノートパソコン&lt;br&gt;・Spring Framework超入門 ~やさしくわかるWebアプリ開発&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://nagoya-se.connpass.com/event/279351/'/>
+    <published>
+      2023-03-28T09:12:54+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://nagoya-se.connpass.com/event/279328/
+    </id>
+    <title>
+      【アプリ開発サークル】Spring Framework 勉強会【名古屋】
+    </title>
+    <summary>
+      これからプログラミングを学びたい方にオススメなJava・SQLを効果的に学べるハンズオンです
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;【Spring
+      Frameworkとは？】&lt;br&gt;　まず、フレームワークとは開発を容易にするためのツールになります。フレームワークを使用せずにアプリ開発を行うことは可能ですが、ディレクトリ管理、変数管理など煩雑な作業もすべて手作業で行う必要があります。そのような手間を省き開発に集中することができるツールがフレームワークです。&lt;br&gt;　Spring Frameworkは、Java開発におけるフレームワークで、WEBアプリの開発が容易になるツールです。JavaやSQLの前提知識が必要ですが、本講座ではプログラミング初心者の方にもJavaとSQLをわかりやすく解説いたします。&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;【Java・SQLとは？】&lt;br&gt;　Javaは全世界のWEBサービスの52%、データベースサービスの36%、ソフトウェアの26%を占め、C言語と並ぶ世界で最も使われている言語です。そのため、PythonやRuby、R言語に比べ転職での評価点数が高く設定されています。&lt;br&gt;　SQLはすべてのシステムにおいて必須のデータベースを利用するための言語です。SQL単体では保守・維持しかできませんが、システムを構築するうえで必要不可欠な知識になります。&lt;br&gt;　IT業界に飛び込みたいと考えておられるのであれば、学習しやすいPythonよりも評価点数が高いJavaやSQLを学習することを本講座ではオススメしております。&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;【内容】&lt;br&gt;・Spring Frameworkとは？&lt;br&gt;・Spring Frameworkの導入・環境構築&lt;br&gt;・Spring Frameworkハンズオン&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;【持ち物】&lt;br&gt;・ノートパソコン&lt;br&gt;・Spring Framework超入門 ~やさしくわかるWebアプリ開発&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://nagoya-se.connpass.com/event/279328/'/>
+    <published>
+      2023-03-28T09:12:20+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://urahara-agile.connpass.com/event/271010/
@@ -82,25 +240,6 @@
   </entry>
   <entry>
     <id>
-      https://nagoya-se.connpass.com/event/279328/
-    </id>
-    <title>
-      【アプリ開発サークル】Spring Framework 勉強会【名古屋】
-    </title>
-    <summary>
-      これからプログラミングを学びたい方にオススメなJava・SQLを効果的に学べるハンズオンです
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;【Spring
-      Frameworkとは？】&lt;br&gt;　まず、フレームワークとは開発を容易にするためのツールになります。フレームワークを使用せずにアプリ開発を行うことは可能ですが、ディレクトリ管理、変数管理など煩雑な作業もすべて手作業で行う必要があります。そのような手間を省き開発に集中することができるツールがフレームワークです。&lt;br&gt;　Spring Frameworkは、Java開発におけるフレームワークで、WEBアプリの開発が容易になるツールです。JavaやSQLの前提知識が必要ですが、本講座ではプログラミング初心者の方にもJavaとSQLをわかりやすく解説いたします。&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;【Java・SQLとは？】&lt;br&gt;　Javaは全世界のWEBサービスの52%、データベースサービスの36%、ソフトウェアの26%を占め、C言語と並ぶ世界で最も使われている言語です。そのため、PythonやRuby、R言語に比べ転職での評価点数が高く設定されています。&lt;br&gt;　SQLはすべてのシステムにおいて必須のデータベースを利用するための言語です。SQL単体では保守・維持しかできませんが、システムを構築するうえで必要不可欠な知識になります。&lt;br&gt;　IT業界に飛び込みたいと考えておられるのであれば、学習しやすいPythonよりも評価点数が高いJavaやSQLを学習することを本講座ではオススメしております。&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;【内容】&lt;br&gt;・Spring Frameworkとは？&lt;br&gt;・Spring Frameworkの導入・環境構築&lt;br&gt;・Spring Frameworkハンズオン&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;【持ち物】&lt;br&gt;・ノートパソコン&lt;br&gt;・Spring Framework超入門 ~やさしくわかるWebアプリ開発&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://nagoya-se.connpass.com/event/279328/'/>
-    <published>
-      2023-03-28T09:12:20+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
       https://forkwell.connpass.com/event/277994/
     </id>
     <title>
@@ -155,61 +294,6 @@
     <link rel='alternate' type='text/html' href='https://hey.connpass.com/event/278634/'/>
     <published>
       2023-03-27T10:00:59+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/277463/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 2023年3月末飲み会
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;こちらのイベントは個別連絡用にメールアドレスの登録が必要です。メールアドレスはこちらのイベントで必要なときのみ使用させていただきます&lt;/h1&gt; &lt;p&gt;いつもはオンラインで行っているもくもく会に参加してくださっている方々とたまには実際にお会いしたい！と開催したいと思います。&lt;br&gt; 3ヶ月に1回くらいのペースで飲み会したいなぁと思ってるんでよければご参加ください！&lt;/p&gt; &lt;p&gt;※このご時世なので情勢によっては中止することもあります。あらかじめご理解ください。&lt;/p&gt; &lt;h3&gt;○最低開催人数&lt;/h3&gt; &lt;p&gt;2人以上参加してくだされば開催したいと思ってます・・・！ 2人以上の申込みがあれば当日参加も一応可能な予定です！&lt;/p&gt; &lt;h3&gt;○場所&lt;/h3&gt; &lt;p&gt;新宿近辺（まだ場所は確定していないですが確定したら申込後に見れる場所に追記しておきます）&lt;/p&gt; &lt;h3&gt;○日時&lt;/h3&gt; &lt;p&gt;2023年3月28日（火）20時から2,3時間程度&lt;/p&gt; &lt;h3&gt;○料金&lt;/h3&gt; &lt;p&gt;3,000〜4,000円くらいで考えています&lt;/p&gt; &lt;h3&gt;○当日やること&lt;/h3&gt; &lt;p&gt;特に決めていませんが近況報告や最近の出来事などざっくばらんにお話出来て交流を深められたらと思っています！&lt;/p&gt; &lt;h3&gt;○質問&lt;/h3&gt; &lt;h4&gt;Q. 1回もこのもくもく会に参加したことないんですけど行ってもいいですか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！ウェルカムです！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、酒飲みながらなので信用度は落ちるかもですがいっぱいお話しましょう！&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h4&gt;Q. 途中参加可能ですか？&lt;/h4&gt; &lt;h4&gt;A. 可能です！ただ出来るだけ早めに参加人数の目安は知りたいので申込みをして何時ごろからの参加なのか教えてもらえると助かります！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/277463/'/>
-    <published>
-      2023-03-26T22:11:28+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://nikkei.connpass.com/event/278034/
-    </id>
-    <title>
-      【NIKKEI Tech Talk #6】日経のBtoB SaaS開発の裏側とデータ利活用
-    </title>
-    <summary>
-      日本経済新聞社 技術企画グループが開催する技術勉強会 NIKKEI Tech Talk
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;はじめに&lt;/h2&gt; &lt;p&gt;NIKKEI Tech Talk
-      #6のテーマは日本経済新聞社が手がけるBtoB向けのSaaS開発とデータ利活用。メディア企業である日本経済新聞社は、記事、企業、数値情報等の多様なビジネスコンテンツを活用し、お客様のビジネス課題を解決する「法人向けデジタル情報サービス」の開発・展開を進めています。その裏側を支える、大規模コンテンツ検索エンジンの開発・運用事例や、データドリブンでの開発事例を元に発表したいと思います。&lt;/p&gt; &lt;p&gt;メンバーが執筆した技術ブログの紹介。&lt;a href=&quot;https://hack.nikkei.com/blog/advent20221224/&quot; rel=&quot;nofollow&quot;&gt;法人向けコンテンツ検索エンジンについての技術ブログ 報道記事の時事性を加味したクラスタリング手法と検索サービスへの応用 &lt;/a&gt; やA/Bテストについての技術ブログ &lt;a href=&quot;https://hack.nikkei.com/blog/advent20221216/&quot; rel=&quot;nofollow&quot;&gt;ベイジアンA/Bテストの利点と実験計画策定に関する一検討&lt;/a&gt;。&lt;/p&gt; &lt;h2&gt;以下のいずれかに少しでもビビッときたら是非参加してください！&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;メディア企業の日本経済新聞社が手がけるBtoB向けサービス開発について知りたい方&lt;/li&gt; &lt;li&gt;大規模コンテンツの検索基盤開発について関心がある方&lt;/li&gt; &lt;li&gt;データドリブン活動について関心がある方&lt;/li&gt; &lt;li&gt;自社サービスがある会社のエンジニアリングに興味がある方&lt;/li&gt; &lt;li&gt;内製開発を自社で進めていこうとしている/進めている方&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;p&gt;※予定/予告なく順番の入れ替えやタイトルの変更が発生する場合がございます&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;Time&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;What&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Who（敬称略）&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00-19:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;西馬 一郎、清水 裕幸&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:10-19:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;セッション1　日経の電子版 じゃない方 芸人こと日経テレコンのコンテンツ供給基盤内製化の道のり&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;大崎&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:25-19:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;セッション2　大規模コンテンツの検索基盤開発(仮)&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;日當&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:40-19:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;セッション1,2　質疑応答Q&amp;amp;A&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;日當、大崎、西馬&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:45-19:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;セッション3　BtoBプロダクト改善のためのデータドリブン活動と組織の概要&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;増田&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:50-20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;セッション4　ユーザー体験と収益性を考慮した媒体価値推定&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;櫻井&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:10-20:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;セッション5　統計モデルでサポートする、A/Bテストと営業活動&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;西川&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:30-20:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;セッション3,4,5　質疑応答Q&amp;amp;A&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;増田、櫻井、西川、清水&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:40-20:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;西馬 、清水&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;配信終了&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;-----&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;登壇者&lt;/h2&gt; &lt;h3&gt;大崎 壮太郎&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot; &quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://hack.nikkei.com/images/osaki.jpg&quot; width=&quot;150&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;日本経済新聞社 技術戦略ユニット所属。転職組。昔はRubyを書いてました。今はTypeScriptを書いてます。詰将棋作家。&lt;/p&gt; &lt;h3&gt;日當 泰輔&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot; &quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://hack.nikkei.com/images/hinata.jpg&quot; width=&quot;150&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;日本経済新聞社 技術戦略ユニット所属。2017年に新卒入社。検索エンジニアとしてBtoBサービスの検索改善に奮闘中&lt;/p&gt; &lt;h3&gt;増田 太郎&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot; &quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://hack.nikkei.com/images/masuda.jpg&quot; width=&quot;150&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;日本経済新聞社 情報サービスユニット所属のデータサイエンティスト。A/Bテストの導入など施策の貢献を数値化することに興味がある。かまいたち山内さんと同じ島根県松江市出身。趣味はギターやベースを弾くこと🎸&lt;/p&gt; &lt;h3&gt;櫻井 亮佑&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://i.gyazo.com/ac449e12476b12fe88a49fe0d29ebc1a.jpg&quot; width=&quot;150&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;日本経済新聞社 情報サービスユニット所属。日経テレコンのユーザー行動分析や記事からの情報抽出が主な業務。大好きな食べ物はチョコレート🍫 翻訳本に『PyTorch実践入門』（マイナビ出版）。Kaggle Master。&lt;/p&gt; &lt;h3&gt;西川 凌&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://hack.nikkei.com/images/nishikawa.jpg&quot; width=&quot;150&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;日本経済新聞社 情報サービスユニット所属。データサイエンティスト。 主な業務はマーケティング系のデータ分析など。統計モデリングに興味がある。家の近くの美味しいレストランを探すのにいつも一生懸命 🍳。&lt;/p&gt; &lt;h2&gt;司会者&lt;/h2&gt; &lt;h5&gt;清水 裕幸&lt;/h5&gt; &lt;p&gt;&lt;a href=&quot;https://gyazo.com/9f458d41f1788d9a4fbf2aba9305663a&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;清水 裕幸&quot; src=&quot;https://i.gyazo.com/9f458d41f1788d9a4fbf2aba9305663a.jpg&quot; width=&quot;100&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;新卒を中心に5年間コーポレート人事で採用担当を務め、2022年4月からエンジニア採用担当。非エンジニアのため、日々技術面の知識を勉強しながら、採用活動に取り組んでいます。埼玉県川越市出身。&lt;/p&gt; &lt;h5&gt;西馬 一郎&lt;/h5&gt; &lt;p&gt;&lt;a href=&quot;https://gyazo.com/34de3cb5c4f0b20ace8c6ce7635742bd&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;西馬 一郎&quot; src=&quot;https://i.gyazo.com/34de3cb5c4f0b20ace8c6ce7635742bd.jpg&quot; width=&quot;100&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;エンジニア採用担当。採用や社内外でのDevRel活動を通じて組織の強化に努めています。ITコミュニティと銭湯サウナが大好き。兵庫県神戸市出身。 &lt;a href=&quot;https://devrel.tokyo/japan-2023/&quot; rel=&quot;nofollow&quot;&gt;DevRel/Japan CONFERENCE 2023&lt;/a&gt; に登壇しました(2023年03月11日)&lt;/p&gt; &lt;h2&gt;日本経済新聞社とは&lt;/h2&gt; &lt;p&gt;「クオリティ・ペーパー」であり続けるため、ビジネスや暮らしにもっと役立つため、どこでもニュースにアクセスできるようにするため最新技術を貪欲に取り入れています。中核的な存在である「日経電子版」は世界有数のウェブメディアに成長しました。最近では注目ニュース記事にエキスパートがひとことで解説できる機能「Think!」や法人契約の「For Office社内報サービス」もスタートしています。こうした日経電子版の機能を次々とリリースできるのは、「内製開発」しているからです。日経電子版の進化は今後も続きます。&lt;/p&gt; &lt;h2&gt;日経の有するBtoB向けSaaSの紹介&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日経テレコン（日本最大級の会員制ビジネスデータベースサービス） 　&lt;a href=&quot;https://telecom.nikkei.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://telecom.nikkei.co.jp/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;NIKKEI COMPASS（複合型情報検索サービス） &lt;a href=&quot;https://www.nikkei.com/compass&quot; rel=&quot;nofollow&quot;&gt;https://www.nikkei.com/compass&lt;/a&gt;&lt;/li&gt; &lt;li&gt;NIKKEI The KNOWLEDGE（ナレッジマネジメントサービス） &lt;a href=&quot;https://nkbb.nikkei.co.jp/km/&quot; rel=&quot;nofollow&quot;&gt;https://nkbb.nikkei.co.jp/km/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;NIKKEI Risk&amp;amp;Complianse（取引先コンプライアンスチェックサービス） 　&lt;a href=&quot;https://nkbb.nikkei.co.jp/rc/&quot; rel=&quot;nofollow&quot;&gt;https://nkbb.nikkei.co.jp/rc/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;日経バリューサーチ （企業/業界分析プラットフォーム） 　&lt;a href=&quot;https://nvs.nikkei.co.jp/&quot; rel=&quot;nofollow&quot;&gt;https://nvs.nikkei.co.jp/&lt;/a&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;NIKKEI ADVENT CALENDAR 2022&lt;/h2&gt; &lt;p&gt;2022年もアドベントカレンダーを実施しました &lt;a href=&quot;https://hack.nikkei.com/advent_calendar/2022/&quot; rel=&quot;nofollow&quot;&gt;https://hack.nikkei.com/advent_calendar/2022/&lt;/a&gt; 今回登壇するメンバーも執筆しました&lt;/p&gt; &lt;h2&gt;HACK THE NIKKEI について&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://hack.nikkei.com/&quot; rel=&quot;nofollow&quot;&gt;https://hack.nikkei.com/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;日本経済新聞社のエンジニアが技術的な取り組みをブログにして投稿しています。 他にもチームやポジション紹介をしているサイトです。&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合がありますので、あらかじめご了承ください。&lt;/li&gt; &lt;li&gt;他の参加者の方の妨げになるような行為は禁止とさせていただきます。運営側の判断でご退出をお願いする場合があります。&lt;/li&gt; &lt;li&gt;ブログやSNSなどで当イベントに関する発信を行う際には、公序良俗に反する内容がなきよう、ご協力をお願いします。&lt;/li&gt; &lt;li&gt;当イベントはオンライン開催のため、通信状況によって映像や音声の乱れがある場合がございます。&lt;/li&gt; &lt;li&gt;配信トラブル時のアナウンスは&lt;a href=&quot;https://twitter.com/nikkeideveloper&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;より行います。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;個人情報の取り扱いについて&lt;/h2&gt; &lt;p&gt;当日アンケートなどでご回答頂いた情報につきましては、&lt;a href=&quot;https://hack.nikkei.com/privacypolicy/&quot; rel=&quot;nofollow&quot;&gt;採用活動における個人情報取り扱いについて&lt;/a&gt; に基づき適切に管理いたします。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://nikkei.connpass.com/event/278034/'/>
-    <published>
-      2023-03-26T20:22:41+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://nagasakirb.connpass.com/event/276354/
-    </id>
-    <title>
-      Rails Girls Nagasaki
-    </title>
-    <summary>
-      プログラミングについてこれから学びたい方大歓迎！！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;Rails Girls 長崎県初開催！！&lt;/p&gt;
-      &lt;p&gt;プログラミング初めての方を対象とした&lt;u&gt;&lt;b&gt;無料&lt;/b&gt;のイベント&lt;/u&gt;です。&lt;/p&gt; &lt;p&gt;こちらのイベントは、&lt;u&gt;プログラミング言語&lt;b&gt;「Ruby」&lt;/b&gt;で書かれたWebアプリケーションフレームワーク&lt;b&gt;「Rails」&lt;/b&gt;を使用&lt;/u&gt;したワークショップとなります。&lt;/p&gt; &lt;p&gt;自身でアプリケーションの作成が可能に！！&lt;/p&gt; &lt;p&gt;少しでも気になった方、&lt;b&gt;初心者こそ大歓迎&lt;/b&gt;ですので、ぜひご参加ください◎&lt;/p&gt; &lt;h1&gt;Rails Girlsとは？&lt;/h1&gt; &lt;p&gt;「より多くの女性がプログラミングに親しみ、アイデアを形にできる技術を身に着ける手助けをする」ことを目的とした非営利団体です。&lt;/p&gt; &lt;p&gt;また、日本各所でイベント開催しておりますが、日本だけでなく、イギリス、フランス、中国...と世界各国にコミュニティのある団体です。&lt;/p&gt; &lt;p&gt;過去のイベントはこちら：&lt;a href=&quot;https://railsgirls.jp/events/&quot; rel=&quot;nofollow&quot;&gt;https://railsgirls.jp/events/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;対象者&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;ウェブプログラミングに興味のある女性&lt;/li&gt; &lt;li&gt;プログラミングを体験してみたい人&lt;/li&gt; &lt;li&gt;はじめてRailsを使う人&lt;/li&gt; &lt;li&gt;年齢不問&lt;/li&gt; &lt;li&gt;上記の女性の同伴者である男性も参加可能です (参加希望者多数の場合は、ご遠慮いただく可能性があります)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;※「このイベントに申し込む」より参加申し込みができない場合は、「お問い合わせフォーム」にご連絡ください。&lt;/p&gt; &lt;h1&gt;当日必要なもの&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;ノートパソコン&lt;/li&gt; &lt;li&gt;楽しみたい気持ちとほんのちょっとの好奇心&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;不要なもの&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;プログラミングの知識や経験&lt;/li&gt; &lt;li&gt;私が参加して良いだろうか」という遠慮&lt;/li&gt; &lt;li&gt;プログラミングって難しそう・・・という先入観&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;当日のスケジュール予定&lt;/h1&gt; &lt;p&gt;※当日、スケジュール変更する可能性もございます。あらかじめご了承ください。&lt;/p&gt; &lt;h4&gt;&lt;b&gt;4/14(金)&lt;/b&gt;&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時刻&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00 - 21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;インストール・ ディ&lt;/b&gt;&lt;p&gt;事前にそれぞれのパソコンにRubyとRailsをインストール。&lt;/p&gt; &lt;p&gt;Rubyプログラミングの最初の一歩をコーチとともに始めてみましょう。&lt;/p&gt;&lt;p&gt;※ご自身のノートパソコンをお持ちください。 &lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4&gt;&lt;b&gt;4/15(土)&lt;/b&gt;&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時刻&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;9:00 - 10:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;レジストレーション、コーヒー&lt;/b&gt;&lt;p&gt; 金曜日にRuby on Railsのインストールトラブルがあれば、朝のうちに解決します。 &lt;/p&gt;&lt;p&gt;金曜日にすべてうまく行ったひとは参加しなくてもOKです。&lt;/p&gt; &lt;p&gt; 9:30ごろからのんびりきてください。&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;10:00 - 10:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;開会&lt;/b&gt;&lt;p&gt;一日の流れの説明。&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;10:30 - 11:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;自己紹介&lt;/b&gt;&lt;p&gt;一緒のチームのみんなに自己紹介！&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;11:00 - 13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;ワークショップ　ー　ウェブアプリの構築&lt;/b&gt;&lt;p&gt;はじめてのウェブアプリにトライ。&lt;/p&gt;&lt;p&gt;※ワークショップは定められたカリキュラムにそって進めます。&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:00 - 13:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;ランチ&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;13:50 - 14:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;スポンサーLT&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:10 - 15:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;ワークショップ　ー　ウェブアプリの構築&lt;/b&gt; &lt;p&gt;午前中のアプリの制作を進めていきます。&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:10- 15:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;休憩&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:20 - 16:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;ワークショップ&lt;/b&gt;&lt;p&gt;ウェブアプリを完成させるための最後の時間。&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;16:30 - 18:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;　&lt;b&gt;アフターパーティー &amp;amp; コーチLT&lt;/b&gt;&lt;p&gt;参加者、コーチ、スタッフによるパーティです。&lt;/p&gt;&lt;p&gt;ワークショップで聞き損ねたことや RubyやRailsのこと、ステップアップの方法など、&lt;/p&gt; &lt;p&gt;コーチに気軽に質問してください！&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;〒850-0862 長崎県長崎市出島町1番1号&lt;br&gt; DEJIMA MEDIA CENTER&lt;/p&gt; &lt;h1&gt;参加者の皆様へのお願い事項&lt;/h1&gt; &lt;p&gt;イベント当日は写真撮影を行います。&lt;/p&gt; &lt;p&gt;SNSへの投稿や開催報告ブログなどに利用させていただく可能性がございますので、写真に映りたくない方は事前にご連絡ください。&lt;/p&gt; &lt;h1&gt;コロナ感染対策について&lt;/h1&gt; &lt;p&gt;*当日はマスクを着用してください。 * 受付にて検温を行います。 * 陽性の方や、濃厚接触者にあたる方は会場に入ることは認められません。 陽性、濃厚接触者になった方は、お問い合わせフォームよりご連絡ください。 陽性・濃厚接触者の詳細については口外いたしません。(政府・自治体からの依頼を除く) * イベント当日、体調が優れない場合は、「お問い合わせフォーム」からご連絡をお願いいたします。 スタッフの方で、キャンセルさせていただきます。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://nagasakirb.connpass.com/event/276354/'/>
-    <published>
-      2023-03-25T22:13:09+09:00
     </published>
   </entry>
 </feed>
