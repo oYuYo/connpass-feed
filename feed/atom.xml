@@ -9,8 +9,60 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2023-03-31T00:50:27+00:00
+    2023-04-01T00:48:57+00:00
   </updated>
+  <entry>
+    <id>
+      https://histudy.connpass.com/event/279753/
+    </id>
+    <title>
+      姫路IT系勉強会 2023.04 (オンライン)
+    </title>
+    <summary>
+      オンライン開催ですので、はり姫には立ち入らないでください
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;姫路IT系勉強会&lt;/h1&gt;
+      &lt;p&gt;姫路IT系勉強会は、毎月第3土曜日に開催している兵庫県姫路市を中心とした周辺地域の
+      技術に興味のある人たちが気軽に集まり交流できる勉強会です。&lt;/p&gt;
+      &lt;p&gt;参加者には以下のような人たちが参加しています。&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;学生&lt;/li&gt; &lt;li&gt;Web製作者&lt;/li&gt;
+      &lt;li&gt;Webデザイナー&lt;/li&gt; &lt;li&gt;マークアップエンジニア&lt;/li&gt;
+      &lt;li&gt;エンジニア&lt;/li&gt; &lt;li&gt;フロントエンド&lt;/li&gt;
+      &lt;li&gt;バックエンド&lt;/li&gt; &lt;li&gt;サーバー&lt;/li&gt;
+      &lt;li&gt;インフラ&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;勉強会の開催方法&lt;/h1&gt;
+      &lt;p&gt;オンライン開催とオフライン開催があります。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;偶数月
+      オンライン&lt;/li&gt; &lt;li&gt;&lt;del&gt;奇数月
+      オフライン(はり姫)&lt;/del&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;オンライン&lt;/h2&gt;
+      &lt;p&gt;COVID-19の影響により、&lt;a href=&quot;https://discordapp.com/&quot;
+      rel=&quot;nofollow&quot;&gt;Discord&lt;/a&gt;を使ってのオンライン開催となります。
+      参加にあたっては以下の招待コードからDiscord姫路IT系勉強会チャンネルへご参加ください。&lt;/p&gt; &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://discord.gg/rZCeScB&quot;
+      rel=&quot;nofollow&quot;&gt;https://discord.gg/rZCeScB&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;はじめに&lt;/h2&gt; &lt;p&gt;当日、話し合いたい内容を自由にご記入ください。&lt;/p&gt; &lt;p&gt;(お題に関しては少しでもIT系にカスッていれば何を記載してOKです)&lt;/p&gt; &lt;ul&gt; &lt;li&gt;興味があること&lt;/li&gt; &lt;li&gt;こんなのやってみた(俺/私の話を聞いてくれ！)&lt;/li&gt; &lt;li&gt;聞いてみたいこと / 悩んでいること&lt;/li&gt; &lt;li&gt;他の会社/フリーランスの人と交流してみたい&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;勉強会の進行方法&lt;/h2&gt; &lt;p&gt;お題を元に参加者全員でついて話し合う、&lt;/p&gt; &lt;p&gt;座談会(アンカンファレンス)形式で進行します。&lt;/p&gt; &lt;p&gt;当日に話し合うお題はHackMDに記載します。&lt;/p&gt; &lt;p&gt;※お題を記載した人が何かを発表をしなければいけないという類のものでありませんが、&lt;/p&gt; &lt;p&gt;「ぜひ、発表をしたい！」という場合は歓迎します。&lt;/p&gt; &lt;p&gt;オンライン開催の場合はDiscordにて行われます。 オンライン開催に参加される場合は、当日までに上記リンクより登録をお願いします。&lt;/p&gt; &lt;p&gt;姫路IT系勉強会 Discordへ参加する&lt;/p&gt; &lt;h2&gt;過去のお題(例)&lt;/h2&gt; &lt;p&gt;過去の開催ログはログはこちらで公開されています。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://histudy.jp/&quot; rel=&quot;nofollow&quot;&gt;https://histudy.jp/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;勉強会のお題/ログ (HackMD)&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://hackmd.io/PGldHbiJR3eqx0NbFYPYkw&quot; rel=&quot;nofollow&quot;&gt;https://hackmd.io/PGldHbiJR3eqx0NbFYPYkw&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;p&gt;記載されたお題をジャンル分け・レベル分けし、 以下の様な感じで開催されます。&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;15&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;会場の準備&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;机の並び替えなど&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;前説・自己紹介&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;14&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;00&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;お題&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;〜&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;比較的万人向け？&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;15&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;00&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;お題&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;〜&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;プログラム系のネタが多め？&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;00&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;お題&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;〜&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;インフラ・ネットワーク・サーバ系・脱落者多数のネタ多し？&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;00&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;終了&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;p&gt;お題の数や盛り上がり具合により時間は変動します、 また、間に適当に休憩を挟むので時間は前後します。&lt;/p&gt; &lt;h1&gt;懇親会について&lt;/h1&gt; &lt;p&gt;終了後に希望者の数次第で懇親会があります。(オフラインのみ)&lt;/p&gt; &lt;h1&gt;姫路IT系勉強会のキーワード&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;プログラミング / 各種フレームワーク&lt;ul&gt; &lt;li&gt;JavaScript / TypeScript&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://jp.vuejs.org/&quot; rel=&quot;nofollow&quot;&gt;Vue.js&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://ja.reactjs.org/&quot; rel=&quot;nofollow&quot;&gt;React&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;PHP&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://laravel.com/&quot; rel=&quot;nofollow&quot;&gt;Laravel&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://cakephp.org/&quot; rel=&quot;nofollow&quot;&gt;CakePHP&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://symfony.com/&quot; rel=&quot;nofollow&quot;&gt;Symfony&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Ruby&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://rubyonrails.org/&quot; rel=&quot;nofollow&quot;&gt;Ruby on Rails&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Python&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.djangoproject.com/&quot; rel=&quot;nofollow&quot;&gt;Django&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://flask.palletsprojects.com/&quot; rel=&quot;nofollow&quot;&gt;Flask&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;シェルスクリプト&lt;/li&gt; &lt;li&gt;Common Lisp&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;http://www.lispworks.com/documentation/HyperSpec/Front/index.htm&quot; rel=&quot;nofollow&quot;&gt;hyperspec&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.quicklisp.org/beta/&quot; rel=&quot;nofollow&quot;&gt;quicklisp&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Web制作&lt;ul&gt; &lt;li&gt;Webデザイン&lt;/li&gt; &lt;li&gt;HTML / CSS / JavaScriptなどのライブラリ&lt;/li&gt; &lt;li&gt;CMS / ヘッドレスCMS&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://ja.wordpress.org/&quot; rel=&quot;nofollow&quot;&gt;WordPress&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://concrete5-japan.org/&quot; rel=&quot;nofollow&quot;&gt;Concrete5&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;クラウド / サーバー / ネットワーク&lt;ul&gt; &lt;li&gt;仮想化&lt;/li&gt; &lt;li&gt;クラウド&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/&quot; rel=&quot;nofollow&quot;&gt;AWS(Amazon Web Services)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://console.cloud.google.com/&quot; rel=&quot;nofollow&quot;&gt;GCP(Google Cloud Platform)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/&quot; rel=&quot;nofollow&quot;&gt;Azure(Microsoft Azure)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://cloud.sakura.ad.jp/&quot; rel=&quot;nofollow&quot;&gt;さくらのクラウド&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;構成管理 / IaC(Infrastructure as Code)&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.ansible.com/&quot; rel=&quot;nofollow&quot;&gt;Ansible&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.terraform.io/&quot; rel=&quot;nofollow&quot;&gt;Terraform&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.packer.io/&quot; rel=&quot;nofollow&quot;&gt;Packer&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;プロジェクトマネジメント / タスクマネージメント / ワークフロー&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.redmine.org/&quot; rel=&quot;nofollow&quot;&gt;Redmine&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://backlog.com/&quot; rel=&quot;nofollow&quot;&gt;Backlog&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/ja/software/jira&quot; rel=&quot;nofollow&quot;&gt;Jira&lt;/a&gt;など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;エディタ / IDE&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; rel=&quot;nofollow&quot;&gt;VSCode(Visual Studio Code)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Vim&lt;/li&gt; &lt;li&gt;Emacs など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;OSS(オープンソースソフトウェア)&lt;/li&gt; &lt;li&gt;Android / iOS&lt;/li&gt; &lt;li&gt;ガジェット / Raspberry Pi / Beagle bone black&lt;/li&gt; &lt;li&gt;IT技術者のライフハック&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;その他、関連することなどなど…&lt;/p&gt; &lt;h1&gt;連絡方法&lt;/h1&gt; &lt;p&gt;姫路IT系勉強会は Slack で連絡をとっています。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/histudy/shared_invite/zt-ugowinom-ZG0ORhstkrqQGVyjksr_OA&quot; rel=&quot;nofollow&quot;&gt;姫路IT系勉強会 Slackへ参加する&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://histudy.connpass.com/event/279753/'/>
+    <published>
+      2023-04-01T00:11:08+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://beginner-front.connpass.com/event/279658/
+    </id>
+    <title>
+      【音声のみ】第168回プログラミング初学者歓迎もくもく会＋交流会（日中）
+    </title>
+    <summary>
+      「もくもく会（勉強会）自体はじめて…」という初学者歓迎の、敷居の低いゆるIT勉強会！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;「1人だと作業に集中出来ない」「気軽に質問・相談したい」という初学者向けの、オンラインもくもく会（勉強＋交流会）です&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;ビデオはオフ、音声のみ・無言OKです！（途中参加・退出なども自由です）&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;「もくもく会自体はじめて…」&lt;br&gt;という方でも気軽に参加できる、ゆるい雰囲気のもくもく会です！&lt;/p&gt; &lt;p&gt;主催者自身、日々プログラミング勉強中です。（現在は作りたいwebサービスがあるので、個人開発を学んでおります。）&lt;br&gt;1人だと怠けてしまう時があるので、複数人でゆるい雰囲気で作業を進めることができたら良いなと思い、開催しております。&lt;/p&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;IT/web/プログラミング初学者&lt;/li&gt; &lt;li&gt;プログラミング学習仲間がほしい&lt;/li&gt; &lt;li&gt;モチベーション維持が難しいと感じる人&lt;/li&gt; &lt;li&gt;プログラミングについて質問・相談したい&lt;/li&gt; &lt;li&gt;作りたいサービスがあり、それに関して話したい&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;プログラミング初学者に限らず、ゆるく作業や交流したい方は気軽にご参加ください！&lt;/p&gt; &lt;h1&gt;開催概要&lt;/h1&gt; &lt;p&gt;▶️場所：Gather(オンライン開催）&lt;br&gt;ビデオはオフ・音声のみ・無言OKです！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、GatherのURLが表示されます。&lt;/strong&gt;&lt;br&gt;（Gatherは、スマートフォン・PCどちらからでも、登録なしで参加することが可能です。）&lt;/p&gt; &lt;p&gt;また、Gatherは、ポケモンとZoomを掛け合わせたようなサービスだと言われています。&lt;br&gt;直感的な操作で、Zoomより気軽なコミュニケーションができます。&lt;/p&gt; &lt;p&gt;（もくもく会の始めに、Gatherの操作について不明な点があればご説明いたします！）&lt;/p&gt; &lt;h1&gt;当日のスケジュールの流れ&lt;/h1&gt; &lt;p&gt;▶️【10:00 - 11:50】&lt;br&gt;準備ができた人から各自作業開始！&lt;/p&gt; &lt;p&gt;はじめに、主催者から全体に簡単な説明・挨拶を致します。（Gatherの使い方やもくもく会について）&lt;/p&gt; &lt;p&gt;→その後、各自の作業を進めていきます（作業中も音声、チャットで気軽にやり取りができます）&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;▶️【11:50 - 】&lt;br&gt;軽く報告・雑談（任意）&lt;/p&gt; &lt;p&gt;本日やったことの簡単な報告・質問・雑談タイムです。&lt;/p&gt; &lt;p&gt;（例：「今日はProgateでJavaScriptを進めました！」「この本何ページ読みました！」など）&lt;/p&gt; &lt;p&gt;→その後、各自自由なタイミングで退出・引き続き作業して頂いてOKです。&lt;br&gt;（話が盛り上がって１時間近く話してしまう事がたまにあるので、自由解散という形にしています）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;途中参加・退出なども全く問題ないです&lt;/li&gt; &lt;li&gt;終わりに行う軽い報告・雑談は、任意参加です。作業のキリが悪かったり、離席していたりなどでも問題ありません。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;備考&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;このもくもく会のDiscordもあるので、connpass上の参加者より、実際の参加人数が多い事があります。&lt;/li&gt; &lt;li&gt;当日キャンセルも全く問題ありません。都合の良いお時間に参加ください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;複数人で集中したり、作業の合間に気軽に質問・雑談できるような雰囲気を目指しています。&lt;br&gt;&lt;strong&gt;「これからプログラミングを始める！」という超初心者の方でも気軽にご参加ください！&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;参考キーワード&lt;/h1&gt; &lt;p&gt;IT, web制作, webアプリ開発, プログラミング, 初心者歓迎, HTML, CSS, JavaScript, Python, Ruby, php, React.js, Vue.js, 個人開発, プロダクト開発, コミュニティ運営者, もくもく会運営者&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://beginner-front.connpass.com/event/279658/'/>
+    <published>
+      2023-03-31T11:01:19+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://beginner-front.connpass.com/event/279657/
@@ -235,126 +287,6 @@
     <link rel='alternate' type='text/html' href='https://beginner-front.connpass.com/event/279449/'/>
     <published>
       2023-03-29T10:00:57+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://classtech.connpass.com/event/279424/
-    </id>
-    <title>
-      毎週Ruby, Railsもくもく会 #156 オンライン 駆け出しエンジニアも歓迎！
-    </title>
-    <summary>
-      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
-      &lt;p&gt;こんにちは。&lt;/p&gt;
-      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
-      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
-      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
-      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
-      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
-      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
-      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
-      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
-      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
-      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
-      &lt;p&gt;一応10人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
-      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
-      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
-      href=&quot;https://twitter.com/DAI199&quot;
-      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
-      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
-      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
-      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/279424/'/>
-    <published>
-      2023-03-28T19:55:15+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://buysell-technologies.connpass.com/event/276135/
-    </id>
-    <title>
-      リクルート × BASE × バイセル 【第1回フロントエンド勉強会】React &amp; GraphQL
-    </title>
-    <summary>
-      オフライン開催！@BuySell Technologies（新宿御苑オフィス）
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;ご好評につき、50名に増枠しました！&lt;/h1&gt; &lt;h2&gt;リクルート × BASE × BuySell
-      Technologies！&lt;/h2&gt; &lt;p&gt;「フロントエンド開発」をテーマに、各社のエンジニアが登壇します！
-      &lt;/p&gt; &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
-      &lt;p&gt;リクルート、BASE、BuySell Technologiesのエンジニアやプロダクトに興味がある&lt;/p&gt;
-      &lt;/li&gt; &lt;li&gt; &lt;p&gt;React、GraphQLなどの技術に興味がある&lt;/p&gt;
-      &lt;/li&gt; &lt;li&gt; &lt;p&gt;懇親会で他の会社のフロントエンドエンジニアと交流したい&lt;/p&gt;
-      &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;発表テーマ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
-      &lt;p&gt;「&lt;strong&gt;GraphQL Gateway を実質無料で手に入れる&lt;/strong&gt;」和田 祐汰さん
-      (@ywada526)（株式会社リクルート）&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
-      &lt;p&gt;「&lt;strong&gt;カート UI
-      のフォーカスを可視化する&lt;/strong&gt;」rryさん（BASE株式会社）&lt;/p&gt; &lt;/li&gt;
-      &lt;li&gt; &lt;p&gt;「&lt;strong&gt;Reactのコンポーネント設計&lt;/strong&gt;」 金子
-      直人さん（株式会社BuySell Technologies）&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
-      &lt;p&gt;「&lt;strong&gt;GraphQLにおけるキャッシュ戦略&lt;/strong&gt;」 早瀬
-      和樹さん（株式会社BuySell Technologies）&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt;
-      &lt;h2&gt;開催概要・スケジュール&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;
-      &lt;p&gt;日時：2023/3/15（水）19:30 - 22:00&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
-      &lt;p&gt;形式：オフライン開催 @株式会社BuySell Technologies オフィス&lt;/p&gt; &lt;/li&gt;
-      &lt;li&gt; &lt;p&gt;住所：〒160-0004 東京都新宿区四谷4-28-8 PALTビル 4F
-      エンジニアフロア&lt;/p&gt; &lt;ul&gt; &lt;li&gt;最寄り駅：東京メトロ丸ノ内線 新宿御苑前駅&lt;/li&gt;
-      &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;参加費用：無料&lt;/p&gt; &lt;/li&gt;
-      &lt;/ul&gt; &lt;p&gt;※ 登壇テーマ・登壇者は予告なく変更する可能性がございます。&lt;/p&gt;
-      &lt;p&gt;&lt;strong&gt;※
-      オンラインでの配信はございませんので、ご興味のある方はぜひ当日現地にてご参加ください。&lt;/strong&gt;&lt;/p&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;プログラム&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:00&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;開場・受付開始&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;19:30&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;オープニング&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;吉森 健成 (@molmolken) / バイセル&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:35&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;Reactのコンポーネント設計&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;金子 直人 / バイセル&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;20:00&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;カート UI のフォーカスを可視化する&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;rry / BASE株式会社&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;20:15&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;休憩&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;20:20&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;GraphQLでのキャッシュ戦略&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;早瀬 和輝 / バイセル&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;20:45&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;GraphQL Gateway を実質無料で手に入れる&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;和田 祐汰 (@ywada526) &lt;br&gt;/
-      株式会社リクルート&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;21:10&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;21:20&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;懇親会&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;22:00&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;懇親会終了、解散&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
-      &lt;/table&gt; &lt;h2&gt;登壇者紹介&lt;/h2&gt; &lt;h3&gt;和田 祐汰さん (@ywada526)
-      （株式会社リクルート）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot;
-      src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/ywada526_w120.png&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;スタディサプリの Web Engineer (backend 8 : frontend 2 くらい)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2018 年からスタディサプリの開発をしています。主に新規サービスの開発に携わってきました。Typescript, Node.js, Prisma, React, Graphql あたりの技術をよく触っています。最近は子供が生まれて、育児と仕事で生活の 9 割が構成されています。&lt;/p&gt; &lt;h3&gt;rry さん（BASE株式会社）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/rry_w120.jpg&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;BASE Traffic Grp エンジニア&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;SIer -&amp;gt; Web デザイン受託 -&amp;gt; 自社 Web サービス開発 という流れでエンジニアになった。マークアップ出身 Rails 育ちで主に Ruby / Vue 界隈でわいわいしている。前職は STORES EC のバックエンドエンジニア。 2021年4月より BASE 株式会社へフロントエンドエンジニアとして入社。Vue も React もどっちも好き。最近はフロントエンドよりもバックエンドを書く機会のほうが多いです。&lt;/p&gt; &lt;h3&gt;金子 直人（株式会社BuySell Technologies）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/kaneko_w120.jpg&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;フロントエンドテックリード&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2022年6月にBuySell Technologiesへ入社。リユース事業の基幹システム開発に従事しています。 以前はフロントエンドのみならずバックエンドやインフラなど幅広い領域を担当していましたが、近年フロントエンド一本に転向しました。Reactが好きで、最近はReactとGraphQLを用いた開発に多く携わっています。&lt;/p&gt; &lt;h3&gt;早瀬 和輝（株式会社BuySell Technologies）&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;アイコン&quot; src=&quot;https://buysell-tech-img.s3.ap-northeast-1.amazonaws.com/tech-pr/20230315-frontend-connpass/hayase_w120.png&quot;&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;リユースプラットフォーム：出品管理システム・フロントエンドエンジニア&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;2021年にBuySell Technologiesへ新卒で入社。リユース事業の基幹システムや商品撮影アプリの開発に従事し、iOSからインフラまで幅広く担当。現在はフロントエンドエンジニアとして、リユースプラットフォームの出品管理システムの開発を担当。アーキテクチャや設計について考えるのが好き。&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;登壇者・参加者へのハラスメントは固くお断りいたします。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;性別/性的指向/障碍の有無/人種/宗教/年齢/容姿/体格/技術の選択に関わりなく、 誰もが気持ちよく参加できるようにご協力ください&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;SNS等で発信される場合は、公序良俗に反する内容とならないよう、ご配慮をお願いいたします。&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;エージェントの方や営業目的でのイベントの参加はご遠慮ください&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;イベント参加時に入力いただいた情報は、以下に基づき扱います&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;■株式会社BuySell Technologies プライバシーポリシー &lt;a href=&quot;https://buysell-technologies.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://buysell-technologies.com/privacy/&lt;/a&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://buysell-technologies.connpass.com/event/276135/'/>
-    <published>
-      2023-03-28T17:35:27+09:00
     </published>
   </entry>
 </feed>
