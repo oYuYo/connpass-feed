@@ -9,24 +9,237 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2023-04-04T00:46:57+00:00
+    2023-04-05T00:39:12+00:00
   </updated>
+  <entry>
+    <id>
+      https://tebiki.connpass.com/event/279261/
+    </id>
+    <title>
+      『フロントエンド開発のためのセキュリティ入門』著者と考える～より安全なスクラムの対策と実践～
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h3&gt;概要&lt;/h3&gt;
+      &lt;p&gt;『フロントエンド開発のためのセキュリティ入門』の著者である平野氏を特別ゲストにお迎えし、&lt;br&gt;
+      freee社とともに、より安全なスクラムの対策と実践についてトークセッションでお届けします！&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;&lt;em&gt;★★イベントに関する感想はぜひ #TebikiTalk
+      でツイートしていただけると嬉しいです！★★&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+      &lt;h3&gt;特別プレゼント企画！🎉&lt;/h3&gt;
+      &lt;p&gt;本イベント参加後のアンケートにご協力頂いた方の中から抽選で10名様に、&lt;br&gt;
+      特別ゲストである平野氏著書の&lt;strong&gt;&lt;em&gt;『フロントエンド開発のためのセキュリティ入門』&lt;/em&gt;&lt;/strong&gt;をプレゼントします！&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/111724928/227481497-ad96e21c-71ee-4904-846c-ec384b44012b.jpg&quot; width=&quot;40%&quot;&gt;&lt;br&gt;&lt;/p&gt; &lt;h3&gt;こんなこと話します&lt;br&gt;&lt;/h3&gt; &lt;p&gt;・スクラムの中でセキュリティ対策をいつどこでやればよいか&lt;br&gt; ・スクラムチームの機能にセキュリティをどの程度含めているのか&lt;br&gt; ・セキュリティ対策の属人化はあるある？どう対応しているのか&lt;br&gt; ・スクラムチームへのセキュリティ教育はどのように行っているのか&lt;br&gt;&lt;/p&gt; &lt;h3&gt;こんな方におすすめです&lt;br&gt;&lt;/h3&gt; &lt;p&gt;・エンジニアの方&lt;br&gt; ・フロントエンドエンジニアの方&lt;br&gt; ・スクラムで開発中の方&lt;br&gt; ・スクラムやフロントエンド開発に関わらず、セキュリティ対策にご興味興味がある方&lt;br&gt; ・セキュリティに興味のある方&lt;br&gt; ・『フロントエンド開発のためのセキュリティ入門』を読んでさらに理解を深めたい方&lt;br&gt; ・登壇企業/登壇者の話が聞きたい方&lt;br&gt;&lt;/p&gt; &lt;p&gt;そのほか、&lt;br&gt; ・これからのキャリアに悩んでいる方&lt;br&gt; ・転職を検討していて、いろんな会社を知りたい&lt;br&gt; ・エンジニア採用をしている人事の方&lt;br&gt;&lt;/p&gt; &lt;p&gt;という方も大歓迎です！！&lt;br&gt; （お申込みいただいた方はぜひ、Twitterシェアお願いします🙌）&lt;br&gt;&lt;/p&gt; &lt;h3&gt;特別ゲストのご紹介&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;サイボウズ株式会社　平野 昌士&lt;/em&gt;&lt;/strong&gt;　フロントエンドエンジニア&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/111724928/229686484-1269cbd4-d53b-4e47-a43f-db33d52337e1.png&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;サイボウズ株式会社にて、新規プロダクトのフロントエンドアーキテクトとして勤務。コミュニティ活動として、JSConf JPや関西Node学園の運営など。Node.js Core Collaborator（コミッター）。『フロントエンド開発のためのセキュリティ入門』（翔泳社）を執筆。&lt;/p&gt; &lt;/blockquote&gt; &lt;h3&gt;登壇者のご紹介&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;freee株式会社　川原 翔吾&lt;/em&gt;&lt;/strong&gt;　 freee販売 エンジニア&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/111724928/229686547-48dd78d4-a9a5-4c0e-b9d2-3516e13a3fd8.png&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;ECや人材サービスなどのWebサービス開発を経験後、2022年8月にfreee株式会社に入社。大阪拠点でfreee販売の開発に従事。業務ではバックエンドで Ruby on Rails, フロントエンドで React を利用。コミュニティ活動としてPHPカンファレンス2021実行委員長など。著書に『みんなのPHP 現場で役立つ最新ノウハウ！』(技術評論社・共著)。情報処理安全確保支援士。&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;TTebiki株式会社　二瓶 駿&lt;/em&gt;&lt;/strong&gt;　 Product Enginner(リーダー)&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/111724928/229686497-9e76d836-d76b-495b-a4ec-dd4a8e8f9b8e.png&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;新卒で新規事業の自社Webサービスの企画から開発までを経験後。2022年4月にTebiki株式会社に入社。 既存事業の機能開発やフロントエンド開発速度改善を経験後、現在は新規プロダクト開発に従事。スクラムマスターとしてスクラムチームのプロダクトゴール達成に取り組んでいる。&lt;/p&gt; &lt;/blockquote&gt; &lt;h3&gt;モデレーターのご紹介&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Tebiki株式会社　渋谷 和暁&lt;/em&gt;&lt;/strong&gt;　CTO&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/112605124/206399299-7408f613-8cbf-455d-ad5d-12b1e4de8bbd.png&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;2018年にTebiki社を共同創業。技術選定から採用まで、デスクレスワーカーが抱えるすべての課題を解決するプロダクトづくりのために何でもやっています。&lt;/p&gt; &lt;/blockquote&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://tebiki.connpass.com/event/279261/'/>
+    <published>
+      2023-04-05T08:58:24+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://beginner-front.connpass.com/event/280010/
     </id>
     <title>
-      【初学者歓迎】4月はwebアプリを作ろう！もくもく会＋交流会
+      【初学者歓迎】4月はwebアプリを作ろう！もくもく会+コミュニティ
     </title>
     <summary>
       「1人だと集中できない・学習方法などを情報交換したい」という初学者中心の、ゆるIT勉強会！
     </summary>
     <content type='html' xml:lang='ja'>
-      &lt;h3&gt;webアプリを作る・作りたい方向けの、オンラインもくもく会（勉強＋交流会）です。「ポートフォリオ作り・学習のアウトプット・個人開発…など。」&lt;/h3&gt; &lt;p&gt;「最近の学習のまとめ・実践として、なにか作りたい…」&lt;br&gt;という方向けの、ゆるい雰囲気のもくもく会です！&lt;/p&gt; &lt;p&gt;主催者自身、日々プログラミング勉強中です。（最近インプットばかりしていたので、Reactで何かしら簡単なアプリを作ろうと思っております。）&lt;br&gt;&lt;strong&gt;また、１ヶ月を目安に、継続的にDiscordなどでゆるく学習・開発の進捗を落としながら、モチベーション高く各自の開発を進めたり、共通の技術などに関してアドバイス・フィードバックなどがし合えればいいなとも考えております。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;目安としては、&lt;br&gt;「こんなアプリを作りたい」「まだ決まっていないけど、この技術を学んでいるのでこれで何かしら作る！」&lt;br&gt;というような、&lt;strong&gt;新しい技術を学び始めた方・初学者の方向けの会です。&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;新しい技術を学び始めた方・初学者の方&lt;/li&gt; &lt;li&gt;アウトプットして学習の理解を深めたい人&lt;/li&gt; &lt;li&gt;1人だとモチベーション維持・自己管理が難しい人&lt;/li&gt; &lt;li&gt;プログラミングについて気軽に質問や相談がしたい&lt;/li&gt; &lt;li&gt;オリジナルアプリ・ポートフォリオのアイデアが出ない人&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;初学者に限らず、4月はモチベーション高く頑張りたい！という方は気軽にご参加ください。&lt;/p&gt; &lt;h1&gt;開催概要&lt;/h1&gt; &lt;p&gt;▶️場所：Gather(オンライン開催）&lt;br&gt;ビデオはオフ・音声のみ・無言OKです！（途中参加・退出なども自由です）&lt;/p&gt; &lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、GatherのURLが表示されます。&lt;/strong&gt;&lt;br&gt;（Gatherは、スマートフォン・PCどちらからでも、登録なしで参加することが可能です。）&lt;/p&gt; &lt;p&gt;また、Gatherは、ポケモンとZoomを掛け合わせたようなサービスだと言われています。&lt;br&gt;直感的な操作で、Zoomより気軽なコミュニケーションができます。&lt;/p&gt; &lt;p&gt;（もくもく会の始めに、Gatherの操作について不明な点があればご説明いたします！）&lt;/p&gt; &lt;h1&gt;当日のスケジュールの流れ&lt;/h1&gt; &lt;p&gt;▶️【19:00 - 20:50】&lt;br&gt;準備ができた人から各自作業開始！&lt;/p&gt; &lt;p&gt;はじめに、主催者から全体に簡単な説明・挨拶を致します。（Gatherの使い方やもくもく会について）&lt;/p&gt; &lt;p&gt;→その後、各自の作業を進めていきます（作業中も音声、チャットで気軽にやり取りができます）&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;▶️【20:50 - 】&lt;br&gt;軽く報告・雑談（任意）&lt;/p&gt; &lt;p&gt;本日やったことの簡単な報告・質問・雑談タイムです。&lt;/p&gt; &lt;p&gt;（例：「今日はProgateでJavaScriptを進めました！」「この本何ページ読みました！」など）&lt;/p&gt; &lt;p&gt;→その後、各自自由なタイミングで退出・引き続き作業して頂いてOKです。&lt;br&gt;（話が盛り上がって１時間近く話してしまう事がたまにあるので、自由解散という形にしています）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;途中参加・退出なども全く問題ないです&lt;/li&gt; &lt;li&gt;終わりに行う軽い報告・雑談は、任意参加です。作業のキリが悪かったり、離席していたりなどでも問題ありません。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;参考キーワード&lt;/h1&gt; &lt;p&gt;IT, web制作, webアプリ開発, プログラミング, 初心者歓迎, HTML, CSS, JavaScript, Python, Ruby, php, React.js, Vue.js, 個人開発, プロダクト開発, コミュニティ運営者, もくもく会運営者&lt;/p&gt;
+      &lt;h3&gt;「最近の学習のまとめ・実践として、なにか作りたい…」という方向けの、オンラインもくもく会（勉強＋交流会）です。&lt;/h3&gt; &lt;p&gt;この勉強会は、ポートフォリオ作り・学習のアウトプット・個人開発など、各自が自由なペースで学習・開発を進めていく会です。&lt;/p&gt; &lt;p&gt;目安としては、&lt;br&gt;「こんなアプリを作りたい」「まだ決まっていないけど、この技術を学んでいるのでこれで何かしら作る！」&lt;br&gt;というような、&lt;strong&gt;新しい技術を学び始めた方・初学者が対象です。&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;ゆるく交流しながら、アイデアを磨いたり、技術的な質問・意見交換をして、&lt;br&gt;モチベーション高く学習・開発をしていきましょう。&lt;/p&gt; &lt;p&gt;主催者自身、日々プログラミング勉強中です。最近インプットばかりしていたので、Reactで何かしら簡単なアプリを作りたいと思っています。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;また、勉強会の終了後も、１ヶ月間を目安に、Discord上で共通の技術などに関するアドバイス・フィードバックなどを行い合えるチャンネルを用意しようと考えています。&lt;/strong&gt;自由なペースで学習・開発の進捗を共有しながら、モチベーション高く作業していきたい方は、気軽にご参加ください。&lt;/p&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;新しい技術を学び始めた方・初学者の方&lt;/li&gt; &lt;li&gt;アウトプットして学習の理解を深めたい人&lt;/li&gt; &lt;li&gt;1人だとモチベーション維持・自己管理が難しい人&lt;/li&gt; &lt;li&gt;プログラミングについて気軽に質問や相談がしたい&lt;/li&gt; &lt;li&gt;オリジナルアプリ・ポートフォリオのアイデアが出ない人&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;初学者に限らず、4月はモチベーション高く頑張りたい！という方は気軽にご参加ください。&lt;/p&gt; &lt;h1&gt;開催概要&lt;/h1&gt; &lt;p&gt;▶️場所：Gather(オンライン開催）&lt;br&gt;ビデオはオフ・音声のみ・無言OKです！（途中参加・退出なども自由です）&lt;/p&gt; &lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、GatherのURLが表示されます。&lt;/strong&gt;&lt;br&gt;（Gatherは、スマートフォン・PCどちらからでも、登録なしで参加することが可能です。）&lt;/p&gt; &lt;p&gt;また、Gatherは、ポケモンとZoomを掛け合わせたようなサービスだと言われています。&lt;br&gt;直感的な操作で、Zoomより気軽なコミュニケーションができます。&lt;/p&gt; &lt;p&gt;（もくもく会の始めに、Gatherの操作について不明な点があればご説明いたします！）&lt;/p&gt; &lt;h1&gt;当日のスケジュールの流れ&lt;/h1&gt; &lt;p&gt;▶️【19:00 - 20:50】&lt;br&gt;準備ができた人から各自作業開始！&lt;/p&gt; &lt;p&gt;はじめに、主催者から全体に簡単な説明・挨拶を致します。（Gatherの使い方やもくもく会について）&lt;/p&gt; &lt;p&gt;→その後、各自の作業を進めていきます（作業中も音声、チャットで気軽にやり取りができます）&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;▶️【20:50 - 】&lt;br&gt;軽く報告・雑談（任意）&lt;/p&gt; &lt;p&gt;本日やったことの簡単な報告・質問・雑談タイムです。&lt;/p&gt; &lt;p&gt;（例：「今日はProgateでJavaScriptを進めました！」「この本何ページ読みました！」など）&lt;/p&gt; &lt;p&gt;→その後、各自自由なタイミングで退出・引き続き作業して頂いてOKです。&lt;br&gt;（話が盛り上がって１時間近く話してしまう事がたまにあるので、自由解散という形にしています）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;途中参加・退出なども全く問題ないです&lt;/li&gt; &lt;li&gt;終わりに行う軽い報告・雑談は、任意参加です。作業のキリが悪かったり、離席していたりなどでも問題ありません。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;参考キーワード&lt;/h1&gt; &lt;p&gt;IT, web制作, webアプリ開発, プログラミング, 初心者歓迎, HTML, CSS, JavaScript, Python, Ruby, php, React.js, Vue.js, 個人開発, プロダクト開発, コミュニティ運営者, もくもく会運営者&lt;/p&gt;
     </content>
     <link rel='alternate' type='text/html' href='https://beginner-front.connpass.com/event/280010/'/>
     <published>
-      2023-04-04T05:28:17+09:00
+      2023-04-05T03:45:47+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://forkwell.connpass.com/event/277994/
+    </id>
+    <title>
+      とあるRailsエンジニアがビジネスリーダーに転身するまでの道のり - CTO名鑑 vol.3
+    </title>
+    <summary>
+      ピクスタ株式会社 CTO 後藤さんをお招きします！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;開催概要&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;──
+      「大きなロールモデルと出会おう」CTO名鑑シリーズ。&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;エンジニアとして自分のキャリアのロールモデルが見つからない、といった悩みはよくある悩みの一つです。
+      そこでエンジニアキャリアにおける一つの着地点ともいえるCTOの方々をお招きして、CTOになるまでのキャリア、何を学び、どのような道のりを歩んだのかを掘り下げていきます。&lt;/p&gt; &lt;p&gt;モデレーターにはInfra Study等のシリーズでもお馴染みのまつもとりー氏をお招きしました。まつもとりー氏自身も2022年5月より株式会社COGNANOの取締役CTOを務められており、皆様と共に学びを深めていけることを期待しております。&lt;/p&gt; &lt;p&gt;これまで書籍をテーマにしたイベントやインフラ・フロントエンドといったような技術領域をテーマに数々のイベントを開催してきたForkwellが新たにお届けする「人」テーマの新シリーズを是非、お楽しみください。&lt;/p&gt; &lt;p&gt;第3回目はピクスタ株式会社 CTOの後藤 優一氏をお招きいたします。 2020年発売の書籍「パーフェクトRuby on Rails」の共著者として、Ruby界隈で強い存在感を発揮しながらもご自身のブログでは&lt;a href=&quot;https://web-salad.hateblo.jp/entry/2022/09/30/130000&quot; rel=&quot;nofollow&quot;&gt;経営とソフトウェアエンジニアリングの接続&lt;/a&gt;というエントリでコーポレートファイナンスについて語り、345はてブを記録するなど話題を呼びました。 一見すると非連続で別人のような振る舞いを見せる後藤さんですが、本人曰く「連続的な変化の結果」とのことで講演では一人のRailsエンジニアがCTOになるまでの道のりを語っていただきます。&lt;/p&gt; &lt;h4&gt;🎁 参加者限定、プレゼント企画&lt;/h4&gt; &lt;p&gt;当日、イベント内でCTOの一冊を発表いただきます！ そちらの発表書籍をForkwell新規登録者もれなく、既存会員の方も抽選で5名様にプレゼントさせていただきます。&lt;/p&gt; &lt;p&gt;Forkwellに会員登録し、スカウトオンにしていただき、当日の応募フォームよりキャンペーン応募してください！&lt;/p&gt; &lt;p&gt;書籍は当日の発表まで秘密でございます！&lt;/p&gt; &lt;h4&gt;🧑‍💻 こんなエンジニアにおすすめ&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;将来的にCTOを目指すことも考えている方&lt;/li&gt; &lt;li&gt;様々なキャリアについて検討したい方&lt;/li&gt; &lt;li&gt;社外にロールモデルを求めたい方&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;⌛ タイムスケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;オープニング（5分）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Forkwell 運営&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;基調講演（30分）&lt;br&gt;とあるRailsエンジニアがビジネスリーダーに転身するまでの道のり&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;ピクスタ株式会社&lt;br&gt;後藤 優一 氏&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:05&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;プレゼント企画LT（5分）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Forkwell 運営&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩（5分）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;パネルトークセッション（〜45分）&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;後藤 優一 氏 × まつもとりー氏&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;クロージング&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Forkwell 運営&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;21:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;終了&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;&lt;font color=&quot;#1f81ad&quot;&gt;※ プログラムは変更となる可能性があります。随時こちらで更新いたします。&lt;/font&gt;&lt;/p&gt; &lt;h1&gt;🎤 登壇者情報&lt;/h1&gt; &lt;h2&gt;基調講演：とあるRailsエンジニアがビジネスリーダーに転身するまでの道のり&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/C9YWaOE.png&quot; width=&quot;120&quot;&gt;　&lt;strong&gt;&lt;font size=&quot;5&quot;&gt;後藤 優一&lt;/font&gt;&lt;/strong&gt; &lt;font size=&quot;3&quot;&gt;氏（&lt;a href=&quot;https://twitter.com/_yasaichi&quot; rel=&quot;nofollow&quot;&gt;@_yasaichi&lt;/a&gt;）&lt;/font&gt;&lt;br&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;ピクスタ株式会社&lt;br&gt;執行役員CTO&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;font size=&quot;2&quot;&gt;2015年にピクスタ株式会社に新卒入社後、開発プロセスの改善や開発基盤の整備に従事。2017年より開発部技術推進室長を経て、2020年より執行役員CTOに就任（現任）。現在は、次の主力事業の開発やより良いエンジニアリング組織づくりに取り組んでいる。著作に「パーフェクトRuby on Rails【増補改訂版】」（共著、技術評論社）がある。&lt;/font&gt; &lt;br&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;2020年発売の書籍「パーフェクトRuby on Rails」の共著者の一人である私と、その2年後に執筆したブログ記事「&lt;a href=&quot;https://web-salad.hateblo.jp/entry/2022/09/30/130000&quot; rel=&quot;nofollow&quot;&gt;経営とソフトウェアエンジニアリングの接続&lt;/a&gt;」でコーポレートファイナンスについて話す私は、客観的に見るとまるで別の人間のように見えるかもしれません。しかし、主観的にはこれらは連続的な変化の結果だと感じています。本講演では、一人のRuby on Railsエンジニアが執行役員になるまでの道のりにおいて、特に重要だったと考えている出来事や気づきについてお話ししたいと思います。&lt;/p&gt; &lt;/blockquote&gt; &lt;h2&gt;モデレーター&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/faRRHNt.png&quot; width=&quot;120&quot;&gt;　&lt;strong&gt;&lt;font size=&quot;5&quot;&gt;松本 亮介&lt;/font&gt;&lt;/strong&gt; &lt;font size=&quot;3&quot;&gt;氏（&lt;a href=&quot;https://twitter.com/matsumotory&quot; rel=&quot;nofollow&quot;&gt;@matsumotory&lt;/a&gt;）&lt;/font&gt;&lt;br&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;さくらインターネット研究所 主席研究員、COGNANO 取締役CTO&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;font size=&quot;2&quot;&gt;京都大学博士（情報学）、さくらインターネット研究所主席研究員、株式会社COGNANO取締役CTO、情報処理学会各種幹事・委員、ITRC各種委員、松本亮介事務所所長、その他複数社の技術顧問。2018年11月より現職のさくらインターネット研究所で主席研究員、2022年05月より株式会社COGNANOで取締役CTOを務める。第9回日本OSS奨励賞や2014年度情報処理学会山下記念研究賞など、その他受賞多数。2016年に情報処理学会IPSJ-ONEにおいて時流に乗る日本の若手トップ研究者19名に選出される。&lt;/font&gt;&lt;br&gt;&lt;/p&gt; &lt;h1&gt;📺 参加方法&lt;/h1&gt; &lt;p&gt;今回のオンライン勉強会は YouTube Live を使用してライブ配信いたします。&lt;br&gt;当日 19:30〜 配信がスタートしますので、下記のリンクよりチャンネル登録の上、ライブ配信予定枠のリマインダー設定をお願いします🙇‍♂️&lt;/p&gt; &lt;p&gt;&lt;font size=&quot;3&quot;&gt;🎥&lt;a href=&quot;https://www.youtube.com/c/Forkwell_jp?sub_confirmation=1&quot; rel=&quot;nofollow&quot;&gt;Forkwell 公式 IT エンジニアのキャリアと学び&lt;/a&gt;&lt;/font&gt;&lt;/p&gt; &lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/c/Forkwell_jp?sub_confirmation=1&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://i.imgur.com/3MDOUo5.jpg&quot;&gt;&lt;/a&gt;&lt;/div&gt; &lt;p&gt;またライブ配信終了後、アーカイブ動画の公開を予定しております。&lt;br&gt;当日の開催時間にライブ参加できない方も、connpass 参加申込みの上、ご視聴くださいませ。&lt;/p&gt; &lt;h1&gt;🤝 主催・協力&lt;/h1&gt; &lt;h2&gt;&lt;font color=&quot;#333333&quot; size=&quot;3&quot;&gt;主催：&lt;strong&gt;&lt;a href=&quot;https://bit.ly/fw_connpass&quot; rel=&quot;nofollow&quot;&gt;Forkwell&lt;/a&gt;&lt;/strong&gt;（株式会社grooves）&lt;/font&gt;&lt;br&gt;&lt;/h2&gt; &lt;div style=&quot;text-align: center;&quot;&gt; &lt;a href=&quot;https://bit.ly/fw_connpass&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;https://i.imgur.com/gl8DCeJ.png&quot; width=&quot;500&quot;&gt;&lt;/a&gt; &lt;/div&gt; &lt;p&gt;「つくり手と、未来を拓く。」というビジョンの元、「自分を知り、成長する」きっかけを提供する無料ポートフォリオサービスをはじめ、ITエンジニアに特化した求人・転職支援サービス、役立つ情報や場の提供などを通じて、ITエンジニアのキャリアに新しい選択肢を提示することで、人生の可能性を拡げるお手伝いをしています。&lt;br&gt;&lt;a href=&quot;https://bit.ly/fw_connpass&quot; rel=&quot;nofollow&quot;&gt;https://bit.ly/fw_connpass&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;&lt;/h5&gt; &lt;table style=&quot;border: solid 2px #1f81ad;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;div style=&quot;font-size: 150%; font-weight: bold; color: #1f81ad;&quot;&gt; ⚠️ 注意事項&lt;/div&gt; &lt;ul&gt; &lt;li&gt;当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。&lt;/li&gt; &lt;li&gt;Forkwell の宣伝をさせていただく時間がございます。予めご了承ください。&lt;/li&gt; &lt;li&gt;エンジニアの方を対象としたイベントのため、非エンジニアの方のご参加、ならびに同業に属する方の当イベント内でのリクルーティング活動につきましてご遠慮いただいております。&lt;/li&gt; &lt;li&gt;同業に属する方の当イベント内でのリクルーティング活動につきましてご遠慮いただいております。&lt;/li&gt; &lt;li&gt;イベント参加時にご入力いただいた情報は、以下に基づき適切に扱います。 &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.grooves.com/privacy&quot; rel=&quot;nofollow&quot;&gt;株式会社grooves プライバシーポリシー&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;イベントの様子を、&lt;a href=&quot;https://pr.forkwell.com/&quot; rel=&quot;nofollow&quot;&gt;Forkwell Press &lt;/a&gt;上の記事に掲載することがございます。掲載を希望されない方は、イベントページ問い合わせフォームより、掲載希望されない旨をお伝えください。&lt;/li&gt; &lt;li&gt;ブログやSNS等で当イベントに関する発信を行う際は、公序良俗に反する内容のないよう、ご協力をお願いします。&lt;/li&gt; &lt;li&gt;当イベントはオンライン開催のため、双方の通信状況により音声や映像に乱れがある場合がございます。&lt;/li&gt; &lt;li&gt;配信トラブル時のアナウンスは&lt;a href=&quot;https://twitter.com/Forkwell_ja&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;よりイベントハッシュタグをつけて行います。&lt;/li&gt; &lt;/ul&gt; また、ご参加者の方々が最大限楽しんで頂けるよう、運営サイドで参加にふさわしくないと判断させて頂いた方については、イベント中であろうとご退席をお願いすることがございます。 &lt;ul&gt; &lt;li&gt;保険、宗教、ネットワークビジネスの勧誘が目的と見られる方&lt;/li&gt; &lt;li&gt;その他運営サイドで参加が不適切だと判断した方&lt;/li&gt; &lt;/ul&gt; 誠に恐れ入りますが、あらかじめご了承くださいませ。 &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://forkwell.connpass.com/event/277994/'/>
+    <published>
+      2023-04-04T20:55:21+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://kobe-sannomiya-dev.connpass.com/event/277856/
+    </id>
+    <title>
+      【三宮.dev オフライン】もくもく会
+    </title>
+    <summary>
+      もくもくしましょ〜〜
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;概要&lt;/h1&gt; &lt;p&gt;みんなでもくもく作業しましょう！&lt;br&gt;
+      たまーに雑談しつつのんびり過ごしましょう～&lt;/p&gt; &lt;h1&gt;対象者&lt;/h1&gt;
+      &lt;p&gt;誰でも参加可&lt;/p&gt; &lt;h1&gt;開催場所&lt;/h1&gt; &lt;p&gt;神戸市中央区文化センター
+      会議室 1106&lt;/p&gt; &lt;h1&gt;三宮.devとは&lt;/h1&gt;
+      &lt;p&gt;神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです&lt;/p&gt;
+      &lt;p&gt;バックエンド～フロントエンドまで幅広い技術をテーマにしたイベントを企画・開催しています！&lt;/p&gt;
+      &lt;p&gt;毎月のイベントに関する情報などは&lt;a
+      href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;三宮.devのslack&lt;/a&gt;にて発信してますので是非ともご参加ください！&lt;/p&gt; &lt;p&gt;また、勉強会中に得た学びやハンズオンで用いた資料などメンバーが個人的に残しておきたいと思った情報は&lt;a href=&quot;https://scrapbox.io/sannomiya-dev/&quot; rel=&quot;nofollow&quot;&gt;三宮.devのScrapbox&lt;/a&gt; へ自由にアップロード可能としていますので、こちらもご活用ください！&lt;/p&gt; &lt;h1&gt;主催者プロフィール&lt;/h1&gt; &lt;h3&gt;てさお &lt;a href=&quot;https://twitter.com/tettyanman&quot; rel=&quot;nofollow&quot;&gt;@tettyanman&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;神戸で働くエンジニア&lt;br&gt; Ruby, Rustが好き&lt;br&gt; 最近気になっている技術は xR, Blockchain&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;me&quot; src=&quot;https://avatars.githubusercontent.com/tessai9?s=200&quot;&gt;&lt;/p&gt; &lt;h1&gt;slack&lt;/h1&gt; &lt;p&gt;三宮.devのslackあります&lt;br&gt; &lt;a href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;ご興味あればぜひご参加ください！&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;禁止事項、アンチハラスメントポリシー&lt;/h1&gt; &lt;p&gt;当コミュニティでは以下の行為を禁止させていただいております&lt;/p&gt; &lt;ul&gt; &lt;li&gt;勧誘や告知目的での参加&lt;/li&gt; &lt;li&gt;荒らし行為&lt;/li&gt; &lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://kobe-sannomiya-dev.connpass.com/event/277856/'/>
+    <published>
+      2023-04-04T19:53:27+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://kobe-sannomiya-dev.connpass.com/event/279997/
+    </id>
+    <title>
+      【三宮.dev オンライン】Webデザインのトレンドを追うLT会
+    </title>
+    <summary>
+      今ってどんなデザインが主流なの？
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;概要&lt;/h1&gt; &lt;p&gt;久々のオンライン開催となります&lt;/p&gt;
+      &lt;p&gt;三宮.devの&lt;a href=&quot;https://proposal.sannomiya.dev&quot;
+      rel=&quot;nofollow&quot;&gt;イベント提案・投票ページ&lt;/a&gt;
+      にて投票が多かった企画です！&lt;/p&gt; &lt;p&gt;最近のWebデザインは何が流行ってるのか？&lt;br&gt;
+      デザインセンスが絶望的な主催と一緒に、エンジニアも知っておきたいWebデザイン業界のトレンドをつかんでいきましょう！&lt;/p&gt;
+      &lt;p&gt;LT枠を設けてますので、些細なことからマニアックなことまで何でも発表してください！ &lt;/p&gt;
+      &lt;h1&gt;対象者&lt;/h1&gt; &lt;p&gt;Webデザインに興味ある方は誰でもOK&lt;/p&gt;
+      &lt;h1&gt;開催場所&lt;/h1&gt; &lt;p&gt;オンライン（Discord）&lt;br&gt;
+      ※イベントの参加登録後、Discordサーバへの招待リンクが表示されます&lt;/p&gt;
+      &lt;h1&gt;タイムスケジュール&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
+      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
+      &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00 〜 19:10&lt;/td&gt;
+      &lt;td&gt;自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10
+      〜&lt;/td&gt; &lt;td&gt;LTタイム&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;LT後&lt;/td&gt; &lt;td&gt;雑談 or ぬるっと解散&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;LT一覧&lt;/h1&gt; &lt;table&gt;
+      &lt;thead&gt; &lt;tr&gt; &lt;th&gt;#&lt;/th&gt; &lt;th&gt;タイトル&lt;/th&gt;
+      &lt;th&gt;発表者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
+      &lt;tr&gt; &lt;td&gt;1&lt;/td&gt; &lt;td&gt;企業ブログから最新のデザイン事情を知る&lt;/td&gt;
+      &lt;td&gt;てさお&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;T.B.D&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt;
+      &lt;tr&gt; &lt;td&gt;3&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt;
+      &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;T.B.D&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt;
+      &lt;tr&gt; &lt;td&gt;5&lt;/td&gt; &lt;td&gt;T.B.D&lt;/td&gt;
+      &lt;td&gt;T.B.D&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt;
+      &lt;h1&gt;三宮.devとは&lt;/h1&gt;
+      &lt;p&gt;神戸三宮を中心に関西のエンジニア界隈を盛り上げることを目的としたエンジニアコミュニティです&lt;/p&gt;
+      &lt;p&gt;バックエンド～フロントエンドまで幅広い技術をテーマにしたイベントを企画・開催しています！&lt;/p&gt;
+      &lt;p&gt;毎月のイベントに関する情報などは&lt;a
+      href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;三宮.devのslack&lt;/a&gt;にて発信してますので是非ともご参加ください！&lt;/p&gt; &lt;p&gt;三宮.devでは開催してほしいイベントを募集しています！&lt;br&gt; &lt;a href=&quot;https://proposal.sannomiya.dev&quot; rel=&quot;nofollow&quot;&gt;提案・投票ページ&lt;/a&gt;からお気軽にイベント案を投稿してください！&lt;/p&gt; &lt;p&gt;勉強会中に得た学びやハンズオンで用いた資料などメンバーが個人的に残しておきたいと思った情報は&lt;a href=&quot;https://scrapbox.io/sannomiya-dev/&quot; rel=&quot;nofollow&quot;&gt;三宮.devのScrapbox&lt;/a&gt; へ自由にアップロード可能としていますのでご活用ください！&lt;/p&gt; &lt;h1&gt;主催者プロフィール&lt;/h1&gt; &lt;h3&gt;てさお &lt;a href=&quot;https://twitter.com/tettyanman&quot; rel=&quot;nofollow&quot;&gt;@tettyanman&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;神戸で働くエンジニア&lt;br&gt; Rubyが好き&lt;br&gt; 最近はKotlinを書きたいなと思っている&lt;/p&gt; &lt;p&gt;&lt;img alt=&quot;me&quot; src=&quot;https://avatars.githubusercontent.com/tessai9?s=200&quot;&gt;&lt;/p&gt; &lt;h1&gt;slack&lt;/h1&gt; &lt;p&gt;三宮.devのslackあります&lt;br&gt; &lt;a href=&quot;https://join.slack.com/t/kobe-sannomiya-dev/shared_invite/zt-g45oc103-sIqIL~Lu~TVz~G38iADyDA&quot; rel=&quot;nofollow&quot;&gt;ご興味あればぜひご参加ください！&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;禁止事項、アンチハラスメントポリシー&lt;/h1&gt; &lt;p&gt;当コミュニティでは以下の行為を禁止させていただいております&lt;/p&gt; &lt;ul&gt; &lt;li&gt;勧誘や告知目的での参加&lt;/li&gt; &lt;li&gt;荒らし行為&lt;/li&gt; &lt;li&gt;その他、参加者が不快と感じられるような行為全般&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;上記行為を見聞きした参加者は、お手数ですが主催者までご連絡いただくようお願いいたします。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://kobe-sannomiya-dev.connpass.com/event/279997/'/>
+    <published>
+      2023-04-04T19:53:04+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://classtech.connpass.com/event/280085/
+    </id>
+    <title>
+      毎週Ruby, Railsもくもく会 #157 オンライン 駆け出しエンジニアも歓迎！
+    </title>
+    <summary>
+      初心者さんも玄人さんもRubyとかRailsとかで楽しくもくもくしましょうの会です
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;このイベントはオンラインイベントです。好きな場所から自由に参加出来ます。&lt;/h1&gt;
+      &lt;p&gt;こんにちは。&lt;/p&gt;
+      &lt;p&gt;RubyやRailsを使っている人（使えるようになりたい人）が仕事終わりに集まってもくもくしませんか？&lt;br&gt;
+      1人だとやる気が出ない！誰かと時間を共有して作業したい！というそこのあなた！一緒にもくもくしましょう！ &lt;/p&gt;
+      &lt;h3&gt;○スケジュール&lt;/h3&gt; &lt;p&gt;毎週火曜日19:00〜22:00開催予定&lt;/p&gt;
+      &lt;h3&gt;○当日の流れ&lt;/h3&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt;
+      &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:00〜19:10&lt;/td&gt; &lt;td&gt;軽く自己紹介+今日やることの発表&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:10〜22:00&lt;/td&gt;
+      &lt;td&gt;もくもく（質問や雑談など歓迎です）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;22:00&lt;/td&gt; &lt;td&gt;今日の進捗報告&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt; &lt;h3&gt;○参加費&lt;/h3&gt;
+      &lt;p&gt;無料です。&lt;/p&gt; &lt;h3&gt;○教材等当日やること&lt;/h3&gt;
+      &lt;p&gt;各々やることは準備してください！&lt;br&gt;
+      何か質問あればお気軽に聞いてください。お話出来る人たちでお話しましょう。&lt;/p&gt;
+      &lt;h3&gt;○参加可能人数&lt;/h3&gt;
+      &lt;p&gt;一応10人までとしていますがWherebyでやることを考えているので申込状況を見て上限を伸ばそうと思っています。
+      参加希望の方はお早めにお申し込みください。また、当日までに参加出来なくなった場合は早めにキャンセルのほどよろしくお願いいたします。
+      下のフィードに不参加のご連絡をいたっだいても主催者に通知が飛ばないため気づくことが出来ません。 なのでコンパス上でキャンセルを行うか &lt;a
+      href=&quot;https://twitter.com/DAI199&quot;
+      rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または
+      info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○会場&lt;/h3&gt;
+      &lt;p&gt;オンラインです。Wherebyを使う予定です。&lt;br&gt;
+      参加申込をしていただくとイベントページのチケット下に参加者のみが見ることが出来るフィールドが表示され、そこにURLが書かれています。&lt;/p&gt; &lt;h3&gt;○ハッシュタグ&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;vertical=default&amp;amp;q=%23%E6%AF%8E%E9%80%B1RubyRails&quot; rel=&quot;nofollow&quot;&gt;#毎週RubyRails&lt;/a&gt; 参加した感想やもくもくする内容・進捗などつぶやいてもらえると嬉しいです！&lt;/p&gt; &lt;h3&gt;○その他&lt;/h3&gt; &lt;p&gt;何か質問等ありましたらお気軽に &lt;a href=&quot;https://twitter.com/DAI199&quot; rel=&quot;nofollow&quot;&gt;@DAI199&lt;/a&gt;、または info+mokumoku@class-tech.meまでご連絡ください。&lt;/p&gt; &lt;h3&gt;○よくある質問&lt;/h3&gt; &lt;h4&gt;Q. 本当に初心者なんですけど大丈夫でしょうか？&lt;/h4&gt; &lt;h4&gt;A. 大丈夫です！参加者の方々は最近RubyやRailsを始めた方が多くいらっしゃいますので気軽に来ていただければ！&lt;/h4&gt; &lt;h4&gt;Q. Ruby/Railsでわからないところがあるんですけど質問してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい、ぜひぜひ聞いてみてください！&lt;/h4&gt; &lt;h4&gt;Q. 参加者は固定されていますか？&lt;/h4&gt; &lt;h4&gt;A. いえ、ほとんど毎回初参加の方がいらっしゃいますのでお気になさらずご参加ください。&lt;/h4&gt; &lt;h4&gt;Q. 一緒に参加したい人がいるのですが一緒に参加してもよいですか？&lt;/h4&gt; &lt;h4&gt;A. はい。その方も参加申し込みお願いします。ぜひご一緒にご参加ください！&lt;/h4&gt; &lt;h3&gt;○お願い&lt;/h3&gt; &lt;p&gt;この下にあるフィードに投稿されてもたがみのほうで通知等を受け取ることが現状出来ていません。（誰かやり方あれば教えてください） なのでフィードに投稿されるよりもTwitter(@DAI199)やメール(info@class-tech.me)までご連絡いただければ幸いです。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://classtech.connpass.com/event/280085/'/>
+    <published>
+      2023-04-04T19:16:15+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://icare.connpass.com/event/279694/
+    </id>
+    <title>
+      ★五十嵐邦明さん講師★「Railsの練習帳」で学ぶ実践知識 その1 ActiveRecord
+    </title>
+    <summary>
+      本来は社内向けの研修ですが、今回は特別に外部の方もお招きして開催します！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;iCARE顧問の五十嵐邦明さんより、ペアプロでよく質問される内容を勉強会形式で講義します。&lt;/p&gt;
+      &lt;p&gt;※本来は社内向けの研修となりますが、今回は特別に外部の方もお招きして開催したいと思います！&lt;/p&gt;
+      &lt;p&gt;今回はActiveRecordに関する各種知識の中から役立つものを厳選して説明します！&lt;/p&gt;
+      &lt;h1&gt;日時&lt;/h1&gt; &lt;p&gt;2023年4月5日(水)17~18時&lt;/p&gt;
+      &lt;h1&gt;タイムテーブル&lt;/h1&gt;
+      &lt;p&gt;発表者や発表タイトル、発表順などは変更になる可能性があります。&lt;/p&gt; &lt;table&gt;
+      &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt;
+      &lt;th align=&quot;center&quot;&gt;タイトル&lt;/th&gt; &lt;/tr&gt;
+      &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;17:00-17:05&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;オープニング(Devからの挨拶と社内の取り組みについてご案内)&lt;/td&gt;
+      &lt;/tr&gt; &lt;tr&gt; &lt;td
+      align=&quot;left&quot;&gt;17:05-17:55&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;五十嵐邦明さんの研修開始&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td align=&quot;left&quot;&gt;17:55-18:00&lt;/td&gt; &lt;td
+      align=&quot;center&quot;&gt;終わりの挨拶とアンケートURLの告知&lt;/td&gt; &lt;/tr&gt;
+      &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;登壇者&lt;/h1&gt; &lt;h2&gt;&lt;a
+      href=&quot;https://twitter.com/igaiga555&quot;
+      rel=&quot;nofollow&quot;&gt;五十嵐邦明さん&lt;/a&gt; / フリーランス&lt;/h2&gt;
+      &lt;p&gt;フリーランスのRuby, Railsプログラマー。2003年、Rubyで書かれたWeb日記アプリ tDiary を使い始めて
+      Rubyist になる。一橋大学の非常勤講師として2012年から2年間、Ruby と Rails を教える。受託開発会社、Webサービス開発会社
+      CTO などを経て2017年4月よりフリーランス、2019年7月ガーネットテック373株式会社を設立、同社代表取締役社長。RubyWorld
+      Conference や RubyConf 台湾などで講演。島根県 Ruby 合宿、Rails 寺子屋、Rails Girls
+      などで講師を行う。著書に「ゼロからわかる Ruby超入門」、「Railsの教科書」、「パーフェクト Ruby on
+      Rails【増補改訂版】」、「RubyとRailsの学習ガイド」ほか。&lt;/p&gt; &lt;h1&gt;株式会社 iCARE
+      について&lt;/h1&gt; &lt;p&gt;法人向けヘルスケア SaaS 「Carely(ケアリィ)」を提供している急成長 IT
+      ベンチャーです。&lt;/p&gt; &lt;p&gt;Carely は、「健康労務をミスなく、ラクに。」というコンセプトのもと、
+      健康診断・ストレスチェック・過重労働などの企業の健康労務の一元管理と
+      従業員が社内の保健師やカウンセラーといつでもチャットを通じて相談できるサービスです。&lt;/p&gt; &lt;p&gt;&lt;a
+      href=&quot;https://www.icare.jpn.com/&quot;
+      rel=&quot;nofollow&quot;&gt;株式会社 iCARE 会社サイト&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.carely.jp/&quot;
+      rel=&quot;nofollow&quot;&gt;Carely 製品ページ&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://devdriven.icare-carely.co.jp/&quot;
+      rel=&quot;nofollow&quot;&gt;開発部特別サイト&lt;/a&gt;&lt;/p&gt; &lt;p&gt;※2021 年の
+      3 月に渋谷円山町から恵比寿にオフィスを引っ越しました。(&lt;a
+      href=&quot;https://www.google.co.jp/maps/place/%E3%88%B1+iCARE/@35.6463357,139.7149927,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c8303bade41:0x5bb034dc2b3a4d16!8m2!3d35.6463357!4d139.7149927&quot; rel=&quot;nofollow&quot;&gt;Map&lt;/a&gt;)&lt;/p&gt; &lt;p&gt;また技術書典 9 に iCARE Tech Book を無料で出版しておりますのでぜひダウンロードしてお読みください！&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://techbookfest.org/product/5023805390979072?productVariantID=6089531604336640&quot; rel=&quot;nofollow&quot;&gt;ダウンロードはこちら👍&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;株式会社 iCARE では各ポジションで募集しています。&lt;/h1&gt; &lt;p&gt;サーバーサイドエンジニア QAエンジニア SRE 詳しくは、&lt;a href=&quot;https://herp.careers/v1/icare/requisition-groups/a834f71a-27b8-43e6-b533-6fa4f17f48a8&quot; rel=&quot;nofollow&quot;&gt;HERP求人ページ&lt;/a&gt;をご確認ください👍&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;参加していただくに際し、&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://icare-dev.kibe.la/shared/entries/9562158a-b50d-4f17-9548-42805b78b0d8&quot; rel=&quot;nofollow&quot;&gt;アンチハラスメントポリシー&lt;/a&gt; をご一読ください。&lt;/p&gt; &lt;p&gt;下記の目的での参加はご遠慮ください。&lt;/p&gt; &lt;p&gt;採用、営業目的&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://icare.connpass.com/event/279694/'/>
+    <published>
+      2023-04-04T11:34:27+09:00
     </published>
   </entry>
   <entry>
@@ -92,251 +305,6 @@
     <link rel='alternate' type='text/html' href='https://coderdojoowari.connpass.com/event/279989/'/>
     <published>
       2023-04-03T21:04:49+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://gotanda-rb.connpass.com/event/279674/
-    </id>
-    <title>
-      Gotanda.rb#52@オンライン
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;オンライン開催について&lt;/h1&gt; &lt;h2&gt;会場&lt;/h2&gt;
-      &lt;p&gt;こちらの&lt;a
-      href=&quot;https://us06web.zoom.us/j/87465252230?pwd=QUZHTlB2dDFIaXd5RDQ4ZkVwTEN0dz09&quot; rel=&quot;nofollow&quot;&gt;ZoomURL&lt;/a&gt;にて開催予定です。 別途、お申し込みいただいた方に対して、開催当日の正午にZoomの会場URLをメールにて送信いたします。 また、&lt;a href=&quot;https://join.slack.com/t/gotandarb/shared_invite/enQtNzkwMzA0NjEzODc3LTY4NGQ2OWNjNjAxODA4NzIzNGQ5N2VkZjE0ODkzMDNmM2I1Y2YzOTcxZDBkZjJmODgyZWQxZWMwMTk4ZGY5ZDI&quot; rel=&quot;nofollow&quot;&gt;Slackのワークスペース&lt;/a&gt;でもURLをアナウンスいたしますので、そちらからのご参加も可能です。&lt;/p&gt; &lt;h1&gt;このコミュニティについて&lt;/h1&gt; &lt;p&gt;Gotanda.rb は五反田周辺のエンジニアが集まって Ruby 周辺技術に関する勉強会を開催したり、繋がりを増やすためのRubyコミュニティです。Rubyが好きなエンジニアであればOKなので、どなたでも気軽に参加ください。実践的な議論ができるようなコミュニティにしていければと思います。&lt;/p&gt; &lt;h2&gt;Slack&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://join.slack.com/t/gotandarb/shared_invite/enQtNzkwMzA0NjEzODc3LTY4NGQ2OWNjNjAxODA4NzIzNGQ5N2VkZjE0ODkzMDNmM2I1Y2YzOTcxZDBkZjJmODgyZWQxZWMwMTk4ZGY5ZDI&quot; rel=&quot;nofollow&quot;&gt;Slackのワークスペース&lt;/a&gt;でイベント情報の発信やノウハウ共有を行っております！よろしければご参加ください！ &lt;/p&gt; &lt;h2&gt;Twitter&lt;/h2&gt; &lt;p&gt;ハッシュタグ『&lt;a href=&quot;https://twitter.com/search?q=gotandarb&amp;amp;src=typed_query&amp;amp;f=live&quot; rel=&quot;nofollow&quot;&gt;#gotandarb&lt;/a&gt;』で、当日の盛り上がりを参加していない皆さんにもお届けしたいと思います！&lt;/p&gt; &lt;p&gt;また、&lt;a href=&quot;https://twitter.com/gotandarb&quot; rel=&quot;nofollow&quot;&gt;公式Twitterアカウント&lt;/a&gt;でもイベント情報を発信しております。&lt;/p&gt; &lt;h1&gt;LTについて&lt;/h1&gt; &lt;p&gt;RubyやRailsに関連する内容であれば何でもOKです。発表時間は1人あたり5〜10分を予定しています。&lt;br&gt; ※LT発表者の方は発表のタイトルを&lt;a href=&quot;https://twitter.com/yutadayo&quot; rel=&quot;nofollow&quot;&gt;堀井(TwitterDM)&lt;/a&gt; か&lt;a href=&quot;https://join.slack.com/t/gotandarb/shared_invite/enQtNzkwMzA0NjEzODc3LTY4NGQ2OWNjNjAxODA4NzIzNGQ5N2VkZjE0ODkzMDNmM2I1Y2YzOTcxZDBkZjJmODgyZWQxZWMwMTk4ZGY5ZDI&quot; rel=&quot;nofollow&quot;&gt;Slackのワークスペース&lt;/a&gt;までご連絡頂けましたらイベントページに反映させて頂きます。&lt;br&gt; ※順番は申し込み順にしていますが、もし順番のご都合が悪ければご連絡下さい。&lt;/p&gt; &lt;h1&gt;アジェンダ&lt;/h1&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00 ~&lt;/td&gt; &lt;td&gt;Zoom開場・事前準備(LT登壇者の確認や接続など)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30~19:40&lt;/td&gt; &lt;td&gt;Gotanda.rbについて&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:40~&lt;/td&gt; &lt;td&gt;LT開始（1人10分目安、途中休憩あり）&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;~21:00&lt;/td&gt; &lt;td&gt;LT終了（※終了後はゆるく懇親会をします）&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※一人あたりのLT枠の時間はあくまで目安なので、多少の前後は問題ありません 。 &lt;br&gt; ※飛び込みLT大歓迎です、記事・ドキュメントやプロダクトコードを見せながらなど、スライド資料なしでも可。&lt;/p&gt; &lt;h2&gt;お願い&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;通信環境の安定化の目的で、LTおよび運営のアナウンスの最中にはカメラやマイクはオフにしていただけますと幸いです。&lt;/li&gt; &lt;li&gt;LT登壇いただける方は、ご自身の登壇になりましたらスクリーンの共有をお願いいたします。&lt;/li&gt; &lt;li&gt;参加者全員に配信を行いますので、当日はイベントの内容と関係のない画面や音声の共有などによる迷惑行為を行わないようにお願いします。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://gotanda-rb.connpass.com/event/279674/'/>
-    <published>
-      2023-04-03T18:28:58+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://rhc.connpass.com/event/279952/
-    </id>
-    <title>
-      Ruby-dev office hour RubyKaigi 2023 直前スペシャル
-    </title>
-    <summary>
-      Rubyインタプリタ開発者の視点から見た RubyKaigi 2023 プログラム
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;毎週月曜 11:00~ 行っている Ruby インタプリタ開発者だったりそうでない人が集まって雑談する &lt;a
-      href=&quot;https://hackmd.io/@ko1/Sks9RfAg_&quot;
-      rel=&quot;nofollow&quot;&gt;Ruby-dev office hour&lt;/a&gt; ですが、RubyKaigi
-      2023 直前ということで、夜に RubyKaigi 2023
-      のプログラムを見ながら雑談しようと思います。ちょっとカッコよくいうと「Rubyインタプリタ開発者の視点から見た RubyKaigi 2023
-      プログラム」という内容になるんじゃないかと思います。なるといいなぁ。&lt;/p&gt; &lt;p&gt;とりあえず Matz
-      は来てくれるそうです。 連休中日で恐縮ですが、興味ある方がいらっしゃいましたらご参集ください。&lt;/p&gt; &lt;p&gt;いつもの
-      Zoom URL でやるので、実は登録も不要です。が（ないと思うけど）100 人超えると普通の zoom
-      設定だとまずそうなので、なんとなく参加登録をお願いしている次第です。&lt;/p&gt;
-      &lt;p&gt;※終了時間は目安ですので、早く終わるかもしれないし、遅くまでやっているかもしれません。当日の気分次第です。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://rhc.connpass.com/event/279952/'/>
-    <published>
-      2023-04-03T16:33:07+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://connpass.com/event/278700/
-    </id>
-    <title>
-      【LT会&amp;勉強会】エンジニアの輪 at 東京（第8回）
-    </title>
-    <summary>
-      現役エンジニアからエンジニア志望の方まで誰でも参加OKです＾＾
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;【エンジニアの輪】とは&lt;/h2&gt;
-      &lt;p&gt;このイベントではLTにて勉強や刺激、知識の共有・気づきになることも目的としております。
-      また、現役エンジニアや今後エンジニアになりたい人たちが交流できることを重視しております。&lt;br&gt;
-      職場外の方と話をして、新しい知見を得てください。&lt;/p&gt; &lt;h2&gt;概要&lt;/h2&gt;
-      &lt;p&gt;LTで新しい気づきを得たり、雑談を通して横のつながりを築くことを目的とした雑談勉強会&lt;/p&gt;
-      &lt;h2&gt;対象者&lt;/h2&gt; &lt;p&gt;・現役エンジニア、デザイナー等のIT業界で活躍されている方&lt;br&gt;
-      ・異業種からエンジニア、デザイナーを目指して学習中の方 &lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;center&quot;&gt;スケジュール&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;12:45 ~
-      13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;受付&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:00 ~
-      13:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自己紹介&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:15 ~
-      13:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トークタイム①&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:50 ~
-      14:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT会①&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;14:30 ~
-      14:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;14:40 ~
-      15:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トークタイム②&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;15:20 ~
-      16:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT会②&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;16:00 ~
-      16:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;16:10 ~
-      16:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トークタイム③&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;16:45 ~
-      17:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;片付け&lt;/td&gt;
-      &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;LT 登壇者&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;center&quot;&gt;登壇者名&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;テーマ&lt;/th&gt; &lt;th
-      align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;未定&lt;/td&gt;
-      &lt;td align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
-      &lt;/table&gt; &lt;h2&gt;運営者&lt;/h2&gt; &lt;h3&gt;たつぽん&lt;/h3&gt;
-      &lt;p&gt;&lt;img
-      src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2682570/98e4699c-b750-f21d-2168-c0ddcca01987.png&quot; width=&quot;20%&quot;&gt;&lt;br&gt; サーバーサイドエンジニア&lt;br&gt; &lt;br&gt; 2020年に異業種からエンジニアへ未経験で転職。Javaをメインとしたバックエンドエンジニアとして従事。&lt;br&gt; 本業の傍ら、転職クエストにて転職支援を実施し、複数の内定獲得者のサポートを経験。現在も進行形でサポート中。&lt;br&gt; 経験者・未経験者問わず、エンジニアのキャリアの幅を広げたい想いでオフラインにて交流会のイベント（エンジニア交流会）を開催中。&lt;br&gt; 　• Twitter : &lt;a href=&quot;https://twitter.com/tatsuya_0521&lt;br&gt;&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/tatsuya_0521&lt;br&gt;&lt;/a&gt; 　• 経験技術：Java, MySQL, PostgreSql, オンプレ少々, AWS少々, サーバーセットアップ（Apacheなど）&lt;/p&gt; &lt;h3&gt;クマ&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2682570/dfb2e15a-0eec-d3e9-41c8-1333c64d4bd7.jpeg&quot; width=&quot;20%&quot;&gt;&lt;br&gt; バックエンドエンジニア&lt;br&gt; &lt;br&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Twitter : &lt;a href=&quot;https://twitter.com/TkTkTkTkTako/photo&lt;br&gt;&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/TkTkTkTkTako/photo&lt;br&gt;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;個人ブログ（Qiita）：&lt;a href=&quot;https://qiita.com/TkTkTkTkTako&quot; rel=&quot;nofollow&quot;&gt;https://qiita.com/TkTkTkTkTako&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Github: &lt;a href=&quot;https://github.com/Kuma-inataku&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Kuma-inataku&lt;/a&gt;&lt;/li&gt; &lt;li&gt;経験技術：PHP, Laravel, Vue.JS, Docker, SQL&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;hiroto&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2682570/ea98f239-f12e-e440-f17c-0f462c00bdcf.jpeg&quot; width=&quot;20%&quot;&gt;&lt;br&gt; ソフトウェアエンジニア &lt;br&gt; &lt;br&gt; 　• Twitter：&lt;a href=&quot;https://twitter.com/zukka_husqy&lt;br&gt;&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/zukka_husqy&lt;br&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;長岡ゆーき&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2682570/4427271d-4519-6ed3-f5c2-fdb3916e039d.png&quot; width=&quot;20%&quot;&gt;&lt;br&gt; エンジニア採用プラットフォーム『NEWTRAL』代表 &lt;br&gt;&lt;br&gt; 大阪の受託開発企業にてRuby, Railsを中心に開発業務に従事&lt;br&gt; その後、独立してフリーランスとして活動を経て起業&lt;br&gt; ITエンジニアの採用を支援する自社サービスを開発中&lt;br&gt; 　• Twitter：&lt;a href=&quot;https://twitter.com/freepc_yuki&lt;br&gt;&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/freepc_yuki&lt;br&gt;&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;■ イベント内外で発生した事故、盗難等は主催者・会場・参加者は一切責任を負いません。&lt;br&gt; ■ 天候/災害などの理由でイベント関係者の安全を考慮し、イベントの内容を変更/中止する場合がございます。&lt;br&gt; ■ イベント参加にはconnpassでの申し込みが必要です。お申し込みがない場合は参加できませんのでご注意ください。&lt;br&gt; ■ トラブルによる遅刻の場合は主催者までご一報ください。&lt;br&gt; ■ 当日キャンセルや直前でのキャンセルの場合は主催者までご一報ください。&lt;br&gt; ■ 参加費は当日会場でお預かりいたします。 &lt;/p&gt; &lt;h2&gt;禁止事項に関してご理解とご協力をお願いします！&lt;/h2&gt; &lt;p&gt;なるべく参加した皆さんが「参加してよかった！」と思っていただけるように、コミュニケーションを取りやすい環境を作りたいと考えております。そのため、下記にあてはまる方の参加は、主旨に反する恐れがあるため、お断りさせていただいております。 イベント中に発覚した場合は途中でも退場していただく可能性がありますのでご了承ください。（その場合の返金は一切いたしません。）&lt;/p&gt; &lt;p&gt;■ ネットワークビジネス/マルチビジネスなどへの勧誘・宣伝に関する行為&lt;br&gt; ■ 政治・宗教・思想団体への勧誘行為&lt;br&gt; ■ その他物品や情報の販売に類する行為&lt;br&gt; ■ 個人情報の詮索・収集を目的とする行為&lt;br&gt; ■ 迷惑行為・ハラスメント・ナンパなど、他の参加者を不快にさせる行為&lt;br&gt; ■ 無断キャンセル/特別な事情のない当日キャンセル&lt;br&gt; ■ 反社会勢力に関わる方&lt;br&gt; ■ その他、主催者が参加にふさわしくないと判断した方&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://connpass.com/event/278700/'/>
-    <published>
-      2023-04-03T14:43:15+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://histudy.connpass.com/event/279753/
-    </id>
-    <title>
-      姫路IT系勉強会 2023.04 (オンライン)
-    </title>
-    <summary>
-      オンライン開催ですので、はり姫には立ち入らないでください
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;姫路IT系勉強会&lt;/h1&gt;
-      &lt;p&gt;姫路IT系勉強会は、毎月第3土曜日に開催している兵庫県姫路市を中心とした周辺地域の
-      技術に興味のある人たちが気軽に集まり交流できる勉強会です。&lt;/p&gt;
-      &lt;p&gt;参加者には以下のような人たちが参加しています。&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;学生&lt;/li&gt; &lt;li&gt;Web製作者&lt;/li&gt;
-      &lt;li&gt;Webデザイナー&lt;/li&gt; &lt;li&gt;マークアップエンジニア&lt;/li&gt;
-      &lt;li&gt;エンジニア&lt;/li&gt; &lt;li&gt;フロントエンド&lt;/li&gt;
-      &lt;li&gt;バックエンド&lt;/li&gt; &lt;li&gt;サーバー&lt;/li&gt;
-      &lt;li&gt;インフラ&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;勉強会の開催方法&lt;/h1&gt;
-      &lt;p&gt;オンライン開催とオフライン開催があります。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;偶数月
-      オンライン&lt;/li&gt; &lt;li&gt;&lt;del&gt;奇数月
-      オフライン(はり姫)&lt;/del&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;オンライン&lt;/h2&gt;
-      &lt;p&gt;COVID-19の影響により、&lt;a href=&quot;https://discordapp.com/&quot;
-      rel=&quot;nofollow&quot;&gt;Discord&lt;/a&gt;を使ってのオンライン開催となります。
-      参加にあたっては以下の招待コードからDiscord姫路IT系勉強会チャンネルへご参加ください。&lt;/p&gt; &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://discord.gg/rZCeScB&quot;
-      rel=&quot;nofollow&quot;&gt;https://discord.gg/rZCeScB&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;はじめに&lt;/h2&gt; &lt;p&gt;当日、話し合いたい内容を自由にご記入ください。&lt;/p&gt; &lt;p&gt;(お題に関しては少しでもIT系にカスッていれば何を記載してOKです)&lt;/p&gt; &lt;ul&gt; &lt;li&gt;興味があること&lt;/li&gt; &lt;li&gt;こんなのやってみた(俺/私の話を聞いてくれ！)&lt;/li&gt; &lt;li&gt;聞いてみたいこと / 悩んでいること&lt;/li&gt; &lt;li&gt;他の会社/フリーランスの人と交流してみたい&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;勉強会の進行方法&lt;/h2&gt; &lt;p&gt;お題を元に参加者全員でついて話し合う、&lt;/p&gt; &lt;p&gt;座談会(アンカンファレンス)形式で進行します。&lt;/p&gt; &lt;p&gt;当日に話し合うお題はHackMDに記載します。&lt;/p&gt; &lt;p&gt;※お題を記載した人が何かを発表をしなければいけないという類のものでありませんが、&lt;/p&gt; &lt;p&gt;「ぜひ、発表をしたい！」という場合は歓迎します。&lt;/p&gt; &lt;p&gt;オンライン開催の場合はDiscordにて行われます。 オンライン開催に参加される場合は、当日までに上記リンクより登録をお願いします。&lt;/p&gt; &lt;p&gt;姫路IT系勉強会 Discordへ参加する&lt;/p&gt; &lt;h2&gt;過去のお題(例)&lt;/h2&gt; &lt;p&gt;過去の開催ログはログはこちらで公開されています。&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://histudy.jp/&quot; rel=&quot;nofollow&quot;&gt;https://histudy.jp/&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;勉強会のお題/ログ (HackMD)&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://hackmd.io/PGldHbiJR3eqx0NbFYPYkw&quot; rel=&quot;nofollow&quot;&gt;https://hackmd.io/PGldHbiJR3eqx0NbFYPYkw&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;p&gt;記載されたお題をジャンル分け・レベル分けし、以下の様な感じで開催されます。&lt;/p&gt; &lt;div class=&quot;codehilite&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;15&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;会場の準備&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;机の並び替えや&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HackMDにお題の記載など&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;前説・自己紹介&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;14&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;00&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;お題&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;〜&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;比較的万人向け？&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;15&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;00&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;お題&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;〜&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;プログラム系のネタが多め？&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;00&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;お題&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;〜&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;インフラ・ネットワーク・サーバ系・脱落者多数のネタ多し？&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;00&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;終了&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt; &lt;p&gt;お題の数や盛り上がり具合により時間は変動します、 また、間に適当に休憩を挟むので時間は前後します。&lt;/p&gt; &lt;h1&gt;懇親会について&lt;/h1&gt; &lt;p&gt;終了後に希望者の数次第で懇親会があります。(オフラインのみ)&lt;/p&gt; &lt;h1&gt;姫路IT系勉強会のキーワード&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;プログラミング / 各種フレームワーク&lt;ul&gt; &lt;li&gt;JavaScript / TypeScript&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://jp.vuejs.org/&quot; rel=&quot;nofollow&quot;&gt;Vue.js&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://ja.reactjs.org/&quot; rel=&quot;nofollow&quot;&gt;React&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;PHP&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://laravel.com/&quot; rel=&quot;nofollow&quot;&gt;Laravel&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://cakephp.org/&quot; rel=&quot;nofollow&quot;&gt;CakePHP&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://symfony.com/&quot; rel=&quot;nofollow&quot;&gt;Symfony&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Ruby&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://rubyonrails.org/&quot; rel=&quot;nofollow&quot;&gt;Ruby on Rails&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Python&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.djangoproject.com/&quot; rel=&quot;nofollow&quot;&gt;Django&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://flask.palletsprojects.com/&quot; rel=&quot;nofollow&quot;&gt;Flask&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;シェルスクリプト&lt;/li&gt; &lt;li&gt;Common Lisp&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;http://www.lispworks.com/documentation/HyperSpec/Front/index.htm&quot; rel=&quot;nofollow&quot;&gt;hyperspec&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.quicklisp.org/beta/&quot; rel=&quot;nofollow&quot;&gt;quicklisp&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Web制作&lt;ul&gt; &lt;li&gt;Webデザイン&lt;/li&gt; &lt;li&gt;HTML / CSS / JavaScriptなどのライブラリ&lt;/li&gt; &lt;li&gt;CMS / ヘッドレスCMS&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://ja.wordpress.org/&quot; rel=&quot;nofollow&quot;&gt;WordPress&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://concrete5-japan.org/&quot; rel=&quot;nofollow&quot;&gt;Concrete5&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;クラウド / サーバー / ネットワーク&lt;ul&gt; &lt;li&gt;仮想化&lt;/li&gt; &lt;li&gt;クラウド&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/&quot; rel=&quot;nofollow&quot;&gt;AWS(Amazon Web Services)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://console.cloud.google.com/&quot; rel=&quot;nofollow&quot;&gt;GCP(Google Cloud Platform)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://azure.microsoft.com/&quot; rel=&quot;nofollow&quot;&gt;Azure(Microsoft Azure)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://cloud.sakura.ad.jp/&quot; rel=&quot;nofollow&quot;&gt;さくらのクラウド&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;構成管理 / IaC(Infrastructure as Code)&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.ansible.com/&quot; rel=&quot;nofollow&quot;&gt;Ansible&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.terraform.io/&quot; rel=&quot;nofollow&quot;&gt;Terraform&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.packer.io/&quot; rel=&quot;nofollow&quot;&gt;Packer&lt;/a&gt; など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;プロジェクトマネジメント / タスクマネージメント / ワークフロー&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.redmine.org/&quot; rel=&quot;nofollow&quot;&gt;Redmine&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://backlog.com/&quot; rel=&quot;nofollow&quot;&gt;Backlog&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/ja/software/jira&quot; rel=&quot;nofollow&quot;&gt;Jira&lt;/a&gt;など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;エディタ / IDE&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; rel=&quot;nofollow&quot;&gt;VSCode(Visual Studio Code)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Vim&lt;/li&gt; &lt;li&gt;Emacs など&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;OSS(オープンソースソフトウェア)&lt;/li&gt; &lt;li&gt;Android / iOS&lt;/li&gt; &lt;li&gt;ガジェット / Raspberry Pi / Beagle bone black&lt;/li&gt; &lt;li&gt;IT技術者のライフハック&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;その他、関連することなどなど…&lt;/p&gt; &lt;h1&gt;連絡方法&lt;/h1&gt; &lt;p&gt;姫路IT系勉強会は Slack で連絡をとっています。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/histudy/shared_invite/zt-ugowinom-ZG0ORhstkrqQGVyjksr_OA&quot; rel=&quot;nofollow&quot;&gt;姫路IT系勉強会 Slackへ参加する&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://histudy.connpass.com/event/279753/'/>
-    <published>
-      2023-04-03T13:07:55+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://pycon-hiroshima.connpass.com/event/279905/
-    </id>
-    <title>
-      すごい広島 .rb with Python[73] オンライン
-    </title>
-    <summary>
-      すごい広島で楽しくプログラミングなどを学ぼう
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;「すごい広島 with Python」は &lt;a
-      href=&quot;http://hiroshima.pycon.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;広島のPythonコミュニティ&lt;/a&gt;
-      が2017年4月から月末の水曜日に開催しています。&lt;/p&gt; &lt;p&gt;&lt;a
-      href=&quot;https://hiroshimarb.connpass.com/&quot;
-      rel=&quot;nofollow&quot;&gt;Hiroshima.rb&lt;/a&gt; はプログラミング言語 Ruby
-      の地域コミュニティです。&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:
-      1.4rem;&quot;&gt; &lt;strong&gt; 今月も「すごい広島 with
-      Python」と「Hiroshima.rb」のコラボ開催（オンライン）です。 &lt;/strong&gt;
-      &lt;/span&gt;&lt;/p&gt; &lt;p&gt;参加枠は「リモート参加」のみです。&lt;br&gt;
-      ZoomのURLは「参加者への情報」でお知らせします。&lt;/p&gt;
-      &lt;p&gt;記録のために録画を行う場合があります。録画は公開しません。&lt;/p&gt; &lt;p&gt;PyCon Hiroshima
-      Slack もご利用ください。利用方法はイベント参加者にお知らせします。&lt;/p&gt; &lt;h2&gt;予定&lt;/h2&gt;
-      &lt;p&gt;お申し込みがあれば追記します。&lt;/p&gt;
-      &lt;p&gt;「しゃべりたい人」はお申し込みのときにアンケートにてお知らせください。&lt;/p&gt; &lt;h2&gt;すごい広島 .rb
-      with Python&lt;/h2&gt; &lt;h3&gt;進め方&lt;/h3&gt; &lt;ul&gt;
-      &lt;li&gt;最初に全員が自己紹介をします。あとでしゃべる予定のない方には、すこし丁寧な自己紹介をお願いします。&lt;/li&gt;
-      &lt;li&gt;自己紹介のあとは、希望される方だけマイクやカメラをお使いください。&lt;/li&gt;
-      &lt;li&gt;「しゃべりたい人」が順番に発表や話題提供をします。飛び入り歓迎です。&lt;/li&gt;
-      &lt;li&gt;終了時間が来たら延長せずに終了します。&lt;/li&gt;
-      &lt;li&gt;最後に、集合写真のかわりにギャラリービューのスナップショット撮影を行います。カメラOKの方はご協力ください。&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;話題について&lt;/h3&gt; &lt;p&gt;以下を歓迎しております。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Python / Ruby のご質問、ご相談&lt;/li&gt; &lt;li&gt;やってみた、作ってみた&lt;/li&gt; &lt;li&gt;技術動向・書籍・イベントの紹介・報告&lt;/li&gt; &lt;li&gt;他イベント登壇前の練習、過去の登壇の再演&lt;/li&gt; &lt;li&gt;ChatGPT など生成AI&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;話題を限定してはいませんが、参加者の興味や経験にご配慮いただければ幸いです。&lt;/p&gt; &lt;p&gt;持ち時間は1件あたり5分から15分くらいでお願いします。時間がたくさん欲しい場合はご相談ください。&lt;/p&gt; &lt;h3&gt;運営者より&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;PyCon mini Hiroshima の &lt;a href=&quot;https://hiroshima.pycon.jp/2020/policy&quot; rel=&quot;nofollow&quot;&gt;行動規範&lt;/a&gt; を踏まえて運営します。ご理解・ご協力をお願いします。&lt;/li&gt; &lt;li&gt;Python / Ruby 初心者もお気軽にご参加ください。わからないことがあれば、いつでもご質問やご発言をどうぞ。&lt;/li&gt; &lt;li&gt;Zoom で音声や画像が聞きづらい、見づらいという場合は、Zoom チャット等でお知らせください。&lt;/li&gt; &lt;li&gt;他の参加者の妨げになる場合はマイクやカメラの利用を控えていただく場合があります。ご了承ください。&lt;/li&gt; &lt;li&gt;随時 Twitter で中継しながら進めます。ツイートされたくない話題は、事前にお知らせください。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;「すごい広島」「PyCon mini Hiroshima」について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;すごい広島 with Python は第40回より PyCon mini Hiroshima グループのイベントとして参加者を募集しています。&lt;/li&gt; &lt;li&gt;他の回の「すごい広島」は&lt;a href=&quot;https://great-h.connpass.com/event/&quot; rel=&quot;nofollow&quot;&gt;すごい広島グループ&lt;/a&gt;でご確認ください。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://pycon-hiroshima.connpass.com/event/279905/'/>
-    <published>
-      2023-04-03T11:54:46+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://icare.connpass.com/event/279694/
-    </id>
-    <title>
-      ★五十嵐邦明さん講師★「Railsの練習帳」で学ぶ実践知識 その1 ActiveRecord
-    </title>
-    <summary>
-      本来は社内向けの研修ですが、今回は特別に外部の方もお招きして開催します！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;iCARE顧問の五十嵐邦明さんより、ペアプロでよく質問される内容を勉強会形式で講義します。&lt;/p&gt;
-      &lt;p&gt;※本来は社内向けの研修となりますが、今回は特別に外部の方もお招きして開催したいと思います！&lt;/p&gt;
-      &lt;p&gt;今回はActiveRecordに関する各種知識の中から役立つものを厳選して説明します！&lt;/p&gt;
-      &lt;h1&gt;日時&lt;/h1&gt; &lt;p&gt;2023年4月5日(水)17~18時&lt;/p&gt;
-      &lt;h1&gt;タイムテーブル&lt;/h1&gt;
-      &lt;p&gt;発表者や発表タイトル、発表順などは変更になる可能性があります。&lt;/p&gt; &lt;table&gt;
-      &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt;
-      &lt;th align=&quot;center&quot;&gt;タイトル&lt;/th&gt; &lt;/tr&gt;
-      &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;17:00-17:05&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;オープニング(Devからの挨拶と社内の取り組みについてご案内)&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;left&quot;&gt;17:05-17:55&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;五十嵐邦明さんの研修開始&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td align=&quot;left&quot;&gt;17:55-18:00&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;終わりの挨拶とアンケートURLの告知&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;登壇者&lt;/h1&gt; &lt;h2&gt;&lt;a
-      href=&quot;https://twitter.com/igaiga555&quot;
-      rel=&quot;nofollow&quot;&gt;五十嵐邦明さん&lt;/a&gt; / フリーランス&lt;/h2&gt;
-      &lt;p&gt;フリーランスのRuby, Railsプログラマー。2003年、Rubyで書かれたWeb日記アプリ tDiary を使い始めて
-      Rubyist になる。一橋大学の非常勤講師として2012年から2年間、Ruby と Rails を教える。受託開発会社、Webサービス開発会社
-      CTO などを経て2017年4月よりフリーランス、2019年7月ガーネットテック373株式会社を設立、同社代表取締役社長。RubyWorld
-      Conference や RubyConf 台湾などで講演。島根県 Ruby 合宿、Rails 寺子屋、Rails Girls
-      などで講師を行う。著書に「ゼロからわかる Ruby超入門」、「Railsの教科書」、「パーフェクト Ruby on
-      Rails【増補改訂版】」、「RubyとRailsの学習ガイド」ほか。&lt;/p&gt; &lt;h1&gt;株式会社 iCARE
-      について&lt;/h1&gt; &lt;p&gt;法人向けヘルスケア SaaS 「Carely(ケアリィ)」を提供している急成長 IT
-      ベンチャーです。&lt;/p&gt; &lt;p&gt;Carely は、「健康労務をミスなく、ラクに。」というコンセプトのもと、
-      健康診断・ストレスチェック・過重労働などの企業の健康労務の一元管理と
-      従業員が社内の保健師やカウンセラーといつでもチャットを通じて相談できるサービスです。&lt;/p&gt; &lt;p&gt;&lt;a
-      href=&quot;https://www.icare.jpn.com/&quot;
-      rel=&quot;nofollow&quot;&gt;株式会社 iCARE 会社サイト&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.carely.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;Carely 製品ページ&lt;/a&gt;&lt;/p&gt;
-      &lt;p&gt;&lt;a href=&quot;https://devdriven.icare-carely.co.jp/&quot;
-      rel=&quot;nofollow&quot;&gt;開発部特別サイト&lt;/a&gt;&lt;/p&gt; &lt;p&gt;※2021 年の
-      3 月に渋谷円山町から恵比寿にオフィスを引っ越しました。(&lt;a
-      href=&quot;https://www.google.co.jp/maps/place/%E3%88%B1+iCARE/@35.6463357,139.7149927,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c8303bade41:0x5bb034dc2b3a4d16!8m2!3d35.6463357!4d139.7149927&quot; rel=&quot;nofollow&quot;&gt;Map&lt;/a&gt;)&lt;/p&gt; &lt;p&gt;また技術書典 9 に iCARE Tech Book を無料で出版しておりますのでぜひダウンロードしてお読みください！&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://techbookfest.org/product/5023805390979072?productVariantID=6089531604336640&quot; rel=&quot;nofollow&quot;&gt;ダウンロードはこちら👍&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;株式会社 iCARE では各ポジションで募集しています。&lt;/h1&gt; &lt;p&gt;サーバーサイドエンジニア QAエンジニア SRE 詳しくは、&lt;a href=&quot;https://herp.careers/v1/icare/requisition-groups/a834f71a-27b8-43e6-b533-6fa4f17f48a8&quot; rel=&quot;nofollow&quot;&gt;HERP求人ページ&lt;/a&gt;をご確認ください👍&lt;/p&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;p&gt;参加していただくに際し、&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://icare-dev.kibe.la/shared/entries/9562158a-b50d-4f17-9548-42805b78b0d8&quot; rel=&quot;nofollow&quot;&gt;アンチハラスメントポリシー&lt;/a&gt; をご一読ください。&lt;/p&gt; &lt;p&gt;下記の目的での参加はご遠慮ください。&lt;/p&gt; &lt;p&gt;採用、営業目的&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://icare.connpass.com/event/279694/'/>
-    <published>
-      2023-04-03T09:15:13+09:00
     </published>
   </entry>
 </feed>
