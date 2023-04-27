@@ -9,8 +9,190 @@
   <link rel="alternate" type="text/html" href="https://oyuyo.github.io/connpass-feed/feed/"/>
   <link rel="self" type="application/atom+xml" href="https://oyuyo.github.io/connpass-feed/feed/atom.xml"/>
   <updated>
-    2023-04-26T00:47:16+00:00
+    2023-04-27T00:50:27+00:00
   </updated>
+  <entry>
+    <id>
+      https://tdc.connpass.com/event/281294/
+    </id>
+    <title>
+      地方エンジニアの先駆者に聞く！AI時代のエンジニアキャリア戦略
+    </title>
+    <summary>
+      TDCの新イベントスタート。LTもあるよ！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;東北のすごいエンジニアの話が聞きたい！&lt;/h2&gt;
+      &lt;p&gt;東北のエンジニアってどんな人がいるんだろう？&lt;/p&gt;
+      &lt;p&gt;東北で仕事ってやっていけるの？&lt;/p&gt;
+      &lt;p&gt;そんなわけで、東北のすごいエンジニアの話を聞くイベントをすることになりました。&lt;/p&gt;
+      &lt;p&gt;今回のスピーカーは2名です。&lt;/p&gt; &lt;p&gt;1人目は、福島から藤岡岳之さん。
+      藤岡さんはITで起業し、Rubyのコミッターとしても活躍していましたが、現在は不動産を始め複数の会社を経営するように。
+      なぜ不動産？どのように変化していったのか？そのあたりのお話をお聞きしたいと思います。&lt;/p&gt;
+      &lt;p&gt;2人目は、TDC運営委員の小泉勝志郎さん。
+      塩竃にお住まいで、渚の妖精ぎばさちゃんや、シニアプログラミングネットワークの立ち上げで有名です。最近はAI画像錬成でデジタルクリエイターとしても大活躍！なんと先日はAIアートグランプリで準グランプリを受賞されました。チェンジしまくりの小泉さんが語る技術者の生き残り戦略とは？&lt;/p&gt; &lt;p&gt;お二人のトークの後は、希望者によるLTも。LTのテーマはいつものようにITに特に限定しておりませんので好きなテーマで喋ってください。 短い時間にもりだくさんのイベントとなっております。 みなさんのお申込みをお待ちしております！&lt;/p&gt; &lt;p&gt;参加資格は特にありません。今回のテーマに惹かれた方、東北の技術者コミュニティを見てみたい方、LTしてみたい方などどなたでもOKです。&lt;/p&gt; &lt;h2&gt;講師紹介&lt;/h2&gt; &lt;h3&gt;藤岡岳之さん&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://www.rabbix.jp/&quot; rel=&quot;nofollow&quot;&gt;株式会社Rabbix&lt;/a&gt; 代表取締役社長。&lt;br&gt;&lt;/p&gt; &lt;p&gt;秋田県北秋田市出身、福島県福島市在住。 大学進学を機に福島へ。&lt;br&gt; 大学生の時にLinuxに出会って没頭し、福島大学発のベンチャーとして起業し、今年で22年目となる。&lt;br&gt; 高速なRuby on Railsのウェブサービス提供を得意とする。プログラマーとしてはRubyのコミッターであり、東北や全国のITコミュニティにも参加する。&lt;br&gt; 東日本大震災後、実家に半年住んだのち、仙台に2年半住む。&lt;br&gt; その後、福島に戻る。&lt;/p&gt; &lt;p&gt;経営者としてはIT企業の他、不動賃貸業、宅地建物取引業、古物商、飲食店経営を手掛けている。&lt;/p&gt; &lt;p&gt;ラビックスの主な提供サービス：&lt;/p&gt; &lt;ul&gt; &lt;li&gt;あんしん連絡網 You-OK（連絡網サービス）&lt;/li&gt; &lt;li&gt;e安否（安否確認システム）&lt;/li&gt; &lt;li&gt;学術集会JP(学術集会支援サービス)&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;小泉勝志郎さん&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://www.tesseract.site/&quot; rel=&quot;nofollow&quot;&gt;株式会社テセラクト&lt;/a&gt;代表取締役社長&lt;br&gt; &lt;a href=&quot;https://senior-programming.net/&quot; rel=&quot;nofollow&quot;&gt;シニアプログラミングネットワーク&lt;/a&gt;代表&lt;br&gt; Code for Shiogama代表&lt;br&gt;&lt;/p&gt; &lt;p&gt;コミュニティ活動で東北でも有数のイベント主催数を誇る。東日本大震災における復興活動も多く、うらと海の子再生プロジ ェクトは国内最初期クラウドファンディング成功事例となった。「渚の妖精ぎばさちゃん」を生み出し、人気上昇中。&lt;/p&gt; &lt;p&gt;WWDC2017で大きく話題となった史上最高齢アプリ開発者の仕掛け人でもある。&lt;/p&gt; &lt;p&gt;Code for Shiogamaとして宮城県コロナ対策サイトを開発し、当初は非公式な運用だったが現在は宮城県公式となっている。&lt;/p&gt; &lt;p&gt;大学や企業での講師等のITの教育をはじめ、アプリ制作、そしてITを介して多業種連携、そしてグルメ、音楽・映画など得意分野は幅広い。&lt;/p&gt; &lt;p&gt;最近は生成系AI分野でも活躍し、AIアートグランプリでは準グランプリを獲得。&lt;/p&gt; &lt;h2&gt;開催概要&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日時：4/28（金）19:00- &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;19:00- 藤岡さんのお話&lt;/li&gt; &lt;li&gt;19:30- 小泉さんのお話&lt;/li&gt; &lt;li&gt;20:00- 希望者によるLT&lt;/li&gt; &lt;li&gt;20:30- 移動して懇親会&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;懇親会について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;場所：いろり酒場 たら福 広瀬通店&lt;/li&gt; &lt;li&gt;〒980-0021 宮城県仙台市青葉区中央２丁目１０−１ 第3USビル 1F&lt;/li&gt; &lt;li&gt;参加費：参加者で割り勘になります&lt;/li&gt; &lt;li&gt;20:45から予約してますので終わったら速やかに移動しましょう。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;東北のIT関係者集まれ！&lt;/h2&gt; &lt;p&gt;東北デベロッパーズコミュニティは、2023年で設立15年を迎える老舗ITコミュニティです。&lt;/p&gt; &lt;p&gt;LT大会や飲み会などイベントをいろいろ企画しています。&lt;/p&gt; &lt;p&gt;「こんなことがやってみたい！」などの持ち込み企画もお待ちしております。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;現在、イベント情報などは&lt;a href=&quot;https://www.facebook.com/tohoku.developers&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt;や&lt;a href=&quot;https://twitter.com/tohokudeveloper&quot; rel=&quot;nofollow&quot;&gt;twitter&lt;/a&gt;で発信しておりますのでチェックしてみてください!&lt;/strong&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://tdc.connpass.com/event/281294/'/>
+    <published>
+      2023-04-26T22:44:27+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://kawasakirb.connpass.com/event/282343/
+    </id>
+    <title>
+      kawasaki.rb #120 (オンライン開催)
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;オンラインでミートアップを開催します&lt;/h1&gt;
+      &lt;p&gt;COVID-19の情勢を考えて今月のkawasaki.rbはオンライン開催をします。
+      通常Slackで連絡をしていますが、discordを使ってミートアップを行います。以下の招待リンクからサーバーにご参加ください。（よければメインの&lt;a href=&quot;https://join.slack.com/t/kawasakirb/shared_invite/enQtNDgyNTkyNTEwNzcwLTQyNDVmYmMyZWQ3YTJmODU3OGRjNWY0YmE3NWJmMDU3YTdjNjQ1NDVlYmQ3NjJhNmUzYjU2MzZkODQxNzBmZmU&quot; rel=&quot;nofollow&quot;&gt;Slack&lt;/a&gt;の方もご参加ください）&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://discord.gg/EaymPdG&quot; rel=&quot;nofollow&quot;&gt;https://discord.gg/EaymPdG&lt;/a&gt;&lt;/p&gt; &lt;p&gt;なお、終了後はオンライン懇親会を開催予定ですので、参加希望者は飲み物や食べ物を各自用意してください。紹興酒などが必要な方は&lt;a href=&quot;https://amzn.to/2yXfTlT&quot; rel=&quot;nofollow&quot;&gt;事前にお買い求め&lt;/a&gt;ください。&lt;/p&gt; &lt;h2&gt;以下はいつもの&lt;/h2&gt; &lt;p&gt;Kawasaki.rbは川崎周辺のRuby技術者たちが集まってRubyだけでなく技術に関する何かをする地域Rubyistコミュニティです。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://medium.com/kawasakirb&quot; rel=&quot;nofollow&quot;&gt;過去のまとめ記事&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/kawasakirb/shared_invite/enQtNDgyNTkyNTEwNzcwLWY1OTE2ODFkOTVkMjRmNTQyYzJiNzVmNmJkMmVjNGJjM2ZjNzQ5OTUyZTMwMDgyZWE2YzkwNzgyYWZjYzVhNzQ&quot; rel=&quot;nofollow&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;注意事項をよくご確認ください。&lt;/p&gt; &lt;h2&gt;内容について&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:15~&lt;/td&gt; &lt;td&gt;自己紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:30~&lt;/td&gt; &lt;td&gt;「&lt;a href=&quot;https://sustainable-rails.com/assets/sustainable-rails-sample.pdf&quot; rel=&quot;nofollow&quot;&gt;Sustainable Web Debelopment with Ruby on Rails (Sample)&lt;/a&gt;」を読む&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;20:30~&lt;/td&gt; &lt;td&gt;セッション&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;21:00~&lt;/td&gt; &lt;td&gt;懇親会（オンライン）&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;連絡先&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/kawasakirb/shared_invite/enQtNDgyNTkyNTEwNzcwLWY1OTE2ODFkOTVkMjRmNTQyYzJiNzVmNmJkMmVjNGJjM2ZjNzQ5OTUyZTMwMDgyZWE2YzkwNzgyYWZjYzVhNzQ&quot; rel=&quot;nofollow&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://twitter.com/kawasakirb&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/258704250945432/&quot; rel=&quot;nofollow&quot;&gt;Facebookグループ&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;過去のまとめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://medium.com/kawasakirb&quot; rel=&quot;nofollow&quot;&gt;https://medium.com/kawasakirb&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://kawasakirb.github.io&quot; rel=&quot;nofollow&quot;&gt;http://kawasakirb.github.io&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://kawasakirb.connpass.com/event/282343/'/>
+    <published>
+      2023-04-26T21:11:16+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://sms-tech.connpass.com/event/281969/
+    </id>
+    <title>
+      RubyKaigi 2023 予習イベント ～推しトーク紹介～
+    </title>
+    <summary>
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;概要&lt;/h1&gt; &lt;p&gt;株式会社エス・エム・エスでは、今年もRubyKaigi
+      2023にスポンサーとして参加します。 今回は、クリアコードの&lt;a
+      href=&quot;https://twitter.com/ktou&quot;
+      rel=&quot;nofollow&quot;&gt;須藤さん&lt;/a&gt;をお招きして、カジュアルなプレイベントを開催したいと思います。弊社から、スピーカーとしてRubyKaigi 2023に登壇する&lt;a href=&quot;https://twitter.com/coe401_&quot; rel=&quot;nofollow&quot;&gt;しおいさん&lt;/a&gt;も参加します。&lt;/p&gt; &lt;h1&gt;参加方法&lt;/h1&gt; &lt;p&gt;参加者向けにこのページでZoomのURLを案内します。&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;14:00 - 15:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;須藤さんの推しトーク紹介&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;15:00 - 15:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;TBD&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;登壇者紹介&lt;/h1&gt; &lt;h2&gt;須藤 功平&lt;/h2&gt; &lt;p&gt;フリーソフトウェアプログラマー。クリアコードの代表取締役。Rubyコミッター。Apache Arrowの3代目PMC chair。Ruby用のデータ処理ツールを開発する&lt;a href=&quot;https://red-data-tools.github.io/ja/&quot; rel=&quot;nofollow&quot;&gt;Red Data Toolsプロジェクト&lt;/a&gt;の設立者。&lt;/p&gt; &lt;h2&gt;しおい&lt;/h2&gt; &lt;p&gt;株式会社エス・エム・エス プロダクト開発部介護キャリア開発グループ所属、Webアプリケーションプログラマ、Rubyist。RubyKaigi 2021~2023登壇者。&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://sms-tech.connpass.com/event/281969/'/>
+    <published>
+      2023-04-26T17:20:27+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://astah-modeling.connpass.com/event/280917/
+    </id>
+    <title>
+      UMLモデリングセミナー(2023年5月)
+    </title>
+    <summary>
+      グループワークを通じて、モデルを活用する上で何が必要かをみなさんと一緒に考えるセミナーです。
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h1&gt;UMLモデリングセミナーについて&lt;/h1&gt;
+      &lt;p&gt;このセミナーでは、グループワークを通じて、UMLの作図方法やモデリングの活用方法が学べます。&lt;br&gt;
+      開発業務にUMLモデルをうまく活用できない理由や、設計と実装がかけ離れてしまう理由を明確にし、業務で効率良くモデルを活用するにはどうすべきかを考えるセミナーです。&lt;/p&gt; &lt;p&gt;セミナー内容についての紹介記事は、&lt;a href=&quot;https://ja.astahblog.com/2017/05/23/uml-seminar-report/&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;をご覧ください。&lt;br&gt; ※対面で行った時の内容です。5月はオンラインで開催します。&lt;/p&gt; &lt;h1&gt;このような方におすすめです&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;モデリングに興味がある方&lt;/li&gt; &lt;li&gt;システムやソフトウェア開発に、UMLモデルをどう活用するかお悩みの方&lt;/li&gt; &lt;li&gt;設計の段階で、より効率的にモデルを活用したいと考えている方&lt;/li&gt; &lt;li&gt;新人研修や職場の設計者に向けて、モデリングのトレーニングを検討している方&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;開催概要&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;開催日: 2023年5月26日(金)&lt;/li&gt; &lt;li&gt;時間: 13:15〜17:00 (13:00よりログインが可能です)&lt;br&gt; 　　　 状況によっては、時間が延長される場合もあります。&lt;/li&gt; &lt;li&gt;方法: オンライン(ZOOM)&lt;/li&gt; &lt;li&gt;参加費: 無料&lt;/li&gt; &lt;li&gt;定員: 16名&lt;/li&gt; &lt;li&gt;備考: 当日はZOOMのブレイクアウト機能を使用し、少人数のグループに分かれて演習を行います。&lt;br&gt; 　　　UMLの記法についての詳しい説明はありません。&lt;br&gt; 　　　演習では、パワーポイントを使用します。弊社製品「&lt;a href=&quot;https://astah.change-vision.com/ja/&quot; rel=&quot;nofollow&quot;&gt;astah&lt;/a&gt;」は使いません。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;講師プロフィール&lt;/h1&gt; &lt;h2&gt;久保秋 真(くぼあき しん)&lt;/h2&gt; &lt;p&gt;&lt;img alt=&quot;ロゴ画像&quot; src=&quot;https://cv.astah.net/hubfs/kuboaki-profile(Small).png&quot;&gt;&lt;/p&gt; &lt;p&gt;株式会社チェンジビジョン シニアコンサルタント。&lt;br&gt; メーカー系ソフトウェア開発会社の組込みシステム開発、LEGO Mindstormsを利用した技術研修の教材開発、講師などに従事。現在は、オブジェクト指向、モデル駆動開発、アジャイル開発に関するコンサルティング、導入支援、技術者教育などに従事。ETロボコン本部モデル審査員。情報処理学会、日本ソフトウェア科学会会員。&lt;br&gt; 日本大学生産工学部、早稲田大学理工学術院、関東学院大学理工学部、福岡大学工学部非常勤講師。 トップエスイー、スマートエスイー講師。&lt;/p&gt; &lt;p&gt;著書:&lt;br&gt; 『&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B07FVSVC9S&quot; rel=&quot;nofollow&quot;&gt;作って身につくC言語入門&lt;/a&gt;』&lt;br&gt; 『&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B00GJGOPU0&quot; rel=&quot;nofollow&quot;&gt;作りながら学ぶRuby入門 第2版&lt;/a&gt;』&lt;br&gt; 『&lt;a href=&quot;https://www.amazon.co.jp/dp/4274227413&quot; rel=&quot;nofollow&quot;&gt;RubyではじめるWebアプリの作り方&lt;/a&gt;』ほか。&lt;/p&gt; &lt;h1&gt;参加者の声(2022年12月開催分)&lt;/h1&gt; &lt;blockquote&gt; &lt;ul&gt; &lt;li&gt;「もの」と「はたらき」に分けるというやり方で進めていくと、プログラムも書けるということが分かった。&lt;br&gt; ポストイットなどを用いる手法も参考になった。今回は長時間にもかかわらず、無料で学ばせていただきまして、ありがとうございました。 &lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;難しいと思っていたUMLだが、少しでも理解すると途端に分かりやすいものになった。&lt;br&gt; 今後も引き続き学習していきたい。 &lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li&gt;UMLで記載した図の通りに設計した場合、「設計のミス」と「実装のミス」の切り分けがしっかりできるようになる。また、設計時にUMLで話し合いができると、実装時のミスが減りそうだと感じた。&lt;/li&gt; &lt;/ul&gt; &lt;/blockquote&gt; &lt;h1&gt;個人情報の取り扱い&lt;/h1&gt; &lt;p&gt;&lt;a href=&quot;https://astah.change-vision.com/ja/agreement/privacy-statement.html&quot; rel=&quot;nofollow&quot;&gt;こちらのページ&lt;/a&gt;をご参照ください。セミナー参加申込時に、ご了承いただきます。&lt;/p&gt; &lt;h1&gt;セミナーに関するお問合せ先&lt;/h1&gt; &lt;p&gt;UMLモデリングセミナー担当 北村&lt;br&gt; &lt;a href=&quot;https://astah.change-vision.com/ja/contact-support/inquiry.html&quot; rel=&quot;nofollow&quot;&gt;astah-sales@change-vision.com&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://astah-modeling.connpass.com/event/280917/'/>
+    <published>
+      2023-04-26T16:29:55+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://increments.connpass.com/event/279734/
+    </id>
+    <title>
+      Qiita Conference 2023
+    </title>
+    <summary>
+      5/17(水)、18(木)、19(金)の3日連続でオンライン開催！どなたでもご参加いただけます！
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;h2&gt;Qiita Conferenceとは&lt;/h2&gt; &lt;p&gt;Qiita
+      Conferenceは、日本最大級*のエンジニアコミュニティ「Qiita」が開催するオンライン技術カンファレンスです。&lt;br&gt;
+      ゲストスピーカーによる基調講演、参加各社のスポンサーセッションで技術的な挑戦や積み重ねてきた知見を共有します。&lt;br&gt;
+      ソフトウェア開発者が集まり、最新の技術や最先端の挑戦、ソフトウェアの未来についての考えや知見を共有し、つながる場を創出します。&lt;/p&gt;
+      &lt;p&gt;※注釈：「最大級」は、エンジニアが集うオンラインコミュニティを市場として、IT人材白書（2020年版）と当社登録会員数・UU数の比較をもとに表現しています。&lt;/p&gt; &lt;h2&gt;こんな方におすすめ&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;IT/WEBエンジニアとして活動している方&lt;/li&gt; &lt;li&gt;登壇者の技術的な挑戦や積み重ねてきた知見に興味がある方&lt;/li&gt; &lt;li&gt;今後のエンジニアのキャリアに興味がある方&lt;/li&gt; &lt;li&gt;最新のプロダクト・サービスの技術を知りたい方&lt;/li&gt; &lt;li&gt;登壇者や登壇企業に興味がある方&lt;/li&gt; &lt;li&gt;セッションテーマに興味がある方&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Qiitaのイベントに参加したことがある方はもちろん、はじめて参加する方にも楽しめるセッションをご用意しています！&lt;/p&gt; &lt;h2&gt;開催概要&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;開催日：2023年5月17日（水）、5月18日（木）、5月19日（金）&lt;/li&gt; &lt;li&gt;時間：17:30～20:30（開場17:20）&lt;/li&gt; &lt;li&gt;主催：Qiita株式会社&lt;/li&gt; &lt;li&gt;場所：オンライン配信（Zoom）&lt;/li&gt; &lt;li&gt;参加費：無料&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル（敬称略）&lt;/h2&gt; &lt;h4&gt;Day1：2023年5月17日（水）&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:20 - 17:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:30 - 17:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;挨拶・諸注意&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:45 - 18:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;「SREによる信頼性の高いサービス提供への挑戦～定量的観測と改善のサイクルによるデータドリブンなサービス品質管理～」&lt;br&gt;株式会社うるる / えんフォト事業部 開発課 エンジニアリングマネージャー：莊 亞帆&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;18:20 - 19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;基調講演「エンジニアキャリア、特にChatGPTやLLMによって変わっていく開発とその未来」&lt;br&gt;一般社団法人日本CTO協会 / 理事：松本 勇気&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:05 - 19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;「ITエンジニアを続けた先にわたしが見つけた『成功の方程式』」&lt;br&gt;株式会社PE-BANK / 常務取締役：高山 典久&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:40 - 20:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;基調講演「サバンナ便り - 自動テストに関する連載で得られた知見のまとめ（2023年5月版）」&lt;br&gt;プログラマ、テスト駆動開発者：和田 卓人&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:20 - 20:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;閉会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4&gt;Day2：2023年5月18日（木）&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:20 - 17:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:30 - 17:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;挨拶・諸注意&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:45 - 18:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;「バックエンドだけなんてもったいない！Heroku ちょい足しアプリ開発のススメ」&lt;br&gt;株式会社セールスフォース・ジャパン / Principal Technical Architect：阿部 崇&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;18:20 - 19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;基調講演「Coming soon...」&lt;br&gt;プログラミング言語Rubyの生みの親：まつもとゆきひろ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:05 - 19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;「開発エンジニアのレベルを上げる、&quot;フルスタック オブザーバビリティ&quot; でのシステムパフォーマンス改善」&lt;br&gt;New Relic株式会社 Technical Support Manager：田中 孝佳&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:40 - 20:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;「Coming soon...」&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:10 - 20:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;閉会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4&gt;Day3：2023年5月19日（金）&lt;/h4&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:20 - 17:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;開場&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:30 - 17:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;挨拶・諸注意&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;17:45 - 18:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;「Coming soon...」&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;18:20 - 19:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;基調講演「弱さや辛さを強さに変える、キャリア設計のアプローチ」&lt;br&gt;READYFOR株式会社 / ミノ駆動&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:05 - 19:35&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;「Coming soon...」&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:40 - 20:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;基調講演「エンジニアが推進するプロダクトマネジメント」&lt;br&gt;小城 久美子&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:20 - 20:25&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;閉会&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※予告なく内容が変更になる場合があります。&lt;/p&gt; &lt;h2&gt;登壇者プロフィール（敬称略）、セッション概要&lt;/h2&gt; &lt;h3&gt;松本 勇気（&lt;a href=&quot;https://twitter.com/y_matsuwitter&quot; rel=&quot;nofollow&quot;&gt;@y_matsuwitter&lt;/a&gt;） / 一般社団法人日本CTO協会 理事&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3116255/2eb1a31a-a528-d61f-9bad-7fca8767f933.jpeg&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;東京大学在学時に株式会社Gunosy入社、CTOとして技術組織全体を統括。またLayerXの前身となるブロックチェーン研究開発チームを立ち上げる。&lt;a href=&quot;http://2018年より合同会社DMM.com&quot; rel=&quot;nofollow&quot;&gt;2018年より合同会社DMM.com&lt;/a&gt; CTOに就任し技術組織改革を推進。大規模Webサービスの構築をはじめ、機械学習、Blockchain、マネジメント、人事、経営管理、事業改善、行政支援等広く歴任。2019年日本CTO協会理事に就任。&lt;/p&gt; &lt;h4&gt;エンジニアキャリア、特にChatGPTやLLMによって変わっていく開発とその未来&lt;/h4&gt; &lt;p&gt;ChatGPTやLLMの利用が急激に拡大し、我々エンジニアにとっても目の前の大きな変化を生み出しつつあります。&lt;br&gt; ソフトウェア開発の有り様も変わろうとしている中、これからのソフトウェア開発やエンジニアの役割はどのように変化していくのでしょうか。&lt;br&gt; エンジニアのキャリアの考え方と絡めつつ、ChatGPTやLLMに向き合ってきた上で考えていること、感じていることについてお話します。&lt;/p&gt; &lt;hr&gt; &lt;h3&gt;和田 卓人（&lt;a href=&quot;https://twitter.com/t_wada&quot; rel=&quot;nofollow&quot;&gt;@t_wada&lt;/a&gt;） / プログラマ、テスト駆動開発者&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3116255/460d5494-e716-cc29-156d-f928da7ba751.png&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;学生時代にソフトウェア工学を学び、オブジェクト指向分析/設計に傾倒。執筆活動や講演、ハンズオンイベントなどを通じてテスト駆動開発を広めようと努力している。&lt;br&gt; 『プログラマが知るべき97のこと』（オライリージャパン、2010）監修。『SQLアンチパターン』（オライリージャパン、2013）監訳。『テスト駆動開発』（オーム社、2017）翻訳。『事業をエンジニアリングする技術者たち』（ラムダノート、2022）編者。テストライブラリ&lt;br&gt; power-assert-js 作者。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/t_wada&quot; rel=&quot;nofollow&quot;&gt;@t_wada&lt;/a&gt;&lt;/li&gt; &lt;li&gt;GitHub: &lt;a href=&quot;https://github.com/twada&quot; rel=&quot;nofollow&quot;&gt;@twada&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;サバンナ便り - 自動テストに関する連載で得られた知見のまとめ（2023年5月版）&lt;/h4&gt; &lt;p&gt;雑誌 WEB+DB PRESSのコラム「サバンナ便り」の連載で得られた自動テストに関する知見をあらためて体系的にまとめます。講演内容は随時最新の内容を反映して改訂しています。&lt;/p&gt; &lt;hr&gt; &lt;h3&gt;まつもとゆきひろ（&lt;a href=&quot;https://twitter.com/yukihiro_matz&quot; rel=&quot;nofollow&quot;&gt;@yukihiro_matz&lt;/a&gt;）&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/599599/396bbeb5-9da5-d737-5624-bd8225038b3c.png&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;1965年生まれ。筑波大学第三学群情報学類卒業。プログラミング言語Rubyの生みの親。株式会社ネットワーク応用通信研究所フェロー。一般財団法人Rubyアソシエーション理事長、複数のIT企業の技術顧問なども兼任。島根県松江市在住。&lt;/p&gt; &lt;hr&gt; &lt;h3&gt;ミノ駆動（&lt;a href=&quot;https://qiita.com/MinoDriven&quot; rel=&quot;nofollow&quot;&gt;@MinoDriven&lt;/a&gt;）/ READYFOR株式会社&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3116255/01ba3746-1c55-cfa0-58f1-53a19a4e0604.jpeg&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;READYFOR株式会社でアプリケーションアーキテクトを務める。&lt;br&gt; リファクタリングや拡張性向上設計など、設計全般を推進。&lt;br&gt; 著書『良いコード／悪いコードで学ぶ設計入門』はITエンジニア本大賞2023技術書部門大賞を受賞。9刷重版3万部超え。 デブサミではベストスピーカー賞など4冠受賞。&lt;br&gt; 悪しき構造による凄惨な結末を描いたクソコード動画の作者。&lt;br&gt;&lt;/p&gt; &lt;h4&gt;弱さや辛さを強さに変える、キャリア設計のアプローチ&lt;/h4&gt; &lt;p&gt;「エンジニアとしてなかなか成長できない」「自分の強みが何なのか分からない」など、キャリアで悩まれている方は少なくないでしょう。&lt;br&gt; 私は設計やリファクタリングを得意技術として生業にしていますが、このキャリア形成には、意外にも自分が見向きもしたくない弱みや、辛い経験が下支えになっています。&lt;br&gt; このセッションでは弱さや辛さを強みに変える考え方やキャリア形成について、私の赤裸々な体験談や私が普段大切にしているポリシーをベースにお話いたします。&lt;br&gt; 皆さんを勇気づける一助となればと思います。&lt;/p&gt; &lt;hr&gt; &lt;h3&gt;小城 久美子（&lt;a href=&quot;https://twitter.com/ozyozyo&quot; rel=&quot;nofollow&quot;&gt;@ozyozyo&lt;/a&gt;）&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3116255/940bfbcb-c0ed-c810-0fa4-14ec21fa89fd.jpeg&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;プロダクトづくりの知見の体系化を試みるプロダクトマネージャー。書籍『プロダクトマネジメントのすべて』共著者であり、日本最大級のプロダクトづくりコミュニティ「プロダクト筋トレ」の主催者。&lt;br&gt; 経歴としては、ソフトウェアエンジニア、スクラムマスターなどの開発職を経験後、プロダクトマネージャーに転身し、現在は主に企業向けプロダクトマネジメント研修講師やプロダクト戦略の仮説検証の伴走を実施している。&lt;/p&gt; &lt;h4&gt;エンジニアが推進するプロダクトマネジメント&lt;/h4&gt; &lt;p&gt;プロダクトのことは好きですか？自信を持って担当プロダクトを人に進められますか？&lt;br&gt; もし、この質問に心の底からYESと答えられない場合、あなたに必要なのはプロダクトマネジメントかもしれません。&lt;br&gt; プロダクトマネジメントはPMだけがするものではなく、プロダクトチーム全員で推進するものです。&lt;br&gt; プロダクトをより良くするために、どのように考え、たち振る舞えばよいのかのヒントをお話しします。&lt;/p&gt; &lt;hr&gt; &lt;h3&gt;莊 亞帆 (そう あはん / Chuang ya fan ) / 株式会社うるる えんフォト事業部 開発課 エンジニアリングマネージャー&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/427308/068ba688-81fd-de3c-cdc3-a2f0b0fa06ec.png&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;受託開発企業のSEとしてキャリアをスタートし、Android App・Webサービスのバックエンド・IoT・インフラ・DevOps(CI/CD)分野の開発を経験したのち、2019年にうるるへジョイン。&lt;br&gt; 幼稚園・保育園向け写真販売サービス「えんフォト」にて、スクラムマスター兼バックエンドエンジニア兼クラウドソリューションアーキテクトとして、プロジェクトマネジメントとバックエンド・インフラ・CI/CDなどの開発とSRE推進を並行しながら活動。&lt;br&gt; エンジニアとして事業本部内で初となる事業部年間MVPを獲得。リードエンジニアを経験後、2023年度よりエンジニアリングマネージャーに就任し、現在はエンジニア組織のマネジメントを主に担当。&lt;br&gt; 台湾出身で台湾も日本も大好き。趣味は温泉やサウナ。&lt;/p&gt; &lt;h4&gt;SREによる信頼性の高いサービス提供への挑戦～定量的観測と改善のサイクルによるデータドリブンなサービス品質管理～&lt;/h4&gt; &lt;p&gt;このプレゼンテーションでは、データを活用してサービス品質を改善する方法を紹介します。&lt;br&gt; SREの概念が社内で浸透していなかった中、私自身が推進してきた実体験をもとに定量的な観測と改善サイクルの重要性について詳しく説明いたします。&lt;br&gt; 実践的な知識習得につながるテーマですので、信頼性向上によるサービスの競争力に必要なスキルを高めたい方の参考になれば嬉しいです。&lt;/p&gt; &lt;hr&gt; &lt;h3&gt;高山 典久 / 株式会社PE-BANK 常務取締役&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/427308/971f0368-11e4-df46-23a0-9f256d5bbc9b.jpeg&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;2007年首都圏コンピュータ技術者（現：PE-BANK）入社。&lt;br&gt; 関西営業所、西日本統括、全国統括マネージャー、取締役営業部長、ビジネスプロモーション部部長等を経て、2019年1月より常務取締役就任。&lt;br&gt; 2021年2月一般社団法人ITフリーランス支援機構 代表理事就任。&lt;br&gt; &lt;a href=&quot;https://twitter.com/itfgrandmaster&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/itfgrandmaster&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;ITエンジニアを続けた先にわたしが見つけた「成功の方程式」&lt;/h4&gt; &lt;p&gt;人生100年時代。退職後も自分のために仕事を続けられる方が多くなってきました。&lt;br&gt; 今回エンジニアの仕事が好きで、その道を歩んできたスピーカーが実際どのようにキャリアを積んで、必要な選択をしてきたか。&lt;br&gt; 現状の結果も含めて、働き方やキャリア構築で悩まれている方のヒントになるようなお話をしたいと思います。&lt;/p&gt; &lt;hr&gt; &lt;h3&gt;阿部 崇 / 株式会社セールスフォース・ジャパン Principal Technical Architect&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/427308/fd2ba4a4-6142-9c16-5ffa-68c42d10a910.jpeg&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;Salesforce にて、お客様の課題を解決するために技術的に実現可能性あるアーキテクチャをデザインする業務に従事。Salesforce には7年前にジョインし、Platform Specialist として、前職のインフラ・インテグレーション技術を活用したエンジニアとして様々なお客様の課題を解決。インフラだけではなく、Heroku や Salesforce DX を活用した CI/CD や DevOps の啓蒙活動も実施し、お客様のアプリ開発の変革を支援。&lt;/p&gt; &lt;h4&gt;バックエンドだけなんてもったいない！Heroku ちょい足しアプリ開発のススメ&lt;/h4&gt; &lt;p&gt;Salesforceが提供しているのはCRMだけではなく、コールセンターを担う Service Cloud、EC を扱う Commerce、マーケティングなど多くの製品をそろえています。こうした製品のデータを活用したいという要望を事業部門やクライアントから受けている方もいらっしゃるのではないでしょうか。B2C 向けのWebアプリやモバイルバックエンドにこそ使っていただきたいのが Heroku。CI/CDの機能なども充実していて、同じ構成のテスト環境もすぐに作れる Heroku を活用した簡単アプリ開発、してみませんか？&lt;/p&gt; &lt;hr&gt; &lt;h3&gt;田中 孝佳 / New Relic株式会社 Technical Support Manager / 理学博士（物理学）&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/427308/16affcd4-48f5-4cc8-048a-a05d4be4936a.png&quot; width=&quot;20%&quot;&gt;&lt;/p&gt; &lt;p&gt;理学博士（物理学）。ソフトウェアエンジニア、インフラエンジニアなど自社開発や自社運用の現場で経験を積んだのち外資系ソフトウェアベンダーでのテクニカルサポートを経て現職。New Relicユーザーだった経験あり。コミュニティでの登壇活動も多く、Microsoft MVPを10年連続受賞中、現在の受賞分野はDeveloper Technologies。Microsoft Certified Azure Solutions Architect ExpertおよびCertified Kubernetes Administrator/Application Developer(CKA/CKAD)。得意分野はC#をはじめとするソフトウェア開発、Kubernetes関連技術およびパブリッククラウド。&lt;/p&gt; &lt;h4&gt;開発エンジニアのレベルを上げる、&quot;フルスタック オブザーバビリティ&quot; でのシステムパフォーマンス改善&lt;/h4&gt; &lt;p&gt;New Relicが提供する &quot;フルスタック オブザーバビリティプラットフォーム&quot;は、アプリケーション改善だけでなく、システム全体の最適化を行うための可観測性向上を実現します。&lt;/p&gt; &lt;p&gt;フルスタック オブザーバビリティとは具体的にはどういうものか、またそれを実現する４つの柱を通して、アプリケーション開発者としてどのような改善アプローチが可能になるのかをお話しします。システムのパフォーマンス改善にお悩みの方、エンジニアスキルをあげたい方、ぜひご覧ください。&lt;/p&gt; &lt;hr&gt; &lt;p&gt;※ 文中に記載されている会社名、商品名は各社の商標または、登録商標です。&lt;/p&gt; &lt;h2&gt;スポンサー&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/427308/dedac41b-5055-ab4b-5c2b-2655ca1d6fc9.png&quot; width=&quot;100%&quot;&gt;&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;本フォームに記載いただいた個人情報（以下「本件個人情報」）の取扱については下記の「個人情報の取扱について」を必ずご確認ください。これらの事項に同意頂ける場合のみ、Qiita Conference（以下「本イベント」）に参加頂けます。&lt;/li&gt; &lt;li&gt;個人情報の取扱いを含む各注意事項を確認し、同意のうえで、ご参加ください。&lt;/li&gt; &lt;li&gt;プログラムの内容・講演者などは都合により予告なく変更する場合があります。&lt;/li&gt; &lt;li&gt;本イベントでは、イベント当日に録画した動画（画面に表示されたコメント内容も含む）をQiita株式会社（以下「当社」）が運営するウェブサイト、SNSアカウント等で利用する場合がございますので予めご了承ください。（個人が特定されないように配慮いたします）&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;個人情報の取扱について&lt;/h2&gt; &lt;p&gt;①本件個人情報は、以下の目的で利用します。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;本イベントに関する事項のご連絡のため。&lt;/li&gt; &lt;li&gt;本イベントの効果測定、改善のために行うアンケート送付のため。&lt;/li&gt; &lt;li&gt;本イベント協賛企業の採用活動、商品・サービス・イベント等のご案内に使用するため。&lt;/li&gt; &lt;li&gt;いただいたお問合せへ回答するため。&lt;/li&gt; &lt;li&gt;イベントレポート作成のため。（個人が特定されないように配慮いたします）&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;②当社のプライバシーポリシーは&lt;a href=&quot;https://qiita.com/privacy&quot; rel=&quot;nofollow&quot;&gt;こちら&lt;/a&gt;になります。ご確認ください。&lt;/p&gt; &lt;p&gt;③本件個人情報は、本イベント協賛企業に共有させて頂きます。本イベント協賛企業の個人情報の取扱については以下を参照ください。協賛企業の追加、更新がある場合、お知らせ欄または、登録されているメールアドレスへ送信することで通知致します。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://newrelic.com/jp/termsandconditions/privacy&quot; rel=&quot;nofollow&quot;&gt;New Relic株式会社&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://pe-bank.co.jp/privacy/&quot; rel=&quot;nofollow&quot;&gt;株式会社PE-BANK&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社セールスフォース・ジャパン&lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.salesforce.com/jp/company/privacy/&quot; rel=&quot;nofollow&quot;&gt;プライバシーに関する声明&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.salesforce.com/jp/company/privacy-notification-a3/&quot; rel=&quot;nofollow&quot;&gt;個人情報利用についての通知&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.uluru.biz/policy&quot; rel=&quot;nofollow&quot;&gt;株式会社うるる&lt;/a&gt;&lt;/li&gt; &lt;li&gt;その他は順次更新、掲載予定&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;④協賛企業各社に共有する項目&lt;br&gt; 名前、所属企業・学校名、従業員規模、電話番号、メールアドレス、年代、所属企業・学校所在地、職種、役職、Qiitaアカウント等。&lt;/p&gt; &lt;p&gt;⑤協賛企業各社への共有方法&lt;br&gt; セキュリティを確保してデータの受渡しが可能なツール（ファイル共有サービス）を用い、期間を区切り共有します。&lt;/p&gt; &lt;p&gt;⑥本件イベントの個人情報関するお問い合わせは、以下にお願い致します。&lt;br&gt;&lt;/p&gt; &lt;p&gt;Qiita株式会社&lt;br&gt; Qiita Conference運営&lt;br&gt; support@qiita.com&lt;/p&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://increments.connpass.com/event/279734/'/>
+    <published>
+      2023-04-26T14:14:51+09:00
+    </published>
+  </entry>
+  <entry>
+    <id>
+      https://moneyforward.connpass.com/event/281065/
+    </id>
+    <title>
+      【Money Forward x Shippio】 BaySide Tech Nite
+    </title>
+    <summary>
+      International after party at RubyKaigi 2023
+    </summary>
+    <content type='html' xml:lang='ja'>
+      &lt;p&gt;※日本語 follows English&lt;/p&gt; &lt;h2&gt;Overview&lt;/h2&gt;
+      &lt;p&gt;More than half of the 50 sessions at RubyKaigi 2023 will be
+      presented in English. RubyKaigi attracts many participants not only
+      domestic but also many participants from overseas, and many people may
+      have felt “enjoyable” exchanging ideas with Rubyists from various
+      countries or thought “I want to study English again!“.&lt;/p&gt;
+      &lt;p&gt;This time, we Shippio Inc., which sponsors RubyKaigi 2023 and is
+      creating a global engineering organization and Money Forward Co., Ltd are
+      planing to hold a RubyKaigi After Party titled [Money Forward x Shippio
+      BaySide Tech Nite~International after party at RubyKaigi 2023~] with
+      English LT and socializing.&lt;/p&gt; &lt;p&gt;The BaySide Tech Nite aims
+      to boost the international engineering community in Japan.&lt;/p&gt;
+      &lt;p&gt;We plan to have LT sessions where participants can share their
+      thoughts and stories about RubyKaigi 2023, as well as discussions on
+      technical topics related to Ruby. Please note that even those who have not
+      participated in RubyKaigi2023 are welcome to attend this event. We are
+      looking forward to seeing Rubyists all over the world.&lt;/p&gt;
+      &lt;h2&gt;Date and Time&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Date: Friday, May
+      19, 2023, 19:00-21:00 (Registration 18:30-)&lt;/li&gt; &lt;li&gt;Place:
+      Shippio Inc. office (Hamamatsucho Building 15F, 1-1-1 Shibaura, Minato-ku,
+      Tokyo)&lt;/li&gt; &lt;li&gt;Admission: Free&lt;/li&gt; &lt;/ul&gt;
+      &lt;h2&gt;Call for English LT speakers&lt;/h2&gt; &lt;p&gt;Also,we are
+      currently rectuiting English LT speakers ! If you are interested in
+      challenging yourself with a LT in English, please answer the questionnaire
+      application page to apply ! If it’s related to Ruby, anything is fine but
+      please prepare the materials in English. You will have 5 to 7 mins
+      presentation.We will inform you of the results on May 9th.&lt;/p&gt;
+      &lt;h2&gt;Time Schedule&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt; &lt;th&gt;Content&lt;/th&gt;
+      &lt;th&gt;Speakers&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
+      &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;Opening&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:05~19:50&lt;/td&gt; &lt;td&gt;LT by Money Forward and Shippio
+      members&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
+      &lt;td&gt;19:50 Reception&lt;/td&gt; &lt;td&gt;Reception (Walk-ins LT
+      welcome!)&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
+      &lt;/table&gt; &lt;p&gt;(*We will announce the LT speakers at a later
+      date.&lt;/p&gt; &lt;h2&gt;Notes&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;The
+      content and schedule of the day are subject to change without
+      &lt;strong&gt;prior&lt;/strong&gt; notice.&lt;/li&gt; &lt;li&gt;The event
+      may be postponed or cancelled due to sudden illness &lt;strong&gt;of
+      involved parties&lt;/strong&gt;, natural disasters,
+      infection　&lt;strong&gt;situation&lt;/strong&gt;, or other
+      reasons.&lt;/li&gt; &lt;li&gt;This event is planned to be held offline.
+      There are no plans to conduct the event online.&lt;/li&gt; &lt;li&gt;The
+      appearance and content of this event may be made public at a later
+      date.&lt;/li&gt; &lt;li&gt;If you have any problems, please contact
+      “Inquiries about this event” below this page.&lt;/li&gt; &lt;li&gt;All
+      participants, including the organizers, are asked to agree to &lt;a
+      href=&quot;https://rubykaigi.org/2023/policies/&quot;
+      rel=&quot;nofollow&quot;&gt;the code of conduct for RubyKaigi
+      2023&lt;/a&gt;. We appreciate your understanding and
+      cooperation.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Handling of Personal
+      Information&lt;/h2&gt; &lt;p&gt;Our policy for handling personal
+      information is as follows. Please register and participate in the event
+      only if you agree to this policy.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Shippio
+      Corporation: &lt;a href=&quot;https://www.shippio.io/privacy-policy/&quot;
+      rel=&quot;nofollow&quot;&gt;https://www.shippio.io/privacy-policy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Money Forward, Inc.: &lt;a href=&quot;https://corp.moneyforward.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://corp.moneyforward.com/privacy/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://rubykaigi.org/2023/&quot; rel=&quot;nofollow&quot;&gt;RubyKaigi 2023&lt;/a&gt;では、50個のセッションのうち半数以上が英語での発表です。 国内だけでなく、海外からもたくさんの参加者が集まるRubyKaigi。各国のRubyistとの交流が「楽しい」と感じた方や、改めて「英語を勉強したい！話せるようになりたい」と思った方は多いのではないでしょうか。&lt;/p&gt; &lt;p&gt;今回はRubyKaigi 2023のスポンサーであり、グローバルなエンジニア組織づくりを行なっている株式会社Shippioと株式会社マネーフォワードの2社で、「【Money Forward x Shippio 】 BaySide Tech Nite~International after party at RubyKaigi 2023~」と題して、英語でのLTや懇親会をメインとしたRubyKaigi After Partyを実施したいと思います。&lt;/p&gt; &lt;p&gt;※BaySide Tech Niteは、日本でのインターナショナルなエンジニアリングコミュニティーを盛り上げることを目的にしています。&lt;/p&gt; &lt;p&gt;RubyKaigi 2023の感想やこぼれ話、各社のRubyを使った技術に関する話などをLTさせていただく予定です。また今回のイベントは、RubyKaigiに参加していない方も参加いただけます。Rubyistの皆さんのご参加お待ちしております。&lt;/p&gt; &lt;h2&gt;日時&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日程：2023年05月19日（金） 19:00〜21:00（受付18:30〜）&lt;/li&gt; &lt;li&gt;場所：株式会社Shippioオフィス（東京都港区芝浦１丁目1番1号 浜松町ビルディング 15階）&lt;/li&gt; &lt;li&gt;参加費：無料&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;English LT登壇者募集&lt;/h2&gt; &lt;p&gt;英語でのLTにチャレンジしてみたい方を募集します。Rubyに関する話であれば、なんでもOKです。登壇時間は5〜7分程度で、英語での資料作成と登壇準備をお願いします。希望者は申込時のアンケートに回答ください。結果については5/9にお知らせします。&lt;/p&gt; &lt;h2&gt;タイムスケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;コンテンツ&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05~19:50&lt;/td&gt; &lt;td&gt;マネーフォワード・ShippioメンバーによるLT&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:50&lt;/td&gt; &lt;td&gt;懇親会（飛び込みLT歓迎!）&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※登壇者が決まり次第、アップデートします&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当日の内容およびスケジュールは予告なく変更される場合があります。&lt;/li&gt; &lt;li&gt;関係者の急病や天災や感染状況などにより、開催を延期または中止する場合がございます。&lt;/li&gt; &lt;li&gt;今回のイベントはオフラインを想定しております。オンラインでの実施の予定はありません。&lt;/li&gt; &lt;li&gt;本イベントの様子・内容を、後日公開する場合があります。&lt;/li&gt; &lt;li&gt;何か困ったことがございましたら、本ページ下記の「本イベントに関する問い合わせ」までご連絡ください。&lt;/li&gt; &lt;li&gt;主催者を含む全ての参加者はRubyKaigi 2023に記載される&lt;a href=&quot;https://rubykaigi.org/2023/policies/&quot; rel=&quot;nofollow&quot;&gt;行動規範&lt;/a&gt;に同意の上ご参加ください。ご理解とご協力をお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;個人情報のお取り扱いについて&lt;/h2&gt; &lt;p&gt;個人情報を取得する場合のお取り扱い方針は以下の通りです。ご同意の上でお申し込み・ご参加ください。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;株式会社Shippio：&lt;a href=&quot;https://www.shippio.io/privacy-policy/&quot; rel=&quot;nofollow&quot;&gt;https://www.shippio.io/privacy-policy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社マネーフォワード：&lt;a href=&quot;https://corp.moneyforward.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://corp.moneyforward.com/privacy/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+    </content>
+    <link rel='alternate' type='text/html' href='https://moneyforward.connpass.com/event/281065/'/>
+    <published>
+      2023-04-26T11:03:37+09:00
+    </published>
+  </entry>
   <entry>
     <id>
       https://speee.connpass.com/event/281986/
@@ -130,75 +312,6 @@
   </entry>
   <entry>
     <id>
-      https://moneyforward.connpass.com/event/281065/
-    </id>
-    <title>
-      【Money Forward x Shippio】 BaySide Tech Nite
-    </title>
-    <summary>
-      International after party at RubyKaigi 2023
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;※日本語 follows English&lt;/p&gt; &lt;h2&gt;Overview&lt;/h2&gt;
-      &lt;p&gt;More than half of the 50 sessions at RubyKaigi 2023 will be
-      presented in English. RubyKaigi attracts many participants not only
-      domestic but also many participants from overseas, and many people may
-      have felt “enjoyable” exchanging ideas with Rubyists from various
-      countries or thought “I want to study English again!“.&lt;/p&gt;
-      &lt;p&gt;This time, we Shippio Inc., which sponsors RubyKaigi 2023 and is
-      creating a global engineering organization and Money Forward Co., Ltd are
-      planing to hold a RubyKaigi After Party titled [Money Forward x Shippio
-      BaySide Tech Nite~International after party at RubyKaigi 2023~] with
-      English LT and socializing.&lt;/p&gt; &lt;p&gt;The BaySide Tech Nite aims
-      to boost the international engineering community in Japan.&lt;/p&gt;
-      &lt;p&gt;We plan to have LT sessions where participants can share their
-      thoughts and stories about RubyKaigi 2023, as well as discussions on
-      technical topics related to Ruby. Please note that even those who have not
-      participated in RubyKaigi2023 are welcome to attend this event. We are
-      looking forward to seeing Rubyists all over the world.&lt;/p&gt;
-      &lt;h2&gt;Date and Time&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Date: Friday, May
-      19, 2023, 19:00-21:00 (Registration 18:30-)&lt;/li&gt; &lt;li&gt;Place:
-      Shippio Inc. office (Hamamatsucho Building 15F, 1-1-1 Shibaura, Minato-ku,
-      Tokyo)&lt;/li&gt; &lt;li&gt;Admission: Free&lt;/li&gt; &lt;/ul&gt;
-      &lt;h2&gt;Time Schedule&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt;
-      &lt;th&gt;Time&lt;/th&gt; &lt;th&gt;Content&lt;/th&gt;
-      &lt;th&gt;Speakers&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
-      &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;Opening&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:05~19:50&lt;/td&gt; &lt;td&gt;LT by Money Forward and Shippio
-      members&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;19:50 Reception&lt;/td&gt; &lt;td&gt;Reception (Walk-ins LT
-      welcome!)&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
-      &lt;/table&gt; &lt;p&gt;(*We will announce the LT speakers at a later
-      date.&lt;/p&gt; &lt;h2&gt;Notes&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;The
-      content and schedule of the day are subject to change without
-      &lt;strong&gt;prior&lt;/strong&gt; notice.&lt;/li&gt; &lt;li&gt;The event
-      may be postponed or cancelled due to sudden illness &lt;strong&gt;of
-      involved parties&lt;/strong&gt;, natural disasters, infection &lt;/li&gt;
-      &lt;/ul&gt; &lt;h2&gt;situation, or other reasons.&lt;/h2&gt; &lt;ul&gt;
-      &lt;li&gt;This event is planned to be held offline. There are no plans to
-      conduct the event online.&lt;/li&gt; &lt;li&gt;The appearance and content
-      of this event may be made public at a later date.&lt;/li&gt; &lt;li&gt;If
-      you have any problems, please contact “Inquiries about this event” below
-      this page.&lt;/li&gt; &lt;li&gt;All participants, including the
-      organizers, are asked to agree to &lt;a
-      href=&quot;https://rubykaigi.org/2023/policies/&quot;
-      rel=&quot;nofollow&quot;&gt;the code of conduct for RubyKaigi
-      2023&lt;/a&gt;. We appreciate your understanding and
-      cooperation.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Handling of Personal
-      Information&lt;/h2&gt; &lt;p&gt;Our policy for handling personal
-      information is as follows. Please register and participate in the event
-      only if you agree to this policy.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Shippio
-      Corporation: &lt;a href=&quot;https://www.shippio.io/privacy-policy/&quot;
-      rel=&quot;nofollow&quot;&gt;https://www.shippio.io/privacy-policy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Money Forward, Inc.: &lt;a href=&quot;https://corp.moneyforward.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://corp.moneyforward.com/privacy/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;概要&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://rubykaigi.org/2023/&quot; rel=&quot;nofollow&quot;&gt;RubyKaigi 2023&lt;/a&gt;では、50個のセッションのうち半数以上が英語での発表です。 国内だけでなく、海外からもたくさんの参加者が集まるRubyKaigi。各国のRubyistとの交流が「楽しい」と感じた方や、改めて「英語を勉強したい！話せるようになりたい」と思った方は多いのではないでしょうか。&lt;/p&gt; &lt;p&gt;今回はRubyKaigi 2023のスポンサーであり、グローバルなエンジニア組織づくりを行なっている株式会社Shippioと株式会社マネーフォワードの2社で、「【Money Forward x Shippio 】 BaySide Tech Nite~International after party at RubyKaigi 2023~」と題して、英語でのLTや懇親会をメインとしたRubyKaigi After Partyを実施したいと思います。&lt;/p&gt; &lt;p&gt;※BaySide Tech Niteは、日本でのインターナショナルなエンジニアリングコミュニティーを盛り上げることを目的にしています。&lt;/p&gt; &lt;p&gt;RubyKaigi 2023の感想やこぼれ話、各社のRubyを使った技術に関する話などをLTさせていただく予定です。また今回のイベントは、RubyKaigiに参加していない方も参加いただけます。Rubyistの皆さんのご参加お待ちしております。&lt;/p&gt; &lt;h2&gt;日時&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日程：2023年05月19日（金） 19:00〜21:00（受付18:30〜）&lt;/li&gt; &lt;li&gt;場所：株式会社Shippioオフィス（東京都港区芝浦１丁目1番1号 浜松町ビルディング 15階）&lt;/li&gt; &lt;li&gt;参加費：無料&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムスケジュール&lt;/h2&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;コンテンツ&lt;/th&gt; &lt;th&gt;登壇者&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;19:00&lt;/td&gt; &lt;td&gt;オープニング&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:05~19:50&lt;/td&gt; &lt;td&gt;マネーフォワード・ShippioメンバーによるLT&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;19:50&lt;/td&gt; &lt;td&gt;懇親会（飛び込みLT歓迎!）&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;※登壇者が決まり次第、アップデートします&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;当日の内容およびスケジュールは予告なく変更される場合があります。&lt;/li&gt; &lt;li&gt;関係者の急病や天災や感染状況などにより、開催を延期または中止する場合がございます。&lt;/li&gt; &lt;li&gt;今回のイベントはオフラインを想定しております。オンラインでの実施の予定はありません。&lt;/li&gt; &lt;li&gt;本イベントの様子・内容を、後日公開する場合があります。&lt;/li&gt; &lt;li&gt;何か困ったことがございましたら、本ページ下記の「本イベントに関する問い合わせ」までご連絡ください。&lt;/li&gt; &lt;li&gt;主催者を含む全ての参加者はRubyKaigi 2023に記載される&lt;a href=&quot;https://rubykaigi.org/2023/policies/&quot; rel=&quot;nofollow&quot;&gt;行動規範&lt;/a&gt;に同意の上ご参加ください。ご理解とご協力をお願いいたします。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;個人情報のお取り扱いについて&lt;/h2&gt; &lt;p&gt;個人情報を取得する場合のお取り扱い方針は以下の通りです。ご同意の上でお申し込み・ご参加ください。&lt;/p&gt; &lt;ul&gt; &lt;li&gt;株式会社Shippio：&lt;a href=&quot;https://www.shippio.io/privacy-policy/&quot; rel=&quot;nofollow&quot;&gt;https://www.shippio.io/privacy-policy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;株式会社マネーフォワード：&lt;a href=&quot;https://corp.moneyforward.com/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://corp.moneyforward.com/privacy/&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://moneyforward.connpass.com/event/281065/'/>
-    <published>
-      2023-04-25T18:52:58+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
       https://cookpad.connpass.com/event/279052/
     </id>
     <title>
@@ -216,226 +329,6 @@
     <link rel='alternate' type='text/html' href='https://cookpad.connpass.com/event/279052/'/>
     <published>
       2023-04-25T18:24:00+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://fusic.connpass.com/event/276617/
-    </id>
-    <title>
-      Fusic Tech Live Vol.13：Rubyistの集い Vol.2
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h1&gt;Fusic Tech Live Vol.13：Rubyistの集い Vol.2&lt;/h1&gt;
-      &lt;p&gt;FusicではPHPとRubyを使った開発が行われております。&lt;br&gt;
-      今回はFusicでRubyを使った開発を行っているRubyistに各自の状況や視点からお話してもらいます！&lt;br&gt;
-      Fusic自体に興味のある方も是非ご参加ください！ &lt;/p&gt; &lt;p&gt;※オンライン開催です。 &lt;/p&gt;
-      &lt;h1&gt;発表者&lt;/h1&gt; &lt;h2&gt;「大規模プロジェクトに学ぶ、新卒エンジニアの教訓」&lt;/h2&gt;
-      &lt;h3&gt;Naoto Yamaji (Fusic CO., LTD.)&lt;/h3&gt; &lt;p&gt;&lt;img
-      alt=&quot;yamajinaoto&quot;
-      src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndQIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--547ec5d92539bd705427f1748a85641d8bd6e841/yamaji_naoto.png&quot;&gt;&lt;/p&gt; &lt;h2&gt;「Railsのフラグメントキャッシュと僕」&lt;/h2&gt; &lt;h3&gt;Tomoya Yamaji (Fusic CO., LTD.)&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;Yamajitomoya&quot; src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnNQIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--36a5f11b7d068d2ed0d09fb8ec81c08f52dc28ba/yamaji.png&quot;&gt;&lt;/p&gt; &lt;h2&gt;「committee-railsとOpenAPI Generatorでスキーマ駆動なAPI開発をする」&lt;/h2&gt; &lt;h3&gt;Yuhei Okazaki (Fusic CO., LTD.)&lt;/h3&gt; &lt;p&gt;&lt;img alt=&quot;okazaki&quot; src=&quot;https://fusic.co.jp/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmdQIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1baae6cf82b0bdfd7cafb25ad3171d22200df5d2/okazaki.png&quot;&gt;&lt;/p&gt; &lt;h1&gt;タイムテーブル&lt;/h1&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;タイムテーブル&lt;/th&gt; &lt;th align=&quot;center&quot;&gt;発表者&lt;/th&gt; &lt;th align=&quot;right&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:30 〜 19:35&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;清家&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;諸注意等&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:35 〜 19:55&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;山路直&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;大規模プロジェクトに学ぶ、新卒エンジニアの教訓&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;19:55 〜 20:00&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;‐&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Q&amp;amp;A&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:00 〜 20:20&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;山路友&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Railsのフラグメントキャッシュと僕&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:20 〜 20:25&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;‐&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Q&amp;amp;A&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:25 〜 20:45&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;岡嵜&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;committee-railsとOpenAPI Generatorでスキーマ駆動なAPI開発をする&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:45 〜 20:50&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;‐&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;Q&amp;amp;A&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;20:50 〜 20:55&lt;/td&gt; &lt;td align=&quot;center&quot;&gt;佐藤&lt;/td&gt; &lt;td align=&quot;right&quot;&gt;クロージング&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;会場&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;YouTubeにて配信します。配信URLは参加登録後に当イベントページにてご確認ください。&lt;/li&gt; &lt;li&gt;ご質問は配信ツールでのコメント欄に記入、またはTwitterにて「#fusic_tech_live」をつけてツイートをお願いします。ぜひお気軽にコメントください。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;注意事項&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;本イベントの内容は、後日、株式会社Fusicのコーポレートサイト、Twitter等の媒体にて紹介する可能性があります。&lt;br&gt; その際、ご参加者名が写った画像（キャプチャなど）も紹介される可能性があります。予めご了承ください。 &lt;/li&gt; &lt;li&gt;当社におけるその他取り扱いは以下プライバシーポリシーに従います。ご同意の上、ご参加ください。 &lt;br&gt; &lt;a href=&quot;https://fusic.co.jp/privacy/&quot; rel=&quot;nofollow&quot;&gt;https://fusic.co.jp/privacy/&lt;/a&gt;&lt;/li&gt; &lt;li&gt;運営スタッフは、このイベントに関わるみなさまに気持ちよくご参加いただけるよう考えています。 &lt;br&gt; 参加者の皆様も、他の方が不愉快に思われるような発言にはご配慮いただきますようお願いいたします。 &lt;br&gt; またそのような行動を目にした方は、connpassの「イベントへのお問い合わせ」フォームからお知らせください。&lt;/li&gt; &lt;/ul&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://fusic.connpass.com/event/276617/'/>
-    <published>
-      2023-04-25T15:42:20+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://leanertechnologies.connpass.com/event/280191/
-    </id>
-    <title>
-      Leaner Drinkup at RubyKaigi 2023
-    </title>
-    <summary>
-      美味しい料理と日本酒で乾杯
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;p&gt;&lt;em&gt;日本語の説明文は英語の下にあります&lt;/em&gt;&lt;/p&gt;
-      &lt;h1&gt;Overview&lt;/h1&gt; &lt;p&gt;Leaner Technologies Inc. is a Ruby
-      sponsor of RubyKaigi 2023.&lt;br&gt; In addition, we will be hosting a
-      drink up after the second day of the event!&lt;/p&gt; &lt;p&gt;In addition
-      to delicious food from American Diner, there will be plenty of sake
-      selected by Sake Supervisor &lt;a
-      href=&quot;https://twitter.com/joker1007&quot;
-      rel=&quot;nofollow&quot;&gt;@joker1007&lt;/a&gt;!&lt;br&gt; Although
-      limited, this is a great opportunity for RubyKaigi attendees to meet and
-      mingle.&lt;/p&gt; &lt;h1&gt;Venue&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;RK
-      PARKS&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;2-6-1 Chuo, Matsumoto City,
-      Nagano, Japan. About 7 minutes walk from RubyKaigi venue&lt;/p&gt;
-      &lt;h1&gt;What to bring&lt;/h1&gt; &lt;p&gt;Please remember to bring your
-      RubyKaigi 2023 nametag!&lt;/p&gt; &lt;h1&gt;Registration Fee&lt;/h1&gt;
-      &lt;p&gt;Free!&lt;/p&gt; &lt;h1&gt;Time Schedule&lt;/h1&gt; &lt;table&gt;
-      &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Time&lt;/th&gt;
-      &lt;th&gt;Contents&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt;
-      &lt;tr&gt; &lt;td&gt;18:00&lt;/td&gt; &lt;td&gt;Reception Start&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;18:30&lt;/td&gt;
-      &lt;td&gt;Cheers!&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt;
-      &lt;td&gt;21:30&lt;/td&gt; &lt;td&gt;End time&lt;/td&gt; &lt;/tr&gt;
-      &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;Supervisor&apos;s Selection Sake
-      List&lt;/h1&gt; &lt;p&gt;Japanese only Please see the end of this
-      page&lt;/p&gt; &lt;h1&gt;Remarks.&lt;/h1&gt; &lt;p&gt;In case of clear
-      skies, the number of seats on the terrace is available and may be
-      increased just before the date of the event.&lt;/p&gt;
-      &lt;h1&gt;概要&lt;/h1&gt; &lt;p&gt;株式会社Leaner Technologies は RubyKaigi 2023
-      の Ruby スポンサーです。&lt;br&gt; さらに、2日目終了後にドリンクアップを開催します！&lt;/p&gt;
-      &lt;p&gt;アメリカンダイナーの美味しい食事に加えて、日本酒スーパーバイザーとして招聘した &lt;a
-      href=&quot;https://twitter.com/joker1007&quot;
-      rel=&quot;nofollow&quot;&gt;@joker1007&lt;/a&gt;
-      氏選定の日本酒をたっぷりご用意します！&lt;br&gt;
-      限られた人数ではありますが、RubyKaigi参加者の交流の場としてご利用ください。&lt;/p&gt;
-      &lt;h1&gt;会場&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;RK
-      PARKS&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;長野県松本市中央2-6−1&lt;br&gt;
-      RubyKaigi会場から徒歩約7分&lt;/p&gt; &lt;h1&gt;持ち物&lt;/h1&gt; &lt;p&gt;RubyKaigi
-      2023 の名札を忘れずにお持ちください！&lt;/p&gt; &lt;h1&gt;参加費&lt;/h1&gt;
-      &lt;p&gt;無料です！&lt;/p&gt; &lt;h1&gt;タイムスケジュール&lt;/h1&gt; &lt;table&gt;
-      &lt;thead&gt; &lt;tr&gt; &lt;th&gt;時間&lt;/th&gt; &lt;th&gt;内容&lt;/th&gt;
-      &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt;
-      &lt;td&gt;18:00&lt;/td&gt; &lt;td&gt;受付開始&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td&gt;18:30&lt;/td&gt; &lt;td&gt;乾杯！&lt;/td&gt; &lt;/tr&gt;
-      &lt;tr&gt; &lt;td&gt;21:30&lt;/td&gt; &lt;td&gt;終了予定&lt;/td&gt;
-      &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1&gt;スーパーバイザー選定
-      日本酒リスト&lt;/h1&gt; &lt;h2&gt;長野のお酒&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a
-      href=&quot;http://osawa-sake.jp/category/product/limitation/&quot;
-      rel=&quot;nofollow&quot;&gt;勢起 生もと純米大吟醸&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.daishinsyu.com/products&quot;
-      rel=&quot;nofollow&quot;&gt;大信州 純米大吟醸 金紋錦　仕込48号&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;大信州 純米吟醸 ひとごこち&lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://www.nanawarai.co.jp/lineup/&quot;
-      rel=&quot;nofollow&quot;&gt;七笑 純米吟醸&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;https://www.mizuo.co.jp/products/&quot;
-      rel=&quot;nofollow&quot;&gt;水尾 純米吟醸&lt;/a&gt;&lt;/li&gt; &lt;li&gt;水尾
-      特別純米&lt;/li&gt; &lt;li&gt;&lt;a
-      href=&quot;http://www.shusen.jp/goods.html#08&quot;
-      rel=&quot;nofollow&quot;&gt;川中島幻舞 純米吟醸無濾過生原酒&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a
-      href=&quot;https://www.mikotsuru.com/product/sankeinishiki_raw/&quot;
-      rel=&quot;nofollow&quot;&gt;御湖鶴 純米吟醸山恵錦無濾過生&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a
-      href=&quot;https://www.jizake.co.jp/fs/daisekkei/limited-sake/00011069&quot; rel=&quot;nofollow&quot;&gt;大雪渓 純米吟醸雪中育ち&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://sawanohana.com/products/&quot; rel=&quot;nofollow&quot;&gt;澤の花 純米大吟醸さら雪&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;県外のお酒&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://hiokizakura.jp/sake/fukuneko&quot; rel=&quot;nofollow&quot;&gt;日置桜　福ねこ≪FUKUNEKO≫ラベル&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://umetsu-sake.jp/nihonshu.html&quot; rel=&quot;nofollow&quot;&gt;梅津酒造　純米酒「冨玲」生酛仕込&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://jujiasahi.co.jp/item/%e7%94%9f%e3%82%82%e3%81%a8%e7%b4%94%e7%b1%b3%e9%85%92%e5%8d%81%e6%97%ad%e6%97%a5-%e4%ba%94%e7%99%be%e4%b8%87%e7%9f%b370/&quot; rel=&quot;nofollow&quot;&gt;旭日酒造　生もと純米酒十旭日 五百万石70&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://jujiasahi.co.jp/item/%e3%81%8d%e3%82%82%e3%81%a8%e7%b4%94%e7%b1%b3%e5%90%9f%e9%86%b8-%e5%8d%81%e6%97%ad%e6%97%a5-%e6%94%b9%e8%89%af%e9%9b%84%e7%94%ba60%ef%bc%88%e5%89%b5%e6%a5%ad150%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5/&quot; rel=&quot;nofollow&quot;&gt;旭日酒造　きもと純米吟醸 十旭日 改良雄町60（創業150周年記念）&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://jujiasahi.co.jp/item/%e5%8d%81%e6%97%ad%e6%97%a5-%e7%94%9f%e3%82%82%e3%81%a8%e3%80%8c%e5%be%a1%e5%b9%a1%e3%81%ae%e5%85%83%e6%b0%97%e7%b1%b3%e3%80%8d/&quot; rel=&quot;nofollow&quot;&gt;旭日酒造　十旭日 生もと「御幡の元気米」&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://mioya-sake.com/yuho.html&quot; rel=&quot;nofollow&quot;&gt;遊穂 ゆうほのあか 山おろし純米吟醸 火入原酒&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://mioya-sake.com/yuho.html&quot; rel=&quot;nofollow&quot;&gt;遊穂 ゆうほのあお 純米酒&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.ugonotsuki.com/&quot; rel=&quot;nofollow&quot;&gt;雨後の月 Black Moon 純米大吟醸&lt;/a&gt;&lt;/li&gt; &lt;li&gt;長珍 播州夢錦7-60 純米生原酒&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.kanenoi.co.jp/junmaiginjo&quot; rel=&quot;nofollow&quot;&gt;綿屋 純米吟醸 阿波山田錦55&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://014.co.jp/product/nito/&quot; rel=&quot;nofollow&quot;&gt;二兎 純米吟醸 出羽燦々 五十五&lt;/a&gt;&lt;/li&gt; &lt;li&gt;文佳人 純米吟醸 土佐麗&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;備考&lt;/h1&gt; &lt;p&gt;晴天の場合はテラス席を利用できるため、開催日の直前に増枠する可能性があります。&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://leanertechnologies.connpass.com/event/280191/'/>
-    <published>
-      2023-04-25T14:14:46+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://beginner-front.connpass.com/event/281975/
-    </id>
-    <title>
-      【音声のみ】第185プログラミング初学者歓迎もくもく会＋交流会
-    </title>
-    <summary>
-      「もくもく会（勉強会）自体はじめて…」という初学者歓迎の、敷居の低いゆるIT勉強会！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h3&gt;「1人だと作業に集中出来ない」「気軽に質問・相談したい」という初学者向けの、オンラインもくもく会（勉強＋交流会）です&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;ビデオはオフ、音声のみ・無言OKです！（途中参加・退出なども自由です）&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;「もくもく会自体はじめて…」&lt;br&gt;という方でも気軽に参加できる、ゆるい雰囲気のもくもく会です！&lt;/p&gt; &lt;p&gt;主催者自身、日々プログラミング勉強中です。（現在は作りたいwebサービスがあるので、個人開発を学んでおります。）&lt;br&gt;1人だと怠けてしまう時があるので、複数人でゆるい雰囲気で作業を進めることができたら良いなと思い、開催しております。&lt;/p&gt; &lt;h1&gt;こんな方におすすめ&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;IT/web/プログラミング初学者&lt;/li&gt; &lt;li&gt;プログラミング学習仲間がほしい&lt;/li&gt; &lt;li&gt;モチベーション維持が難しいと感じる人&lt;/li&gt; &lt;li&gt;プログラミングについて質問・相談したい&lt;/li&gt; &lt;li&gt;作りたいサービスがあり、それに関して話したい&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;プログラミング初学者に限らず、ゆるく作業や交流したい方は気軽にご参加ください！&lt;/p&gt; &lt;h1&gt;開催概要&lt;/h1&gt; &lt;p&gt;▶️場所：Gather(オンライン開催）&lt;br&gt;ビデオはオフ・音声のみ・無言OKです！&lt;/p&gt; &lt;p&gt;&lt;strong&gt;申し込みが完了すると「参加者への情報」という場所に、GatherのURLが表示されます。&lt;/strong&gt;&lt;br&gt;（Gatherは、スマートフォン・PCどちらからでも、登録なしで参加することが可能です。）&lt;/p&gt; &lt;p&gt;また、Gatherは、ポケモンとZoomを掛け合わせたようなサービスだと言われています。&lt;br&gt;直感的な操作で、Zoomより気軽なコミュニケーションができます。&lt;/p&gt; &lt;p&gt;（もくもく会の始めに、Gatherの操作について不明な点があればご説明いたします！）&lt;/p&gt; &lt;h1&gt;当日のスケジュールの流れ&lt;/h1&gt; &lt;p&gt;▶️【19:00 - 20:50】&lt;br&gt;準備ができた人から各自作業開始！&lt;/p&gt; &lt;p&gt;はじめに、主催者から全体に簡単な説明・挨拶を致します。（Gatherの使い方やもくもく会について）&lt;/p&gt; &lt;p&gt;→その後、各自の作業を進めていきます（作業中も音声、チャットで気軽にやり取りができます）&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;▶️【20:50 - 】&lt;br&gt;軽く報告・雑談（任意）&lt;/p&gt; &lt;p&gt;本日やったことの簡単な報告・質問・雑談タイムです。&lt;/p&gt; &lt;p&gt;（例：「今日はProgateでJavaScriptを進めました！」「この本何ページ読みました！」など）&lt;/p&gt; &lt;p&gt;→その後、各自自由なタイミングで退出・引き続き作業して頂いてOKです。&lt;br&gt;（話が盛り上がって１時間近く話してしまう事がたまにあるので、自由解散という形にしています）&lt;/p&gt; &lt;ul&gt; &lt;li&gt;途中参加・退出なども全く問題ないです&lt;/li&gt; &lt;li&gt;終わりに行う軽い報告・雑談は、任意参加です。作業のキリが悪かったり、離席していたりなどでも問題ありません。&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;備考&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;このもくもく会のDiscordもあるので、connpass上の参加者より、実際の参加人数が多い事があります。&lt;/li&gt; &lt;li&gt;当日キャンセルも全く問題ありません。都合の良いお時間に参加ください。&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;複数人で集中したり、作業の合間に気軽に質問・雑談できるような雰囲気を目指しています。&lt;br&gt;&lt;strong&gt;「これからプログラミングを始める！」という超初心者の方でも気軽にご参加ください！&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;参考キーワード&lt;/h1&gt; &lt;p&gt;IT, web制作, webアプリ開発, プログラミング, 初心者歓迎, HTML, CSS, JavaScript, Python, Ruby, php, React.js, Vue.js, 個人開発, プロダクト開発, コミュニティ運営者, もくもく会運営者&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://beginner-front.connpass.com/event/281975/'/>
-    <published>
-      2023-04-24T23:01:04+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://connpass.com/event/280575/
-    </id>
-    <title>
-      【LT会&amp;勉強会】エンジニアの輪 at 福岡（第３回）
-    </title>
-    <summary>
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;【エンジニアの輪】とは&lt;/h2&gt;
-      &lt;p&gt;このイベントではLTにて勉強や刺激、知識の共有・気づきになることも目的としております。
-      また、現役エンジニアや今後エンジニアになりたい人たちが交流できることを重視しております。&lt;br&gt;
-      職場外の方と話をして、新しい知見を得てください。&lt;/p&gt; &lt;h2&gt;概要&lt;/h2&gt;
-      &lt;p&gt;LTで新しい気づきを得たり、雑談を通して横のつながりを築くことを目的とした雑談勉強会&lt;/p&gt;
-      &lt;h2&gt;対象者&lt;/h2&gt; &lt;p&gt;・現役エンジニア、デザイナー等のIT業界で活躍されている方&lt;br&gt;
-      ・異業種からエンジニア、デザイナーを目指して学習中の方 &lt;/p&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;center&quot;&gt;スケジュール&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;内容&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;12:45 ~
-      13:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;受付&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:00 ~
-      13:15&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;自己紹介&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:15 ~
-      13:50&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トークタイム①&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;13:50 ~
-      14:30&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT会①&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;14:30 ~
-      14:40&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;14:40 ~
-      15:20&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トークタイム②&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;15:20 ~
-      16:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;LT会②&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;16:00 ~
-      16:10&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;休憩&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;16:10 ~
-      16:45&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;トークタイム③&lt;/td&gt;
-      &lt;/tr&gt; &lt;tr&gt; &lt;td align=&quot;center&quot;&gt;16:45 ~
-      17:00&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;片付け&lt;/td&gt;
-      &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h2&gt;LT 登壇者&lt;/h2&gt;
-      &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th
-      align=&quot;center&quot;&gt;登壇者名&lt;/th&gt; &lt;th
-      align=&quot;left&quot;&gt;テーマ&lt;/th&gt; &lt;th
-      align=&quot;center&quot;&gt;時間&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;
-      &lt;tbody&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;higaki&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;個人開発でこんなサービス作ったけどいかがですか&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;がちもと&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td
-      align=&quot;center&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;left&quot;&gt;未定&lt;/td&gt; &lt;td
-      align=&quot;center&quot;&gt;7 min&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;
-      &lt;/table&gt; &lt;h2&gt;運営者&lt;/h2&gt; &lt;h3&gt;ひがき&lt;/h3&gt;
-      &lt;p&gt;&lt;img
-      src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/528239/fc5882a4-e22b-2d74-d8eb-47e7f22a9b97.jpeg&quot; width=&quot;20%&quot;&gt;&lt;br&gt; Webエンジニア&lt;br&gt; &lt;br&gt; 神戸で電機メーカー→福岡でWebエンジニア&lt;br&gt; 　• Twitter : &lt;a href=&quot;https://twitter.com/higaki_program&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/higaki_program&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;長岡ゆーき&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2682570/4427271d-4519-6ed3-f5c2-fdb3916e039d.png&quot; width=&quot;20%&quot;&gt;&lt;br&gt; エンジニア採用プラットフォーム『NEWTRAL』代表 &lt;br&gt;&lt;br&gt; 大阪の受託開発企業にてRuby, Railsを中心に開発業務に従事&lt;br&gt; その後、独立してフリーランスとして活動を経て起業&lt;br&gt; ITエンジニアの採用を支援する自社サービスを開発中&lt;br&gt; 　• Twitter：&lt;a href=&quot;https://twitter.com/freepc_yuki&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/freepc_yuki&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;坂元ゆーた&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/528239/9f7316b7-28bb-a119-66d4-b4c6a97aa83d.jpeg&quot; width=&quot;20%&quot;&gt;&lt;br&gt; バックエンドエンジニア&lt;br&gt; &lt;br&gt; 珈琲好きのゆるーく生きてるエンジニア&lt;br&gt; 直近2年はRailsメインでお仕事してます&lt;br&gt; 　• Twitter：&lt;a href=&quot;https://twitter.com/sorigeeeen&quot; rel=&quot;nofollow&quot;&gt;https://twitter.com/sorigeeeen&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;注意事項&lt;/h2&gt; &lt;p&gt;■ イベント内外で発生した事故、盗難等は主催者・会場・参加者は一切責任を負いません。&lt;br&gt; ■ 天候/災害などの理由でイベント関係者の安全を考慮し、イベントの内容を変更/中止する場合がございます。&lt;br&gt; ■ イベント参加にはconnpassでの申し込みが必要です。お申し込みがない場合は参加できませんのでご注意ください。&lt;br&gt; ■ トラブルによる遅刻の場合は主催者までご一報ください。&lt;br&gt; ■ 当日キャンセルや直前でのキャンセルの場合は主催者までご一報ください。&lt;br&gt; ■ 参加費は当日会場でお預かりいたします。 &lt;/p&gt; &lt;h2&gt;禁止事項に関してご理解とご協力をお願いします！&lt;/h2&gt; &lt;p&gt;なるべく参加した皆さんが「参加してよかった！」と思っていただけるように、コミュニケーションを取りやすい環境を作りたいと考えております。そのため、下記にあてはまる方の参加は、主旨に反する恐れがあるため、お断りさせていただいております。 イベント中に発覚した場合は途中でも退場していただく可能性がありますのでご了承ください。（その場合の返金は一切いたしません。）&lt;/p&gt; &lt;p&gt;■ ネットワークビジネス/マルチビジネスなどへの勧誘・宣伝に関する行為&lt;br&gt; ■ 政治・宗教・思想団体への勧誘行為&lt;br&gt; ■ その他物品や情報の販売に類する行為&lt;br&gt; ■ 個人情報の詮索・収集を目的とする行為&lt;br&gt; ■ 迷惑行為・ハラスメント・ナンパなど、他の参加者を不快にさせる行為&lt;br&gt; ■ 無断キャンセル/特別な事情のない当日キャンセル&lt;br&gt; ■ 反社会勢力に関わる方&lt;br&gt; ■ その他、主催者が参加にふさわしくないと判断した方&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://connpass.com/event/280575/'/>
-    <published>
-      2023-04-24T22:11:41+09:00
-    </published>
-  </entry>
-  <entry>
-    <id>
-      https://tdc.connpass.com/event/281294/
-    </id>
-    <title>
-      地方エンジニアの先駆者に聞く！AI時代のエンジニアキャリア戦略
-    </title>
-    <summary>
-      TDCの新イベントスタート。LTもあるよ！
-    </summary>
-    <content type='html' xml:lang='ja'>
-      &lt;h2&gt;東北のすごいエンジニアの話が聞きたい！&lt;/h2&gt;
-      &lt;p&gt;東北のエンジニアってどんな人がいるんだろう？&lt;/p&gt;
-      &lt;p&gt;東北で仕事ってやっていけるの？&lt;/p&gt;
-      &lt;p&gt;そんなわけで、東北のすごいエンジニアの話を聞くイベントをすることになりました。&lt;/p&gt;
-      &lt;p&gt;今回のスピーカーは2名です。&lt;/p&gt; &lt;p&gt;1人目は、福島から藤岡岳之さん。
-      藤岡さんはITで起業し、Rubyのコミッターとしても活躍していましたが、現在は不動産を始め複数の会社を経営するように。
-      なぜ不動産？どのように変化していったのか？そのあたりのお話をお聞きしたいと思います。&lt;/p&gt;
-      &lt;p&gt;2人目は、TDC運営委員の小泉勝志郎さん。
-      塩竃にお住まいで、渚の妖精ぎばさちゃんや、シニアプログラミングネットワークの立ち上げで有名です。最近はAI画像錬成でデジタルクリエイターとしても大活躍！なんと先日はAIアートグランプリで準グランプリを受賞されました。チェンジしまくりの小泉さんが語る技術者の生き残り戦略とは？&lt;/p&gt; &lt;p&gt;お二人のトークの後は、希望者によるLTも。LTのテーマはいつものようにITに特に限定しておりませんので好きなテーマで喋ってください。 短い時間にもりだくさんのイベントとなっております。 みなさんのお申込みをお待ちしております！&lt;/p&gt; &lt;p&gt;参加資格は特にありません。今回のテーマに惹かれた方、東北の技術者コミュニティを見てみたい方、LTしてみたい方などどなたでもOKです。&lt;/p&gt; &lt;h2&gt;講師紹介&lt;/h2&gt; &lt;h3&gt;藤岡岳之さん&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://www.rabbix.jp/&quot; rel=&quot;nofollow&quot;&gt;株式会社Rabbix&lt;/a&gt; 代表取締役社長。&lt;br&gt;&lt;/p&gt; &lt;p&gt;秋田県北秋田市出身、福島県福島市在住。 大学進学を機に福島へ。&lt;br&gt; 大学生の時にLinuxに出会って没頭し、福島大学発のベンチャーとして起業し、今年で22年目となる。&lt;br&gt; 高速なRuby on Railsのウェブサービス提供を得意とする。プログラマーとしてはRubyのコミッターであり、東北や全国のITコミュニティにも参加する。&lt;br&gt; 東日本大震災後、実家に半年住んだのち、仙台に2年半住む。&lt;br&gt; その後、福島に戻る。&lt;/p&gt; &lt;p&gt;経営者としてはIT企業の他、不動賃貸業、宅地建物取引業、古物商、飲食店経営を手掛けている。&lt;/p&gt; &lt;p&gt;ラビックスの主な提供サービス：&lt;/p&gt; &lt;ul&gt; &lt;li&gt;あんしん連絡網 You-OK（連絡網サービス）&lt;/li&gt; &lt;li&gt;e安否（安否確認システム）&lt;/li&gt; &lt;li&gt;学術集会JP(学術集会支援サービス)&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;小泉勝志郎さん&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;https://www.tesseract.site/&quot; rel=&quot;nofollow&quot;&gt;株式会社テセラクト&lt;/a&gt;代表取締役社長&lt;br&gt; &lt;a href=&quot;https://senior-programming.net/&quot; rel=&quot;nofollow&quot;&gt;シニアプログラミングネットワーク&lt;/a&gt;代表&lt;br&gt; Code for Shiogama代表&lt;br&gt;&lt;/p&gt; &lt;p&gt;コミュニティ活動で東北でも有数のイベント主催数を誇る。東日本大震災における復興活動も多く、うらと海の子再生プロジ ェクトは国内最初期クラウドファンディング成功事例となった。「渚の妖精ぎばさちゃん」を生み出し、人気上昇中。&lt;/p&gt; &lt;p&gt;WWDC2017で大きく話題となった史上最高齢アプリ開発者の仕掛け人でもある。&lt;/p&gt; &lt;p&gt;Code for Shiogamaとして宮城県コロナ対策サイトを開発し、当初は非公式な運用だったが現在は宮城県公式となっている。&lt;/p&gt; &lt;p&gt;大学や企業での講師等のITの教育をはじめ、アプリ制作、そしてITを介して多業種連携、そしてグルメ、音楽・映画など得意分野は幅広い。&lt;/p&gt; &lt;p&gt;最近は生成系AI分野でも活躍し、AIアートグランプリでは準グランプリを獲得。&lt;/p&gt; &lt;h2&gt;開催概要&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;日時：4/28（金）19:00- &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;タイムテーブル&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;19:00- 藤岡さんのお話&lt;/li&gt; &lt;li&gt;19:30- 小泉さんのお話&lt;/li&gt; &lt;li&gt;20:00- 希望者によるLT&lt;/li&gt; &lt;li&gt;20:30- 移動して懇親会&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;懇親会について&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;場所：いろり酒場 たら福 広瀬通店&lt;/li&gt; &lt;li&gt;〒980-0021 宮城県仙台市青葉区中央２丁目１０−１ 第3USビル 1F&lt;/li&gt; &lt;li&gt;参加費：参加者で割り勘になります&lt;/li&gt; &lt;li&gt;20:45から予約してますので終わったら速やかに移動しましょう。&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;東北のIT関係者集まれ！&lt;/h2&gt; &lt;p&gt;東北デベロッパーズコミュニティは、2023年で設立15年を迎える老舗ITコミュニティです。&lt;/p&gt; &lt;p&gt;LT大会や飲み会などイベントをいろいろ企画しています。&lt;/p&gt; &lt;p&gt;「こんなことがやってみたい！」などの持ち込み企画もお待ちしております。&lt;/p&gt; &lt;p&gt;&lt;strong&gt;現在、イベント情報などは&lt;a href=&quot;https://www.facebook.com/tohoku.developers&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt;や&lt;a href=&quot;https://twitter.com/tohokudeveloper&quot; rel=&quot;nofollow&quot;&gt;twitter&lt;/a&gt;で発信しておりますのでチェックしてみてください!&lt;/strong&gt;&lt;/p&gt;
-    </content>
-    <link rel='alternate' type='text/html' href='https://tdc.connpass.com/event/281294/'/>
-    <published>
-      2023-04-24T20:09:08+09:00
     </published>
   </entry>
 </feed>
